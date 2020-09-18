@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <theme>
 	<formatVersion>7</formatVersion>
 	
@@ -7,15 +7,12 @@
 		<langue>en</langue>
 		
     <tilesViewName>Tiles</tilesViewName>
-    <tilesVideoViewName>Tiles + Video</tilesVideoViewName>
-    <tilesVideoMarqueeViewName>Tiles + Video + Logos</tilesVideoMarqueeViewName>
-    <basicGridName>Grid</basicGridName>
-    <basicGridDetailsName>Grid + Details</basicGridDetailsName>
-    <basicGridVideoName>Grid + Video</basicGridVideoName>
+    <tilesVideoViewName>Tiles with Video</tilesVideoViewName>
+    <tilesVideoMarqueeViewName>Tiles with Video and Logos</tilesVideoMarqueeViewName>
+	<basiclist>Simple List</basiclist>
+    <basicGridDetailsName>Grid / Detailed</basicGridDetailsName>
     <carouselViewName>Carousel</carouselViewName>
-    <carouselDefaultViewName>Simple Carousel</carouselDefaultViewName>
-    <carouselDetailsViewName>Carousel Detailed</carouselDetailsViewName>
-    <carouselposterViewName>Carousel Poster</carouselposterViewName>	
+    <carouselposterViewName>Carousel / Detailed</carouselposterViewName>	
     <fanartViewName>Fanart (Default)</fanartViewName>
 	<fanartvlViewName>Fanart (Full Screen Video)</fanartvlViewName>
 	<yes>Yes</yes>
@@ -24,19 +21,32 @@
     <sysmusic>On</sysmusic>
     <nomusic>Random</nomusic>
     <silence>Without Background Music</silence>	
+    <defaultlogos>Default Logos</defaultlogos>
+    <altlogos>Alternative Logos</altlogos>
 	<default>Default</default>
-	<defaultbg>Default Background Images</defaultbg>
-	<darkbg>Dark Background Images</darkbg>
+	<defaultbg>SOLO (Light)</defaultbg>
+	<darkbg>SOLO (Dark)</darkbg>
+    <bellabg>Bella</bellabg>
+	<systembg>Console</systembg>
 	<arcade>Arcade</arcade>
+	<snes>Super Nintendo</snes>
+	<snesalt>Super Nintendo (Alt)</snesalt>
+	<psx>Playstation</psx>
+	<xbox>X-Box</xbox>
+	<me1>X-Box Mod</me1>
+	<me2>Super Nintendo Mod</me2>
 	<horizontal>Horizontal Menu</horizontal>
 	<verticalc>Vertical Carousel</verticalc>
 	<verticalm>Vertical Menu</verticalm>	
+    <reversec>Reverse Carousel</reversec>
 	<icondef>Standard icons</icondef>
-    <subset.systemview>Systems Views</subset.systemview>
+    <subset.systemview>Homepage Layout</subset.systemview>
     <subset.colorset>Background Images</subset.colorset>
     <subset.iconset>Menu Icons</subset.iconset>
     <subset.shader>Theme Shaders</subset.shader>
 	<subset.music>System Music</subset.music>
+    <subset.logoset>Library Pages System Logos</subset.logoset>
+	<subset.homesystem>Homepage System Logos</subset.homesystem>
 	</variables>
 	
 </theme>

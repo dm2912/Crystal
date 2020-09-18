@@ -1,25 +1,19 @@
-Apresento mais um tema do ARCADE ALEKFULL para o BATOCERA (PLUS), RETROBAT e EMEUELEC: SOLO 🕹️🎮
+Modded from Alekfull-SOLO
 
-ALEKFULL SOLO foi inspirado nas artes simétricas dos novos filmes da franquia Star Wars.
-Com muitas cores, simples e direto - SOLO vem com um novo conceito para os temas ALEKFULL 🤗
++ Added selection for various button themes
++ Fixed issue where button themes dont apply to all views
++ Added reverse carousel layout
++ Main homepage increased help fonts and some tidying
++ Added two more background themes from @/AlecFull/Bello-Cobalto
++ Started working on Alt Logo option
++ Tidied up System > Carousel with more consistent rating and help bar
 
-![alt text](https://i.imgur.com/a0oJGXi.jpg)
+To do
 
-
-OPÇÕES DE VISUALIZAÇÃO DE SISTEMAS E JOGOS
---------------------------------------------------------------------
-SOLO vem com 12 opções de visualização de jogos nas versões BATOCERA e EMUELEC.
-Além de várias opções de iconsets, 3 vistas diferentes para seleção de sistemas e muito mais.
-![Gamelist View](https://i.imgur.com/zDVCwic.png)
-
-ARTES EXCLUSIVAS E SUPORTE PARA MAIS DE 185 SISTEMAS
---------------------------------------------------------------------
-Todas as artes foram feitas do zero - respeitando os jogos icônicos da plataforma representada de forma única.
-Suporte para todos os sistemas do BATOCERA (PLUS), RETROBAT E EMUELEC.
-
-![Gamelist View](https://i.imgur.com/gh4XjFp.jpg)
-
-![Gamelist View](https://i.imgur.com/por02tj.jpg)
++ Making help and rating consistent between views in library
++ Add system logo's to all library pages
++ Add options for switching between solo standard logos and alt logos
++ Sort out alignment in various views of text/info
 
 
 --------------------------------------------------------------

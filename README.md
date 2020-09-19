@@ -1,10 +1,13 @@
 Modded from Alekfull-SOLO
 
+17/9/20
 + Added options in settings for various button themes
 + Fixed issue where button themes dont apply to all views
 + Main homepage increased help fonts and some tidying
 + Additional reverse carousel view (left sided carousel)
 + Added two more background themes from @/AlecFull/Bello-Cobalto
+
+18/9/20
 + Started working on Alt Logo options (Settings done but does nothing at the moment)
 + Basic layout simplified, new background, and layout
 + Carousel layouts reduced to two and re-done, one simple, one full details

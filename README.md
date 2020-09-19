@@ -1,19 +1,23 @@
 Modded from Alekfull-SOLO
 
-+ Added selection for various button themes
++ Added options in settings for various button themes
 + Fixed issue where button themes dont apply to all views
-+ Added reverse carousel layout
 + Main homepage increased help fonts and some tidying
++ Additional reverse carousel view (left sided carousel)
 + Added two more background themes from @/AlecFull/Bello-Cobalto
-+ Started working on Alt Logo option
-+ Tidied up System > Carousel with more consistent rating and help bar
++ Started working on Alt Logo options (Settings done but does nothing at the moment)
++ Basic layout simplified, new background, and layout
++ Carousel layouts reduced to two and re-done, one simple, one full details
++ Grid layouts reduced to two and re-done, one simple, one full details 
 
 To do
 
 + Making help and rating consistent between views in library
 + Add system logo's to all library pages
-+ Add options for switching between solo standard logos and alt logos
++ Setup the ability to switch between logo options
 + Sort out alignment in various views of text/info
++ Box/Thumb view
++ Fanart view
 
 
 --------------------------------------------------------------

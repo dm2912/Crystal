@@ -1,5 +1,7 @@
 Modded from Alekfull-SOLO
 
+**This theme is intended for EMUELEC and only contains graphics for systems supported by EmuElec**
+
 17/9/20
 + Added options in settings for various button themes
 + Fixed issue where button themes dont apply to all views
@@ -12,6 +14,10 @@ Modded from Alekfull-SOLO
 + Basic layout simplified, new background, and layout
 + Carousel layouts reduced to two and re-done, one simple, one full details
 + Grid layouts reduced to two and re-done, one simple, one full details 
+
+19/9/20
++ Slim down all artwork to EmuElec only
++ Alt logo's complete (all white bordered)
 
 To do
 

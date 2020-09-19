@@ -6,37 +6,47 @@
 		
 	<langue>fr</langue>
 		
-    <tilesViewName>Vignettes</tilesViewName>
-    <tilesVideoViewName>Miniatures + Video</tilesVideoViewName>
-    <tilesVideoMarqueeViewName>Miniatures + Video + Logos</tilesVideoMarqueeViewName>
-    <basicGridName>Boites</basicGridName>
-    <basicGridDetailsName>Boites + Details</basicGridDetailsName>
-    <basicGridVideoName>Boites + Video</basicGridVideoName>
-    <carouselViewName>Carrousel</carouselViewName>
-    <carouselDefaultViewName>Carrousel Simple</carouselDefaultViewName>
-    <carouselDetailsViewName>Carrousel Detaille</carouselDetailsViewName>
-    <carouselposterViewName>Affiche de Carrousel</carouselposterViewName>	
-    <fanartViewName>Fanart (Standard)</fanartViewName>
-	<fanartvlViewName>Fanart (Video Plein Ecran)</fanartvlViewName>
-	<yes>Oui</yes>
-	<no>Non</no>
-    <none>Aucun</none>
-    <sysmusic>Sur</sysmusic>
-    <nomusic>Aleatoire</nomusic>
-    <silence>Sans Musique de Fond</silence>	
-	<default>Standard</default>
-	<defaultbg>Images darriere-plan Standard</defaultbg>
-	<darkbg>Images de fond sombre</darkbg>
-	<arcade>Arcade</arcade>
-	<horizontal>Menu Horizontal</horizontal>
-	<verticalc>Carrousel Vertical</verticalc>
-	<verticalm>Menu Vertical</verticalm>	
-	<icondef>Icones Standard</icondef>
-    <subset.systemview>Vues systemes</subset.systemview>
-    <subset.colorset>Images darriere-plan</subset.colorset>
-    <subset.iconset>Icones de Menu</subset.iconset>
-    <subset.shader>Shaders de Theme</subset.shader>
-	<subset.music>Musique Systeme</subset.music>
+   <tilesViewName>Tuiles</tilesViewName>
+   <tilesVideoViewName>Tuiles avec vidéo</tilesVideoViewName>
+   <tilesVideoMarqueeViewName>Tuiles avec vidéo et logos</tilesVideoMarqueeViewName>
+   <basiclist>Liste simple</basiclist>
+   <basicGridDetailsName>Grille / détaillée</basicGridDetailsName>
+   <carouselViewName>Carrousel</carouselViewName>
+   <carouselposterViewName>Carrousel / détaillé</carouselposterViewName>
+   <fanartViewName>Fanart (par défaut)</fanartViewName>
+   <fanartvlViewName>Fanart (vidéo plein écran)</fanartvlViewName>
+   <yes>Oui</yes>
+   <no>Non</no>
+   <none>Aucun</none>
+   <sysmusic>Activé</sysmusic>
+   <nomusic>Aléatoire</nomusic>
+   <silence>Sans musique de fond</silence>
+   <defaultlogos>Logos par défaut</defaultlogos>
+   <altlogos>Logos alternatifs</altlogos>
+   <default>Par défaut</default>
+   <defaultbg>SOLO (Léger)</defaultbg>
+   <darkbg>SOLO (sombre)</darkbg>
+   <bellabg>Bella</bellabg>
+   <systembg>Console</systembg>
+   <arcade>Arcade</arcade>
+   <snes>Super Nintendo</snes>
+   <snesalt>Super Nintendo (Alt)</snesalt>
+   <psx>Playstation</psx>
+   <xbox>X-Box</xbox>
+   <me1>Mod X-Box</me1>
+   <me2>Mod Super Nintendo</me2>
+   <horizontal>Menu horizontal</horizontal>
+   <verticalc>Carrousel vertical</verticalc>
+   <verticalm>Menu vertical</verticalm>
+   <reversec>Carrousel inversé</reversec>
+   <icondef>Icônes standard</icondef>
+   <subset.systemview>Présentation de la page d'accueil</subset.systemview>
+   <subset.colorset>Images d'arrière-plan</subset.colorset>
+   <subset.iconset>Icônes de menu</subset.iconset>
+   <subset.shader>Shaders de thème</subset.shader>
+   <subset.music>Musique système</subset.music>
+   <subset.logoset>Logos système des pages de bibliothèque</subset.logoset>
+   <subset.homesystem>Logos du système de page d'accueil</subset.homesystem>
 	</variables>
 	
 </theme>

@@ -36,10 +36,14 @@
    <xbox>X-Box</xbox>
    <me1>X-Box Mod</me1>
    <me2>Super Nintendo Mod</me2>
-   <horizontal>Menú horizontal</horizontal>
-   <verticalc>Carrusel vertical</verticalc>
-   <verticalm>Menú vertical</verticalm>
-   <reversec>Carrusel inverso</reversec>
+   <horizontal>Menú horizontal (Text)</horizontal>
+   <verticalc>Carrusel vertical (Text)</verticalc>
+   <verticalm>Menú vertical (Text)</verticalm>
+   <reversec>Carrusel inverso (Text)</reversec>	
+	<horizontala>Horizontal Menu (Icon)</horizontala>
+	<verticalca>Vertical Carousel (Icon)</verticalca>
+	<verticalma>Vertical Menu (Icon)</verticalma>	
+    <reverseca>Reverse Carousel (Icon)</reverseca>
    <icondef>Iconos estándar</icondef>
    <subset.systemview>Diseño de la página de inicio</subset.systemview>
    <subset.colorset>Imágenes de fondo</subset.colorset>

@@ -1,16 +1,19 @@
+<!-- vertical text menu -->
+
 <theme>
   <formatVersion>4</formatVersion>
   <feature supported="carousel">
   <view name="system">
-    <carousel name="systemcarousel">
+   <carousel name="systemcarousel">
       <type>vertical</type>
-      <pos>0.15 -0.080</pos>
+      <pos>-0.05 0.3</pos>
       <size>1 1</size>
       <color>ffffff00</color>
       <logoScale>1</logoScale>
-      <logoSize>0.5 1</logoSize>
+      <logoSize>0.3 1</logoSize>
       <maxLogoCount>1</maxLogoCount>
-      <defaultTransition>instant</defaultTransition>	
+		<logoAlignment>right</logoAlignment>
+      <defaultTransition>instant</defaultTransition>		
     </carousel>
     
     <text name="systemInfo">
@@ -37,17 +40,15 @@
          <textColor>FFFFFF</textColor>
    </helpsystem>
 
-	  
-   <image name="art" extra="true">
+     <image name="art" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-   </image>    
-    
-  <image name="logo">
-    <path>./../assets/logos/$system.png</path>
-  </image>
-    
-  </view>
+      </image>	  
+	  
+	<image name="logo">
+		<path>./../assets/logos/$system.png</path>
+	</image>
+	  </view>
   </feature>  
 </theme>

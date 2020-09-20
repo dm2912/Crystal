@@ -1,3 +1,5 @@
+<!-- left side carousel text menu -->
+
 <theme>
 <formatVersion>4</formatVersion>
 
@@ -16,17 +18,7 @@
 		<defaultTransition>instant</defaultTransition>			
       </carousel>
 
-      <image name="art" extra="true">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-      </image>	  
-	  
-	<image name="logo">
-		<path>./../assets/logos/$system.png</path>
-	</image>
-	  
-   <text name="systemInfo">
+	  <text name="systemInfo">
          <pos>-0.042 0.868</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>FFFFFF</color>
@@ -34,21 +26,34 @@
          <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.050</fontSize>
    </text>
-	  
-   <image name="bar" extra="true">
+	
+	  <image name="bar" extra="true">
          <origin>0 0</origin>
          <pos>0.565 0.929</pos>
          <size>0 0</size>
          <path>./../assets/bar.jpg</path>
 		 <zIndex>42</zIndex>
    </image> 
-
-  
-   <helpsystem name="help">
+	
+	 <helpsystem name="help">
          <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.025</fontSize>     
          <pos>0.566 0.942</pos>      
          <textColor>FFFFFF</textColor>
    </helpsystem>
+	
+	      <image name="art" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+      </image>	  
+
+	
+	<image name="logo">
+		<path>./../assets/logos/$system.png</path>
+	</image>
+	  
+ 
+  
 </view>
 </theme>

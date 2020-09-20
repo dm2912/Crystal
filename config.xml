@@ -18,13 +18,7 @@
 	<include subset="colorset" name="Bella BG" displayName="${bellabg}">./colorsets/bella.xml</include>
 	<include subset="colorset" name="System BG" displayName="${systembg}">./colorsets/system.xml</include>
     <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./colorsets/artflix.xml</include>
-
-    <include subset="homesystem" name="Default logos" displayName="${defaultlogos}">./logosets/default_homelogos.xml</include>
-	<include subset="homesystem" name="Alt logos" displayName="${altlogos}">./logosets/alt_homelogos.xml</include>  
-    
-	<include subset="logoset" name="Default logos" displayName="${defaultlogos}">./logosets/default_logos.xml</include>
-	<include subset="logoset" name="Alt logos" displayName="${altlogos}">./logosets/alt_logos.xml</include>  
-		
+	
 	<include subset="iconset" name="Default" displayName="${default}">./iconsets/snes.xml</include>
 	<include subset="iconset" name="ARCADE" displayName="${arcade}">./iconsets/arcade.xml</include>
     <include subset="iconset" name="SNES" displayName="${snes}">./iconsets/snes.xml</include>

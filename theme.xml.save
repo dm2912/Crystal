@@ -87,11 +87,13 @@
       </helpsystem>
    </view>
 
-<!-- main system template
+<!-- main system config 
 	
    <view name="system">
       <sound name="bgsound">
+         <!--
          <path>./assets/sounds/${system.theme}.ogg</path>
+         <!-- try mp3 -->
          <path>./assets/sounds/${system.theme}.mp3</path>
       </sound>
 
@@ -99,6 +101,7 @@
          <pos>0 0</pos>
          <origin>0 0</origin>
          <size>1 1</size>
+         <!-- try jpg -->
       </image>
       <text name="logoText">
          <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
@@ -109,8 +112,6 @@
 	<path>./assets/logos/${system.theme}.png</path>
       </image>
    </view>
-	
--->
     
 <!-- systems - basic view - simple list with plain background -->
 	

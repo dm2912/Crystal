@@ -41,13 +41,13 @@
 	<icondef>Standard icons</icondef>
 <!-- System layouts -->		
 	<horizontal>Horizontal Menu (Text)</horizontal>
-	<verticalc>Vertical Carousel (Text)</verticalc>
+	<verticalc>Right Side Carousel (Text)</verticalc>
 	<verticalm>Vertical Menu (Text)</verticalm>	
-    <reversec>Reverse Carousel (Text)</reversec>
+    <reversec>Left Side Carousel (Text)</reversec>
 	<horizontala>Horizontal Menu (Icon)</horizontala>
-	<verticalca>Vertical Carousel (Icon)</verticalca>
+	<verticalca>Right Side Carousel (Icon)</verticalca>
 	<verticalma>Vertical Menu (Icon)</verticalma>	
-    <reverseca>Reverse Carousel (Icon)</reverseca>
+    <reverseca>Left Side Carousel (Icon)</reverseca>
 <!-- Submenus -->
     <subset.systemview>Homepage Layout</subset.systemview>
     <subset.colorset>Background Images</subset.colorset>

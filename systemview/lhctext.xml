@@ -17,7 +17,10 @@
 		<maxLogoCount>5</maxLogoCount>
 		<defaultTransition>instant</defaultTransition>			
       </carousel>
-
+      <sound name="bgsound">
+         <path>./assets/sounds/${system.theme}.ogg</path>
+         <path>./assets/sounds/${system.theme}.mp3</path>
+      </sound>
 	  <text name="systemInfo">
          <pos>-0.042 0.868</pos>
          <backgroundColor>00000000</backgroundColor>

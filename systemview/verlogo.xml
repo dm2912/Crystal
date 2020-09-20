@@ -1,21 +1,28 @@
-<!-- Right side carousel text menu -->
+<!-- vertical icon menu -->
 
 <theme>
-<formatVersion>4</formatVersion>
-<view name="system">
-      <carousel name="systemcarousel">
-		<type>vertical</type>
-		<pos>-0.05 -0.0</pos>
-		<size>1 1</size>
-		<origin>0 0</origin>
-		<color>00000000</color>
-		<logoScale>2.2</logoScale>
-		<logoSize>0.15 0.2</logoSize>
+  <formatVersion>4</formatVersion>
+  <feature supported="carousel">
+  <view name="system">
+   <carousel name="systemcarousel">
+      <type>vertical</type>
+      <pos>-0.05 0.3</pos>
+      <size>1 1</size>
+      <color>ffffff00</color>
+      <logoScale>1</logoScale>
+      <logoSize>0.3 1</logoSize>
+      <maxLogoCount>1</maxLogoCount>
 		<logoAlignment>right</logoAlignment>
-		<maxLogoCount>5</maxLogoCount>
-		<defaultTransition>instant</defaultTransition>			
-      </carousel>
-
+      <defaultTransition>instant</defaultTransition>		
+    </carousel>
+      <sound name="bgsound">
+         <path>./assets/sounds/${system.theme}.ogg</path>
+         <path>./assets/sounds/${system.theme}.mp3</path>
+      </sound>	  
+	  	<image name="logo">
+		<path>./../assets/logos-alt/$system.png</path>
+	</image>
+    
     <text name="systemInfo">
          <pos>0.032 0.868</pos>
          <backgroundColor>00000000</backgroundColor>
@@ -46,8 +53,7 @@
          <size>1 1</size>
       </image>	  
 	  
-	<image name="logo">
-		<path>./../assets/logos/$system.png</path>
-	</image>
+
 	  </view>
+  </feature>  
 </theme>

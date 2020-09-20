@@ -19,6 +19,10 @@ Modded from Alekfull-SOLO
 + Slim down all artwork to EmuElec only
 + Alt logo's complete (all white bordered)
 
+20/9/20
++ redid system views (carousel, horizontal and vertical menus), smaller logos
++ added alternate views for all system views with system logo instead of text
+
 To do
 
 + Making help and rating consistent between views in library

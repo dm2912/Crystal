@@ -5,37 +5,41 @@
 	<variables>
 		
 		<langue>en</langue>
-		
-    <tilesViewName>Tiles</tilesViewName>
-    <tilesVideoViewName>Tiles with Video</tilesVideoViewName>
-    <tilesVideoMarqueeViewName>Tiles with Video and Logos</tilesVideoMarqueeViewName>
-	<basiclist>Simple List</basiclist>
-    <basicGridDetailsName>Grid / Detailed</basicGridDetailsName>
-    <carouselViewName>Carousel</carouselViewName>
-    <carouselposterViewName>Carousel / Detailed</carouselposterViewName>	
-    <fanartViewName>Fanart (Default)</fanartViewName>
-	<fanartvlViewName>Fanart (Full Screen Video)</fanartvlViewName>
+
+<!-- Global --> 	
 	<yes>Yes</yes>
 	<no>No</no>
     <none>None</none>
     <sysmusic>On</sysmusic>
     <nomusic>Random</nomusic>
     <silence>Without Background Music</silence>	
-    <defaultlogos>Default Logos</defaultlogos>
-    <altlogos>Alternative Logos</altlogos>
 	<default>Default</default>
+<!-- Library views -->		
+	<basiclist>Simple List</basiclist>
+    <basicGridDetailsName>Grid / Detailed</basicGridDetailsName>
+    <carouselViewName>Carousel</carouselViewName>
+    <carouselposterViewName>Carousel / Detailed</carouselposterViewName>	
+	 <tilesViewName>Tiles</tilesViewName>
+    <tilesVideoViewName>Tiles with Video</tilesVideoViewName>
+    <tilesVideoMarqueeViewName>Tiles with Video and Logos</tilesVideoMarqueeViewName>
+    <fanartViewName>Fanart (Default)</fanartViewName>
+	<fanartvlViewName>Fanart (Full Screen Video)</fanartvlViewName>
+<!-- backgrounds -->
 	<defaultbg>SOLO (Light)</defaultbg>
 	<darkbg>SOLO (Dark)</darkbg>
     <bellabg>Bella</bellabg>
 	<systembg>Console</systembg>
-		<artflixbg>Artflix</artflixbg>
+	<artflixbg>Artflix</artflixbg>
 	<arcade>Arcade</arcade>
+<!-- Help Icons -->
 	<snes>Super Nintendo</snes>
 	<snesalt>Super Nintendo (Alt)</snesalt>
 	<psx>Playstation</psx>
 	<xbox>X-Box</xbox>
 	<me1>X-Box Mod</me1>
 	<me2>Super Nintendo Mod</me2>
+	<icondef>Standard icons</icondef>
+<!-- System layouts -->		
 	<horizontal>Horizontal Menu (Text)</horizontal>
 	<verticalc>Vertical Carousel (Text)</verticalc>
 	<verticalm>Vertical Menu (Text)</verticalm>	
@@ -44,14 +48,12 @@
 	<verticalca>Vertical Carousel (Icon)</verticalca>
 	<verticalma>Vertical Menu (Icon)</verticalma>	
     <reverseca>Reverse Carousel (Icon)</reverseca>
-	<icondef>Standard icons</icondef>
+<!-- Submenus -->
     <subset.systemview>Homepage Layout</subset.systemview>
     <subset.colorset>Background Images</subset.colorset>
     <subset.iconset>Menu Icons</subset.iconset>
     <subset.shader>Theme Shaders</subset.shader>
 	<subset.music>System Music</subset.music>
-    <subset.logoset>Library Pages System Logos</subset.logoset>
-	<subset.homesystem>Homepage System Logos</subset.homesystem>
+		
 	</variables>
-	
 </theme>

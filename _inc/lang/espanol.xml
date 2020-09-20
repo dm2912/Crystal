@@ -6,52 +6,55 @@
 		
 	<langue>es</langue>
 		
-   <tilesViewName>Azulejos</tilesViewName>
-   <tilesVideoViewName>Mosaicos con video</tilesVideoViewName>
-   <tilesVideoMarqueeViewName>Azulejos con video y logotipos</tilesVideoMarqueeViewName>
-   <basiclist>Lista simple</basiclist>
-   <basicGridDetailsName>Cuadrícula / Detallado</basicGridDetailsName>
-   <carouselViewName>Carrusel</carouselViewName>
-   <carouselposterViewName>Carrusel / Detallado</carouselposterViewName>
-   <fanartViewName>Fanart (predeterminado)</fanartViewName>
-   <fanartvlViewName>Fanart (video en pantalla completa)</fanartvlViewName>
-   <yes>Sí</yes>
-   <no>No</no>
-   <none>Ninguno</none>
-   <sysmusic>Activado</sysmusic>
-   <nomusic>Aleatorio</nomusic>
-   <silence>Sin música de fondo</silence>
-   <defaultlogos>Logos predeterminados</defaultlogos>
-   <altlogos>Logos alternativos</altlogos>
-   <default>Predeterminado</default>
-   <defaultbg>SOLO (ligero)</defaultbg>
-		<artflixbg>Artflix</artflixbg>
-   <darkbg>SOLO (oscuro)</darkbg>
-   <bellabg>Bella</bellabg>
-   <systembg>Consola</systembg>
-   <arcade>Arcade</arcade>
-   <snes>Super Nintendo</snes>
-   <snesalt>Super Nintendo (Alt)</snesalt>
-   <psx>Playstation</psx>
-   <xbox>X-Box</xbox>
-   <me1>X-Box Mod</me1>
-   <me2>Super Nintendo Mod</me2>
-   <horizontal>Menú horizontal (Text)</horizontal>
-   <verticalc>Carrusel vertical (Text)</verticalc>
-   <verticalm>Menú vertical (Text)</verticalm>
-   <reversec>Carrusel inverso (Text)</reversec>	
-	<horizontala>Horizontal Menu (Icon)</horizontala>
-	<verticalca>Vertical Carousel (Icon)</verticalca>
-	<verticalma>Vertical Menu (Icon)</verticalma>	
-    <reverseca>Reverse Carousel (Icon)</reverseca>
-   <icondef>Iconos estándar</icondef>
-   <subset.systemview>Diseño de la página de inicio</subset.systemview>
-   <subset.colorset>Imágenes de fondo</subset.colorset>
-   <subset.iconset>Iconos de menú</subset.iconset>
-   <subset.shader>Sombreadores de temas</subset.shader>
-   <subset.music>Música del sistema</subset.music>
-   <subset.logoset>Logotipos del sistema de páginas de la biblioteca</subset.logoset>
-   <subset.homesystem>Logotipos del sistema de la página de inicio</subset.homesystem>
+<!-- Global -->
+	<yes> Sí </yes>
+	<no> No </no>
+    <none> Ninguno </none>
+    <sysmusic> Activado </sysmusic>
+    <nomusic> Aleatorio </nomusic>
+    <silence> Sin música de fondo </silence>
+	<default> Predeterminado </default>
+<!-- Vistas de biblioteca -->
+	<basiclist> Lista simple </basiclist>
+    <basicGridDetailsName> Cuadrícula / Detallado </basicGridDetailsName>
+    <carouselViewName> Carrusel </carouselViewName>
+    <carouselposterViewName> Carrusel / Detallado </carouselposterViewName>
+	<tilesViewName> Azulejos </tilesViewName>
+    <tilesVideoViewName> Mosaicos con video </tilesVideoViewName>
+    <tilesVideoMarqueeViewName> Azulejos con video y logotipos </tilesVideoMarqueeViewName>
+    <fanartViewName> Fanart (predeterminado) </fanartViewName>
+	<fanartvlViewName> Fanart (video en pantalla completa) </fanartvlViewName>
+<!-- fondos -->
+	<defaultbg> SOLO (ligero) </defaultbg>
+	<darkbg> SOLO (oscuro) </darkbg>
+    <bellabg> Bella </bellabg>
+	<systembg> Consola </systembg>
+	<artflixbg> Artflix </artflixbg>
+	<arcade> Arcade </arcade>
+<!-- Iconos de ayuda -->
+	<snes> Super Nintendo </snes>
+	<snesalt> Super Nintendo (Alt) </snesalt>
+	<psx> Playstation </psx>
+	<xbox> X-Box </xbox>
+	<me1> X-Box Mod </me1>
+	<me2> Super Nintendo Mod </me2>
+	<icondef> Iconos estándar </icondef>
+<!-- Diseños del sistema -->
+	<horizontal> Menú horizontal (texto) </horizontal>
+	<verticalc> Carrusel vertical (texto) </verticalc>
+	<verticalm> Menú vertical (texto) </verticalm>
+    <reversec> Carrusel inverso (texto) </reversec>
+	<horizontala> Menú horizontal (icono) </horizontala>
+	<verticalca> Carrusel vertical (icono) </verticalca>
+	<verticalma> Menú vertical (icono) </verticalma>
+    <reverseca> Carrusel inverso (icono) </reverseca>
+<!-- Submenús -->
+    <subset.systemview> Diseño de la página de inicio </subset.systemview>
+    <subset.colorset> Imágenes de fondo </subset.colorset>
+    <subset.iconset> Iconos de menú </subset.iconset>
+    <subset.shader> Sombreadores de temas </subset.shader>
+	<subset.music> Música del sistema </subset.music>
+		
 	</variables>
 	
 </theme>

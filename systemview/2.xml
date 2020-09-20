@@ -5,14 +5,14 @@
 <view name="system">
       <carousel name="systemcarousel">
 		<type>vertical</type>
-		<pos>-0.05 -0.1</pos>
+		<pos>-0.05 -0.0</pos>
 		<size>1 1</size>
 		<origin>0 0</origin>
 		<color>00000000</color>
 		<logoScale>2.2</logoScale>
-		<logoSize>0.2 0.2</logoSize>
+		<logoSize>0.15 0.2</logoSize>
 		<logoAlignment>right</logoAlignment>
-		<maxLogoCount>3</maxLogoCount>
+		<maxLogoCount>5</maxLogoCount>
 		<defaultTransition>instant</defaultTransition>			
       </carousel>
 

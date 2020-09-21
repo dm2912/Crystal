@@ -16,8 +16,8 @@
       <defaultTransition>instant</defaultTransition>		
     </carousel>
       <sound name="bgsound">
-         <path>./assets/sounds/${system.theme}.ogg</path>
-         <path>./assets/sounds/${system.theme}.mp3</path>
+         <path>./assets/sounds/default/${system.theme}.ogg</path>
+         <path>./assets/sounds/default/${system.theme}.mp3</path>
       </sound>    
     <text name="systemInfo">
          <pos>0.032 0.868</pos>
@@ -50,7 +50,7 @@
       </image>	  
 	  
 	<image name="logo">
-		<path>./../assets/logos/$system.png</path>
+		<path>./../assets/logos/default/$system.png</path>
 	</image>
 	  </view>
   </feature>  

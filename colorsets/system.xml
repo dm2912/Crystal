@@ -4,8 +4,8 @@
 
 <view name="system, basic, detailed, grid">
       <image name="art" extra="true">
-	     <path>./../assets/arts-system/default.jpg</path>
-         <path>./../assets/arts-system/${system.theme}.jpg</path>
+	     <path>./../assets/backgrounds/system/default.jpg</path>
+         <path>./../assets/backgrounds/system/${system.theme}.jpg</path>
       </image>   
 </view>
 </theme>

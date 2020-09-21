@@ -18,11 +18,11 @@
 		<defaultTransition>instant</defaultTransition>			
       </carousel>
       <sound name="bgsound">
-         <path>./assets/sounds/${system.theme}.ogg</path>
-         <path>./assets/sounds/${system.theme}.mp3</path>
+         <path>./assets/sounds/default/${system.theme}.ogg</path>
+         <path>./assets/sounds/default/${system.theme}.mp3</path>
       </sound>	
 		<image name="logo">
-		<path>./../assets/logos-alt/$system.png</path>
+		<path>./../assets/logos/logo/$system.png</path>
 	</image>
 
 	  <text name="systemInfo">

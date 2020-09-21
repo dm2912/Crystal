@@ -33,21 +33,21 @@
 	<arcade>Arcade</arcade>
 <!-- Help Icons -->
 	<snes>Super Nintendo</snes>
-	<snesalt>Super Nintendo (Alt)</snesalt>
 	<psx>Playstation</psx>
 	<xbox>X-Box</xbox>
-	<me1>X-Box Mod</me1>
-	<me2>Super Nintendo Mod</me2>
+	<xbox2>X-Box Reverse</xbox2>
 	<icondef>Standard icons</icondef>
 <!-- System layouts -->		
 	<horizontal>Horizontal Menu (Text)</horizontal>
 	<verticalc>Right Side Carousel (Text)</verticalc>
 	<verticalm>Vertical Menu (Text)</verticalm>	
     <reversec>Left Side Carousel (Text)</reversec>
-	<horizontala>Horizontal Menu (Icon)</horizontala>
-	<verticalca>Right Side Carousel (Icon)</verticalca>
-	<verticalma>Vertical Menu (Icon)</verticalma>	
-    <reverseca>Left Side Carousel (Icon)</reverseca>
+	<horizontala>Horizontal Menu (Logo)</horizontala>
+	<verticalca>Right Side Carousel (Logo)</verticalca>
+	<verticalma>Vertical Menu (Logo)</verticalma>	
+    <reverseca>Left Side Carousel (Logo)</reverseca>
+	<horizontalc>Horizontal Menu (Console)</horizontalc>
+	<slideshow>Slideshow (Left/Right to Navigate)</slideshow>
 <!-- Submenus -->
     <subset.systemview>Homepage Layout</subset.systemview>
     <subset.colorset>Background Images</subset.colorset>

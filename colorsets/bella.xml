@@ -4,8 +4,8 @@
 
 <view name="system, basic, detailed, grid">
       <image name="art" extra="true">
-	     <path>./../assets/arts-bella/default.jpg</path>
-         <path>./../assets/arts-bella/${system.theme}.jpg</path>
+	     <path>./../assets/backgrounds/bella/default.jpg</path>
+         <path>./../assets/backgrounds/bella/${system.theme}.jpg</path>
       </image>   
 </view>
 </theme>

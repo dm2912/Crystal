@@ -86,33 +86,8 @@
          <textColor>FFFFFF</textColor>
       </helpsystem>
    </view>
-
-<!-- main system template
-	
-   <view name="system">
-      <sound name="bgsound">
-         <path>./assets/sounds/${system.theme}.ogg</path>
-         <path>./assets/sounds/${system.theme}.mp3</path>
-      </sound>
-
-      <image name="background" extra="true">
-         <pos>0 0</pos>
-         <origin>0 0</origin>
-         <size>1 1</size>
-      </image>
-      <text name="logoText">
-         <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
-         <color>fccbfc</color>
-         <forceUppercase>true</forceUppercase>
-      </text>
-      <image name="logo">
-	<path>./assets/logos/${system.theme}.png</path>
-      </image>
-   </view>
-	
--->
     
-<!-- systems - basic view - simple list with plain background -->
+<!-- gamelists - basic view - simple list with plain background -->
 	
    <view name="basic">
      <helpsystem name="help">
@@ -128,8 +103,8 @@
       </image>
       <image name="logo">
          <pos>0.141 0.060</pos>
-         <maxSize>0.181 0.168</maxSize>
-	<path>./assets/logos/$system.png</path> 
+         <maxSize>0.300 0.280</maxSize>
+	<path>./assets/logos/console/$system.png</path> 
       </image>    
       <textlist name="gamelist">
          <pos>0.0 0.15</pos>
@@ -140,25 +115,25 @@
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>ffffff</secondaryColor>
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
-         <fontSize>0.030</fontSize>
-         <scrollSound>./assets/sounds/scroll.ogg</scrollSound>
+         <fontSize>0.035</fontSize>
+         <scrollSound>./assets/sounds/default/scroll.ogg</scrollSound>
          <lineSpacing>2.075</lineSpacing>
       </textlist>
       <image name="background" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./_inc/bg-basic.png</path>
+         <path>./_inc/bg-simple.svg</path>
       </image>
    </view>
 
-<!-- systems - detailed view -->
+<!-- gamelists - detailed view -->
    
    <view name="detailed">
       <helpsystem name="help">
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.025</fontSize>
-         <pos>0.28 0.935</pos>
+   	   <pos>0.032 0.940</pos>   
          <textColor>FFFFFF</textColor>
       </helpsystem>
       <image name="art" extra="true">
@@ -167,20 +142,20 @@
          <size>1 1</size>
       </image>
       <image name="logo">
-         <pos>0.141 0.060</pos>
-         <maxSize>0.181 0.168</maxSize>
-	<path>./assets/logos/$system.png</path> 
+         <pos>0.880 0.680</pos>
+          <maxSize>0.300 0.280</maxSize>
+	<path>./assets/logos/console/$system.png</path> 
       </image>
       <textlist name="gamelist">
-         <pos>0.624 0.21</pos>
-         <size>0.34 0.7</size>
+         <pos>0.624 0.08</pos>
+         <size>0.34 0.82</size>
          <selectorColor>0f85a5</selectorColor>
          <selectedColor>ffffff</selectedColor>
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>ffffff</secondaryColor>
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.027</fontSize>
-         <scrollSound>./assets/sounds/scroll.ogg</scrollSound>
+         <scrollSound>./assets/sounds/default/scroll.ogg</scrollSound>
          <alignment>left</alignment>
          <lineSpacing>2.275</lineSpacing>
       </textlist>
@@ -188,80 +163,74 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./_inc/bg-3.png</path>
+         <path>./_inc/bg-detailed.svg</path>
       </image>
       <rating name="md_rating">
-         <pos>0.040 0.925</pos>
+         <pos>0.624 0.835</pos>
          <size>0.45 0.048</size>
          <filledPath>./_inc/images/filled.svg</filledPath>
          <unfilledPath>./_inc/images/empty.svg</unfilledPath>
       </rating>
-      <text name="md_playcount">
-         <pos>2 2</pos>
-         <size>0 0</size>
-         <fontSize>0.0</fontSize>
-         <zIndex>0</zIndex>
-      </text>
       <text name="md_lbl_releasedate">
-         <pos>0.40 0.2355</pos>
+         <pos>0.40 0.1005</pos>
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <color>ffffff</color>
       </text>
       <datetime name="md_releasedate">
-         <pos>0.40 0.2655</pos>
+         <pos>0.40 0.1305</pos>
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <color>ffffff</color>
       </datetime>
       <text name="md_lbl_developer">
-         <pos>0.40 0.3055</pos>
+         <pos>0.40 0.1705</pos>
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <color>ffffff</color>
       </text>
       <text name="md_developer">
-         <pos>0.40 0.3355</pos>
+         <pos>0.40 0.2005</pos>
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <size>0.20 0.024</size>
          <color>ffffff</color>
       </text>
       <text name="md_lbl_publisher">
-         <pos>0.40 0.3755</pos>
+         <pos>0.40 0.2405</pos>
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <color>ffffff</color>
       </text>
       <text name="md_publisher">
-         <pos>0.40 0.4055</pos>
+         <pos>0.40 0.2705</pos>
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <size>0.20 0.024</size>
          <color>ffffff</color>
       </text>
       <text name="md_lbl_genre">
-         <pos>0.40 0.4455</pos>
+         <pos>0.40 0.3105</pos>
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <color>ffffff</color>
       </text>
       <text name="md_genre">
-         <pos>0.40 0.4755</pos>
+         <pos>0.40 0.3405</pos>
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <size>0.20 0.024</size>
          <color>ffffff</color>
       </text>
       <text name="md_lbl_players">
-         <pos>0.40 0.5155</pos>
+         <pos>0.40 0.3805</pos>
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <size>0.20 0.024</size>
          <color>ffffff</color>
       </text>
       <text name="md_players">
-         <pos>0.40 0.5455</pos>
+         <pos>0.40 0.4200</pos>
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <size>0.20 0.024</size>
@@ -281,31 +250,31 @@
       </text>
       <text name="md_description">
          <color>ffffff</color>
-         <pos>0.070 0.685</pos>
-         <size>0.505 0.170</size>
+         <pos>0.070 0.515</pos>
+         <size>0.505 0.340</size>
          <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
-         <fontSize>0.024</fontSize>
+         <fontSize>0.027</fontSize>
          <zIndex>42</zIndex>
       </text>
       <image name="md_image">
-         <pos>0.210 0.425</pos>
+         <pos>0.210 0.275</pos>
          <maxSize>0.35 0.40</maxSize>
          <zIndex>51</zIndex>
       </image>
       <video name="md_video">
-         <pos>0.210 0.425</pos>
+         <pos>0.210 0.275</pos>
          <maxSize>0.35 0.40</maxSize>
          <zIndex>51</zIndex>
       </video>
    </view>
    
-<!-- systems - grid view that serves as template for all other grid views -->
+<!-- gamelists - grid view that serves as template for all other grid views -->
 	
    <view name="grid">
       <image name="logo">
          <pos>0.141 0.060</pos>
-         <maxSize>0.181 0.168</maxSize>
-	<path>./assets/logos/$system.png</path> 
+         <maxSize>0.200 0.180</maxSize>
+	<path>./assets/logos/default/$system.png</path> 
 	<zIndex>55</zIndex>
       </image>
      <helpsystem name="help">
@@ -330,7 +299,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./_inc/bg-basic.png</path>
+         <path>./_inc/bg-simple.svg</path>
       </image>
       <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
          <color>A0A0B000</color>
@@ -351,7 +320,7 @@
          <padding>0.03 0.03 0.03 0.03</padding>
          <autoLayout>5 2</autoLayout>
          <autoLayoutSelectedZoom>1.12</autoLayoutSelectedZoom>
-		  <scrollSound>./assets/sounds/scroll.ogg</scrollSound>
+		  <scrollSound>./assets/sounds/default/scroll.ogg</scrollSound>
          <animateSelection>false</animateSelection>
       </imagegrid>
       <gridtile name="default">
@@ -390,7 +359,7 @@
 		
 
 	
-<!-- systems - grid with details -->	
+<!-- gamelists - grid with details -->	
    
    <customView name="Boxes + details" inherits="grid" displayName="${basicGridDetailsName}">
       <imagegrid name="gamegrid">
@@ -403,7 +372,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./_inc/bg-basic-rightpanel.png</path>
+         <path>./_inc/bg-rightpanel.svg</path>
       </image>
       <image name="md_image">
          <visible>false</visible>
@@ -450,10 +419,15 @@
 	
 
 	
-<!-- systems - basic carousel -->
+<!-- gamelists - basic carousel -->
    
    <customView name="Carousel" inherits="grid" tinyScreen="false" displayName="${carouselViewName}">
-      <text name="md_name">
+      <image name="logo">
+	<path>./assets/logos/console/$system.png</path>
+		  <maxSize>0.300 0.280</maxSize>
+	<zIndex>55</zIndex>
+      </image>
+	   <text name="md_name">
          <color>ffffffff</color>
          <pos>0.04 0.76</pos>
          <size>0.92 0.10</size>
@@ -486,7 +460,7 @@
          <margin>0.005 0.010</margin>
          <centerSelection>true</centerSelection>
          <scrollLoop>true</scrollLoop>
-	<scrollSound>./assets/sounds/scroll.ogg</scrollSound>
+	<scrollSound>./assets/sounds/default/scroll.ogg</scrollSound>
       </imagegrid>
       <gridtile name="default">
          <padding>64 16</padding>
@@ -521,7 +495,7 @@
    </customView>
 
  
-<!-- systems - shift style carousel -->
+<!-- gamelists - shift style carousel -->
 	
  		<image name="md_image">
          <color>303030FF</color>
@@ -537,7 +511,7 @@
          <pos>0 0</pos>
          <size>1 1</size>
 			<zIndex>1</zIndex>
-         <path>./_inc/bg-basic.png</path>
+         <path>./_inc/bg-simple.svg</path>
       </image>
 	
 	<customView name="Carousel Poster" inherits="Carousel" displayName="${carouselposterViewName}">
@@ -559,6 +533,15 @@
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
       </video>	
+		
+		<helpsystem name="help">
+         <pos>0.032 0.940</pos>   
+      </helpsystem>
+		
+      <image name="logo">
+         <pos>0.880 0.680</pos>
+          <maxSize>0.300 0.280</maxSize>
+      </image>
 
 	  
       <text name="gridtile">
@@ -593,15 +576,10 @@
          <size>0.25 0</size>
          <zIndex>36</zIndex>
 		  <alignment>left</alignment>
-      </image>
-		
-		      <image name="logo">
-         <pos>0.12 0.800</pos>
-         <maxSize>0.24 0.16</maxSize>
-      </image>
+      </image>		
 		
 	   	<rating name="md_rating">
-         <pos>0.70 0.50</pos>
+         <pos>0.70 0.525</pos>
          <size>0.45 0.048</size>
          <filledPath>./_inc/images/filled.svg</filledPath>
          <unfilledPath>./_inc/images/empty.svg</unfilledPath>
@@ -666,7 +644,7 @@
 
  
 	
-<!-- systems - simple tiles
+<!-- gamelists - simple tiles
    
    <customView name="Tiles" inherits="grid" displayName="${tilesViewName}">
       <imagegrid name="gamegrid">
@@ -731,7 +709,7 @@
 
  -->	
 
-	<!-- systems - tiles with video 
+	<!-- gamelists - tiles with video 
 	
    <customView name="Tiles + Video" inherits="Tiles" displayName="${tilesVideoViewName}">
       <imagegrid name="gamegrid">
@@ -769,7 +747,7 @@
 
 -->
 	
-		<!-- systems - fanart view 
+		<!-- gamelists - fanart view 
  
    <customView name="Fanart" inherits="grid" tinyScreen="false" displayName="${fanartViewName}">
       <text name="md_name">
@@ -877,7 +855,7 @@
 
 -->
 	
-<!-- systems - fanart with fullscreen video
+<!-- gamelists - fanart with fullscreen video
 
    <customView name="Fanart (Full Video + Logo)" inherits="grid" tinyScreen="false" displayName="${fanartvlViewName}">
       <text name="md_name">

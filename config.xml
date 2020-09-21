@@ -9,28 +9,26 @@
 	<include lang="pt">./_inc/lang/portugues.xml</include>
 
     <include subset="systemview" name="Horizontal Menu" displayName="${horizontal}">./systemview/hortext.xml</include>
-	<include subset="systemview" name="Vertical Carrousel" displayName="${verticalc}">./systemview/rhctext.xml</include>
+	<include subset="systemview" name="Horizontal Menu alt" displayName="${horizontala}">./systemview/horlogo.xml</include>
+	<include subset="systemview" name="Horizontal Menu console" displayName="${horizontalc}">./systemview/horconsole.xml</include>
 	<include subset="systemview" name="Vertical Menu" displayName="${verticalm}">./systemview/vertext.xml</include>
-	<include subset="systemview" name="Reverse Carousel" displayName="${reversec}">./systemview/lhctext.xml</include>
-
-    <include subset="systemview" name="Horizontal Menu alt" displayName="${horizontala}">./systemview/horlogo.xml</include>
-	<include subset="systemview" name="Vertical Carousel alt" displayName="${verticalca}">./systemview/rhclogo.xml</include>
 	<include subset="systemview" name="Vertical Menu alt" displayName="${verticalma}">./systemview/verlogo.xml</include>
+	<include subset="systemview" name="Vertical Carousel" displayName="${verticalc}">./systemview/rhctext.xml</include>
+	<include subset="systemview" name="Vertical Carousel alt" displayName="${verticalca}">./systemview/rhclogo.xml</include>
+	<include subset="systemview" name="Reverse Carousel" displayName="${reversec}">./systemview/lhctext.xml</include>
 	<include subset="systemview" name="Reverse Carousel alt" displayName="${reverseca}">./systemview/lhclogo.xml</include>
+	<include subset="systemview" name="Slideshow" displayName="${slideshow}">./systemview/slideshow.xml</include>
 
-	<include subset="colorset" name="Default BG" displayName="${defaultbg}">./colorsets/default.xml</include>
+	<include subset="colorset" name="Default BG" displayName="${defaultbg}">./colorsets/light.xml</include>
 	<include subset="colorset" name="Dark BG" displayName="${darkbg}">./colorsets/dark.xml</include>
 	<include subset="colorset" name="Bella BG" displayName="${bellabg}">./colorsets/bella.xml</include>
 	<include subset="colorset" name="System BG" displayName="${systembg}">./colorsets/system.xml</include>
     <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./colorsets/artflix.xml</include>
 	
-	<include subset="iconset" name="Default" displayName="${default}">./iconsets/snes.xml</include>
+	<include subset="iconset" name="Default" displayName="${default}">./iconsets/xbox.xml</include>
 	<include subset="iconset" name="ARCADE" displayName="${arcade}">./iconsets/arcade.xml</include>
     <include subset="iconset" name="SNES" displayName="${snes}">./iconsets/snes.xml</include>
-    <include subset="iconset" name="SNES Alt" displayName="${snesalt}">./iconsets/snesalt.xml</include>
     <include subset="iconset" name="Playstation" displayName="${psx}">./iconsets/psx.xml</include>
     <include subset="iconset" name="Xbox" displayName="${xbox}">./iconsets/xbox.xml</include>
-    <include subset="iconset" name="Me 1" displayName="${me1}">./iconsets/me_1.xml</include>
-    <include subset="iconset" name="Me 2" displayName="${me2}">./iconsets/me_2.xml</include>
-
+    <include subset="iconset" name="Xbox Reverse" displayName="${xbox2}">./iconsets/xbox-rev.xml</include>
 </theme>

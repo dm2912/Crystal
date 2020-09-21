@@ -4,8 +4,8 @@
 
 <view name="system, basic, detailed, grid">
       <image name="art" extra="true">
-         <path>./../assets/arts-solo-dark/default.jpg</path>
-         <path>./../assets/arts-solo-dark/${system.theme}.jpg</path>
+         <path>./../assets/backgrounds/solo-dark/default.jpg</path>
+         <path>./../assets/backgrounds/solo-dark/${system.theme}.jpg</path>
       </image>   
 </view>
 </theme>

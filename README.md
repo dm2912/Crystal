@@ -2,28 +2,28 @@ Modded from Alekfull-SOLO
 
 **This theme is intended for EMUELEC and only contains graphics for systems supported by EmuElec**
 
--
+17/9/20
 + Added options in settings for various button themes
 + Fixed issue where button themes dont apply to all views
 + Main homepage increased help fonts and some tidying
 + Additional reverse carousel view (left sided carousel)
 + Added two more background themes from @/AlecFull/Bello-Cobalto
 
--
+18/9/20
 + Started working on Alt Logo options (Settings done but does nothing at the moment)
 + Basic layout simplified, new background, and layout
 + Carousel layouts reduced to two and re-done, one simple, one full details
 + Grid layouts reduced to two and re-done, one simple, one full details 
 
--
+19/9/20
 + Slim down all artwork to EmuElec only
 + Alt logo's complete (all white bordered)
 
--
+20/9/20
 + redid system views (carousel, horizontal and vertical menus), smaller logos
 + added alternate views for all system views with system logo instead of text
 
--
+21/9/20
 + added png console images
 + Reorganisation of folder structures
 + Most gamelist pages re-done

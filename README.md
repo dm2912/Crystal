@@ -33,6 +33,7 @@ Modded from Alekfull-SOLO
 22/9/20
 + New detailed homepage layout complete.
 + Started working on xml files for systems with description, year of release etc.
++ Systemview's slimmed down and use common.xml as base for layout
 
 
 To do

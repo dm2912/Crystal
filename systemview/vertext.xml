@@ -2,6 +2,7 @@
 
 <theme>
   <formatVersion>4</formatVersion>
+    <include>./common.xml</include>
   <feature supported="carousel">
   <view name="system">
    <carousel name="systemcarousel">
@@ -15,44 +16,15 @@
 		<logoAlignment>right</logoAlignment>
       <defaultTransition>instant</defaultTransition>		
     </carousel>
-      <sound name="bgsound">
-         <path>./assets/sounds/default/${system.theme}.ogg</path>
-         <path>./assets/sounds/default/${system.theme}.mp3</path>
-      </sound>	  
-	  	<image name="logo">
-		<path>./../assets/logos/default/$system.png</path>
-	</image>
     
     <text name="systemInfo">
          <pos>0.032 0.868</pos>
-         <backgroundColor>00000000</backgroundColor>
-         <color>FFFFFF</color>
-         <alignment>left</alignment>
-         <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
-         <fontSize>0.050</fontSize>
    </text>
-	  
-
 
    <helpsystem name="help">
-         <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
-         <fontSize>0.025</fontSize>     
          <pos>0.032 0.940</pos>      
-         <textColor>FFFFFF</textColor>
    </helpsystem>
 
-     <image name="art" extra="true">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-      </image>	  
-	  
-<image name="background" extra="true">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <path>./_inc/bg-bottombar.svg</path>
-      </image>
 	  </view>
   </feature>  
 </theme>

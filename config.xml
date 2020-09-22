@@ -19,8 +19,8 @@
 	<include subset="systemview" name="Reverse Carousel alt" displayName="${reverseca}">./systemview/lhclogo.xml</include>
 
 
-	<include subset="colorset" name="Default BG" displayName="${defaultbg}">./colorsets/light.xml</include>
 	<include subset="colorset" name="Dark BG" displayName="${darkbg}">./colorsets/dark.xml</include>
+	<include subset="colorset" name="Default BG" displayName="${defaultbg}">./colorsets/light.xml</include>
 	<include subset="colorset" name="Bella BG" displayName="${bellabg}">./colorsets/bella.xml</include>
 	<include subset="colorset" name="System BG" displayName="${systembg}">./colorsets/system.xml</include>
     <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./colorsets/artflix.xml</include>

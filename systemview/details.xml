@@ -1,0 +1,93 @@
+<!-- slideshow -->
+
+<theme>
+  <formatVersion>4</formatVersion>
+    <include>./systems/${system.theme}.xml</include>  
+  <feature supported="carousel">
+  <view name="system">
+    <carousel name="systemcarousel">
+     <type>horizontal</type>
+     <pos>0.35 0.0</pos>
+      <size>1 1</size>
+      <color>ffffff00</color>
+      <logoScale>1</logoScale>
+      <logoSize>0 0</logoSize>
+      <maxLogoCount>0</maxLogoCount>
+    <visible>false</visible>
+    <logoAlignment>right</logoAlignment>
+      <defaultTransition>instant</defaultTransition>			
+    </carousel>
+
+	<image name="logo">
+		<path>./../assets/logos/controllers/right/${system.theme}.png</path>
+	</image>
+
+	<image name="controller" extra="true">
+		<path>./../assets/logos/controllers/right/${system.theme}.png</path>
+        <pos>0.635 0.040</pos>
+         <maxSize>0.530 0.400</maxSize>
+        <alignment>right</alignment>
+      </image> 
+
+      <sound name="bgsound">
+         <path>./assets/sounds/default/${system.theme}.ogg</path>
+         <path>./assets/sounds/default/${system.theme}.mp3</path>
+      </sound>  
+	  
+   <helpsystem name="help">
+         <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
+         <fontSize>0.025</fontSize>     
+         <pos>0.032 0.940</pos>      
+         <textColor>FFFFFF</textColor>
+   </helpsystem>  
+
+<text name="shortdescription" extra="true">
+ <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
+			<alignment>right</alignment>
+			<color>ffffff</color>
+			<fontSize>0.035</fontSize>			
+			<pos>0.420 0.41</pos>
+            <size>0.52 0.0</size>
+		</text>
+
+  <text name="info1" extra="true">
+            <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
+			<alignment>right</alignment>
+			<color>ffffff</color>
+			<fontSize>0.050</fontSize>			
+			<pos>0.420 0.46</pos>
+            <size>0.52 0.050</size>
+         <zindex>45</zindex>
+		</text>
+
+    <text name="systemInfo">
+         <pos>0.470 0.51</pos>
+         <backgroundColor>00000000</backgroundColor>
+         <color>FFFFFF</color>
+          <size>0.47 0.047</size>
+         <alignment>right</alignment>
+         <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
+         <fontSize>0.040</fontSize>
+   </text>
+
+
+		<text name="description" extra="true">
+            <fontPath>./../_inc/fonts/OpenSans-Semi-Bold.ttf</fontPath>
+			<alignment>right</alignment>
+			<color>ffffff</color>
+			<fontSize>0.035</fontSize>
+			<pos>0.470 0.65</pos>
+            <size>0.47 .15</size>
+            <lineSpacing>1.18</lineSpacing>
+		</text>
+
+ <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./_inc/bg-bottombar.svg</path>
+      </image> 
+	  </view>
+  </feature>  
+</theme>
+

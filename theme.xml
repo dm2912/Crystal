@@ -2,9 +2,12 @@
 
 <!-- default view -->
 
-<theme defaultView="Boxes + details">
+<theme defaultView="detailed">
    <formatVersion>7</formatVersion>
    <include>./config.xml</include>
+
+
+
    <variables>
       <baseColor>8b0000</baseColor>
       <gradientEndColor>6b2020</gradientEndColor>

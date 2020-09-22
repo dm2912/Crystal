@@ -30,6 +30,11 @@ Modded from Alekfull-SOLO
 + Redid all filter backgrounds in svg
 + Added slideshow mode for system (No navigation icons - good with console background set)
 
+22/9/20
++ New detailed homepage layout complete.
++ Started working on xml files for systems with description, year of release etc.
+
+
 To do
 
 + Making help and rating consistent between views in library

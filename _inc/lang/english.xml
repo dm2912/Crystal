@@ -47,7 +47,7 @@
 	<verticalma>Vertical Menu (Logo)</verticalma>	
     <reverseca>Left Side Carousel (Logo)</reverseca>
 	<horizontalc>Horizontal Menu (Console)</horizontalc>
-	<slideshow>Slideshow (Left/Right to Navigate)</slideshow>
+	<systemdetails>Detailed (Horizontal Navigation)</systemdetails>
 <!-- Submenus -->
     <subset.systemview>Homepage Layout</subset.systemview>
     <subset.colorset>Background Images</subset.colorset>

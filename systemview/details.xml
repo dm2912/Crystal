@@ -48,6 +48,8 @@
 			<fontSize>0.035</fontSize>			
 			<pos>0.420 0.41</pos>
             <size>0.52 0.0</size>
+         <glowColor>00000016</glowColor>
+         <glowSize>2</glowSize>
 		</text>
 
   <text name="info1" extra="true">
@@ -57,6 +59,8 @@
 			<fontSize>0.050</fontSize>			
 			<pos>0.420 0.46</pos>
             <size>0.52 0.050</size>
+         <glowColor>00000016</glowColor>
+         <glowSize>2</glowSize>
          <zindex>45</zindex>
 		</text>
 
@@ -68,6 +72,8 @@
          <alignment>right</alignment>
          <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.040</fontSize>
+         <glowColor>00000016</glowColor>
+         <glowSize>2</glowSize>
    </text>
 
 
@@ -79,6 +85,8 @@
 			<pos>0.470 0.65</pos>
             <size>0.47 .15</size>
             <lineSpacing>1.18</lineSpacing>
+         <glowColor>00000016</glowColor>
+         <glowSize>2</glowSize>
 		</text>
 
  <image name="background" extra="true">

@@ -39,17 +39,15 @@ To do
 
 + Making help and rating consistent between views in library
 + Add system logo's to all library pages
-+ Setup the ability to switch between logo options
-+ Sort out alignment in various views of text/info
++ Setup the ability to switch between logo options (still trying to work out how the hell to do this)
++ XML files for systems with details/descriptions
 + Box/Thumb view
 + Fanart view
 
 
 --------------------------------------------------------------
-|.......I M P O R T A N T E.......|
----------------------------------------------------------------
-* Esse tema NÃO é AUTORIZADO para uso COMERCIAL!!
-* Compatível com o BATOCERA em suas atualizações mais recentes;
-* Compatível com o EMUELEC em suas atualizações mais recentes;
-* Compatível com todos os sistemas do BATOCERA (PLUS), EMUELEC e RETROBAT - suporte para mais de 185 sistemas.
-* Esse tema NÃO é compatível com RECALBOX.
+|.......I M P O R T A N T.......|
+--------------------------------------------------------------
+
+* Like the original Alekfull Solo this theme is NOT TO BE USED COMMERCIALLY!!!!!!!
+* Compatability is designed for Emuelec. Only systems supported by Emuelec are being themed. 

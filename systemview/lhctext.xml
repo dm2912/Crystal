@@ -7,17 +7,20 @@
 
 <view name="system">
       <carousel name="systemcarousel">
-		<type>vertical</type>
-		<pos>0.05 0.0</pos>
-		<size>1 1</size>
-		<origin>0 0</origin>
-		<color>00000000</color>
-		<logoScale>2.2</logoScale>
-		<logoSize>0.15 0.2</logoSize>
-		<logoAlignment>left</logoAlignment>
-		<maxLogoCount>5</maxLogoCount>
-		<defaultTransition>instant</defaultTransition>			
-      </carousel>
+			<type>vertical</type>
+			<pos>0.035 0</pos>
+			<size>0.17 1</size>
+			<logoScale>1.2</logoScale>
+			<logoSize>0.10 0.10</logoSize>
+			<color>00000000</color>
+			<origin>0 0</origin>
+			<logoRotation>-6.5</logoRotation>
+			<logoRotationOrigin>0.5 0.5</logoRotationOrigin>
+			<logoAlignment>left</logoAlignment>
+			<maxLogoCount>7</maxLogoCount>
+			<zIndex>29</zIndex>
+			<systemInfoDelay>700</systemInfoDelay>
+		</carousel>
  
 	  <text name="systemInfo">
          <pos>-0.042 0.868</pos>
@@ -27,6 +30,10 @@
 	 <helpsystem name="help">   
          <pos>0.566 0.942</pos>      
    </helpsystem> 
+
+<image name="background" extra="true">
+       <path>./_inc/bg-system-left.svg</path>
+      </image>
  
 </view>
 </theme>

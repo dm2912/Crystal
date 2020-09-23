@@ -2,7 +2,9 @@ Theme 'Solo-Mod' by dm2912 (2020)
 
 forked from theme 'SOLO' 09-15-2020 by AlecFull - https://github.com/fagnerpc/Alekfull-SOLO
 
-additional artwork from 'Bello-Cobalto' and 'Artflix' by AlekFull 
+additional artwork from 'Bello-Cobalto' and 'Artflix' by AlekFull
+
+White system logos from 20GotoTen/es-theme-retrofix 
 
 based on theme 'carbon' v2.4 - 08-16-2016 by Rookervik
 

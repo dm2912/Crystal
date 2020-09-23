@@ -34,10 +34,11 @@ Modded from Alekfull-SOLO
 + New detailed homepage layout complete.
 + Started working on xml files for systems with description, year of release etc.
 + Systemview's slimmed down and use common.xml as base for layout
-
++ Sysmtem logo's moved to svg from png
 
 To do
 
++ Tidy up SVG overlays.. inkscape not snapping tight.. 
 + Making help and rating consistent between views in library
 + Add system logo's to all library pages
 + Setup the ability to switch between logo options (still trying to work out how the hell to do this)

@@ -3,19 +3,23 @@
 <theme>
 <formatVersion>4</formatVersion>
     <include>./common.xml</include>
+
 <view name="system">
-      <carousel name="systemcarousel">
-		<type>vertical</type>
-		<pos>-0.05 -0.0</pos>
-		<size>1 1</size>
-		<origin>0 0</origin>
-		<color>00000000</color>
-		<logoScale>2.2</logoScale>
-		<logoSize>0.15 0.2</logoSize>
-		<logoAlignment>right</logoAlignment>
-		<maxLogoCount>5</maxLogoCount>
-		<defaultTransition>instant</defaultTransition>			
-      </carousel>
+     <carousel name="systemcarousel">
+			<type>vertical</type>
+			<pos>0.79 -0.0</pos>
+    <logoAlignment>right</logoAlignment>
+			<size>0.17 1</size>
+			<logoScale>1.2</logoScale>
+			<logoSize>0.10 0.10</logoSize>
+			<color>00000000</color>
+			<origin>0 0</origin>
+			<logoRotation>-6.5</logoRotation>
+			<logoRotationOrigin>0.5 0.5</logoRotationOrigin>
+			<maxLogoCount>7</maxLogoCount>
+			<zIndex>29</zIndex>
+			<systemInfoDelay>700</systemInfoDelay>
+		</carousel>
  
     <text name="systemInfo">
          <pos>0.032 0.868</pos>
@@ -25,5 +29,9 @@
    <helpsystem name="help">
          <pos>0.032 0.940</pos>      
    </helpsystem>
+
+<image name="background" extra="true">
+       <path>./_inc/bg-system-right.svg</path>
+      </image>
 	  </view>
 </theme>

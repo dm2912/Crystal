@@ -9,7 +9,7 @@
 		</splash>
 
 		<image name="background">
-			<path>./assets/arts/splash.png</path>
+			<path>./_inc/splash.png</path>
 		</image>
 
 		<text name="label">

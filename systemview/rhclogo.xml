@@ -1,34 +1,42 @@
-<!-- Right side carousel icon menu -->
+<!-- Right side carousel text menu -->
 
 <theme>
 <formatVersion>4</formatVersion>
     <include>./common.xml</include>
-<view name="system">
-      <carousel name="systemcarousel">
-		<type>vertical</type>
-		<pos>-0.05 -0.0</pos>
-		<size>1 1</size>
-		<origin>0 0</origin>
-		<color>00000000</color>
-		<logoScale>2.2</logoScale>
-		<logoSize>0.15 0.2</logoSize>
-		<logoAlignment>right</logoAlignment>
-		<maxLogoCount>5</maxLogoCount>
-		<defaultTransition>instant</defaultTransition>			
-      </carousel>
-	
-		<image name="logo">
-		<path>./../assets/logos/logo/$system.png</path>
-	</image>
 
+<view name="system">
+     <carousel name="systemcarousel">
+			<type>vertical</type>
+			<pos>0.79 -0.0</pos>
+    <logoAlignment>right</logoAlignment>
+			<size>0.17 1</size>
+			<logoScale>1.2</logoScale>
+			<logoSize>0.10 0.10</logoSize>
+			<color>00000000</color>
+			<origin>0 0</origin>
+			<logoRotation>-6.5</logoRotation>
+			<logoRotationOrigin>0.5 0.5</logoRotationOrigin>
+			<maxLogoCount>7</maxLogoCount>
+			<zIndex>29</zIndex>
+			<systemInfoDelay>700</systemInfoDelay>
+		</carousel>
+
+<image name="logo">
+		<path>./../assets/logos/white_logo/$system.svg</path>
+	</image>
+ 
     <text name="systemInfo">
          <pos>0.032 0.868</pos>
-         <alignment>left</alignment>
    </text>
 	  
-   <helpsystem name="help">   
+
+   <helpsystem name="help">
          <pos>0.032 0.940</pos>      
    </helpsystem>
+
+<image name="background" extra="true">
+       <path>./_inc/bg-system-right.svg</path>
+      </image>
 
 	  </view>
 </theme>

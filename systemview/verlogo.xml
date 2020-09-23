@@ -18,7 +18,7 @@
     </carousel>
  
 	  	<image name="logo">
-		<path>./../assets/logos/logo/$system.png</path>
+		<path>./../assets/logos/white_logo/$system.svg</path>
 	</image>
     
     <text name="systemInfo">

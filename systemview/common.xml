@@ -26,6 +26,8 @@
          <alignment>left</alignment>
          <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.050</fontSize>
+         <glowColor>00000016</glowColor>
+         <glowSize>2</glowSize>
    </text>
 	  
   <helpsystem name="help">

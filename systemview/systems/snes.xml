@@ -7,17 +7,21 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-      </image>	
+      </image>
+
+    <image name="background" extra="true">
+      </image> 
+
 	  <text name="shortdescription" extra="true">
    <text>1990  ·  16-bit Console</text>
   </text>
 		<text name="description" extra="true">
+			<pos>0.700 0.29</pos>
+            <size>0.24 .27</size>
+            <lineSpacing>1.18</lineSpacing>
 			<text>Nintendo's second home console introduced advanced graphics and sound capabilities compared with other systems at the time, selling over 49 million units worldwide.</text>
 		</text>
 		
-		<text name="info1" extra="true">
-			<text>Super Nintendo</text>
-            <forceUppercase>1</forceUppercase>
-		</text>
+
 	</view>
 </theme>

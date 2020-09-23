@@ -34,7 +34,11 @@ Modded from Alekfull-SOLO
 + New detailed homepage layout complete.
 + Started working on xml files for systems with description, year of release etc.
 + Systemview's slimmed down and use common.xml as base for layout
-+ Sysmtem logo's moved to svg from png
++ System logo's moved to svg from png
+
+23/9/20
++ detailed system view finished
++ few extra svg's made for favourites etc
 
 To do
 

@@ -8,16 +8,19 @@
          <pos>0 0</pos>
          <size>1 1</size>
       </image>	
+
+    <image name="background" extra="true">
+      </image>  
+
 	  <text name="shortdescription" extra="true">
    <text>1983  ·  8-bit Console</text>
   </text>
 		<text name="description" extra="true">
+			<pos>0.700 0.29</pos>
+            <size>0.24 .37</size>
+            <lineSpacing>1.18</lineSpacing>
 			<text>The Nintendo Entertainment System is an 8-bit video game console that was released by Nintendo in North America during 1985.  As the best selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983.</text>
 		</text>
 		
-		<text name="info1" extra="true">
-			<text>Nintendo Entertainment System</text>
-            <forceUppercase>1</forceUppercase>
-		</text>
 	</view>
 </theme>

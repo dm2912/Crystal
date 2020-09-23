@@ -8,16 +8,19 @@
          <pos>0 0</pos>
          <size>1 1</size>
       </image>	
+
+    <image name="background" extra="true">
+      </image> 
 	  <text name="shortdescription" extra="true">
    <text>1991  ·  16-bit Console</text>
   </text>
 		<text name="description" extra="true">
+			<pos>0.700 0.29</pos>
+            <size>0.24 .57</size>
+            <lineSpacing>1.18</lineSpacing>
 			<text>The Sega CD is a CD-ROM accessory for the Sega Genesis video game console produced by Sega as part of the fourth generation of video game consoles. The Sega CD lets the user play CD-based games and adds extra hardware functionality, such as a faster central processing unit and graphic enhancements. It can also play audio CDs and CD+G discs.</text>
 		</text>
 		
-		<text name="info1" extra="true">
-			<text>Sega CD</text>
-            <forceUppercase>1</forceUppercase>
-		</text>
+
 	</view>
 </theme>

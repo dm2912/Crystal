@@ -40,14 +40,14 @@ Modded from Alekfull-SOLO
 + detailed system view finished
 + few extra svg's made for favourites etc
 
+26/9/20
++ all views complete
++ all svg optimised and finished
+
 To do
 
-+ Tidy up SVG overlays.. inkscape not snapping tight.. 
-+ Making help and rating consistent between views in library
-+ Add system logo's to all library pages
 + Setup the ability to switch between logo options (still trying to work out how the hell to do this)
 + XML files for systems with details/descriptions
-+ Box/Thumb view
 + Fanart view
 
 

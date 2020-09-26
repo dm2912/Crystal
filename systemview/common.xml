@@ -20,7 +20,7 @@
 	</image>
 
    <text name="systemInfo">
-         <pos>0.032 0.868</pos>
+         <pos>0.007 0.893</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>FFFFFF</color>
          <alignment>left</alignment>
@@ -33,7 +33,7 @@
   <helpsystem name="help">
          <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.025</fontSize>     
-         <pos>0.032 0.940</pos>      
+         <pos>0.007 0.965</pos>      
          <textColor>FFFFFF</textColor>
    </helpsystem>
 

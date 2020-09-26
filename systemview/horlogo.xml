@@ -7,13 +7,13 @@
   <view name="system">
     <carousel name="systemcarousel">
      <type>horizontal</type>
-     <pos>0.28 0.3</pos>
+     <pos>-.32 -0.38</pos>
       <size>1 1</size>
       <color>ffffff00</color>
       <logoScale>1</logoScale>
       <logoSize>0.3 1</logoSize>
       <maxLogoCount>1</maxLogoCount>
-    <logoAlignment>right</logoAlignment>
+    <logoAlignment>left</logoAlignment>
       <defaultTransition>instant</defaultTransition>	
     </carousel>
 	  
@@ -22,13 +22,19 @@
 	</image>
     
     <text name="systemInfo">
-         <pos>0.032 0.868</pos>
+         <pos>0.007 0.893</pos>
    </text>
 	  
    <helpsystem name="help"> 
-         <pos>0.032 0.940</pos>      
+         <pos>0.007 0.965</pos>      
    </helpsystem>
 
+<image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./_inc/bg_topbar.svg</path>
+      </image>
 
 	  </view>
   </feature>  

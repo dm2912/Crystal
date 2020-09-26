@@ -134,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1021785"
-     inkscape:cx="977.35492"
-     inkscape:cy="126.70668"
+     inkscape:zoom="0.27883624"
+     inkscape:cx="817.75312"
+     inkscape:cy="354.91793"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -165,25 +165,16 @@
      id="layer1"
      transform="translate(0,-106.50001)">
     <rect
-       style="fill:#100f2a;fill-opacity:0.82352941;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       id="rect139"
-       width="206.38217"
-       height="18.364895"
-       x="-4.7889218"
-       y="282.40247" />
-    <rect
-       y="101.46424"
-       x="-4.7889218"
-       height="180.93822"
-       width="206.38217"
-       id="rect955"
-       style="fill:#100f2a;fill-opacity:0.66666669;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226" />
-    <rect
-       style="fill:#100f2a;fill-opacity:0.82352941;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       id="rect1033"
-       width="140.40056"
-       height="200.14261"
-       x="201.59326"
-       y="101.46424" />
+       style="fill:#100f2a;fill-opacity:0.54850745;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       id="rect139-3"
+       width="246.27853"
+       height="183.49228"
+       x="-24.561836"
+       y="104.18684" />
+    <path
+       style="fill:#100f2a;fill-opacity:0.88235294;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 837.98438 -8.7421875 L 837.98438 684.77148 L -13.933594 684.77148 L -13.933594 727.19922 L 837.98438 727.19922 L 1292.5742 727.19922 L 1292.5742 684.77148 L 1292.5742 -8.7421875 L 837.98438 -8.7421875 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,106.50001)"
+       id="rect839" />
   </g>
 </svg>

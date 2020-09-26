@@ -24,14 +24,14 @@
 
 	<image name="toplogo" extra="true">
 		<path>./../assets/logos/white_logo/${system.theme}.svg</path>
-        <pos>0.748 0.11</pos>
+        <pos>0.773 0.11</pos>
          <maxSize>0.2 0.200</maxSize>
         <alignment>right</alignment>
       </image>
 
 	<image name="controller" extra="true">
 		<path>./../assets/logos/controllers/right/${system.theme}.png</path>
-        <pos>0.780 0.780</pos>
+        <pos>0.805 0.780</pos>
          <maxSize>0.20 0.20</maxSize>
         <alignment>right</alignment>
       </image> 
@@ -44,7 +44,7 @@
    <helpsystem name="help">
          <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.025</fontSize>     
-         <pos>0.032 0.940</pos>      
+         <pos>0.007 0.965</pos>      
          <textColor>FFFFFF</textColor>
    </helpsystem>  
 
@@ -52,13 +52,13 @@
  <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
 			<alignment>right</alignment>
 			<color>ffffff</color>
-			<fontSize>0.035</fontSize>			
-			<pos>0.420 0.05</pos>
+			<fontSize>0.0255</fontSize>			
+			<pos>0.445 0.05</pos>
             <size>0.52 0.0</size>
 		</text>
 
     <text name="systemInfo">
-         <pos>0.470 0.25</pos>
+         <pos>0.495 0.25</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>FFFFFF</color>
           <size>0.47 0.047</size>

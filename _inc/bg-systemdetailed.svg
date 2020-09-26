@@ -134,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.7293494"
-     inkscape:cx="998.73127"
-     inkscape:cy="17.794194"
+     inkscape:zoom="0.93233735"
+     inkscape:cx="495.73295"
+     inkscape:cy="219.84752"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -164,19 +164,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-106.50001)">
-    <rect
+    <path
        style="fill:#100f2a;fill-opacity:0.82352941;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       id="rect139"
-       width="236.54639"
-       height="18.364895"
-       x="-4.7889218"
-       y="282.40247" />
-    <rect
-       style="fill:#100f2a;fill-opacity:0.82352941;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       id="rect1033"
-       width="110.23636"
-       height="199.30313"
-       x="231.75746"
-       y="101.46424" />
+       d="M -228.02148 -729.7207 L -228.02148 -61.328125 L 1082.6523 -61.328125 L 1082.6523 -729.7207 L -228.02148 -729.7207 z M 916.88281 -8.7421875 L 916.88281 684.77148 L -5.1953125 684.77148 L -5.1953125 727.19922 L 1292.5742 727.19922 L 1292.5742 697.64258 L 1292.5742 684.77148 L 1292.5742 -8.7421875 L 916.88281 -8.7421875 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,106.50001)"
+       id="rect139" />
   </g>
 </svg>

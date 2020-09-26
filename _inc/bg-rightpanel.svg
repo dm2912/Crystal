@@ -134,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.38967896"
-     inkscape:cx="1145.4175"
-     inkscape:cy="148.71038"
+     inkscape:zoom="0.32963103"
+     inkscape:cx="-340.93288"
+     inkscape:cy="610.27156"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -164,26 +164,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-106.50001)">
-    <rect
-       style="fill:#100f2a;fill-opacity:0.82352942;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       id="rect139"
-       width="346.78275"
-       height="18.364895"
-       x="-4.7889218"
-       y="282.40247" />
-    <rect
-       y="101.46424"
-       x="-4.7889218"
-       height="180.93822"
-       width="224.50639"
-       id="rect955"
-       style="fill:#100f2a;fill-opacity:0.66666667;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226" />
-    <rect
+    <path
        style="fill:#100f2a;fill-opacity:0.82352941;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       id="rect1033"
-       width="122.27634"
-       height="180.94003"
-       x="219.71748"
-       y="101.46424" />
+       d="M 960.73633 -8.7441406 L 960.73633 684.77148 L -5.1953125 684.77148 L -5.1953125 727.19922 L 1292.5742 727.19922 L 1292.5742 684.77148 L 1292.5742 -8.7441406 L 960.73633 -8.7441406 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,106.50001)"
+       id="rect139" />
+    <rect
+       style="fill:#100f2a;fill-opacity:0.54901963;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       id="rect139-3"
+       width="256.37234"
+       height="183.49228"
+       x="-2.1775298"
+       y="104.18685" />
   </g>
 </svg>

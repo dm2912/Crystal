@@ -13,7 +13,7 @@
       </image> 
 	
 		<text name="description" extra="true">
-			<pos>0.700 0.29</pos>
+			<pos>0.725 0.29</pos>
             <size>0.24 .57</size>
             <lineSpacing>1.18</lineSpacing>
 			<text></text>

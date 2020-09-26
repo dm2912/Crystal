@@ -38,15 +38,12 @@
 	<xbox2>X-Box Reverse</xbox2>
 	<icondef>Standard icons</icondef>
 <!-- System layouts -->		
-	<horizontal>Horizontal Menu (Text)</horizontal>
+	<horizontal>Horizontal Menu (Controllers)</horizontal>
 	<verticalc>Right Side Carousel (Text)</verticalc>
-	<verticalm>Vertical Menu (Text)</verticalm>	
     <reversec>Left Side Carousel (Text)</reversec>
 	<horizontala>Horizontal Menu (Logo)</horizontala>
 	<verticalca>Right Side Carousel (Logo)</verticalca>
-	<verticalma>Vertical Menu (Logo)</verticalma>	
     <reverseca>Left Side Carousel (Logo)</reverseca>
-	<horizontalc>Horizontal Menu (Console)</horizontalc>
 	<systemdetails>Detailed (Horizontal Navigation)</systemdetails>
 <!-- Submenus -->
     <subset.systemview>Homepage Layout</subset.systemview>

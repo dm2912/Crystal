@@ -6,54 +6,55 @@
 		
 	<langue>fr</langue>
 		
-<!-- Global-->
-	<yes> Oui </yes>
-	<no> Non </no>
+<!-- Global -->
+    <yes> Oui </yes>
+    <no> Non </no>
     <none> Aucun </none>
     <sysmusic> Activé </sysmusic>
     <nomusic> Aléatoire </nomusic>
     <silence> Sans musique de fond </silence>
-	<default> Par défaut </default>
-<!-- Vues de la bibliothèque-->
-	<basiclist> Liste simple </basiclist>
+    <default> Par défaut </default>
+<!-- Vues de la bibliothèque -->
+    <basiclist> Liste simple </basiclist>
     <basicGridDetailsName> Grille / détaillée </basicGridDetailsName>
-    <carouselViewName> Carrousel </carouselViewName>
+    <carouselViewName> Carousel </carouselViewName>
     <carouselposterViewName> Carrousel / détaillé </carouselposterViewName>
-	<tilesViewName> Tuiles </tilesViewName>
+    <tilesViewName> Tuiles </tilesViewName>
     <tilesVideoViewName> Tuiles avec vidéo </tilesVideoViewName>
     <tilesVideoMarqueeViewName> Tuiles avec vidéo et logos </tilesVideoMarqueeViewName>
     <fanartViewName> Fanart (par défaut) </fanartViewName>
-	<fanartvlViewName> Fanart (vidéo plein écran) </fanartvlViewName>
-<!-- arrière-plans-->
-	<defaultbg> SOLO (Léger) </defaultbg>
-	<darkbg> SOLO (sombre) </darkbg>
+    <fanartvlViewName> Fanart (vidéo plein écran) </fanartvlViewName>
+<!-- arrière-plans -->
+    <defaultbg> SOLO (Léger) </defaultbg>
+    <darkbg> SOLO (sombre) </darkbg>
     <bellabg> Bella </bellabg>
-	<systembg> Console </systembg>
-	<artflixbg> Artflix </artflixbg>
-	<arcade> Arcade </arcade>
-<!-- Icônes d'aide-->
-	<snes> Super Nintendo </snes>
-	<snesalt> Super Nintendo (Alt) </snesalt>
-	<psx> Playstation </psx>
-	<xbox> X-Box </xbox>
-	<me1> Mod X-Box </me1>
-	<me2> Mod Super Nintendo </me2>
-	<icondef> Icônes standard </icondef>
-<!-- Dispositions système-->
-	<horizontal> Menu horizontal (texte) </horizontal>
-	<verticalc> Carrousel vertical (texte) </verticalc>
-	<verticalm> Menu vertical (texte) </verticalm>
-    <reversec> Carrousel inversé (texte) </reversec>
-	<horizontala> Menu horizontal (icône) </horizontala>
-	<verticalca> Carrousel vertical (icône) </verticalca>
-	<verticalma> Menu vertical (icône) </verticalma>
-    <reverseca> Carrousel inversé (icône) </reverseca>
-<!-- Sous-menus-->
+    <systembg> Console </systembg>
+    <artflixbg> Artflix </artflixbg>
+    <arcade> Arcade </arcade>
+<!-- Styles de logo -->
+    <whitelog> Logo blanc </whitelog>
+    <colorlog> Logo couleur </colorlog>
+    <conlog>Contrôleurs </conlog>
+    <textlog> Logo texte </textlog>
+<!-- Icônes d'aide -->
+    <snes> Super Nintendo </snes>
+    <PSX> Playstation </PSX>
+    <Xbox> X-Box </Xbox>
+    <xbox2> X-Box Reverse </xbox2>
+    <icondef> Icônes standard </icondef>
+<!-- Dispositions système -->
+    <horizontal> Menu horizontal </horizontal>
+    <rhc> Carrousel du côté droit </rhc>
+    <lhc> Carrousel latéral gauche </lhc>
+    <systemdetails> Détaillé </systemdetails>
+<!-- Sous-menus -->
     <subset.systemview> Présentation de la page d'accueil </subset.systemview>
     <subset.colorset> Images d'arrière-plan </subset.colorset>
     <subset.iconset> Icônes de menu </subset.iconset>
     <subset.shader> Shaders de thème </subset.shader>
-	<subset.music> Musique système </subset.music>
+    <subset.music> Musique système </subset.music>
+    <subset.logoset> Style du logo système </subset.logoset>
+
 	</variables>
 	
 </theme>

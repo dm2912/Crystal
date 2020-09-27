@@ -7,53 +7,53 @@
 	<langue>es</langue>
 		
 <!-- Global -->
-	<yes> Sí </yes>
-	<no> No </no>
+    <yes> Sí </yes>
+    <no> No </no>
     <none> Ninguno </none>
     <sysmusic> Activado </sysmusic>
     <nomusic> Aleatorio </nomusic>
     <silence> Sin música de fondo </silence>
-	<default> Predeterminado </default>
+    <default> Predeterminado </default>
 <!-- Vistas de biblioteca -->
-	<basiclist> Lista simple </basiclist>
+    <basiclist> Lista simple </basiclist>
     <basicGridDetailsName> Cuadrícula / Detallado </basicGridDetailsName>
     <carouselViewName> Carrusel </carouselViewName>
     <carouselposterViewName> Carrusel / Detallado </carouselposterViewName>
-	<tilesViewName> Azulejos </tilesViewName>
+    <tilesViewName> Azulejos </tilesViewName>
     <tilesVideoViewName> Mosaicos con video </tilesVideoViewName>
     <tilesVideoMarqueeViewName> Azulejos con video y logotipos </tilesVideoMarqueeViewName>
     <fanartViewName> Fanart (predeterminado) </fanartViewName>
-	<fanartvlViewName> Fanart (video en pantalla completa) </fanartvlViewName>
+    <fanartvlViewName> Fanart (video en pantalla completa) </fanartvlViewName>
 <!-- fondos -->
-	<defaultbg> SOLO (ligero) </defaultbg>
-	<darkbg> SOLO (oscuro) </darkbg>
+    <defaultbg> SOLO (ligero) </defaultbg>
+    <darkbg> SOLO (oscuro) </darkbg>
     <bellabg> Bella </bellabg>
-	<systembg> Consola </systembg>
-	<artflixbg> Artflix </artflixbg>
-	<arcade> Arcade </arcade>
+    <systembg> Consola </systembg>
+    <artflixbg> Artflix </artflixbg>
+    <arcade> Arcade </arcade>
+<!-- Estilos de logotipo -->
+    <whitelog> Logotipo blanco </whitelog>
+    <colorlog> Logotipo de color </colorlog>
+    <conlog> Controladores </conlog>
+    <textlog> Logotipo de texto </textlog>
 <!-- Iconos de ayuda -->
-	<snes> Super Nintendo </snes>
-	<snesalt> Super Nintendo (Alt) </snesalt>
-	<psx> Playstation </psx>
-	<xbox> X-Box </xbox>
-	<me1> X-Box Mod </me1>
-	<me2> Super Nintendo Mod </me2>
-	<icondef> Iconos estándar </icondef>
+    <snes> Super Nintendo </snes>
+    <PSX> Playstation </PSX>
+    <Xbox> X-Box </Xbox>
+    <xbox2> X-Box inversa </xbox2>
+    <icondef> Iconos estándar </icondef>
 <!-- Diseños del sistema -->
-	<horizontal> Menú horizontal (texto) </horizontal>
-	<verticalc> Carrusel vertical (texto) </verticalc>
-	<verticalm> Menú vertical (texto) </verticalm>
-    <reversec> Carrusel inverso (texto) </reversec>
-	<horizontala> Menú horizontal (icono) </horizontala>
-	<verticalca> Carrusel vertical (icono) </verticalca>
-	<verticalma> Menú vertical (icono) </verticalma>
-    <reverseca> Carrusel inverso (icono) </reverseca>
+    <horizontal> Menú horizontal </horizontal>
+    <rhc> Carrusel del lado derecho </rhc>
+    <lhc> Carrusel del lado izquierdo </lhc>
+    <systemdetails> Detallado </systemdetails>
 <!-- Submenús -->
     <subset.systemview> Diseño de la página de inicio </subset.systemview>
     <subset.colorset> Imágenes de fondo </subset.colorset>
     <subset.iconset> Iconos de menú </subset.iconset>
     <subset.shader> Sombreadores de temas </subset.shader>
-	<subset.music> Música del sistema </subset.music>
+    <subset.music> Música del sistema </subset.music>
+    <subset.logoset> Estilo del logotipo del sistema </subset.logoset>
 		
 	</variables>
 	

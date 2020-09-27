@@ -44,9 +44,12 @@ Modded from Alekfull-SOLO
 + all views complete
 + all svg optimised and finished
 
+27/9/20
++ System logo's can now be changed independant of layout
+
 To do
 
-+ Setup the ability to switch between logo options (still trying to work out how the hell to do this)
++ Tidy up logo files to align properly in all views
 + XML files for systems with details/descriptions
 + Fanart view
 

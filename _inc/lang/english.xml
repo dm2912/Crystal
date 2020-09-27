@@ -31,6 +31,11 @@
 	<systembg>Console</systembg>
 	<artflixbg>Artflix</artflixbg>
 	<arcade>Arcade</arcade>
+<!-- Logo Styles -->
+	<whitelog>White Logo's</whitelog>
+	<colorlog>Color Logo's</colorlog>
+	<conlog>Controllers</conlog>
+    <textlog>Text Logo's</textlog>
 <!-- Help Icons -->
 	<snes>Super Nintendo</snes>
 	<psx>Playstation</psx>
@@ -38,19 +43,16 @@
 	<xbox2>X-Box Reverse</xbox2>
 	<icondef>Standard icons</icondef>
 <!-- System layouts -->		
-	<horizontal>Horizontal Menu (Controllers)</horizontal>
-	<verticalc>Right Side Carousel (Text)</verticalc>
-    <reversec>Left Side Carousel (Text)</reversec>
-	<horizontala>Horizontal Menu (Logo)</horizontala>
-	<verticalca>Right Side Carousel (Logo)</verticalca>
-    <reverseca>Left Side Carousel (Logo)</reverseca>
-	<systemdetails>Detailed (Horizontal Navigation)</systemdetails>
+	<horizontal>Horizontal Menu</horizontal>
+	<rhc>Right Side Carousel</rhc>
+    <lhc>Left Side Carousel</lhc>
+	<systemdetails>Detailed</systemdetails>
 <!-- Submenus -->
     <subset.systemview>Homepage Layout</subset.systemview>
     <subset.colorset>Background Images</subset.colorset>
     <subset.iconset>Menu Icons</subset.iconset>
     <subset.shader>Theme Shaders</subset.shader>
 	<subset.music>System Music</subset.music>
-		
+	<subset.logoset>System Logo Style</subset.logoset>
 	</variables>
 </theme>

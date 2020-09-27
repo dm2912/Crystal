@@ -16,8 +16,8 @@
    <text>1989 · 16-bit Handheld</text>
   </text>
 		<text name="description" extra="true">
-			<pos>0.725 0.29</pos>
-            <size>0.24 .37</size>
+			<pos>0.750 0.29</pos>
+            <size>0.225 .37</size>
             <lineSpacing>1.18</lineSpacing>
 			<text>The Atari Lynx is a 16-bit handheld game console that was developed and distributed by Atari Corporation. It was released in September 1989 in North America at a retail price of $149.95. The Lynx was the world's first handheld electronic game with a color LCD screen.</text>
 		</text>

@@ -13,13 +13,13 @@
       </image> 
 
 	  <text name="shortdescription" extra="true">
-   <text>year  ·  x-bit Console</text>
+   <text></text>
   </text>
 		<text name="description" extra="true">
 			<pos>0.725 0.29</pos>
             <size>0.24 .57</size>
             <lineSpacing>1.18</lineSpacing>
-			<text>description here</text>
+			<text></text>
 		</text>
 		
 	</view>

@@ -3,7 +3,7 @@
     <formatVersion>4</formatVersion>
 	<view name="system">		
 		<image name="logo">
-		<path>./../assets/logos/color_logo/${system.theme}.svg</path>
+		<path>./../assets/logos/controllers/left/${system.theme}.png</path>
 	    </image>
     </view>
 </theme>

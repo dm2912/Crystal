@@ -41,7 +41,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./_inc/bg-simple.svg</path>
+         <path>./_inc/backgrounds/bg-simple.svg</path>
       </image>
    </view>
 
@@ -81,7 +81,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./_inc/bg-detailed.svg</path>
+         <path>./_inc/backgrounds/bg-detailed.svg</path>
       </image>
       <rating name="md_rating">
          <pos>0.675 0.080</pos>
@@ -208,7 +208,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./_inc/bg-simple.svg</path>
+         <path>./_inc/backgrounds/bg-simple.svg</path>
       </image>
       <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
          <color>A0A0B000</color>
@@ -279,7 +279,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./_inc/bg-detailed.svg</path>
+         <path>./_inc/backgrounds/bg-detailed.svg</path>
       </image>
 	   
       <image name="md_image">
@@ -414,7 +414,7 @@
          <pos>0 0</pos>
          <size>1 1</size>
 			<zIndex>1</zIndex>
-         <path>./_inc/bg-simple.svg</path>
+         <path>./_inc/backgrounds/bg-simple.svg</path>
       </image>
 	
 	<customView name="Carousel Poster" inherits="Carousel" displayName="${carouselposterViewName}">

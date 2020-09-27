@@ -16,7 +16,6 @@
       </image>	  
 	  
 	<image name="logo">
-		<path>./../assets/logos/default/${system.theme}.png</path>
 	</image>
 
    <text name="systemInfo">
@@ -41,7 +40,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./_inc/bg-bottombar.svg</path>
+         <path>./_inc/backgrounds/bg-bottombar.svg</path>
       </image>
 	  </view>
   </feature>  

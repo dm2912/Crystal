@@ -23,7 +23,7 @@
 	</image>
 
 	<image name="toplogo" extra="true">
-		<path>./../assets/logos/white_logo/${system.theme}.svg</path>
+		<path>./../assets/logos/color_logo/${system.theme}.svg</path>
         <pos>0.773 0.11</pos>
          <maxSize>0.2 0.200</maxSize>
         <alignment>right</alignment>
@@ -80,7 +80,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./../_inc/bg-systemdetailed.svg</path>
+         <path>./../_inc/backgrounds/bg-systemdetailed.svg</path>
       </image> 
 
 

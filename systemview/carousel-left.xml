@@ -19,7 +19,6 @@
 		</carousel>
 
 		<image name="logo">
-		<path>./../assets/logos/white_logo/${system.theme}.svg</path>
 	</image>
 
 	  <text name="systemInfo">
@@ -32,7 +31,7 @@
    </helpsystem> 
 
 <image name="background" extra="true">
-       <path>./_inc/bg-system-left.svg</path>
+       <path>./_inc/backgrounds/bg-system-left.svg</path>
       </image>
  
 </view>

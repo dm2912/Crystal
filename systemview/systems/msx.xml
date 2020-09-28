@@ -13,13 +13,12 @@
       </image> 
 
 	  <text name="shortdescription" extra="true">
-   <text>year  ·  x-bit Console</text>
+   <text>1983  ·  8-bit Computer</text>
   </text>
 		<text name="description" extra="true">
-			<pos>0.750 0.29</pos>
-            <size>0.225 .37</size>
-            <lineSpacing>1.18</lineSpacing>
-			<text>description here</text>
+				<pos>0.742 0.37</pos>
+            <size>0.225 .27</size>
+			<text>${msx}</text>
 		</text>
 		
 	</view>

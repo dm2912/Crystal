@@ -16,10 +16,9 @@
    <text>1990  ·  16-bit Console</text>
   </text>
 		<text name="description" extra="true">
-			<pos>0.750 0.29</pos>
-            <size>0.225 .27</size>
-            <lineSpacing>1.18</lineSpacing>
-			<text>Nintendo's second home console introduced advanced graphics and sound capabilities compared with other systems at the time, selling over 49 million units worldwide.</text>
+			<pos>0.742 0.37</pos>
+            <size>0.225 .32</size>
+			<text>${snes}</text>
 		</text>
 		
 

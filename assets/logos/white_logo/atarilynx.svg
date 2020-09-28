@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="355"
-   height="103"
-   viewBox="0 0 332.81254 96.562433"
+   width="500"
+   height="200"
+   viewBox="0 0 468.75006 187.49987"
    id="svg4913"
    version="1.1"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3685315"
-     inkscape:cx="206.61915"
-     inkscape:cy="32.523185"
+     inkscape:zoom="1.8318176"
+     inkscape:cx="206.742"
+     inkscape:cy="63.641484"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,10 +57,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-955.80003)">
+     transform="translate(0,-864.86256)">
     <g
        id="g47"
-       transform="matrix(1.0003124,0,0,1.1018677,0.79313919,-99.955399)">
+       transform="matrix(1.4187344,0,0,1.5627694,-2.6249826,-613.3822)">
       <rect
          y="989.57263"
          x="8.5938168"
@@ -122,7 +122,7 @@
     <g
        style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:1"
        id="Group"
-       transform="matrix(0.60756827,0,0,0.48917257,10.16058,964.19326)">
+       transform="matrix(0.8617088,0,0,0.6937892,10.660777,895.8906)">
       <path
          d="m 12.225684,1.7982222 c 1.610049,-2.05988301 4.942606,-2.4117333 6.917866,-0.6836585 0.808365,0.6814316 1.373998,1.6200702 1.663495,2.6288561 3.656571,12.5842152 7.329843,25.1617492 10.98196,37.7448502 -2.157867,0.0022 -4.31796,-0.0033 -6.474713,0.0022 -1.017694,-3.468397 -2.012005,-6.944589 -3.016337,-10.41744 -4.174325,-0.01113 -8.34531,-0.0033 -12.5185213,-0.0056 -1.0210339,3.471738 -2.0298198,6.946817 -3.034152,10.423008 -2.1467321,-0.0078 -4.2934642,-0.0022 -6.44019633,-0.0045 C 3.7801637,29.484163 7.2585823,17.477829 10.749249,5.4792888 c 0.414203,-1.253745 0.5712,-2.6544655 1.476435,-3.6810666 m 3.810227,7.7117565 C 14.504917,14.723153 13.006213,19.945235 11.48524,25.161749 c 3.033038,0.01448 6.064963,0.0045 9.096888,0.0045 C 19.064495,19.947461 17.554657,14.727607 16.035911,9.5099787 Z"
          id="Shape"

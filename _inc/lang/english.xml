@@ -30,18 +30,19 @@
     <bellabg>Bella</bellabg>
 	<systembg>Console</systembg>
 	<artflixbg>Artflix</artflixbg>
-	<arcade>Arcade</arcade>
 <!-- Logo Styles -->
+
 	<whitelog>White Logo's</whitelog>
 	<colorlog>Color Logo's</colorlog>
 	<conlog>Controllers</conlog>
     <textlog>Text Logo's</textlog>
 <!-- Help Icons -->
-	<snes>Super Nintendo</snes>
-	<psx>Playstation</psx>
-	<xbox>X-Box</xbox>
-	<xbox2>X-Box Reverse</xbox2>
-	<icondef>Standard icons</icondef>
+			<iarcade>Arcade</iarcade>
+	<isnes>Super Nintendo</isnes>
+	<ipsx>Playstation</ipsx>
+	<ixbox>X-Box</ixbox>
+	<ixbox2>X-Box Reverse</ixbox2>
+	<idefault>Standard icons</idefault>
 <!-- System layouts -->		
 	<horizontal>Horizontal Menu</horizontal>
 	<rhc>Right Side Carousel</rhc>
@@ -54,5 +55,69 @@
     <subset.shader>Theme Shaders</subset.shader>
 	<subset.music>System Music</subset.music>
 	<subset.logoset>System Logo Style</subset.logoset>
+<!-- System descriptions -->
+    <psx>The PlayStation (unofficially abbreviated as PSX) is a home video game console developed and marketed by Sony Computer Entertainment.  The original console in the series was the first console of any type to ship over 100 million units, doing so in under a decade.</psx>
+    <threedo>The 3DO is a home video game console conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not manufactured by the company itself. Panasonic produced the first models, and further renditions of the hardware were released by GoldStar and Sanyo. </threedo>
+    <amiga>The Amiga is a family of personal computers marketed by Commodore in the 1980s and 1990s. The first model was launched in 1985 as a high-end home computer and became popular for its graphical, audio and multi-tasking abilities</amiga>
+    <cpc>The CPC 464 was the first personal home computer built by Amstrad in 1984. It was one of the bestselling and best produced microcomputers, with more than 2 million units sold in Europe. </cpc>
+    <arcade>An arcade game or coin-op is a coin-operated entertainment machine typically installed in public businesses such as restaurants, bars and amusement arcades. The golden age of arcade video games is usually defined as a period beginning sometime in the late 1970s and ending sometime in the mid-1980s.</arcade>
+    <atari2600>The Atari Video Computer System (VCS), is a second generation (1976–1992) home video game console developed and distributed by Atari, Inc. It was released on September 11, 1977 in North America at a retail price of $199.</atari2600>
+    <atari5200>The Atari 5200 SuperSystem, is a second generation console developed and distributed by Atari. The 5200 came with an innovative controller featuring a 360-degree non-centering joystick with a numeric keypad, start, pause, and reset buttons.</atari5200>
+    <atari7800>The Atari 7800 Pro System is a third generation console developed and distributed by Atari Corporation. The 7800 is considered one of the first backward-compatible consoles as it could play Atari 2600 games without the use of additional modules.</atari7800>
+    <jaguar>The Atari Jaguar is a home video game console developed by Atari Corporation and released in North America in November 1993. Part of the fifth generation of video game consoles, it competed with the 16-bit Sega Genesis and Super NES and the 32-bit 3DO Interactive Multiplayer which launched the same year.</jaguar>
+    <lynx>The Atari Lynx is a 16-bit handheld game console that was developed and distributed by Atari Corporation. It was released in September 1989 in North America at a retail price of $149.95. The Lynx was the world's first handheld electronic game with a color LCD screen.</lynx>
+    <atarist>The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family. The 1040ST, released in 1986, is the first personal computer to ship with a megabyte of RAM in the base configuration and also the first with a cost-per-kilobyte of less than US $1.</atarist>
+    <atomis>The Atomiswave is a custom arcade system board and cabinet from Sammy Corporation and is based on Sega's NAOMI system board. The Atomiswave uses interchangeable game cartridges and the cabinet's control panel can be easily switched out with dual joysticks, dual lightguns or a steering wheel.</atomis>
+    <c16>The C16 was a home computer made by Commodore International,intended to be an entry-level computer to replace the VIC-20</c16>
+    <c64>The Commodore 64 is an 8-bit home computer introduced in January 1982 by Commodore International. It is listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units.</c64>
+    <c128>The Commodore 128, also known as the C128, C-128, C= 128, is the last 8-bit home computer that was commercially released by Commodore Business Machines (CBM). Introduced in January 1985 at the CES in Las Vegas, it appeared three years after its predecessor, the bestselling Commodore 64.</c128>
+    <dreamcast>The Dreamcast is a 128-bit video game console which was released by Sega in late 1998 in Japan and from September 1999 in other territories. It was the first entry in the sixth generation of video game consoles, preceding Sony's PlayStation 2, Microsoft's Xbox and the Nintendo GameCube.</dreamcast>
+    <famicom>The Nintendo Famicom is an 8-bit video game console that was released by Nintendo in Japan in 1983. It was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC.</famicom>
+    <fds>The Family Computer Disk System is a peripheral for Nintendo's Family Computer console, released in Japan on February 21, 1986. It uses proprietary floppy disks called "Disk Cards" for data storage. </fds>
+    <gameandwatch>Line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi</gameandwatch>
+    <gamegear>The Sega Game Gear was Sega's first handheld game console. It was the third commercially available color handheld console, after the Atari Lynx and the TurboExpress.  It shares much of its hardware with the Master System, and can play Master System games by the use of an adapter.</gamegear>
+    <gb>The Game Boy is an 8-bit handheld video game console released in North America in August 1989.  As the first handheld console in the Game Boy line, it was created by Gunpei Yokoi and Nintendo's Research and Development who had designed the Game and Watch series.</gb>
+    <gba>The Game Boy Advance is a 32-bit handheld video game console developed by Nintendo as the successor to the Game Boy Color. Nintendo's competitors in the handheld market at the time were the Neo Geo Pocket Color, WonderSwan, GP32, Tapwave Zodiac, and the N-Gage.</gba>
+    <gbc>The Game Boy Color, (abbreviated as GBC) is a handheld game console manufactured by Nintendo, which was released in 1998.  It is the successor of the Game Boy and features a color screen, but no backlight.</gbc>
+    <genesis>The Genesis (Mega Drive outside of the U.S.) was Sega's third console and the successor to the Master System. The main microprocessor of the Genesis is a 16/32-bit Motorola 68000 CPU clocked at 7.6 MHz. The console also provided backwards compatibility with the Master System.</genesis>
+    <intellivision>The Intellivision is a home video game console released by Mattel Electronics, and was in direct competition with the Atari 2600</intellivision>
+    <mame>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s</mame>
+    <mastersystem>The Master System is a third-generation video game console that was released by Sega in 1985. The Master System was a direct competitor to the Nintendo Entertainment System and was technically superior to the NES, which predated its release significantly.</mastersystem>
+    <megadrive>The Megadrive was Sega's third console and the successor to the Master System. The main microprocessor of the Megadrive is a 16/32-bit Motorola 68000 CPU clocked at 7.6 MHz. The console also provided backwards compatibility with the Master System.</megadrive>
+    <msx>MSX is a standardized home computer architecture, announced by Microsoft and ASCII on June 16, 1983.  Before the success of Nintendo's Family Computer, MSX was the platform for which major Japanese game studios such as Konami and Hudson Soft produced video games.</msx>
+    <n64>Codenamed Ultra64, the Nintendo 64 was released in 1996 and was the last major home console to use the cartridge as its primary storage format.  32.93 million units were sold worldwide, with it's main competitors being the Sony PlayStation and the Sega Saturn.</n64>
+    <naomi>The Sega NAOMI (New Arcade Operation Machine Idea) is an arcade system board released in 1998 as a successor to Sega Model 3 hardware. It uses the same architecture as the Sega Dreamcast, and stands as one of Sega's most successful arcade systems of all time, along with the Sega Model 2.</naomi>
+    <nds>The Nintendo DS is a 32-bit dual-screen handheld game console developed and released by Nintendo. The device went on sale in North America on November 21, 2004. The DS, short for "Developers' System" or "Dual Screen", introduced distinctive new features to handheld gaming.</nds>
+    <neocd>The Neo•Geo CD was SNK's second home console, released as a cheaper alternative the the AES system.  The internal harware is the same, but the games run on much cheaper to produce CD-ROMs.  This allowed SNK to sell games at a more competative price point.</neocd>
+    <neogeo>The Neo•Geo AES was originally launched as a rental console for video game stores in Japan (called Neo Geo Rental System), with its high price causing SNK not to release it for home use – this was later reversed due to high demand and it came into the market as a luxury console.</neogeo>
+    <nes>The Nintendo Entertainment System is an 8-bit video game console that was released by Nintendo in North America during 1985.  As the best selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983.</nes>
+    <ngp>The Neo Geo Pocket is a monochrome handheld game console released by SNK. It was the company's first handheld system and is part of the Neo Geo family. It debuted in Japan in late 1998.</ngp>
+    <ngpc>The Neo Geo Pocket Color is a 16-bit color handheld video game console manufactured by SNK. It is a successor to SNK's monochrome Neo Geo Pocket handheld which debuted in 1998 in Japan, with the Color being fully backward compatible.</ngpc>
+    <pc88>Lineup of Japanese 8-bit personal computers manufactured by NEC from 1979 to 1989.</pc88>
+    <pc98>Lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000</pc98>
+    <pcengine>The PC Engine was released in Japan on October 30, 1987.  It gained strong third-party support and outsold the Famicom at its 1987 debut, eventually becoming the Super Famicom's main rival</pcengine>
+    <pcfx>The PC-FX is a 32-bit home video game console release in 1994. It was intended as the successor to the PC Engine and its international counterpart the TurboGrafx-16, two successful video game consoles from the late 1980s. It is NEC's final foray into the home console market.</pcfx>
+    <ports>Multi-platform ports of software and game engines from PC to DOS</ports>
+    <psp>The PlayStation Portable (PSP) is a handheld game console developed by Sony and released in 2005. It was the first real competitor to Nintendo's handheld domination, where many challengers, such as SNK's Neo Geo Pocket and Nokia's N-Gage, failed.</psp>
+    <residual>Play the classic "Point and Click" 3d graphic adventure games from different platforms and systems like MS-DOS, C64, Apple II or PC</residual>
+    <saturn>The Saturn was initially successful in Japan but failed to sell in large numbers in the U.S. after its May 1995 launch, four months before its scheduled release date. Although it is remembered for several well regarded games, its reputation is mixed due to its complex hardware design.</saturn>
+    <scumm>Play the classic "Point and Click" graphic adventure games from different platforms and systems like MS-DOS, C64, Apple II or PC</scumm>
+    <sega32x>The Sega 32X is an add-on for the Sega Genesis video game console. Codenamed "Project Mars", the 32X was designed to expand the power of the Genesis  until the release of the Sega Saturn. Independent of the Genesis, the 32X uses its own ROM cartridges and has its own library of games.</sega32x>
+    <segacd>The Sega CD is a CD-ROM accessory for the Sega Genesis video game console produced by Sega as part of the fourth generation of video game consoles. The Sega CD lets the user play CD-based games and adds extra hardware functionality, such as a faster central processing unit and graphic enhancements.</segacd>
+    <sfc>The Super Famicom is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan.  The system was renamed as Super Nintendo in other countries.</sfc>
+    <sg-1000>Sega's SG-1000 (a.k.a Mark I) was the company's first attempt at home consoles, released in July of 1983.  It was a pretty advanced system for its time and featured impressive technical specifications.  Sega released an updated version of the console called the SG-1000 Mark II.</sg-1000>
+    <snes>Nintendo's second home console introduced advanced graphics and sound capabilities compared with other systems at the time, selling over 49 million units worldwide. The console introduced advanced graphics and sound capabilities compared with other systems at the time. </snes>
+    <supergrafx>The SuperGrafx is the successor system to the PC Engine. Originally known as the PC Engine 2 during production stages, it was purported as a true 16-bit home console, featuring improved graphics and audio capabilities over its predecessor.  Only 6 games were released that took advantage of the hardware.</supergrafx>
+    <tg16>TurboGrafx-16, fully titled as TurboGrafx-16 Entertainment SuperSystem and known in Japan as the PC Engine, is a video game console developed by Hudson Soft and NEC, released in Japan on October 30, 1987, and in North America on August 29, 1989.</tg16>
+    <tg16cd>The TurboGrafx-CD is an add on for the TurboGrafx-16. It was released to expand the library of games of the TurboGrafx 16.  It adds the ability to play full motion video and CD audio as well as greatly expanded storage capacity.</tg16cd>
+    <vectrex>The Vectrex is a unique vector display-based home video game console developed by Smith Engineering. It was first released in North America in November 1982 and then Europe and Japan in 1983.</vectrex>
+    <vic20>The VIC-20 was the first computer of any description to sell one million units.</vic20>
+    <videopac>The Magnavox Odyssey 2, also known as Philips Odyssey 2, is a second generation home video game console that was released in 1978. It was sold in Europe as the Philips Videopac G7000, in Brazil as the Philips Odyssey and in Japan as Odyssey2.</videopac>
+    <virtualboy>The Virtual Boy is a 32-bit tabletop portable video game console created by Nintendo. It was marketed as the first console capable of displaying stereoscopic "3D" graphics. Sales failed to meet targets, and Nintendo ceased distribution and game development in 1996.</virtualboy>
+    <wonderswan>Powered by a 16 bit central processing unit, it took advantage of a low price point and long battery life in comparison to its competition</wonderswan>
+    <wsc>Powered by a 16 bit central processing unit, it took advantage of a low price point and long battery life in comparison to its competition</wsc>
+    <x68000>The X68000 is a series of 32-bit Japanese computers created by Sharp. It was the first home system to offer true arcade-quality graphics, also serving as the development machine for the Capcom CPS arcade system.</x68000>
+    <zx81>The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Dundee, Scotland, by Timex Corporation. It was launched in the United Kingdom in March 1981 as the successor to Sinclair's ZX80 and designed to be a low-cost introduction to home computing for the general public.</zx81>
+    <spectrum>The ZX Spectrum is an 8-bit personal home computer released in the United Kingdom in 1982 by Sinclair Research.  Referred to during development as the ZX81 Colour and ZX82, it was launched as the ZX Spectrum by Sinclair to highlight the machine's colour display</spectrum>
 </variables>
 </theme>

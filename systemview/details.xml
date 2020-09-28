@@ -22,8 +22,7 @@
 		<path>./../assets/logos/controllers/right/${system.theme}.png</path>
 	</image>
 
-	<image name="toplogo" extra="true">
-		<path>./../assets/logos/color_logo/${system.theme}.svg</path>
+	<image name="logo" extra="true">
         <pos>0.773 0.11</pos>
          <maxSize>0.2 0.200</maxSize>
         <alignment>right</alignment>
@@ -69,7 +68,6 @@
 
 
 		<text name="description" extra="true">
-        <origin>0 0</origin>
            <fontPath>./../_inc/fonts/OpenSans-Semi-Bold.ttf</fontPath>
 			<alignment>right</alignment>
 			<color>ffffff</color>

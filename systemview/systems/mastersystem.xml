@@ -16,10 +16,9 @@
    <text>1985  ·  8-bit Console</text>
   </text>
 		<text name="description" extra="true">
-			<pos>0.750 0.29</pos>
-            <size>0.225 .52</size>
-            <lineSpacing>1.18</lineSpacing>
-			<text>The Master System is a third-generation video game console that was released by Sega in 1985. The original SMS could play both cartridges and the credit card-sized "Sega Cards,". The Master System was a direct competitor to the Nintendo Entertainment System and was technically superior to the NES, which predated its release significantly.</text>
+			<pos>0.742 0.37</pos>
+            <size>0.225 .27</size>
+			<text>${mastersystem}</text>
 		</text>
 		
 	</view>

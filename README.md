@@ -2,56 +2,34 @@ Modded from Alekfull-SOLO
 
 **This theme is intended for EMUELEC and only contains graphics for systems supported by EmuElec**
 
-17/9/20
-+ Added options in settings for various button themes
-+ Fixed issue where button themes dont apply to all views
-+ Main homepage increased help fonts and some tidying
+-/9/20
++ Added options in settings for various help button themes
 + Additional reverse carousel view (left sided carousel)
 + Added two more background themes from @/AlecFull/Bello-Cobalto
-
-18/9/20
-+ Started working on Alt Logo options (Settings done but does nothing at the moment)
 + Basic layout simplified, new background, and layout
 + Carousel layouts reduced to two and re-done, one simple, one full details
 + Grid layouts reduced to two and re-done, one simple, one full details 
-
-19/9/20
 + Slim down all artwork to EmuElec only
-+ Alt logo's complete (all white bordered)
-
-20/9/20
-+ redid system views (carousel, horizontal and vertical menus), smaller logos
-+ added alternate views for all system views with system logo instead of text
-
-21/9/20
 + added png console images
 + Reorganisation of folder structures
 + Most gamelist pages re-done
-+ Redid all filter backgrounds in svg
-+ Added slideshow mode for system (No navigation icons - good with console background set)
-
-22/9/20
++ Redid new filter backgrounds in svg
 + New detailed homepage layout complete.
 + Started working on xml files for systems with description, year of release etc.
 + Systemview's slimmed down and use common.xml as base for layout
++ Gamelists xml seperated from main theme
 + System logo's moved to svg from png
-
-23/9/20
-+ detailed system view finished
-+ few extra svg's made for favourites etc
-
-26/9/20
-+ all views complete
-+ all svg optimised and finished
-
-27/9/20
 + System logo's can now be changed independant of layout
++ All system text is done but detailed layouts still need doing
 
 To do
 
++ Do all individual layouts for detailed system views
++ Move all system descriptions to language files
++ Do all missing graphics
 + Tidy up logo files to align properly in all views
-+ XML files for systems with details/descriptions
 + Fanart view
++ Theming for collections
 
 
 --------------------------------------------------------------

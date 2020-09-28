@@ -1,10 +1,10 @@
 <theme>
     <formatVersion>4</formatVersion>
 
-   <include>./_inc/lang/english.xml</include>
+    <include>./_inc/lang/english.xml</include>
 	<include lang="es">./_inc/lang/espanol.xml</include>
 	<include lang="es_MX">./_inc/lang/espanol.xml</include>
-	<include lang="eu">./_inc/lang/espanol.xml</include>
+	<include lang="eu">./_inc/lang/english.xml</include>
 	<include lang="fr">./_inc/lang/francais.xml</include> 
 	<include lang="pt">./_inc/lang/portugues.xml</include>
 
@@ -12,7 +12,6 @@
 	<include subset="systemview" name="horizontal" displayName="${horizontal}">./systemview/horizontal.xml</include>
 	<include subset="systemview" name="carousel left" displayName="${lhc}">./systemview/carousel-left.xml</include>
 	<include subset="systemview" name="carousel right" displayName="${rhc}">./systemview/carousel-right.xml</include>
-
 
     <include subset="logoset" name="White" displayName="${whitelog}">./logosets/white.xml</include>
     <include subset="logoset" name="Color" displayName="${colorlog}">./logosets/color.xml</include>
@@ -24,12 +23,11 @@
 	<include subset="colorset" name="Dark BG" displayName="${darkbg}">./colorsets/dark.xml</include>
 	<include subset="colorset" name="Default BG" displayName="${defaultbg}">./colorsets/light.xml</include>
 	<include subset="colorset" name="System BG" displayName="${systembg}">./colorsets/system.xml</include>
-
 	
-	<include subset="iconset" name="Default" displayName="${default}">./iconsets/xbox.xml</include>
-	<include subset="iconset" name="ARCADE" displayName="${arcade}">./iconsets/arcade.xml</include>
-    <include subset="iconset" name="SNES" displayName="${snes}">./iconsets/snes.xml</include>
-    <include subset="iconset" name="Playstation" displayName="${psx}">./iconsets/psx.xml</include>
-    <include subset="iconset" name="Xbox" displayName="${xbox}">./iconsets/xbox.xml</include>
-    <include subset="iconset" name="Xbox Reverse" displayName="${xbox2}">./iconsets/xbox-rev.xml</include>
+	<include subset="iconset" name="Default" displayName="${idefault}">./iconsets/xbox.xml</include>
+	<include subset="iconset" name="ARCADE" displayName="${iarcade}">./iconsets/arcade.xml</include>
+    <include subset="iconset" name="SNES" displayName="${isnes}">./iconsets/snes.xml</include>
+    <include subset="iconset" name="Playstation" displayName="${ipsx}">./iconsets/psx.xml</include>
+    <include subset="iconset" name="Xbox" displayName="${ixbox}">./iconsets/xbox.xml</include>
+    <include subset="iconset" name="Xbox Reverse" displayName="${ixbox2}">./iconsets/xbox-rev.xml</include>
 </theme>

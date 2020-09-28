@@ -21,11 +21,13 @@ Modded from Alekfull-SOLO
 + System logo's moved to svg from png
 + System logo's can now be changed independant of layout
 + All system text is done but detailed layouts still need doing
+28/9/20
++ All white logo's now complete
++ System descriptions moved to language files for future translation
 
 To do
 
 + Do all individual layouts for detailed system views
-+ Move all system descriptions to language files
 + Do all missing graphics
 + Tidy up logo files to align properly in all views
 + Fanart view

@@ -16,8 +16,6 @@
    <text>1990  ·  16-bit Console</text>
   </text>
 		<text name="description" extra="true">
-			<pos>0.742 0.37</pos>
-            <size>0.225 .32</size>
 			<text>${snes}</text>
 		</text>
 		

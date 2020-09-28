@@ -16,8 +16,6 @@
    <text>1998  ·  8-bit Handheld Console</text>
   </text>
 		<text name="description" extra="true">
-			<pos>0.742 0.37</pos>
-            <size>0.225 .27</size>
 			<text>${gbc}</text>
 		</text>
 		

@@ -16,8 +16,6 @@
    <text>1983  ·  8-bit Console</text>
   </text>
 		<text name="description" extra="true">
-			<pos>0.742 0.37</pos>
-            <size>0.225 .27</size>
 			<text>${nes}</text>
 		</text>
 		

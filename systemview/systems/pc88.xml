@@ -16,8 +16,6 @@
    <text>1979  ·  8-bit Computer</text>
   </text>
 		<text name="description" extra="true">
-			<pos>0.742 0.37</pos>
-            <size>0.225 .27</size>
 			<text>${pc88}</text>
 		</text>
 		

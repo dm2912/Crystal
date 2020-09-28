@@ -69,6 +69,8 @@
 
 		<text name="description" extra="true">
            <fontPath>./../_inc/fonts/OpenSans-Semi-Bold.ttf</fontPath>
+			<pos>0.742 0.30</pos>
+            <size>0.225 0</size>
 			<alignment>right</alignment>
 			<color>ffffff</color>
 			<fontSize>0.033</fontSize>

@@ -16,8 +16,6 @@
    <text>Software</text>
   </text>
 		<text name="description" extra="true">
-			<pos>0.742 0.37</pos>
-            <size>0.225 .27</size>
 			<text>${ports}</text>
 		</text>
 		

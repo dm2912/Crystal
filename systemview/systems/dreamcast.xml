@@ -17,8 +17,6 @@
   </text>
 
 		<text name="description" extra="true">
-			<pos>0.742 0.37</pos>
-            <size>0.225 .41</size>
 			<text>${dreamcast}</text>
 		</text>
 		

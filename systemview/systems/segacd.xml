@@ -15,8 +15,6 @@
    <text>1991  ·  16-bit Console</text>
   </text>
 		<text name="description" extra="true">
-			<pos>0.742 0.37</pos>
-            <size>0.225 .27</size>
 			<text>${segacd}</text>
 		</text>
 		

@@ -22,14 +22,14 @@ Modded from Alekfull-SOLO
 + System logo's can now be changed independant of layout
 + All system text is done but detailed layouts still need doing
 28/9/20
-+ All white logo's now complete
++ All logo's now complete
 + System descriptions moved to language files for future translation
 
 To do
 
 + Do all individual layouts for detailed system views
 + Do all missing graphics
-+ Tidy up logo files to align properly in all views
++ Tidy up controller image files to align properly in all views
 + Fanart view
 + Theming for collections
 

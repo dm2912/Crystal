@@ -12,9 +12,9 @@
    version="1.1"
    id="svg2"
    xml:space="preserve"
-   width="1007.2"
-   height="278.85333"
-   viewBox="0 0 1007.2 278.85333"
+   width="500"
+   height="200"
+   viewBox="0 0 499.99999 200"
    sodipodi:docname="x68000.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
      id="metadata8"><rdf:RDF><cc:Work
@@ -34,9 +34,9 @@
      id="namedview4"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="0.69499602"
-     inkscape:cx="503.60001"
-     inkscape:cy="139.42667"
+     inkscape:zoom="0.7601519"
+     inkscape:cx="566.02144"
+     inkscape:cy="59.227321"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -44,9 +44,9 @@
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="ink_ext_XXXXXX"
-     transform="matrix(1.3333333,0,0,-1.3333333,0,278.85333)"><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,200)"><g
        id="g12"
-       transform="scale(0.1)"><path
+       transform="matrix(0.04857692,0,0,0.04857692,0,36)"><path
          d="M 478.406,1196.02 H 1249.17 L 1884.75,106.309 H 1113.98 Z M 318.938,1275.75 1063.13,0 H 2073.1 L 1328.91,1275.75 H 318.938"
          style="fill:#eb222c;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path14"

@@ -9,10 +9,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   viewBox="0 0 500.11402 102.235"
-   height="102.235"
-   width="500.11401"
-   sodipodi:docname="Nintendo_Super_Famicom_logo.svg"
+   viewBox="0 0 500.00001 200"
+   height="200"
+   width="500"
+   sodipodi:docname="sfc.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -28,9 +28,9 @@
      id="namedview32"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="2.0698524"
-     inkscape:cx="274.30058"
-     inkscape:cy="31.680751"
+     inkscape:zoom="0.8004099"
+     inkscape:cx="364.05859"
+     inkscape:cy="15.35546"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -50,7 +50,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(515.91867,0,0,536.51196,187.3452,-162.16485)"
+     transform="matrix(515.91867,0,0,536.51196,187.3452,-116.39985)"
      id="g3512">
     <path
        inkscape:connector-curvature="0"
@@ -74,7 +74,7 @@
        id="path3330" />
   </g>
   <g
-     transform="matrix(0.61991234,0,0,0.57221929,1.9965654,-517.71457)"
+     transform="matrix(0.61991234,0,0,0.57221929,1.9965654,-471.94957)"
      id="layer1"
      style="fill:#ffffff">
     <path

@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,9 +41,9 @@
      id="namedview27"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.6452465"
-     inkscape:cx="177.5"
-     inkscape:cy="51.5"
+     inkscape:zoom="2.5448608"
+     inkscape:cx="212.46707"
+     inkscape:cy="120.62675"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -67,17 +67,17 @@
      d="m 15.875846,176.506 c 0,-2.32064 10.721863,-4.20311 23.95475,-4.20311 13.23272,0 23.954584,1.88247 23.954584,4.20311 0,2.32081 -10.721864,4.19845 -23.954584,4.19845 -13.232887,0 -23.95475,-1.87998 -23.95475,-4.19845 z"
      id="path8"
      inkscape:connector-curvature="0"
-     style="fill:#bababa;stroke-width:1.6685648" />
+     style="fill:#cccccc;stroke-width:1.6685648" />
   <path
      d="m 19.468767,136.89728 c 0,-11.27366 9.113367,-20.40655 20.361495,-20.40655 11.24813,0 20.361496,9.13289 20.361496,20.40655 0,11.26882 -9.115703,20.40637 -20.361496,20.40637 -11.250464,-0.002 -20.361495,-9.13973 -20.361495,-20.40637 z"
      id="path10"
      inkscape:connector-curvature="0"
-     style="fill:url(#paint0_radial);stroke-width:1.6685648" />
+     style="fill:#ffffff;stroke-width:1.6685648" />
   <path
      d="m 20.865022,83.682741 c -2.995574,1.997772 -3.793983,13.601139 -3.793983,13.601139 0,0 0.798409,11.60353 3.793983,13.60131 2.993238,1.99994 18.96524,3.20414 18.96524,3.20414 0,0 15.97217,-1.20186 18.963072,-3.20414 2.997744,-1.99778 3.796153,-13.60131 3.796153,-13.60131 0,0 -0.796073,-11.603367 -3.796153,-13.601139 -2.990902,-2.002445 -18.963072,-3.204145 -18.963072,-3.204145 0,0 -15.972002,1.2017 -18.96524,3.204145 z"
      id="path12"
      inkscape:connector-curvature="0"
-     style="fill:#a3a3a3;stroke-width:1.6685648" />
+     style="fill:#ffffff;stroke-width:1.6685648" />
   <path
      d="M 39.830095,31.368095 63.681061,55.273924 39.830095,79.172944 15.979297,55.273924 Z"
      id="path14"

@@ -1,4 +1,4 @@
-Modded from Alekfull-SOLO
+Originally Modded from Alekfull-SOLO
 
 **This theme is intended for EMUELEC and only contains graphics for systems supported by EmuElec**
 
@@ -21,15 +21,14 @@ Modded from Alekfull-SOLO
 + System logo's moved to svg from png
 + System logo's can now be changed independant of layout
 + All system text is done but detailed layouts still need doing
-28/9/20
-+ All logo's now complete
-+ System descriptions moved to language files for future translation
++ 'SOLO' wallpapers now removed
++ System descriptions moved to language files
 
 To do
 
 + Do all individual layouts for detailed system views
 + Do all missing graphics
-+ Tidy up controller image files to align properly in all views
++ Tidy up logo files to align properly in all views
 + Fanart view
 + Theming for collections
 
@@ -38,5 +37,5 @@ To do
 |.......I M P O R T A N T.......|
 --------------------------------------------------------------
 
-* Like the original Alekfull Solo this theme is NOT TO BE USED COMMERCIALLY!!!!!!!
+* This theme is NOT TO BE USED COMMERCIALLY!!!!!!!
 * Compatability is designed for Emuelec. Only systems supported by Emuelec are being themed. 

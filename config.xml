@@ -20,8 +20,6 @@
     
     <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./colorsets/artflix.xml</include>
 	<include subset="colorset" name="Bella BG" displayName="${bellabg}">./colorsets/bella.xml</include>
-	<include subset="colorset" name="Dark BG" displayName="${darkbg}">./colorsets/dark.xml</include>
-	<include subset="colorset" name="Default BG" displayName="${defaultbg}">./colorsets/light.xml</include>
 	<include subset="colorset" name="System BG" displayName="${systembg}">./colorsets/system.xml</include>
 	
 	<include subset="iconset" name="Default" displayName="${idefault}">./iconsets/xbox.xml</include>

@@ -23,6 +23,7 @@ Originally Modded from Alekfull-SOLO
 + All system text is done but detailed layouts still need doing
 + 'SOLO' wallpapers now removed
 + System descriptions moved to language files
++ Theme now has a name
 
 To do
 

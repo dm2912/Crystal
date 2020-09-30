@@ -1,12 +1,12 @@
 <theme>
     <formatVersion>4</formatVersion>
 
-    <include>./_inc/lang/english.xml</include>
-	<include lang="es">./_inc/lang/espanol.xml</include>
-	<include lang="es_MX">./_inc/lang/espanol.xml</include>
-	<include lang="eu">./_inc/lang/english.xml</include>
-	<include lang="fr">./_inc/lang/francais.xml</include> 
-	<include lang="pt">./_inc/lang/portugues.xml</include>
+    <include>./lang/english.xml</include>
+	<include lang="es">./lang/espanol.xml</include>
+	<include lang="es_MX">./lang/espanol.xml</include>
+	<include lang="eu">./lang/english.xml</include>
+	<include lang="fr">./lang/francais.xml</include> 
+	<include lang="pt">./lang/portugues.xml</include>
 
 	<include subset="systemview" name="detailed view" displayName="${systemdetails}">./systemview/details.xml</include>
 	<include subset="systemview" name="horizontal" displayName="${horizontal}">./systemview/horizontal.xml</include>

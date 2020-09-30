@@ -15,7 +15,6 @@
 
     <include subset="logoset" name="White" displayName="${whitelog}">./logosets/white.xml</include>
     <include subset="logoset" name="Color" displayName="${colorlog}">./logosets/color.xml</include>
-    <include subset="logoset" name="Text" displayName="${textlog}">./logosets/text.xml</include>
     <include subset="logoset" name="Controllers" displayName="${conlog}">./logosets/controllers.xml</include>
     
     <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./colorsets/artflix.xml</include>

@@ -13,10 +13,9 @@
       </image> 
 
 	  <text name="shortdescription" extra="true">
-   <text>year  ·  x-bit Console</text>
   </text>
 		<text name="description" extra="true">
-			<text>${description}</text>
+			<text>${doubledragon}</text>
 		</text>
 		
 	</view>

@@ -13,10 +13,10 @@
       </image> 
 
 	  <text name="shortdescription" extra="true">
-   <text></text>
+   <text>Gaming Engine</text>
   </text>
 		<text name="description" extra="true">
-			<text></text>
+			<text>${openbor}</text>
 		</text>
 		
 	</view>

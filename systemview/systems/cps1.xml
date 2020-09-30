@@ -13,9 +13,10 @@
       </image> 
 
 	  <text name="shortdescription" extra="true">
+<text>1988  ·  Arcade System Board</text>
   </text>
 		<text name="description" extra="true">
-			<text>${crashbandicoot}</text>
+			<text>${cps1}</text>
 		</text>
 		
 	</view>

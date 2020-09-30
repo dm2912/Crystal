@@ -16,6 +16,7 @@
    <text>1984  ·  16-bit Computer</text>
   </text>
 		<text name="description" extra="true">
+    <text>${c16}</text>
 		</text>
 		
 	</view>

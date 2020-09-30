@@ -13,10 +13,10 @@
       </image> 
 
 	  <text name="shortdescription" extra="true">
-   <text>year  ·  x-bit Console</text>
+<text>1996  ·  Arcade System Board</text>
   </text>
 		<text name="description" extra="true">
-			<text>${description}</text>
+			<text>${cps3}</text>
 		</text>
 		
 	</view>

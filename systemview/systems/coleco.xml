@@ -13,9 +13,10 @@
       </image> 
 
 	  <text name="shortdescription" extra="true">
+   <text>1983  ·  8-bit Console</text>
   </text>
 		<text name="description" extra="true">
-			<text>${cps1}</text>
+			<text>${coleco}</text>
 		</text>
 		
 	</view>

@@ -15,7 +15,7 @@
 	  <text name="shortdescription" extra="true">
   </text>
 		<text name="description" extra="true">
-			<text>${cps2}</text>
+			<text>${doom}</text>
 		</text>
 		
 	</view>

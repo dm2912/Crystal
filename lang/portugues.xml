@@ -56,5 +56,6 @@
     <subset.shader> Theme Shaders </subset.shader>
     <subset.music> Música do sistema </subset.music>
     <subset.logoset> Estilo do logotipo do sistema </subset.logoset>
+	<subset.thememusic>Música de fundo do tema</subset.thememusic>
 </variables>	
 </theme>

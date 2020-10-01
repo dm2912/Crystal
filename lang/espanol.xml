@@ -55,6 +55,7 @@
     <subset.iconset> Iconos de menú </subset.iconset>
     <subset.shader> Sombreadores de temas </subset.shader>
     <subset.music> Música del sistema </subset.music>
-    <subset.logoset> Estilo del logotipo del sistema </subset.logoset>		
+    <subset.logoset> Estilo del logotipo del sistema </subset.logoset>	
+	<subset.thememusic>Música de fondo del tema</subset.thememusic>	
 	</variables>
 </theme>

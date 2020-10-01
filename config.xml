@@ -27,4 +27,7 @@
     <include subset="iconset" name="Playstation" displayName="${ipsx}">./iconsets/psx.xml</include>
     <include subset="iconset" name="Xbox" displayName="${ixbox}">./iconsets/xbox.xml</include>
     <include subset="iconset" name="Xbox Reverse" displayName="${ixbox2}">./iconsets/xbox-rev.xml</include>
+
+    <include subset="thememusic" name="no" displayName="${no}">./_inc/sound_off.xml</include>
+    <include subset="thememusic" name="yes" displayName="${yes}">./_inc/sound_on.xml</include>
 </theme>

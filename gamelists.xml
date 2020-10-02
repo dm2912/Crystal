@@ -66,7 +66,7 @@
       </image>
       <textlist name="gamelist">
          <pos>0.675 0.15</pos>
-         <size>0.34 0.88</size>
+         <size>0.31 0.88</size>
          <selectorColor>0f85a5</selectorColor>
          <selectedColor>ffffff</selectedColor>
          <primaryColor>ffffff</primaryColor>
@@ -546,7 +546,7 @@
  
 	
 <!-- gamelists - simple tiles -->
-   
+<!--   
    <customView name="Tiles" inherits="grid" displayName="${tilesViewName}">
       
 	   <imagegrid name="gamegrid">
@@ -633,7 +633,7 @@
       </image>
 	   
    </customView>
-
+-->
 
 	
 		<!-- gamelists - fanart view 

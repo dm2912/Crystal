@@ -9,13 +9,15 @@ All systems supported by Emuelec should be themed. If there is a system missing 
 
 Most major custom collections Sonic, Mario, Streetfighter etc should be themed. Again, if something is missing, raise an issue and will add them.
 
-Custom Collections currently supported: Art of Fighting, Arcade, Batman, Capcom, Castlevania, Cavestory, CPS1, CPS2, CPS3, Crash Bandicoot, Dragon Ball Z, Donkey Kong, Doom, Double Dragon, Fatal Fury, Final Fantasy, Final Fight, Irem, King of Fighters, Konami, Mario, Megaman, Metal Slug, Metroid, Midway, Mortal Kombat, Namco, Resident Evil, Sonic, Silent Hill, Streetfighter, Tomb Raider, Zelda
+Custom Collections currently supported (theme name in brackets): Art of Fighting (artoffighting), Arcade (arcade), Batman (batman), Capcom (capcom), Castlevania (castlevania), Cavestory (cavestory), CPS1 (cps1), CPS2 (cps2), CPS3 (cps3), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (Fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight), Irem (irem), King of Fighters (kof), Konami (konami), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Midway (midway), Mortal Kombat (mortalkombat), Namco (namco), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda)
 
 To do
 
 + Some logo's and artwork still need tidying up
 
 + Translations need doing for all non-english languages
+
++ various other custom collections (fighting, racing etc etc)
 
 
 --------------------------------------------------------------

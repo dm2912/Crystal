@@ -2,11 +2,6 @@ Originally Modded from Alekfull-SOLO
 
 **This theme is intended for EMUELEC and only contains graphics for systems supported by EmuElec**
 
-30/9/20
-First release
-
-All systems supported by Emuelec should be themed. If there is a system missing please raise an issue on github
-
 ==============================
 
 Artwork for custom collections for most major games should be themed. Again, if something is missing, raise an issue and will add them.
@@ -33,9 +28,21 @@ Additionally you can specify platforms, genre's and other filters. I plan to add
 
 ==============================
 
-To do
+Adding additional systems / collections. 
 
-+ Some logo's and artwork still need tidying up
+If you wish to manually add unsupported systems the following assets are needed for each new system / collection:
+
++ theme_name.xml in ./systemview/systems
+
++ backgrounds in ./assets/backgrounds/ and the relevant folders (jpg format)
+
++ system logos (svg format), controllers, consoles (png format) in ./assets/logos/ and then relevant folders
+
++ system description in language files in /lang/
+
+================================
+
+To do
 
 + Translations need doing for all non-english languages
 

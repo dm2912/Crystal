@@ -7,56 +7,63 @@
 		<langue>pt</langue>
 		
 <!-- Global -->
-    <yes> Sim </yes>
-    <no> Não </no>
-    <none> Nenhum </none>
-    <sysmusic> Ligado </sysmusic>
-    <nomusic> Aleatório </nomusic>
-    <silence> Sem música de fundo </silence>
-    <default> Padrão </default>
+    <yes>Sim </yes>
+    <no>Não </no>
+    <none>Nenhum </none>
+    <sysmusic>Ligado </sysmusic>
+    <nomusic>Aleatório </nomusic>
+    <silence>Sem música de fundo </silence>
+    <default>Padrão </default>
 <!-- Visualizações da biblioteca -->
-    <basiclist> Lista Simples </basiclist>
-    <basicGridDetailsName> Grid / Detailed </basicGridDetailsName>
-    <carouselViewName> Carrossel </carouselViewName>
-    <carouselposterViewName> Carrossel / Detalhado </carouselposterViewName>
-    <tilesViewName> Tiles </tilesViewName>
-    <tilesVideoViewName> Blocos com vídeo </tilesVideoViewName>
-    <tilesVideoMarqueeViewName> Blocos com vídeo e logotipos </tilesVideoMarqueeViewName>
-    <fanartViewName> Fanart (padrão) </fanartViewName>
-    <fanartvlViewName> Fanart (vídeo em tela inteira) </fanartvlViewName>
+    <basiclist>Lista Simples </basiclist>
+    <basicGridDetailsName>Grid / Detailed </basicGridDetailsName>
+    <carouselViewName>Carrossel </carouselViewName>
+    <carouselposterViewName>Carrossel / Detalhado </carouselposterViewName>
+    <tilesViewName>Tiles </tilesViewName>
+    <tilesVideoViewName>Blocos com vídeo </tilesVideoViewName>
+    <tilesVideoMarqueeViewName>Blocos com vídeo e logotipos </tilesVideoMarqueeViewName>
+    <fanartViewName>Fanart (padrão) </fanartViewName>
+    <fanartvlViewName>Fanart (vídeo em tela inteira) </fanartvlViewName>
 <!-- planos de fundo -->
-    <defaultbg> SOLO (leve) </defaultbg>
-    <darkbg> SOLO (escuro) </darkbg>
-    <bellabg> Bella </bellabg>
-    <systembg> Console </systembg>
-    <artflixbg> Artflix </artflixbg>
+    <defaultbg>SOLO (leve) </defaultbg>
+    <darkbg>SOLO (escuro) </darkbg>
+    <bellabg>Bella </bellabg>
+    <systembg>Console </systembg>
+    <artflixbg>Artflix </artflixbg>
     
 <!-- Estilos de logotipo -->
 
-    <whitelog> Logotipo branco </whitelog>
-    <colorlog> Logotipo colorido </colorlog>
-    <conlog> Controladores </conlog>
-    <textlog> Logotipo do texto </textlog>
+    <whitelog>Logotipo branco </whitelog>
+    <colorlog>Logotipo colorido </colorlog>
+    <conlog>Controladores </conlog>
+    <textlog>Logotipo do texto </textlog>
 <!-- Ícones de ajuda -->
-		    <iarcade> Arcade </iarcade>
-    <isnes> Super Nintendo </isnes>
-    <ipsx> Playstation </ipsx>
-    <ixbox> X-Box </ixbox>
-    <ixbox2> X-Box reverso </ixbox2>
-    <idefault> Ícones padrão </idefault>
+		    <iarcade>Arcade </iarcade>
+    <isnes>Super Nintendo </isnes>
+    <ipsx>Playstation </ipsx>
+    <ixbox>X-Box </ixbox>
+    <ixbox2>X-Box reverso </ixbox2>
+    <idefault>Ícones padrão </idefault>
 <!-- Layouts do sistema -->
-    <horizontal> Menu horizontal </horizontal>
-    <rhc> Carrossel do lado direito </rhc>
-    <lhc> Carrossel do lado esquerdo </lhc>
-    <systemdetails> Detalhados </systemdetails>
+    <horizontal>Menu horizontal </horizontal>
+    <rhc>Carrossel do lado direito </rhc>
+    <lhc>Carrossel do lado esquerdo </lhc>
+    <systemdetails>Detalhados </systemdetails>
+   <hordetail>Detalhados II</hordetail>
+<!-- atraso de vídeo -->
+    <delay1>1 segundo</delay1>
+    <delay2>2 segundos</delay2>
+    <delay3>3 segundos</delay3>
+    <delay0>sem demora</delay0>	
 <!-- Submenus -->
-    <subset.systemview> Layout da página inicial </subset.systemview>
-    <subset.colorset> Imagens de fundo </subset.colorset>
-    <subset.iconset> Ícones de menu </subset.iconset>
-    <subset.shader> Theme Shaders </subset.shader>
-    <subset.music> Música do sistema </subset.music>
-    <subset.logoset> Estilo do logotipo do sistema </subset.logoset>
+    <subset.systemview>Layout da página inicial </subset.systemview>
+    <subset.colorset>Imagens de fundo </subset.colorset>
+    <subset.iconset>Ícones de menu </subset.iconset>
+    <subset.shader>Theme Shaders </subset.shader>
+    <subset.music>Música do sistema </subset.music>
+    <subset.logoset>Estilo do logotipo do sistema </subset.logoset>
 	<subset.thememusic>Música de fundo do tema</subset.thememusic>
+   <subset.vdelay>Atraso de vídeo no gamelist</subset.vdelay>
 <!-- Descrições do sistema -->
     <psx>O PlayStation (não oficialmente abreviado como PSX) é um console de videogame doméstico desenvolvido e comercializado pela Sony Computer Entertainment. O console original da série foi o primeiro console de qualquer tipo a distribuir mais de 100 milhões de unidades, em menos de uma década.</psx>
     <threedo>O 3DO é um console de videogame caseiro idealizado pelo empresário e fundador da Electronic Arts Trip Hawkins, o 3DO não foi fabricado pela própria empresa. A Panasonic produziu os primeiros modelos e outras versões do hardware foram lançadas pela GoldStar e Sanyo.</threedo>
@@ -141,6 +148,7 @@
 <sc-3000>O SC-3000 é o primeiro e único computador a ser projetado e fabricado pela Sega. Foi lançado pela primeira vez em julho de 1983 no Japão e serve como computador doméstico equivalente ao console de videogame SG-1000 baseado em cartucho.</sc-3000>
 <snesmsu1>O MSU-1 é um chip de cartucho adicional que permite muitos aprimoramentos para jogos SNES, incluindo, mas não se limitando a, vídeo full-motion e som com qualidade de CD, adicionando até 4 GB de armazenamento para conteúdo extra.</snesmsu1>
 <wii>O Wii é um console de videogame caseiro lançado pela Nintendo em 2006. Como um console de sétima geração, o Wii competia com o Xbox 360 da Microsoft e o PlayStation 3. da Sony. A Nintendo afirmou que seu console visa um público mais amplo do que os outros dois .</wii>
+    <pico8>O Pico-8 (estilizado como PICO-8) é uma máquina virtual e motor de jogo criado pela Lexaloffle Games. Ele é projetado para imitar um console de videogame de fantasia, emulando as severas limitações de hardware dos consoles de videogame na década de 1980.</pico8>
 <!-- coleções -->
 <artoffighting>Art of Fighting é uma trilogia de videogame de luta lançada para a plataforma Neo Geo no início dos anos 1990. Foi a segunda franquia de jogos de luta criada pela SNK, após a série Fatal Fury e se passa no mesmo universo fictício de uma prequela da série Fatal Fury.</artoffighting>
 <batman>Batman apareceu em mais de 50 videogames, abrangendo computadores, telefones celulares e sistemas de console desde os anos 1980,</batman>
@@ -172,6 +180,6 @@
 <tombraider>Tomb Raider é uma franquia de mídia que fez sua estreia em 1996. Desde o lançamento do Tomb Raider original, a série se desenvolveu em uma franquia com o mesmo nome, e Lara se tornou um grande ícone da indústria de videogames .</tombraider>
 <zelda>The Legend of Zelda é uma franquia de videogame de aventura e ação de alta fantasia criada pelos designers de jogos japoneses Shigeru Miyamoto e Takashi Tezuka. Foi desenvolvido e publicado principalmente pela Nintendo.</zelda>
 <irem>Irem Software Engineering é uma desenvolvedora e editora japonesa de console de videogame, e anteriormente também uma desenvolvedora e fabricante de jogos de arcade. A empresa tem sede em Chiyoda, Tóquio.</irem>
-<metalgear>Metal Gear é uma série de videogames furtivos de ação e aventura criados por Hideo Kojima e desenvolvidos e publicados pela Konami. O primeiro jogo, Metal Gear, foi lançado em 1987 para computadores domésticos MSX. Várias sequências foram lançadas para vários consoles, o que expandiu o enredo do jogo original, adicionando personagens oponentes, bem como Snake.</metalgear>
+<metalgear>Metal Gear é uma série de videogames furtivos de ação e aventura criados por Hideo Kojima e desenvolvidos e publicados pela Konami. O primeiro jogo, Metal Gear, foi lançado em 1987 para computadores domésticos MSX. Várias sequências foram lançadas para vários consoles, o que expandiu o enredo do jogo original.</metalgear>
 </variables>	
 </theme>

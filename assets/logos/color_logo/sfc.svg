@@ -9,9 +9,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   viewBox="0 0 500.00001 200"
-   height="200"
-   width="500"
+   viewBox="0 0 494.81559 100.28197"
+   height="100.28197"
+   width="494.81558"
    sodipodi:docname="sfc.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      id="namedview32"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="0.8004099"
-     inkscape:cx="364.05859"
-     inkscape:cy="15.35546"
+     inkscape:zoom="0.87544833"
+     inkscape:cx="372.5416"
+     inkscape:cy="32.541041"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -45,12 +45,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(515.91867,0,0,536.51196,187.3452,-116.39985)"
+     transform="matrix(515.91867,0,0,536.51196,185.40343,-162.74499)"
      id="g3512">
     <path
        inkscape:connector-curvature="0"
@@ -74,7 +74,7 @@
        id="path3330" />
   </g>
   <g
-     transform="matrix(0.61991234,0,0,0.57221929,1.9965654,-471.94957)"
+     transform="matrix(0.61991234,0,0,0.57221929,0.05479811,-518.29471)"
      id="layer1"
      style="fill:#ffffff">
     <path

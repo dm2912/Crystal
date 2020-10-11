@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="488.95795"
+   height="126.24878"
+   viewBox="0 0 488.95795 126.24878"
    version="1.1"
    id="svg267"
    sodipodi:docname="gba.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (1.0.1+r73)">
   <metadata
      id="metadata273">
     <rdf:RDF>
@@ -42,19 +42,20 @@
      id="namedview269"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.2453358"
-     inkscape:cx="234.5"
-     inkscape:cy="60.5"
+     inkscape:zoom="1.1866331"
+     inkscape:cx="230.48502"
+     inkscape:cy="19.813514"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg267" />
+     inkscape:current-layer="svg267"
+     inkscape:document-rotation="0" />
   <title
      id="title243">syslogo</title>
   <g
      id="Page-1"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="matrix(1.0446033,0,0,1.0446033,4.0149813,40.686486)">
+     transform="scale(1.0446033)">
     <g
        id="syslogo"
        style="fill:#ffffff;fill-rule:nonzero">

@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="488.95795"
+   height="171.58357"
+   viewBox="0 0 488.95795 171.58357"
    version="1.1"
    id="svg267"
    sodipodi:docname="gbah.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (1.0.1+r73)">
   <metadata
      id="metadata273">
     <rdf:RDF>
@@ -42,19 +42,20 @@
      id="namedview269"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.4897816"
-     inkscape:cx="174.33853"
-     inkscape:cy="96.07614"
+     inkscape:zoom="1.4195562"
+     inkscape:cx="170.32355"
+     inkscape:cy="87.252506"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg267" />
+     inkscape:current-layer="svg267"
+     inkscape:document-rotation="0" />
   <title
      id="title243">syslogo</title>
   <g
      id="Page-1"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="matrix(1.0446033,0,0,1.0446033,4.0149813,40.686486)">
+     transform="matrix(1.0446033,0,0,1.0446033,0,31.862852)">
     <g
        id="syslogo"
        style="fill:#ffffff;fill-rule:nonzero">
@@ -106,7 +107,7 @@
   </g>
   <g
      aria-label="[HACKS]"
-     transform="matrix(2.157844,-0.51428943,0.58119693,2.6463694,-240.26604,195.71756)"
+     transform="matrix(2.157844,-0.51428943,0.58119693,2.6463694,-244.28102,186.89393)"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="flowRoot52">
     <path

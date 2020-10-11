@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="457.59665"
+   height="159.94234"
+   viewBox="0 0 457.59665 159.94234"
    version="1.1"
    id="svg159"
    sodipodi:docname="nes.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (1.0.1+r73)">
   <metadata
      id="metadata165">
     <rdf:RDF>
@@ -42,19 +42,20 @@
      id="namedview161"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.4823921"
+     inkscape:zoom="1.412515"
      inkscape:cx="197"
-     inkscape:cy="69.5"
+     inkscape:cy="54.371803"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg159" />
+     inkscape:current-layer="svg159"
+     inkscape:document-rotation="0" />
   <title
      id="title110">syslogo</title>
   <g
      id="Page-1"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="matrix(1.1616876,0,0,1.1616876,-2.0492221e-8,15.128197)">
+     transform="scale(1.1616876)">
     <g
        id="syslogo"
        style="fill:#ffffff;fill-rule:nonzero">
@@ -134,7 +135,7 @@
            inkscape:connector-curvature="0" />
         <polygon
            id="polygon143"
-           points="225.97718,25.19088 219.12462,25.19088 219.12462,5.1514348e-14 225.97718,5.1514348e-14 " />
+           points="219.12462,5.1514348e-14 225.97718,5.1514348e-14 225.97718,25.19088 219.12462,25.19088 " />
         <path
            d="M 229.5722,25.19088 V 0 h 21.67022 c 1.67882,0 3.10024,0.5434 4.2614,1.62734 1.1869,1.08966 1.77892,2.3738 1.77892,3.85528 v 19.70826 h -6.85256 V 7.85356 c 0,-0.4433 -0.17446,-0.82654 -0.51766,-1.14686 -0.3718,-0.32032 -0.78936,-0.48334 -1.2584,-0.48334 h -10.44758 c -0.49478,0 -0.92664,0.16302 -1.29844,0.48334 -0.32032,0.32032 -0.48048,0.70356 -0.48048,1.14686 v 17.33732 z"
            id="path145"

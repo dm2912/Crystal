@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="485.66196"
+   height="142.17574"
+   viewBox="0 0 485.66196 142.17574"
    version="1.1"
    id="svg24"
    sodipodi:docname="atari5200.svg"
@@ -42,9 +42,9 @@
      id="namedview26"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.5773293"
-     inkscape:cx="249.57803"
-     inkscape:cy="32.283081"
+     inkscape:zoom="1.2199034"
+     inkscape:cx="296.73965"
+     inkscape:cy="3.6402013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,7 +54,7 @@
   <g
      id="Page-1"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="matrix(1.2040181,0,0,1.2040181,9.3331918,31.388247)">
+     transform="matrix(1.2040181,0,0,1.2040181,-1.0419372,-0.95059027)">
     <g
        id="syslogo"
        style="fill:#ffffff">

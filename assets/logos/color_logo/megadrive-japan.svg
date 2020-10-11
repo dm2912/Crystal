@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
+   width="490.11679"
+   height="132.46541"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="File-Mega_Drive_Japanese_Logo.svg">
+   sodipodi:docname="megadrive-japan.svg">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -115,9 +115,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.53125"
-     inkscape:cx="323.74569"
-     inkscape:cy="66.147988"
+     inkscape:zoom="1.6748047"
+     inkscape:cx="318.39453"
+     inkscape:cy="73.277316"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -141,7 +141,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -150,7 +150,7 @@
      id="layer2"
      inkscape:label="Layer"
      style="display:inline"
-     transform="translate(6.8849628,-560.83288)">
+     transform="translate(4.642601,-589.81001)">
     <g
        id="g3975">
       <g

@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 132.29166 52.916668"
+   width="268.70999"
+   height="181.972"
+   viewBox="0 0 71.096182 48.14676"
    version="1.1"
    id="svg8"
-   sodipodi:docname="1b.svg"
+   sodipodi:docname="streetfighter.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
      id="defs2">
@@ -50,18 +50,18 @@
        gradientUnits="userSpaceOnUse"
        x1="57.44738"
        y1="246.34499"
-       x2="95.478059"
+       x2="95.478058"
        y2="268.79825"
        gradientTransform="translate(2.091523,0.31749)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient896"
        id="radialGradient898"
-       cx="62.021497"
-       cy="269.11574"
-       fx="62.021497"
-       fy="269.11574"
-       r="35.548091"
+       cx="62.021496"
+       cy="269.11575"
+       fx="62.021496"
+       fy="269.11575"
+       r="35.548092"
        gradientTransform="matrix(1,0,0,0.67720598,0,86.868953)"
        gradientUnits="userSpaceOnUse" />
   </defs>
@@ -72,9 +72,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6748048"
-     inkscape:cx="322.52406"
-     inkscape:cy="84.254632"
+     inkscape:zoom="1.2952908"
+     inkscape:cx="264.06007"
+     inkscape:cy="117.85378"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,7 +101,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-244.08332)">
+     transform="translate(-26.473406,-245.04236)">
     <g
        id="g914">
       <path

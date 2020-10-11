@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 374.99999 150"
+   width="499.47964"
+   height="151.43176"
+   viewBox="0 0 374.60972 113.57382"
    version="1.1"
    id="svg12"
-   sodipodi:docname="247249.svg"
+   sodipodi:docname="castlevania.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata16">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,9 +41,9 @@
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="0.78615733"
-     inkscape:cx="371.46667"
-     inkscape:cy="112.66667"
+     inkscape:zoom="0.60801254"
+     inkscape:cx="7.9367464"
+     inkscape:cy="-47.01385"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -60,7 +60,7 @@
   </defs>
   <g
      id="surface1"
-     transform="matrix(0.67240742,0,0,0.67240742,-0.92713465,6.7582105)"
+     transform="matrix(0.67240742,0,0,0.67240742,-0.05515845,0)"
      style="fill:#ff0000">
     <g
        clip-path="url(#clip1)"

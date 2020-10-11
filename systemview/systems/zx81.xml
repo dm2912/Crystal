@@ -12,6 +12,10 @@
     <image name="background" extra="true">
       </image> 
 
+	<image name="console" extra="true">
+    </image>
+
+
 	  <text name="shortdescription" extra="true">
    <text>1981  ·  8-bit Computer</text>
   </text>

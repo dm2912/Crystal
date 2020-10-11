@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="431.05215"
+   height="173.328"
+   viewBox="0 0 431.05215 173.328"
    version="1.1"
    id="svg127"
    sodipodi:docname="taito.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (1.0.1+r73)">
   <metadata
      id="metadata133">
     <rdf:RDF>
@@ -42,19 +42,19 @@
      id="namedview129"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.3519965"
-     inkscape:cx="216"
-     inkscape:cy="87"
+     inkscape:zoom="1.288266"
+     inkscape:cx="184.93483"
+     inkscape:cy="80.970466"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg127" />
+     inkscape:current-layer="svg127"
+     inkscape:document-rotation="0" />
   <title
      id="title111">syslogo</title>
   <g
      id="Page-1"
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="translate(31.065169,6.0295345)">
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
     <g
        id="syslogo"
        style="fill:#ffffff;fill-rule:nonzero">
@@ -62,13 +62,13 @@
          id="Taito_logo">
         <polygon
            id="path3027"
-           points="57.253125,134.8245 57.253125,60.490125 92.34375,60.490125 92.34375,42.48075 0,42.48075 0,60.490125 35.090625,60.490125 35.090625,134.8245 " />
+           points="92.34375,60.490125 92.34375,42.48075 0,42.48075 0,60.490125 35.090625,60.490125 35.090625,134.8245 57.253125,134.8245 57.253125,60.490125 " />
         <polygon
            id="path3031"
-           points="270.02201,134.8245 270.02201,60.490125 305.11264,60.490125 305.11264,42.48075 305.11264,42.48075 212.7642,42.48075 212.7642,60.490125 247.85483,60.490125 247.85483,134.8245 " />
+           points="305.11264,60.490125 305.11264,42.48075 305.11264,42.48075 212.7642,42.48075 212.7642,60.490125 247.85483,60.490125 247.85483,134.8245 270.02201,134.8245 270.02201,60.490125 " />
         <polygon
            id="path3033"
-           points="205.75733,134.82638 205.75733,42.482625 183.59482,42.482625 183.59482,134.82638 " />
+           points="183.59482,42.482625 183.59482,134.82638 205.75733,134.82638 205.75733,42.482625 " />
         <path
            d="m 122.355,134.82525 v 0 h 60.03281 L 142.4175,61.28775 c -14.87344,20.521875 -22.63125,46.32656 -20.0625,73.5375"
            id="path3037"

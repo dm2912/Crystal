@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="492.7561"
+   height="133.0311"
+   viewBox="0 0 492.7561 133.0311"
    version="1.1"
    id="svg117"
    sodipodi:docname="sg-1000.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (1.0.1+r73)">
   <metadata
      id="metadata123">
     <rdf:RDF>
@@ -42,19 +42,20 @@
      id="namedview119"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.2479968"
-     inkscape:cx="234"
-     inkscape:cy="63.5"
+     inkscape:zoom="1.1891687"
+     inkscape:cx="230.79486"
+     inkscape:cy="23.864793"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg117" />
+     inkscape:current-layer="svg117"
+     inkscape:document-rotation="0" />
   <title
      id="title93">syslogo</title>
   <g
      id="Page-1"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="matrix(1.0548925,0,0,1.0548925,3.2051364,39.635208)">
+     transform="scale(1.0548925)">
     <g
        id="syslogo"
        style="fill:#ffffff;fill-rule:nonzero">
@@ -71,10 +72,10 @@
            inkscape:connector-curvature="0" />
         <polygon
            id="polygon98"
-           points="172.425,22.62368 172.425,35.16368 150.48,35.16368 150.48,22.62368 " />
+           points="150.48,35.16368 150.48,22.62368 172.425,22.62368 172.425,35.16368 " />
         <polygon
            id="polygon100"
-           points="213.18,0.67867999 213.18,44.568679 231.99,44.568679 231.99,57.108679 178.695,57.108679 178.695,44.568679 197.505,44.568679 197.505,13.21868 178.695,13.21868 178.695,0.67867999 " />
+           points="231.99,44.568679 231.99,57.108679 178.695,57.108679 178.695,44.568679 197.505,44.568679 197.505,13.21868 178.695,13.21868 178.695,0.67867999 213.18,0.67867999 213.18,44.568679 " />
         <path
            d="m 310.365,44.568679 c 0,8.36076 -4.18,12.54 -12.54,12.54 H 250.8 c -8.36076,0 -12.54,-4.17924 -12.54,-12.54 V 13.21868 c 0,-8.3600001 4.17924,-12.54000001 12.54,-12.54000001 h 47.025 c 8.36,0 12.54,4.17999991 12.54,12.54000001 z m -12.54,0 V 13.21868 H 250.8 v 31.349999 z"
            id="Shape"

@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="494.65729"
+   height="172.89577"
+   viewBox="0 0 494.65729 172.89577"
    version="1.1"
    id="svg109"
    sodipodi:docname="nes.svg"
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,16 +43,16 @@
      id="namedview111"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.4823921"
-     inkscape:cx="197"
-     inkscape:cy="69.5"
+     inkscape:zoom="1.1464791"
+     inkscape:cx="237.02203"
+     inkscape:cy="-15.426472"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg109" />
   <g
      id="mainlogo"
-     transform="matrix(1.1959852,0,0,1.1959852,1.3491707,5.6839785)">
+     transform="matrix(1.2557718,0,0,1.2557718,0,-1.5329227e-4)">
     <g
        id="Group 26">
       <g

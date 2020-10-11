@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="486.75027"
+   height="142.03207"
+   viewBox="0 0 486.75027 142.03207"
    version="1.1"
    id="svg25"
    sodipodi:docname="atari2600.svg"
@@ -42,9 +42,9 @@
      id="namedview27"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.1153402"
-     inkscape:cx="319.42215"
-     inkscape:cy="-16.654127"
+     inkscape:zoom="0.86260193"
+     inkscape:cx="256.34747"
+     inkscape:cy="-77.703469"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,7 +54,7 @@
   <g
      id="Page-1"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="translate(0,35)">
+     transform="translate(-5.7120026,2.5373712)">
     <g
        style="fill:#ffffff;fill-rule:nonzero"
        id="Group-11"

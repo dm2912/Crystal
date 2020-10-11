@@ -7,56 +7,63 @@
 	<langue>es</langue>
 		
 <!-- Global -->
-    <yes> Sí </yes>
-    <no> No </no>
-    <none> Ninguno </none>
-    <sysmusic> Activado </sysmusic>
-    <nomusic> Aleatorio </nomusic>
-    <silence> Sin música de fondo </silence>
-    <default> Predeterminado </default>
+    <yes>Sí </yes>
+    <no>No </no>
+    <none>Ninguno </none>
+    <sysmusic>Activado </sysmusic>
+    <nomusic>Aleatorio </nomusic>
+    <silence>Sin música de fondo </silence>
+    <default>Predeterminado </default>
 <!-- Vistas de biblioteca -->
-    <basiclist> Lista simple </basiclist>
-    <basicGridDetailsName> Cuadrícula / Detallado </basicGridDetailsName>
-    <carouselViewName> Carrusel </carouselViewName>
-    <carouselposterViewName> Carrusel / Detallado </carouselposterViewName>
-    <tilesViewName> Azulejos </tilesViewName>
-    <tilesVideoViewName> Mosaicos con video </tilesVideoViewName>
-    <tilesVideoMarqueeViewName> Azulejos con video y logotipos </tilesVideoMarqueeViewName>
-    <fanartViewName> Fanart (predeterminado) </fanartViewName>
-    <fanartvlViewName> Fanart (video en pantalla completa) </fanartvlViewName>
+    <basiclist>Lista simple </basiclist>
+    <basicGridDetailsName>Cuadrícula / Detallado </basicGridDetailsName>
+    <carouselViewName>Carrusel </carouselViewName>
+    <carouselposterViewName>Carrusel / Detallado </carouselposterViewName>
+    <tilesViewName>Azulejos </tilesViewName>
+    <tilesVideoViewName>Mosaicos con video </tilesVideoViewName>
+    <tilesVideoMarqueeViewName>Azulejos con video y logotipos </tilesVideoMarqueeViewName>
+    <fanartViewName>Fanart (predeterminado) </fanartViewName>
+    <fanartvlViewName>Fanart (video en pantalla completa) </fanartvlViewName>
 <!-- fondos -->
-    <defaultbg> SOLO (ligero) </defaultbg>
-    <darkbg> SOLO (oscuro) </darkbg>
-    <bellabg> Bella </bellabg>
-    <systembg> Consola </systembg>
-    <artflixbg> Artflix </artflixbg>
+    <defaultbg>SOLO (ligero) </defaultbg>
+    <darkbg>SOLO (oscuro) </darkbg>
+    <bellabg>Bella </bellabg>
+    <systembg>Consola </systembg>
+    <artflixbg>Artflix </artflixbg>
     
 <!-- Estilos de logotipo -->
 
-    <whitelog> Logotipo blanco </whitelog>
-    <colorlog> Logotipo de color </colorlog>
-    <conlog> Controladores </conlog>
-    <textlog> Logotipo de texto </textlog>
+    <whitelog>Logotipo blanco </whitelog>
+    <colorlog>Logotipo de color </colorlog>
+    <conlog>Controladores </conlog>
+    <textlog>Logotipo de texto </textlog>
 <!-- Iconos de ayuda -->
-		    <iarcade> Arcade </iarcade>
-    <isnes> Super Nintendo </isnes>
-    <ipsx> Playstation </ipsx>
-    <ixbox> X-Box </ixbox>
-    <ixbox2> X-Box inversa </ixbox2>
-    <idefault> Iconos estándar </idefault>
+		    <iarcade>Arcade </iarcade>
+    <isnes>Super Nintendo </isnes>
+    <ipsx>Playstation </ipsx>
+    <ixbox>X-Box </ixbox>
+    <ixbox2>X-Box inversa </ixbox2>
+    <idefault>Iconos estándar </idefault>
 <!-- Diseños del sistema -->
-    <horizontal> Menú horizontal </horizontal>
-    <rhc> Carrusel del lado derecho </rhc>
-    <lhc> Carrusel del lado izquierdo </lhc>
-    <systemdetails> Detallado </systemdetails>
+    <horizontal>Menú horizontal </horizontal>
+    <rhc>Carrusel del lado derecho </rhc>
+    <lhc>Carrusel del lado izquierdo </lhc>
+    <systemdetails>Detallado </systemdetails>
+   <hordetail>Detallado II</hordetail>
+<!-- retraso de video -->
+    <delay1>1 segundo</delay1>
+    <delay2>2 segundos</delay2>
+    <delay3>3 segundos</delay3>
+    <delay0>sin demora</delay0>	
 <!-- Submenús -->
-    <subset.systemview> Diseño de la página de inicio </subset.systemview>
-    <subset.colorset> Imágenes de fondo </subset.colorset>
-    <subset.iconset> Iconos de menú </subset.iconset>
-    <subset.shader> Sombreadores de temas </subset.shader>
-    <subset.music> Música del sistema </subset.music>
-    <subset.logoset> Estilo del logotipo del sistema </subset.logoset>	
+    <subset.systemview>Diseño de la página de inicio </subset.systemview>
+    <subset.colorset>Imágenes de fondo </subset.colorset>
+    <subset.iconset>Iconos de menú </subset.iconset>
+    <subset.shader>Sombreadores de temas </subset.shader>
+    <subset.music>Música del sistema </subset.music>
+    <subset.logoset>Estilo del logotipo del sistema </subset.logoset>	
 	<subset.thememusic>Música de fondo del tema</subset.thememusic>	
+   <subset.vdelay>Retraso de video en la lista de juegos</subset.vdelay>
 <!-- Descripciones del sistema -->
 	<psx>La PlayStation (abreviada extraoficialmente como PSX) es una consola de videojuegos doméstica desarrollada y comercializada por Sony Computer Entertainment. La consola original de la serie fue la primera consola de cualquier tipo en enviar más de 100 millones de unidades, en menos de una década.</psx>
    <threedo>La 3DO es una consola de videojuegos doméstica concebida por el empresario y fundador de Electronic Arts Trip Hawkins, la 3DO no fue fabricada por la propia empresa. Panasonic produjo los primeros modelos, y GoldStar y Sanyo lanzaron más versiones del hardware.</threedo>
@@ -141,6 +148,7 @@
 	<sc-3000>El SC-3000 es el primer y único ordenador diseñado y fabricado por Sega. Fue lanzado por primera vez en julio de 1983 en Japón y sirve como computadora doméstica equivalente a la consola de videojuegos basada en cartuchos SG-1000.</sc-3000>
 	<snesmsu1>El MSU-1 es un chip complementario de cartucho que permite muchas mejoras a los juegos SNES, incluidos, entre otros, video de movimiento completo y sonido con calidad de CD al agregar hasta 4 GB de almacenamiento para contenido adicional.</snesmsu1>
 	<wii>La Wii es una consola de videojuegos doméstica lanzada por Nintendo en 2006. Como consola de séptima generación, la Wii compitió con la Xbox 360 de Microsoft y la PlayStation 3 de Sony. Nintendo declaró que su consola apunta a un grupo demográfico más amplio que el de las otras dos .</wii>
+    <pico8>El Pico-8 (estilizado como PICO-8) es una máquina virtual y un motor de juego creado por Lexaloffle Games. Está diseñado para imitar una consola de videojuegos de fantasía, emulando las duras limitaciones de hardware de las consolas de videojuegos de la década de 1980.</pico8>
 <!-- colecciones -->
 	<artoffighting>Art of Fighting es una trilogía de videojuegos de lucha que se lanzó para la plataforma Neo Geo a principios de la década de 1990. Fue la segunda franquicia de juegos de lucha creada por SNK, después de la serie Fatal Fury y está ambientada en el mismo universo ficticio que una precuela de la serie Fatal Fury.</artoffighting>
 	<batman>Batman ha aparecido en más de 50 videojuegos que abarcan computadoras, teléfonos móviles y sistemas de consola desde la década de 1980</batman>
@@ -172,6 +180,6 @@
 	<tombraider>Tomb Raider es una franquicia de medios que hizo su debut en 1996. Desde el lanzamiento del Tomb Raider original, la serie se convirtió en una franquicia del mismo nombre, y Lara se convirtió en un ícono importante de la industria de los videojuegos. .</tombraider>
 	<zelda>The Legend of Zelda es una franquicia de videojuegos de acción y aventuras de alta fantasía creada por los diseñadores de juegos japoneses Shigeru Miyamoto y Takashi Tezuka. Es principalmente desarrollado y publicado por Nintendo.</zelda>
 	<irem>Irem Software Engineering es un desarrollador y editor de consolas de videojuegos japonés, y anteriormente también fue desarrollador y fabricante de juegos de arcade. La empresa tiene su sede en Chiyoda, Tokio.</irem>
-<metalgear>Metal Gear es una serie de videojuegos sigilosos de acción y aventuras creados por Hideo Kojima y desarrollados y publicados por Konami. El primer juego, Metal Gear, fue lanzado en 1987 para ordenadores domésticos MSX. Se han lanzado varias secuelas para múltiples consolas, que han ampliado la trama del juego original, agregando personajes opuestos y apoyando a Snake.</metalgear>
+<metalgear>Metal Gear es una serie de videojuegos sigilosos de acción y aventuras creados por Hideo Kojima y desarrollados y publicados por Konami. El primer juego, Metal Gear, fue lanzado en 1987 para ordenadores domésticos MSX. Se han lanzado varias secuelas para múltiples consolas, que han ampliado la trama del juego original.</metalgear>
 </variables>
 </theme>

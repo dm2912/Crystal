@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 132.29166 52.916668"
+   width="298.37686"
+   height="171.46498"
+   viewBox="0 0 78.945541 45.366777"
    version="1.1"
    id="svg8"
    sodipodi:docname="doom.svg"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3685316"
-     inkscape:cx="317.30766"
-     inkscape:cy="97.858995"
+     inkscape:zoom="1.2952907"
+     inkscape:cx="190.83833"
+     inkscape:cy="55.163555"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,7 +54,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-244.08332)">
+     transform="translate(-31.055596,-244.32636)">
     <g
        id="g2163"
        transform="matrix(0.90637605,0,0,0.90637605,23.654186,30.523076)">

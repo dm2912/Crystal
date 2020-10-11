@@ -9,12 +9,13 @@
 	<include lang="pt">./lang/portugues.xml</include>
 
 	<include subset="systemview" name="detailed view" displayName="${systemdetails}">./systemview/details.xml</include>
+	<include subset="systemview" name="horizontal detailed" displayName="${hordetail}">./systemview/horizontal_details.xml</include>
 	<include subset="systemview" name="horizontal" displayName="${horizontal}">./systemview/horizontal.xml</include>
 	<include subset="systemview" name="carousel left" displayName="${lhc}">./systemview/carousel-left.xml</include>
 	<include subset="systemview" name="carousel right" displayName="${rhc}">./systemview/carousel-right.xml</include>
 
-    <include subset="logoset" name="White" displayName="${whitelog}">./logosets/white.xml</include>
     <include subset="logoset" name="Color" displayName="${colorlog}">./logosets/color.xml</include>
+    <include subset="logoset" name="White" displayName="${whitelog}">./logosets/white.xml</include>
     <include subset="logoset" name="Controllers" displayName="${conlog}">./logosets/controllers.xml</include>
     
     <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./colorsets/artflix.xml</include>
@@ -30,4 +31,10 @@
 
     <include subset="thememusic" name="no" displayName="${no}">./_inc/sound_off.xml</include>
     <include subset="thememusic" name="yes" displayName="${yes}">./_inc/sound_on.xml</include>
+ 
+    <include subset="vdelay" name="1" displayName="${delay1}">./_inc/video_delay_1.xml</include>
+    <include subset="vdelay" name="2" displayName="${delay2}">./_inc/video_delay_2.xml</include>
+    <include subset="vdelay" name="3" displayName="${delay3}">./_inc/video_delay_3.xml</include>
+    <include subset="vdelay" name="0" displayName="${delay0}">./_inc/video_delay_0.xml</include>
+
 </theme>

@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="493.30814"
+   height="105.60672"
+   viewBox="0 0 493.30814 105.60672"
    version="1.1"
    id="svg115"
    sodipodi:docname="atari7800.svg"
@@ -42,9 +42,9 @@
      id="namedview117"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.2296053"
-     inkscape:cx="237.5"
-     inkscape:cy="51"
+     inkscape:zoom="0.95097433"
+     inkscape:cx="379.18535"
+     inkscape:cy="-86.583147"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,7 +54,7 @@
   <g
      style="fill:none;fill-rule:nonzero;stroke:none;stroke-width:1"
      id="mainlogo"
-     transform="matrix(1.0394123,0,0,1.0394123,2.4277833,58.211778)">
+     transform="matrix(1.0394123,0,0,1.0394123,-0.31710949,0)">
     <g
        style="fill:#ffffff"
        transform="translate(0,59.847952)"
@@ -97,7 +97,7 @@
        d="M 453.49332,16.47912 C 445.84851,5.7002718 434.61696,0 421.01677,0 c -13.60019,0 -24.83174,5.6974714 -32.47655,16.47912 -6.42673,9.067787 -9.96712,21.256651 -9.96712,34.32345 0,25.285067 13.12355,50.79977 42.44897,50.79977 29.32541,0 42.45161,-25.516103 42.45161,-50.79977 -0.008,-13.068199 -3.54966,-25.257063 -9.98036,-34.32345 z m -31.774,57.286962 c -9.74871,0 -8.27092,-15.10485 -8.27092,-22.394667 0,-7.22059 -1.47273,-22.143345 8.27092,-22.143345 9.74871,0 8.26966,14.922755 8.26966,22.143345 0.003,7.289817 1.47905,22.394667 -8.26966,22.394667 z" />
     <polygon
        style="fill:#a7061c"
-       points="136.02651,100.21053 171.82563,100.21053 214.33918,0 125.26316,0 125.26316,30.977309 167.64597,30.977309 "
+       points="214.33918,0 125.26316,0 125.26316,30.977309 167.64597,30.977309 136.02651,100.21053 171.82563,100.21053 "
        id="polygon108" />
     <path
        style="fill:#ffffff"

@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
+   width="489.00702"
+   height="70.963692"
    id="svg5135"
    version="1.1"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1962891"
-     inkscape:cx="472.90094"
-     inkscape:cy="-29.45112"
+     inkscape:zoom="0.92520765"
+     inkscape:cx="512.68886"
+     inkscape:cy="-67.162509"
      inkscape:current-layer="layer2"
      id="namedview5139"
      showgrid="true"
@@ -55,7 +55,9 @@
        empspacing="5"
        visible="true"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="-4.3268874"
+       originy="-65.537288" />
   </sodipodi:namedview>
   <metadata
      id="metadata5141">
@@ -108,13 +110,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-142.66415,-266.06882)" />
+     transform="translate(-146.99104,-329.56784)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="logo"
      style="display:inline"
-     transform="translate(-142.66415,-266.06882)">
+     transform="translate(-146.99104,-329.56784)">
     <rect
        style="display:inline;fill:#ffffff;stroke:none;stroke-width:1.14457572"
        id="rect4411-4"

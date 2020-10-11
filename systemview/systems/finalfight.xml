@@ -12,7 +12,12 @@
     <image name="background" extra="true">
       </image> 
 
-	  <text name="shortdescription" extra="true">
+	<image name="console" extra="true">
+    </image>
+
+
+	 <text name="shortdescription" extra="true">
+<text>Game Collection</text>
   </text>
 		<text name="description" extra="true">
 			<text>${finalfight}</text>

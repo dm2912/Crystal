@@ -23,8 +23,8 @@
 	</image>
 
 	<image name="logo" extra="true">
-        <pos>0.773 0.11</pos>
-         <maxSize>0.2 0.200</maxSize>
+        <pos>0.760 0.11</pos>
+         <maxSize>0.21 0.130</maxSize>
         <alignment>right</alignment>
       </image>
 

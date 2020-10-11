@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="474.59363"
+   height="146.43648"
+   viewBox="0 0 474.59363 146.43648"
    version="1.1"
    id="svg132"
    sodipodi:docname="apple2.svg"
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,9 +41,9 @@
      id="namedview134"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.0319125"
-     inkscape:cx="283"
-     inkscape:cy="83"
+     inkscape:zoom="1.5961582"
+     inkscape:cx="305.09391"
+     inkscape:cy="33.260995"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -51,7 +51,7 @@
   <g
      clip-path="url(#clip0)"
      id="g125"
-     transform="matrix(0.88311588,0,0,0.88311588,8.8049948,26.256993)">
+     transform="matrix(0.88311588,0,0,0.88311588,-0.6295639,-0.07244306)">
     <path
        d="m 172.9,74.9196 h -11.544 c -6.788,0 -12.232,5.5424 -12.232,12.331 0,6.7886 5.411,12.2326 12.232,12.2326 h 6.854 v 17.2828 h -12.265 c -15.381,0 -28.827,-14.758 -28.827,-29.745 0,-16.2991 13.217,-29.3844 28.598,-29.3844 h 37.255 V 116.799 H 172.9 Z"
        id="path109"

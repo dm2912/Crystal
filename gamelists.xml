@@ -177,6 +177,7 @@
       <video name="md_video">
          <pos>0.195 0.275</pos>
          <maxSize>0.35 0.40</maxSize>
+        <delay>${delay}</delay>
 		  <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
          <zIndex>51</zIndex>
@@ -301,7 +302,7 @@
          <pos>0.835 0.452</pos>
          <minSize>0.29 0.39</minSize>
          <origin>0.5 0.5</origin>
-         <delay>1</delay>
+       <delay>${delay}</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
       </video>
@@ -432,7 +433,7 @@
          <pos>0.80 0.255</pos>
          <maxSize>0.40 0.40</maxSize>
          <origin>0.5 0.5</origin>
-         <delay>1</delay>
+        <delay>${delay}</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
       </video>	
@@ -704,7 +705,7 @@
          <pos>0.025 0.62</pos>
          <minSize>0.30 0.30</minSize>
          <origin>0 0</origin>
-         <delay>0.2</delay>
+       <delay>${delay}</delay>
          <showSnapshotNoVideo>false</showSnapshotNoVideo>
          <showSnapshotDelay>false</showSnapshotDelay>
          <zIndex>6</zIndex>
@@ -819,7 +820,7 @@
          <pos>0 0</pos>
          <minSize>1 1</minSize>
          <origin>0 0</origin>
-         <delay>1</delay>
+       <delay>${delay}</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
          <zIndex>5</zIndex>

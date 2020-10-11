@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="496.09842"
+   height="139.04987"
+   viewBox="0 0 496.09842 139.04987"
    version="1.1"
    id="svg215"
    sodipodi:docname="gba.svg"
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,16 +43,16 @@
      id="namedview217"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.2092391"
-     inkscape:cx="241.5"
-     inkscape:cy="68"
+     inkscape:zoom="1.3226053"
+     inkscape:cx="260.38217"
+     inkscape:cy="31.948424"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg215" />
   <g
      id="mainlogo"
-     transform="matrix(1.0291644,0,0,1.0291644,-0.82696629,25.32702)">
+     transform="matrix(1.0291644,0,0,1.0291644,0,-1.2563027e-4)">
     <g
        id="Gameboy_advance_logo">
       <path

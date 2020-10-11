@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="495.91428"
+   height="152.71783"
+   viewBox="0 0 495.91428 152.71783"
    version="1.1"
    id="svg29"
    sodipodi:docname="mastersystem.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (1.0.1+r73)">
   <metadata
      id="metadata35">
     <rdf:RDF>
@@ -42,19 +42,20 @@
      id="namedview31"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.1919643"
+     inkscape:zoom="1.1357774"
      inkscape:cx="245"
-     inkscape:cy="76"
+     inkscape:cy="40.392628"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg29" />
+     inkscape:current-layer="svg29"
+     inkscape:document-rotation="0" />
   <title
      id="title2">syslogo</title>
   <g
      id="Page-1"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="matrix(1.0154609,0,0,1.0154609,0,35.607373)">
+     transform="scale(1.0154609)">
     <g
        id="syslogo"
        style="fill:#ffffff;fill-rule:nonzero">

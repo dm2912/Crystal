@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 132.29166 52.916668"
+   width="323.33704"
+   height="184.12785"
+   viewBox="0 0 85.549586 48.717162"
    version="1.1"
    id="svg8"
-   sodipodi:docname="f2.svg"
+   sodipodi:docname="fatalfury.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
      id="defs2" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1842658"
-     inkscape:cx="406.70574"
-     inkscape:cy="161.60766"
+     inkscape:zoom="0.91590885"
+     inkscape:cx="284.18235"
+     inkscape:cy="85.410816"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,7 +54,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-244.08332)">
+     transform="translate(-18.661592,-245.38086)">
     <g
        id="g2040"
        transform="matrix(1.538332,0,0,1.4246802,-49.226476,-113.43898)"

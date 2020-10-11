@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 132.29166 52.916668"
+   width="487.36972"
+   height="128.0071"
+   viewBox="0 0 128.9499 33.868545"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -492,47 +492,47 @@
        xlink:href="#linearGradient998"
        id="linearGradient1529"
        gradientUnits="userSpaceOnUse"
-       x1="6.555049"
-       y1="205.70446"
-       x2="459.76326"
-       y2="205.70446"
+       x1="6.5550489"
+       y1="205.70445"
+       x2="459.76328"
+       y2="205.70445"
        gradientTransform="matrix(0.07528106,0,0,0.07528106,-0.91751118,247.51734)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient998"
        id="linearGradient1573"
        gradientUnits="userSpaceOnUse"
-       x1="6.555049"
-       y1="205.70446"
-       x2="459.76326"
-       y2="205.70446" />
+       x1="6.5550489"
+       y1="205.70445"
+       x2="459.76328"
+       y2="205.70445" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient998"
        id="linearGradient1575"
        gradientUnits="userSpaceOnUse"
-       x1="6.555049"
-       y1="205.70446"
-       x2="459.76326"
-       y2="205.70446" />
+       x1="6.5550489"
+       y1="205.70445"
+       x2="459.76328"
+       y2="205.70445" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient998"
        id="linearGradient1577"
        gradientUnits="userSpaceOnUse"
-       x1="6.555049"
-       y1="205.70446"
-       x2="459.76326"
-       y2="205.70446" />
+       x1="6.5550489"
+       y1="205.70445"
+       x2="459.76328"
+       y2="205.70445" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient998"
        id="linearGradient1579"
        gradientUnits="userSpaceOnUse"
-       x1="6.555049"
-       y1="205.70446"
-       x2="459.76326"
-       y2="205.70446" />
+       x1="6.5550489"
+       y1="205.70445"
+       x2="459.76328"
+       y2="205.70445" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -541,9 +541,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0827573"
-     inkscape:cx="468.00984"
-     inkscape:cy="41.415662"
+     inkscape:zoom="1.1842658"
+     inkscape:cx="352.96634"
+     inkscape:cy="-8.7934749"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -562,7 +562,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -570,7 +570,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-244.08332)">
+     transform="translate(-0.94757624,-249.0972)">
     <path
        id="path1788"
        style="fill:#000080;fill-opacity:1;stroke:url(#linearGradient1529);stroke-width:0.38940471;stroke-opacity:1"

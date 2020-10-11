@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="469.2395"
+   height="147.87488"
+   viewBox="0 0 469.2395 147.87488"
    version="1.1"
    id="svg77"
    sodipodi:docname="coleco.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (1.0.1+r73)">
   <metadata
      id="metadata83">
     <rdf:RDF>
@@ -42,19 +42,20 @@
      id="namedview79"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.4492866"
-     inkscape:cx="201.5"
-     inkscape:cy="63.5"
+     inkscape:zoom="1.3809701"
+     inkscape:cx="180.80016"
+     inkscape:cy="35.524348"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg77" />
+     inkscape:current-layer="svg77"
+     inkscape:document-rotation="0" />
   <title
      id="title66">syslogo</title>
   <g
      id="Page-1"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="matrix(1.164366,0,0,1.164366,20.699839,27.975652)">
+     transform="scale(1.164366)">
     <g
        id="syslogo"
        style="fill:#ffffff;fill-rule:nonzero">
@@ -74,10 +75,10 @@
          transform="translate(390)">
         <polygon
            id="Path"
-           points="3.1025641,6.5 2.1153846,6.5 2.1153846,0.96808511 0,0.96808511 0,0 5.5,0 5.5,0.96808511 3.1025641,0.96808511 " />
+           points="2.1153846,0.96808511 0,0.96808511 0,0 5.5,0 5.5,0.96808511 3.1025641,0.96808511 3.1025641,6.5 2.1153846,6.5 " />
         <polygon
            id="polygon72"
-           points="12.031915,6.5 12.031915,0.96808511 10.37234,6.5 9.4042553,6.5 7.606383,0.96808511 7.606383,6.5 6.5,6.5 6.5,3.0708296e-16 8.1595745,3.0708296e-16 9.8191489,5.2553192 11.478723,0 13,0 13,6.5 " />
+           points="10.37234,6.5 9.4042553,6.5 7.606383,0.96808511 7.606383,6.5 6.5,6.5 6.5,3.0708296e-16 8.1595745,3.0708296e-16 9.8191489,5.2553192 11.478723,0 13,0 13,6.5 12.031915,6.5 12.031915,0.96808511 " />
       </g>
     </g>
   </g>

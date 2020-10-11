@@ -12,6 +12,10 @@
     <image name="background" extra="true">
       </image> 
 
+	<image name="console" extra="true">
+    </image>
+
+
 	  <text name="shortdescription" extra="true">
    <text>Multi-Platform Emulator</text>
   </text>

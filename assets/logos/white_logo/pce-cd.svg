@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="496.59393"
+   height="163.84439"
+   viewBox="0 0 496.59393 163.84439"
    version="1.1"
    id="svg249"
    sodipodi:docname="pce-cd.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (1.0.1+r73)">
   <metadata
      id="metadata255">
     <rdf:RDF>
@@ -42,18 +42,20 @@
      id="namedview251"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.1728163"
-     inkscape:cx="249"
-     inkscape:cy="84"
+     inkscape:zoom="1.117532"
+     inkscape:cx="248.05481"
+     inkscape:cy="80.851394"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg249" />
+     inkscape:current-layer="svg249"
+     inkscape:document-rotation="0" />
   <title
      id="title208">syslogo</title>
   <g
      id="Page-1"
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(-0.9451927,-3.1486064)">
     <g
        id="syslogo"
        transform="translate(1)">
@@ -121,24 +123,24 @@
          cx="178.99413"
          cy="98.727997"
          r="4.9200001"
-         style="stroke:#ffffff;stroke-width:3.69000006" />
+         style="stroke:#ffffff;stroke-width:3.69" />
       <path
          d="M 13.094561,50.618882 C 5.7348526,48.523891 1.090589,45.256819 0.52205235,41.072301 -0.41847512,34.174878 9.949418,26.561704 26.076155,21.032194"
          id="path22"
          inkscape:connector-curvature="0"
-         style="stroke:#ffffff;stroke-width:1.03423309;stroke-linecap:round;stroke-linejoin:round" />
+         style="stroke:#ffffff;stroke-width:1.03423;stroke-linecap:round;stroke-linejoin:round" />
       <path
          d="m 54.637287,14.847912 c 6.036818,-0.288994 11.807692,-0.901851 17.155859,-1.78021"
          id="path24"
          transform="matrix(0.98480775,-0.17364818,-0.17364818,-0.98480775,3.3841289,38.680771)"
          inkscape:connector-curvature="0"
-         style="stroke:#ffffff;stroke-width:1.03423309;stroke-linecap:round;stroke-linejoin:round" />
+         style="stroke:#ffffff;stroke-width:1.03423;stroke-linecap:round;stroke-linejoin:round" />
       <path
          d="M 80.243888,46.886291 C 97.489282,43.2288 109.11066,36.684172 108.88786,29.57116 108.58542,19.848201 86.267114,12.554952 58.133461,12.630436"
          id="path26"
          transform="matrix(0.98480775,-0.17364818,-0.17364818,-0.98480775,6.4361736,73.565801)"
          inkscape:connector-curvature="0"
-         style="stroke:#ffffff;stroke-width:1.03423309;stroke-linecap:round;stroke-linejoin:round" />
+         style="stroke:#ffffff;stroke-width:1.03423;stroke-linecap:round;stroke-linejoin:round" />
       <polyline
          id="path28"
          transform="matrix(0.98480775,-0.17364818,-0.17364818,-0.98480775,4.9120188,56.144632)"

@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="490.53082"
+   height="131.44966"
+   viewBox="0 0 490.53082 131.44966"
    version="1.1"
    id="svg296"
    sodipodi:docname="segacd.svg"
@@ -42,19 +42,27 @@
      id="namedview298"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.2560484"
-     inkscape:cx="232.5"
-     inkscape:cy="62.5"
+     inkscape:zoom="1.9428507"
+     inkscape:cx="260.15609"
+     inkscape:cy="71.644013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg296" />
+     inkscape:current-layer="svg296"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="74.021545,138.34228"
+       orientation="0,1"
+       id="guide299"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <title
      id="title268">mainlogo</title>
   <g
      id="Page-1"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="matrix(1.0565911,0,0,1.0565911,3.1845906,24.171422)">
+     transform="scale(1.0565911)">
     <g
        id="mainlogo"
        style="fill-rule:nonzero">

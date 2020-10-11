@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="498.21927"
+   height="157.00743"
+   viewBox="0 0 498.21927 157.00743"
    version="1.1"
    id="svg66"
    sodipodi:docname="coleco.svg"
@@ -40,9 +40,9 @@
      id="namedview68"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.4492866"
-     inkscape:cx="201.5"
-     inkscape:cy="63.5"
+     inkscape:zoom="1.5851572"
+     inkscape:cx="394.49741"
+     inkscape:cy="61.80781"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -88,7 +88,7 @@
   <g
      id="Page-1"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="matrix(1.2362761,0,0,1.2362761,2.0699839,24.363012)">
+     transform="scale(1.2362761)">
     <g
        id="mainlogo"
        style="fill-rule:nonzero">
@@ -116,10 +116,10 @@
          style="fill:#ffffff">
         <polygon
            id="Path"
-           points="3.1025641,0.96808511 3.1025641,6.5 2.1153846,6.5 2.1153846,0.96808511 0,0.96808511 0,0 5.5,0 5.5,0.96808511 " />
+           points="2.1153846,6.5 2.1153846,0.96808511 0,0.96808511 0,0 5.5,0 5.5,0.96808511 3.1025641,0.96808511 3.1025641,6.5 " />
         <polygon
            id="polygon61"
-           points="13,6.5 12.031915,6.5 12.031915,0.96808511 10.37234,6.5 9.4042553,6.5 7.606383,0.96808511 7.606383,6.5 6.5,6.5 6.5,3.0708296e-16 8.1595745,3.0708296e-16 9.8191489,5.2553192 11.478723,0 13,0 " />
+           points="12.031915,0.96808511 10.37234,6.5 9.4042553,6.5 7.606383,0.96808511 7.606383,6.5 6.5,6.5 6.5,3.0708296e-16 8.1595745,3.0708296e-16 9.8191489,5.2553192 11.478723,0 13,0 13,6.5 12.031915,6.5 " />
       </g>
     </g>
   </g>

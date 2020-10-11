@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="490.17065"
+   height="124.45186"
+   viewBox="0 0 490.17065 124.45186"
    version="1.1"
    id="svg58"
    sodipodi:docname="capcom.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (1.0.1+r73)">
   <metadata
      id="metadata64">
     <rdf:RDF>
@@ -42,19 +42,20 @@
      id="namedview60"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.3582849"
-     inkscape:cx="215"
-     inkscape:cy="54.5"
+     inkscape:zoom="1.294258"
+     inkscape:cx="211.31889"
+     inkscape:cy="13.554321"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg58" />
+     inkscape:current-layer="svg58"
+     inkscape:document-rotation="0" />
   <title
      id="title49">syslogo</title>
   <g
      id="Page-1"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="matrix(1.142418,0,0,1.142418,3.6811129,40.873974)">
+     transform="matrix(1.142418,0,0,1.142418,0,-0.07170459)">
     <g
        id="syslogo"
        style="fill:#ffffff;fill-rule:nonzero">

@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="500"
-   height="200"
+   width="482.95358"
+   height="93.949547"
    id="svg2"
    sodipodi:docname="gameandwatch.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,9 +41,9 @@
      id="namedview18"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.5121405"
-     inkscape:cx="152.05408"
-     inkscape:cy="46.606403"
+     inkscape:zoom="1.1694865"
+     inkscape:cx="113.30126"
+     inkscape:cy="-47.796963"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -52,7 +52,7 @@
      id="defs4" />
   <g
      id="g431"
-     transform="matrix(1.0782526,0,0,1.0782526,-23.579111,-9.8305182)">
+     transform="matrix(1.0782526,0,0,1.0782526,-33.304935,-59.731074)">
     <g
        style="fill:#ffffff"
        transform="matrix(1.5054843,0,0,1.8134396,-223.18567,55.038002)"

@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="471.10693"
+   height="173.46185"
+   viewBox="0 0 471.10693 173.46185"
    version="1.1"
    id="svg109"
    sodipodi:docname="nesh.svg"
@@ -43,16 +43,16 @@
      id="namedview111"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.2539616"
-     inkscape:cx="54.162675"
-     inkscape:cy="72.512228"
+     inkscape:zoom="1.3715205"
+     inkscape:cx="130.46708"
+     inkscape:cy="13.976742"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg109" />
   <g
      id="mainlogo"
-     transform="matrix(1.1959852,0,0,1.1959852,1.3491707,5.6839785)">
+     transform="matrix(1.1959852,0,0,1.1959852,0,-1.4599411e-4)">
     <g
        id="Group 26">
       <g
@@ -238,7 +238,7 @@
   </g>
   <g
      aria-label="[HACKS]"
-     transform="matrix(2.157844,-0.51428943,0.58119693,2.6463694,-242.18734,194.45632)"
+     transform="matrix(2.157844,-0.51428943,0.58119693,2.6463694,-243.53651,188.7722)"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="flowRoot52">
     <path

@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="200"
-   viewBox="0 0 500 200"
+   width="494.23642"
+   height="152.20113"
+   viewBox="0 0 494.23642 152.20113"
    version="1.1"
    id="svg204"
    sodipodi:docname="mastersystem.svg"
@@ -42,9 +42,9 @@
      id="namedview206"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.1919643"
-     inkscape:cx="245"
-     inkscape:cy="76"
+     inkscape:zoom="1.303711"
+     inkscape:cx="275.68736"
+     inkscape:cy="-1.0495965"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,7 +54,7 @@
   <g
      id="Page-1"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="matrix(1.0120252,0,0,1.0120252,3.3558052,24.378768)">
+     transform="scale(1.0120252)">
     <g
        id="mainlogo"
        style="fill-rule:nonzero">

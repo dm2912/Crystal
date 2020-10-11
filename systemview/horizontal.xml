@@ -7,11 +7,11 @@
   <view name="system">
     <carousel name="systemcarousel">
      <type>horizontal</type>
-     <pos>-.32 -0.35</pos>
+     <pos>-.32 -0.32</pos>
       <size>1 1</size>
       <color>ffffff00</color>
       <logoScale>1</logoScale>
-      <logoSize>0.3 1</logoSize>
+      <logoSize>0.3 .8</logoSize>
       <maxLogoCount>1</maxLogoCount>
     <logoAlignment>left</logoAlignment>
       <defaultTransition>instant</defaultTransition>	

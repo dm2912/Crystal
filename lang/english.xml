@@ -63,6 +63,7 @@
 	<subset.logoset>System Logo Style</subset.logoset>
 	<subset.thememusic>Theme Background Music</subset.thememusic>
     <subset.vdelay>Video delay on gamelist</subset.vdelay>
+    <subset.slog>System Logo on Gamelists</subset.slog>
 <!-- System descriptions -->
     <psx>The PlayStation (unofficially abbreviated as PSX) is a home video game console developed and marketed by Sony Computer Entertainment.  The original console in the series was the first console of any type to ship over 100 million units, doing so in under a decade.</psx>
     <threedo>The 3DO is a home video game console conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not manufactured by the company itself. Panasonic produced the first models, and further renditions of the hardware were released by GoldStar and Sanyo. </threedo>

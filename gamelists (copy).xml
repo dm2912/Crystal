@@ -22,7 +22,7 @@
       <image name="logo">
          <pos>0.141 0.060</pos>
          <maxSize>0.300 0.280</maxSize>
-	<path>./assets/logos/console/${system.theme}.png</path>
+	<path>./assets/logos/console/${system.theme}.png</path> 
       </image>    
       <textlist name="gamelist">
          <pos>0.0 0.15</pos>
@@ -43,10 +43,6 @@
          <size>1 1</size>
          <path>./_inc/backgrounds/bg-simple.svg</path>
       </image>
-	   		<image name="system_logo" extra="true">
-            <pos>0.015 0.020</pos>
-          <maxSize>0.200 0.110</maxSize>
-      </image>
    </view>
 
 <!-- gamelists - detailed view -->
@@ -63,9 +59,10 @@
          <pos>0 0</pos>
          <size>1 1</size>
       </image>
-       <image name="logo">
+      <image name="logo">
          <pos>0.905 0.020</pos>
           <maxSize>0.200 0.220</maxSize>
+	<path>./assets/logos/console_subs/${system.theme}.svg</path>
 	<path>./assets/logos/console/${system.theme}.png</path> 
       </image>
       <textlist name="gamelist">
@@ -186,11 +183,7 @@
          <showSnapshotDelay>true</showSnapshotDelay>
          <zIndex>51</zIndex>
       </video>
-		<image name="system_logo" extra="true">
-            <pos>0.675 0.020</pos>
-          <maxSize>0.200 0.110</maxSize>
-      </image>
-	      </view>
+   </view>
    
 <!-- gamelists - grid view that serves as template for all other grid views -->
 	
@@ -270,10 +263,6 @@
           <maxSize>0.200 0.220</maxSize>
 	<path>./assets/logos/console/${system.theme}.png</path> 
       </image>
-	   		<image name="system_logo" extra="true">
-            <pos>0.675 0.020</pos>
-          <maxSize>0.200 0.110</maxSize>
-      </image>
    </view>
 		
 
@@ -330,9 +319,6 @@
         <alignment>left</alignment>
          <size>0.18 0</size>
          <zIndex>99</zIndex>
-      </image>
-	   <image name="system_logo" extra="true">
-		   <visible>false</visible>
       </image>
    </customView>
 	
@@ -411,10 +397,6 @@
          <unfilledPath>./_inc/images/empty.svg</unfilledPath>
 		 <zIndex>25</zIndex>
       </rating>
-	   <image name="system_logo" extra="true">
-            <pos>0.025 0.850</pos>
-          <maxSize>0.200 0.110</maxSize>
-      </image>
    </customView>
 
  

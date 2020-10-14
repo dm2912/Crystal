@@ -1,17 +1,20 @@
-Theme 'Solo-Mod' by dm2912 (2020)
+Theme 'Crystal' by dm2912 (2020)
 
 Acknowledgements:
 
+Original codebase forked from theme 'SOLO' 09-15-2020 by AlecFull
 
-Original codebase forked from theme 'SOLO' 09-15-2020 by AlecFull - https://github.com/fagnerpc/Alekfull-SOLO
+Additional background artwork from 'Bello-Cobalto' and 'Artflix' by AlekFull
 
-Additional artwork from 'Bello-Cobalto' and 'Artflix' by AlekFull
-
-White system logos mostly adapted from 20GotoTen/es-theme-retrofix 
+White system logos mostly adapted from Retrofix by 20GotoTen
 
 Arcade System logos from a collection by Arcade-4-Fun
 
 Console logos largely from Fundemental by g-rilla
+
+All logo's sourced under "no commercial use" licences
+
+Unless otherwise stated all other artwork has been created, or adapted by me and is strictly "no commercial use"
 
 For use with EmulationStation (http://www.emulationstation.org/)
 

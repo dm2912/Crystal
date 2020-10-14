@@ -1,14 +1,17 @@
 Theme 'Solo-Mod' by dm2912 (2020)
 
-originally forked from theme 'SOLO' 09-15-2020 by AlecFull - https://github.com/fagnerpc/Alekfull-SOLO
+Acknowledgements:
 
-additional artwork from 'Bello-Cobalto' and 'Artflix' by AlekFull
+
+Original codebase forked from theme 'SOLO' 09-15-2020 by AlecFull - https://github.com/fagnerpc/Alekfull-SOLO
+
+Additional artwork from 'Bello-Cobalto' and 'Artflix' by AlekFull
 
 White system logos mostly adapted from 20GotoTen/es-theme-retrofix 
 
-based on theme 'carbon' v2.4 - 08-16-2016 by Rookervik
+Arcade System logos from a collection by Arcade-4-Fun
 
-based on tHeme 'simple'(c) Nils Bonenberger - http://blog.nilsbyte.de/
+Console logos largely from Fundemental by g-rilla
 
 For use with EmulationStation (http://www.emulationstation.org/)
 

@@ -26,7 +26,7 @@
    </helpsystem>
 
 <text name="shortdescription" extra="true">
- <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
+ <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
 <visible>false</visible>
 		</text>
 
@@ -35,7 +35,7 @@
          <backgroundColor>00000000</backgroundColor>
          <color>FFFFFF</color>
          <alignment>left</alignment>
-         <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
+         <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.050</fontSize>
          <glowColor>00000016</glowColor>
          <glowSize>2</glowSize>
@@ -49,7 +49,7 @@
       </image> 
 
 <text name="description" extra="true">
-           <fontPath>./../_inc/fonts/OpenSans-Semi-Bold.ttf</fontPath>
+           <fontPath>./../fonts/OpenSans-Semi-Bold.ttf</fontPath>
 			<pos>.007 0.70</pos>
             <size>0.92 0</size>
 			<alignment>left</alignment>
@@ -63,7 +63,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./_inc/backgrounds/horizontal_details.svg</path>
+         <path>./assets/filters/${themecolor}/horizontal_details.svg</path>
       </image>
 
 	  </view>

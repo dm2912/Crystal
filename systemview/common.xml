@@ -19,14 +19,14 @@
          <backgroundColor>00000000</backgroundColor>
          <color>FFFFFF</color>
          <alignment>left</alignment>
-         <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
+         <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.050</fontSize>
          <glowColor>00000016</glowColor>
          <glowSize>2</glowSize>
    </text>
 	  
   <helpsystem name="help">
-         <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
+         <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.025</fontSize>     
          <pos>0.007 0.965</pos>      
          <textColor>FFFFFF</textColor>
@@ -36,7 +36,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./_inc/backgrounds/bg-bottombar.svg</path>
+         <path>./assets/filters/${themecolor}/bg-bottombar.svg</path>
       </image>
 	  </view>
   </feature>  

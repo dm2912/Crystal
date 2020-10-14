@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>	
+<variables>
+<!-- Global -->
+      <baseColor>8b0000</baseColor>
+      <gradientEndColor>6b2020</gradientEndColor>
+      <centerFadeColor>8b000050</centerFadeColor>
+      <bottomBarColor>8b0000c0</bottomBarColor>
+      <glowColor>00000016</glowColor>
+      <systemInfoColor>DDDDDDD8</systemInfoColor>
+<!-- menu bars & global -->
+<!-- menu icons -->
+        <cmenuicons>light</cmenuicons> <!-- dark / light -->
+<!-- menu filter -->
+        <cmenufilter>dark</cmenufilter> <!-- dark / light -->
+
+		<menubgcolor>021323</menubgcolor>
+        <menutitlecolor>DFECFA</menutitlecolor>
+        <menutextcolor>868686</menutextcolor>
+        <menuseperatorcolor>191919</menuseperatorcolor>
+        <selectorstartcolor>47a1f5</selectorstartcolor>
+        <selectorendcolor>126b81</selectorendcolor>
+        <selectedtextcolor>FFFFFF</selectedtextcolor>
+        <smallmenutextcolor>23f2f0</smallmenutextcolor>
+        <menufootercolor>c0e7ed</menufootercolor>
+        <helpcolor>FFFFFF</helpcolor>
+<!-- filter folder name -->
+	<themecolor>blue</themecolor>
+</variables>
+</theme>

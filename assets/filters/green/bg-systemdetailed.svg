@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   viewBox="0 0 338.66666 190.5"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/dim/Downloads/bar.svg.png"
+   inkscape:export-xdpi="21.808081"
+   inkscape:export-ydpi="21.808081"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="bg-systemdetailed.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.23586872"
+     inkscape:cx="-915.98803"
+     inkscape:cy="79.66986"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-106.50001)">
+    <path
+       style="fill:#002000;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       d="M -228.02148 -729.7207 L -228.02148 -61.328125 L 1082.6523 -61.328125 L 1082.6523 -729.7207 L -228.02148 -729.7207 z M 916.88281 -8.7421875 L 916.88281 684.77148 L -5.1953125 684.77148 L -5.1953125 727.19922 L 1292.5742 727.19922 L 1292.5742 697.64258 L 1292.5742 684.77148 L 1292.5742 -8.7421875 L 916.88281 -8.7421875 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,106.50001)"
+       id="rect139" />
+  </g>
+</svg>

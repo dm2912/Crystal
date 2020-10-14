@@ -8,36 +8,40 @@
 	<include lang="fr">./lang/francais.xml</include> 
 	<include lang="pt">./lang/portugues.xml</include>
 
-	<include subset="systemview" name="detailed view" displayName="${systemdetails}">./systemview/details.xml</include>
-	<include subset="systemview" name="horizontal detailed" displayName="${hordetail}">./systemview/horizontal_details.xml</include>
+    <include subset="colortheme" name="1b" displayName="${ctblue}">./options/colorschemes/blue.xml</include>
+<!--    <include subset="colortheme" name="2g" displayName="${ctgreen}">./options/colorschemes/green.xml</include>
+    <include subset="colortheme" name="3r" displayName="${ctred}">./options/colorschemes/red.xml</include>
+-->
+	<include subset="systemview" name="horizontal detailed" displayName="${systemdetails}">./systemview/horizontal_details.xml</include>
+	<include subset="systemview" name="detailed view" displayName="${hordetail}">./systemview/details.xml</include>
 	<include subset="systemview" name="horizontal" displayName="${horizontal}">./systemview/horizontal.xml</include>
 	<include subset="systemview" name="carousel left" displayName="${lhc}">./systemview/carousel-left.xml</include>
 	<include subset="systemview" name="carousel right" displayName="${rhc}">./systemview/carousel-right.xml</include>
 
-    <include subset="logoset" name="Color" displayName="${colorlog}">./logosets/color.xml</include>
-    <include subset="logoset" name="White" displayName="${whitelog}">./logosets/white.xml</include>
-    <include subset="logoset" name="Controllers" displayName="${conlog}">./logosets/controllers.xml</include>
+    <include subset="logoset" name="Color" displayName="${colorlog}">./options/logosets/color.xml</include>
+    <include subset="logoset" name="White" displayName="${whitelog}">./options/logosets/white.xml</include>
+    <include subset="logoset" name="Controllers" displayName="${conlog}">./options/logosets/controllers.xml</include>
     
-    <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./colorsets/artflix.xml</include>
-	<include subset="colorset" name="Bella BG" displayName="${bellabg}">./colorsets/bella.xml</include>
-	<include subset="colorset" name="System BG" displayName="${systembg}">./colorsets/system.xml</include>
+    <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./options/background/artflix.xml</include>
+	<include subset="colorset" name="Bella BG" displayName="${bellabg}">./options/background/bella.xml</include>
+	<include subset="colorset" name="System BG" displayName="${systembg}">./options/background/system.xml</include>
 	
-	<include subset="iconset" name="Default" displayName="${idefault}">./iconsets/xbox.xml</include>
-	<include subset="iconset" name="ARCADE" displayName="${iarcade}">./iconsets/arcade.xml</include>
-    <include subset="iconset" name="SNES" displayName="${isnes}">./iconsets/snes.xml</include>
-    <include subset="iconset" name="Playstation" displayName="${ipsx}">./iconsets/psx.xml</include>
-    <include subset="iconset" name="Xbox" displayName="${ixbox}">./iconsets/xbox.xml</include>
-    <include subset="iconset" name="Xbox Reverse" displayName="${ixbox2}">./iconsets/xbox-rev.xml</include>
+	<include subset="iconset" name="Default" displayName="${idefault}">./options/helpicons/xbox.xml</include>
+	<include subset="iconset" name="ARCADE" displayName="${iarcade}">./options/helpicons/arcade.xml</include>
+    <include subset="iconset" name="SNES" displayName="${isnes}">./options/helpicons/snes.xml</include>
+    <include subset="iconset" name="Playstation" displayName="${ipsx}">./options/helpicons/psx.xml</include>
+    <include subset="iconset" name="Xbox" displayName="${ixbox}">./options/helpicons/xbox.xml</include>
+    <include subset="iconset" name="Xbox Reverse" displayName="${ixbox2}">./options/helpicons/xbox-rev.xml</include>
 
-    <include subset="slog" name="yes" displayName="${yes}">./_inc/syslogo_yes.xml</include>
-    <include subset="slog" name="no" displayName="${no}">./_inc/syslogo_no.xml</include>
+    <include subset="slog" name="yes" displayName="${yes}">./options/syslogos/syslogo_yes.xml</include>
+    <include subset="slog" name="no" displayName="${no}">./options/syslogos/syslogo_no.xml</include>
 
-    <include subset="thememusic" name="no" displayName="${no}">./_inc/sound_off.xml</include>
-    <include subset="thememusic" name="yes" displayName="${yes}">./_inc/sound_on.xml</include>
+    <include subset="thememusic" name="no" displayName="${no}">./options/sound/sound_off.xml</include>
+    <include subset="thememusic" name="yes" displayName="${yes}">./options/sound/sound_on.xml</include>
  
-    <include subset="vdelay" name="1" displayName="${delay1}">./_inc/video_delay_1.xml</include>
-    <include subset="vdelay" name="2" displayName="${delay2}">./_inc/video_delay_2.xml</include>
-    <include subset="vdelay" name="3" displayName="${delay3}">./_inc/video_delay_3.xml</include>
-    <include subset="vdelay" name="0" displayName="${delay0}">./_inc/video_delay_0.xml</include>
+    <include subset="vdelay" name="1" displayName="${delay1}">./options/videodelay/video_delay_1.xml</include>
+    <include subset="vdelay" name="2" displayName="${delay2}">./options/videodelay/video_delay_2.xml</include>
+    <include subset="vdelay" name="3" displayName="${delay3}">./options/videodelay/video_delay_3.xml</include>
+    <include subset="vdelay" name="0" displayName="${delay0}">./options/videodelay/video_delay_0.xml</include>
 
 </theme>

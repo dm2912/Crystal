@@ -5,7 +5,6 @@
 	<variables>
 		
 		<langue>en</langue>
-
 <!-- Global --> 	
 	<yes>Yes</yes>
 	<no>No</no>
@@ -24,6 +23,10 @@
     <tilesVideoMarqueeViewName>Tiles with Video and Logos</tilesVideoMarqueeViewName>
     <fanartViewName>Fanart (Default)</fanartViewName>
 	<fanartvlViewName>Fanart (Full Screen Video)</fanartvlViewName>
+<!-- color schemes -->
+    <ctblue>Sapphire</ctblue>
+	<ctred>Ruby</ctred>
+	<ctgreen>Emerald</ctgreen>
 <!-- backgrounds -->
 	<defaultbg>SOLO (Light)</defaultbg>
 	<darkbg>SOLO (Dark)</darkbg>
@@ -31,13 +34,12 @@
 	<systembg>Console</systembg>
 	<artflixbg>Artflix</artflixbg>
 <!-- Logo Styles -->
-
 	<whitelog>White Logo's</whitelog>
 	<colorlog>Color Logo's</colorlog>
 	<conlog>Controllers</conlog>
     <textlog>Text Logo's</textlog>
 <!-- Help Icons -->
-			<iarcade>Arcade</iarcade>
+	<iarcade>Arcade</iarcade>
 	<isnes>Super Nintendo</isnes>
 	<ipsx>Playstation</ipsx>
 	<ixbox>X-Box</ixbox>
@@ -57,13 +59,14 @@
 <!-- Submenus -->
     <subset.systemview>Homepage Layout</subset.systemview>
     <subset.colorset>Background Images</subset.colorset>
-    <subset.iconset>Menu Icons</subset.iconset>
+    <subset.iconset>Help Icons</subset.iconset>
     <subset.shader>Theme Shaders</subset.shader>
 	<subset.music>System Music</subset.music>
 	<subset.logoset>System Logo Style</subset.logoset>
 	<subset.thememusic>Theme Background Music</subset.thememusic>
     <subset.vdelay>Video delay on gamelist</subset.vdelay>
     <subset.slog>System Logo on Gamelists</subset.slog>
+    <subset.colortheme>Theme Colour Scheme</subset.colortheme>
 <!-- System descriptions -->
     <psx>The PlayStation (unofficially abbreviated as PSX) is a home video game console developed and marketed by Sony Computer Entertainment.  The original console in the series was the first console of any type to ship over 100 million units, doing so in under a decade.</psx>
     <threedo>The 3DO is a home video game console conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not manufactured by the company itself. Panasonic produced the first models, and further renditions of the hardware were released by GoldStar and Sanyo. </threedo>
@@ -182,4 +185,4 @@
     <irem>Irem Software Engineering is a Japanese video game console developer and publisher, and formerly a developer and manufacturer of arcade games as well. The company has its headquarters in Chiyoda, Tokyo.</irem>
     <metalgear>Metal Gear is a series of stealth action-adventure video games created by Hideo Kojima and developed and published by Konami. The first game, Metal Gear, was released in 1987 for MSX home computers. Several sequels have been released for multiple consoles, which have expanded the plot of the original game.</metalgear>
 </variables>
-</theme>
+		</theme>

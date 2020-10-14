@@ -33,7 +33,7 @@
    </helpsystem>
 
 <image name="background" extra="true">
-       <path>./_inc/backgrounds/bg-system-right.svg</path>
+       <path>./assets/filters/${themecolor}/bg-system-right.svg</path>
       </image>
 
 	  </view>

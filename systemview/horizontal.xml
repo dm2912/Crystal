@@ -29,7 +29,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./_inc/backgrounds/bg_topbar.svg</path>
+         <path>./assets/filters/${themecolor}/bg_topbar.svg</path>
       </image>
 
 	  </view>

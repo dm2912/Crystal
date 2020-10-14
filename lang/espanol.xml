@@ -55,10 +55,16 @@
     <delay2>2 segundos</delay2>
     <delay3>3 segundos</delay3>
     <delay0>sin demora</delay0>	
+<!-- color schemes -->
+    <ctblue>Sapphire</ctblue>
+	<ctred>Ruby</ctred>
+	<ctgreen>Emerald</ctgreen>
+    
 <!-- Submenús -->
+<subset.colortheme>Esquema de color del tema</subset.colortheme>
     <subset.systemview>Diseño de la página de inicio </subset.systemview>
     <subset.colorset>Imágenes de fondo </subset.colorset>
-    <subset.iconset>Iconos de menú </subset.iconset>
+    <subset.iconset>Iconos de ayuda</subset.iconset>
     <subset.shader>Sombreadores de temas </subset.shader>
     <subset.music>Música del sistema </subset.music>
     <subset.logoset>Estilo del logotipo del sistema </subset.logoset>	
@@ -182,5 +188,10 @@
 	<zelda>The Legend of Zelda es una franquicia de videojuegos de acción y aventuras de alta fantasía creada por los diseñadores de juegos japoneses Shigeru Miyamoto y Takashi Tezuka. Es principalmente desarrollado y publicado por Nintendo.</zelda>
 	<irem>Irem Software Engineering es un desarrollador y editor de consolas de videojuegos japonés, y anteriormente también fue desarrollador y fabricante de juegos de arcade. La empresa tiene su sede en Chiyoda, Tokio.</irem>
 <metalgear>Metal Gear es una serie de videojuegos sigilosos de acción y aventuras creados por Hideo Kojima y desarrollados y publicados por Konami. El primer juego, Metal Gear, fue lanzado en 1987 para ordenadores domésticos MSX. Se han lanzado varias secuelas para múltiples consolas, que han ampliado la trama del juego original.</metalgear>
+
+
+
+
+
 </variables>
 </theme>

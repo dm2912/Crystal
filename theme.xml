@@ -37,12 +37,12 @@
 	
    <view name="menu">
       <menuText name="menufooter">
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
+         <fontPath>./fonts/Homizio.ttf</fontPath>
          <fontSize>0.025</fontSize>
          <color>c0e7ed</color>
       </menuText>
       <menuText name="menutext">
-         <fontPath>./_inc/fonts/OpenSans-Light.ttf</fontPath>
+         <fontPath>./fonts/OpenSans-Light.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <color>868686</color>
          <separatorColor>191919</separatorColor>
@@ -52,39 +52,39 @@
          <selectorGradientType>horizontal</selectorGradientType>
        </menuText>
       <menuTextSmall name="menutextsmall">
-         <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.03</fontSize>
          <color>23f2f0</color>
       </menuTextSmall>
       <menuText name="menutitle">
-         <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.04</fontSize>
          <color>DFECFA</color>
       </menuText>
       <menuBackground name="menubg">
          <color>021323</color>
-         <path>./_inc/back.png</path>
-         <fadePath>./_inc/fade.png</fadePath>
+         <path>./assets/menu_filters/${cmenufilter}/back.png</path>
+         <fadePath>./assets/menu_filters/${cmenufilter}/fade.png</fadePath>
       </menuBackground>
       <menuIcons name="menuicons">
-         <iconKodi>./_inc/menu_icons/Kodi.png</iconKodi>
-         <iconSystem>./_inc/menu_icons/System.png</iconSystem>
-         <iconUpdates>./_inc/menu_icons/Updates.png</iconUpdates>
-         <iconGames>./_inc/menu_icons/Games.png</iconGames>
-         <iconControllers>./_inc/menu_icons/Controllers.png</iconControllers>
-         <iconUI>./_inc/menu_icons/UI.png</iconUI>
-         <iconSound>./_inc/menu_icons/Sound.png</iconSound>
-         <iconNetwork>./_inc/menu_icons/Network.png</iconNetwork>
-         <iconScraper>./_inc/menu_icons/Scraper.png</iconScraper>
-         <iconAdvanced>./_inc/menu_icons/Advanced.png</iconAdvanced>
-         <iconQuit>./_inc/menu_icons/Quit.png</iconQuit>
-         <iconRestart>./_inc/menu_icons/Restart.png</iconRestart>
-         <iconShutdown>./_inc/menu_icons/Shutdown.png</iconShutdown>
-         <iconFastShutdown>./_inc/menu_icons/Fastshutdown.png</iconFastShutdown>
-		 <iconRetroachievements>./_inc/menu_icons/Contest.png</iconRetroachievements>
+         <iconKodi>./assets/menu_icons/${cmenuicons}/Kodi.png</iconKodi>
+         <iconSystem>./assets/menu_icons/${cmenuicons}/System.png</iconSystem>
+         <iconUpdates>./assets/menu_icons/${cmenuicons}/Updates.png</iconUpdates>
+         <iconGames>./assets/menu_icons/${cmenuicons}/Games.png</iconGames>
+         <iconControllers>./assets/menu_icons/${cmenuicons}/Controllers.png</iconControllers>
+         <iconUI>./assets/menu_icons/${cmenuicons}/UI.png</iconUI>
+         <iconSound>./assets/menu_icons/${cmenuicons}/Sound.png</iconSound>
+         <iconNetwork>./assets/menu_icons/${cmenuicons}/Network.png</iconNetwork>
+         <iconScraper>./assets/menu_icons/${cmenuicons}/Scraper.png</iconScraper>
+         <iconAdvanced>./assets/menu_icons/${cmenuicons}/Advanced.png</iconAdvanced>
+         <iconQuit>./assets/menu_icons/${cmenuicons}/Quit.png</iconQuit>
+         <iconRestart>./assets/menu_icons/${cmenuicons}/Restart.png</iconRestart>
+         <iconShutdown>./assets/menu_icons/${cmenuicons}/Shutdown.png</iconShutdown>
+         <iconFastShutdown>./assets/menu_icons/${cmenuicons}/Fastshutdown.png</iconFastShutdown>
+		 <iconRetroachievements>./assets/menu_icons/${cmenuicons}/Contest.png</iconRetroachievements>
       </menuIcons>
       <helpsystem name="help">
-         <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <pos>0.06 0.955</pos>
          <textColor>FFFFFF</textColor>

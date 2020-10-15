@@ -12,7 +12,7 @@
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.025</fontSize>
          <pos>0.007 0.965</pos>  
-         <textColor>FFFFFF</textColor>
+         <textColor>${chelptext}</textColor>
       </helpsystem>
       <image name="art" extra="true">
          <origin>0 0</origin>
@@ -32,10 +32,11 @@
          <pos>0.0 0.15</pos>
         <alignment>center</alignment>
          <size>1.0 0.800</size>
-         <selectorColor>0f85a5</selectorColor>
-         <selectedColor>ffffff</selectedColor>
-         <primaryColor>ffffff</primaryColor>
-         <secondaryColor>ffffff</secondaryColor>
+		 <primaryColor>${cgamelisttext}</primaryColor>
+         <selectedColor>${cselectedtext}</selectedColor>
+		 <selectorColor>${cselector}</selectorColor>
+		 <selectorColorEnd>${cselectorend}</selectorColorEnd>
+		 <selectorGradientType>${cgradienttype}</selectorGradientType>
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <scrollSound>./assets/sounds/default/scroll.ogg</scrollSound>
@@ -56,7 +57,7 @@
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.025</fontSize>
    	   <pos>0.007 0.965</pos>   
-         <textColor>FFFFFF</textColor>
+         <textColor>${chelptext}</textColor>
       </helpsystem>
       <image name="art" extra="true">
          <origin>0 0</origin>
@@ -69,12 +70,13 @@
 	<path>./assets/logos/console/${system.theme}.png</path> 
       </image>
       <textlist name="gamelist">
-         <pos>0.675 0.15</pos>
-         <size>0.31 0.88</size>
-         <selectorColor>0f85a5</selectorColor>
-         <selectedColor>ffffff</selectedColor>
-         <primaryColor>ffffff</primaryColor>
-         <secondaryColor>ffffff</secondaryColor>
+         <pos>0.675 0.19</pos>
+         <size>0.31 0.848</size>
+         <primaryColor>${cgamelisttext}</primaryColor>
+         <selectedColor>${cselectedtext}</selectedColor>
+		 <selectorColor>${cselector}</selectorColor>
+		 <selectorColorEnd>${cselectorend}</selectorColorEnd>
+		 <selectorGradientType>${cgradienttype}</selectorGradientType>
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.029</fontSize>
          <scrollSound>./assets/sounds/default/scroll.ogg</scrollSound>
@@ -90,93 +92,101 @@
       <rating name="md_rating">
          <pos>0.40 0.4300</pos>
          <size>0.35 0.038</size>
-         <filledPath>./assets/stars/${themecolor}/filled.svg</filledPath>
-         <unfilledPath>./assets/stars/${themecolor}/empty.svg</unfilledPath>
+         <filledPath>./assets/gamelist_icons/rating_filled.svg</filledPath>
+         <unfilledPath>./assets/gamelist_icons/rating_unfilled.svg</unfilledPath>
+		 <color>${crating}</color>
       </rating>
-      <text name="md_lbl_releasedate">
-         <pos>0.40 0.0705</pos>
-         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
-         <fontSize>0.024</fontSize>
-         <color>ffffff</color>
-      </text>
+
+	   <image name="release_date_logo" extra="true">
+			<pos>0.40 0.07</pos>
+			<maxSize>0.035</maxSize>
+			<path>./assets/gamelist_icons/game_info_releasedate.svg</path>
+		   	<color>${cglicons}</color>
+		</image>
       <datetime name="md_releasedate">
-         <pos>0.40 0.1005</pos>
+         <pos>0.44 0.07</pos>
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
-         <color>ffffff</color>
+         <color>${cgldetail}</color>
       </datetime>
-      <text name="md_lbl_developer">
-         <pos>0.40 0.1405</pos>
-         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
-         <fontSize>0.024</fontSize>
-         <color>ffffff</color>
-      </text>
+	   
+	   <image name="developer_logo" extra="true">
+			<pos>0.40 0.130</pos>
+			<maxSize>0.035</maxSize>
+			<path>./assets/gamelist_icons/game_info_developer.svg</path>
+		   	<color>${cglicons}</color>
+		</image>
       <text name="md_developer">
-         <pos>0.40 0.1705</pos>
+         <pos>0.44 0.13</pos>
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <size>0.20 0.024</size>
-         <color>ffffff</color>
+         <color>${cgldetail}</color>
       </text>
-      <text name="md_lbl_publisher">
-         <pos>0.40 0.2105</pos>
-         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
-         <fontSize>0.024</fontSize>
-         <color>ffffff</color>
-      </text>
-      <text name="md_publisher">
-         <pos>0.40 0.2405</pos>
-         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
-         <fontSize>0.024</fontSize>
-         <size>0.20 0.024</size>
-         <color>ffffff</color>
-      </text>
-      <text name="md_lbl_genre">
-         <pos>0.40 0.2705</pos>
-         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
-         <fontSize>0.024</fontSize>
-         <color>ffffff</color>
-      </text>
-      <text name="md_genre">
-         <pos>0.40 0.3105</pos>
+	   
+	   	   <image name="publisher_logo" extra="true">
+			<pos>0.40 0.190</pos>
+			<maxSize>0.035</maxSize>
+			<path>./assets/gamelist_icons/game_info_publisher.svg</path>
+		   	<color>${cglicons}</color>
+		</image>
+	        <text name="md_publisher">
+         <pos>0.44 0.19</pos>
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <size>0.20 0.024</size>
-         <color>ffffff</color>
+         <color>${cgldetail}</color>
       </text>
-      <text name="md_lbl_players">
-         <pos>0.40 0.3505</pos>
+	  
+	   	   <image name="genre_logo" extra="true">
+			<pos>0.40 0.250</pos>
+			<maxSize>0.035</maxSize>
+			<path>./assets/gamelist_icons/game_info_genre.svg</path>
+		   	<color>${cglicons}</color>
+		</image>
+	         <text name="md_genre">
+         <pos>0.44 0.25</pos>
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <size>0.20 0.024</size>
-         <color>ffffff</color>
+         <color>${cgldetail}</color>
       </text>
-      <text name="md_players">
-         <pos>0.40 0.3900</pos>
+	   
+	<image name="players_logo" extra="true">
+			<pos>0.40 0.31</pos>
+			<maxSize>0.035</maxSize>
+			<path>./assets/gamelist_icons/game_info_players.svg</path>
+		   	<color>${cglicons}</color>
+		</image>
+	         <text name="md_players">
+         <pos>0.44 0.31</pos>
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
          <size>0.20 0.024</size>
-         <color>ffffff</color>
+         <color>${cgldetail}</color>
       </text>
-      <datetime name="md_lastplayed">
-         <pos>2 2</pos>
-         <fontSize>0.00</fontSize>
-         <size>0 0</size>
-         <zIndex>0</zIndex>
-      </datetime>
-      <text name="md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
-         <pos>2 2</pos>
-         <size>0 0</size>
-         <fontSize>0.0</fontSize>
-         <zIndex>0</zIndex>
+	   	   
+      <image name="gametime_logo" extra="true">
+			<pos>0.40 0.37</pos>
+			<maxSize>0.035</maxSize>
+			<path>./assets/gamelist_icons/game_info_gametime2.svg</path>
+		   	<color>${cglicons}</color>
+		</image>
+      <text name="md_gametime">
+         <pos>0.44 0.38</pos>
+         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontSize>0.024</fontSize>
+         <size>0.20 0.024</size>
+         <color>${cgldetail}</color>
       </text>
+	  	   
       <text name="md_description">
-         <color>ffffff</color>
+         <color>${cgdescription}</color>
          <pos>0.022 0.515</pos>
-         <size>0.575 0.380</size>
+         <size>0.575 0.400</size>
          <fontPath>./fonts/Homizio.ttf</fontPath>
          <fontSize>0.034</fontSize>
-		         <glowColor>00000016</glowColor>
+		 <glowColor>${cglglow}</glowColor>
          <glowSize>1</glowSize>
       </text>
       <video name="md_video">
@@ -200,14 +210,15 @@
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.025</fontSize>
     	   <pos>0.007 0.965</pos>  
-         <textColor>FFFFFF</textColor>
+         <textColor>${chelptext}</textColor>
       </helpsystem>
 	         <rating name="md_rating">
          <pos>0.45 0.02</pos>
 			<alignment>center</alignment>
          <size>0.35 0.038</size>
-         <filledPath>./assets/stars/${themecolor}/filled.svg</filledPath>
-         <unfilledPath>./assets/stars/${themecolor}/empty.svg</unfilledPath>
+         <filledPath>./assets/gamelist_icons/rating_filled.svg</filledPath>
+         <unfilledPath>./assets/gamelist_icons/rating_unfilled.svg</unfilledPath>
+		 <color>${crating}</color>
       </rating>
       <image name="art" extra="true">
          <origin>0 0</origin>
@@ -221,18 +232,7 @@
          <size>1 1</size>
          <path>./assets/filters/${themecolor}/bg-simple.svg</path>
       </image>
-      <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
-         <color>A0A0B000</color>
-         <fontPath>./fonts/Homizio.ttf</fontPath>
-      </text>
-      <text name="md_developer, md_publisher, md_genre, md_players, md_playcount, md_description">
-         <color>ffffff00</color>
-         <fontPath>./fonts/Homizio.ttf</fontPath>
-      </text>
-      <datetime name="md_releasedate, md_lastplayed">
-         <color>ffffff00</color>
-         <fontPath>./fonts/Homizio.ttf</fontPath>
-      </datetime>
+
       <imagegrid name="gamegrid">
          <pos>0.025 0.16</pos>
          <size>0.950 0.790</size>
@@ -244,26 +244,26 @@
          <animateSelection>false</animateSelection>
       </imagegrid>
       <gridtile name="default">
-         <backgroundColor>FFFFFF00</backgroundColor>
+         <backgroundColor>${cgtbg}</backgroundColor>
          <backgroundCornerSize>9 9</backgroundCornerSize>
          <selectionMode>image</selectionMode>
          <padding>5 5</padding>
-         <imageColor>FFFFFFB0</imageColor>
+         <imageColor>${cgtimage}</imageColor>
       </gridtile>
       <gridtile name="selected">
-         <backgroundCenterColor>${centerFadeColor}</backgroundCenterColor>
-         <backgroundEdgeColor>${bottomBarColor}</backgroundEdgeColor>
-         <imageColor>FFFFFFFF</imageColor>
+         <backgroundCenterColor>${ccenterfade}</backgroundCenterColor>
+         <backgroundEdgeColor>${cgtbgedgeselect}</backgroundEdgeColor>
+         <imageColor>${cgtimageselect}</imageColor>
       </gridtile>
       <text name="gridtile">
-         <color>D0D0D0</color>
-         <backgroundColor>00000000</backgroundColor>
+         <color>${cgtext}</color>
+         <backgroundColor>${cgtextbg}</backgroundColor>
          <fontSize>0.030</fontSize>
          <alignment>center</alignment>
          <size>1 0.24</size>
       </text>
       <text name="gridtile_selected">
-         <color>FFFFFF</color>
+         <color>${cgtextselect}</color>
          <glowColor>${glowColor}</glowColor>
          <glowSize>5</glowSize>
       </text>  
@@ -317,27 +317,24 @@
 	    <rating name="md_rating">
          <pos>0.685 0.2</pos>
          <size>0.35 0.038</size>
-         <filledPath>./assets/stars/${themecolor}/filled.svg</filledPath>
-         <unfilledPath>./assets/stars/${themecolor}/empty.svg</unfilledPath>
+         <filledPath>./assets/gamelist_icons/rating_filled.svg</filledPath>
+         <unfilledPath>./assets/gamelist_icons/rating_unfilled.svg</unfilledPath>
+		 <color>${crating}</color>
       </rating>
-      <text name="md_lbl_releasedate">
-         <pos>0.685 0.13</pos>
-         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
-         <fontSize>0.024</fontSize>
-         <color>ffffff</color>
-      </text>
+	   
+	  <image name="release_date_logo" extra="true">
+			<pos>0.685 0.13</pos>
+			<maxSize>0.035</maxSize>
+			<path>./assets/gamelist_icons/game_info_releasedate.svg</path>
+		   	<color>${cglicons}</color>
+		</image>
+	   
       <datetime name="md_releasedate">
-         <pos>0.685 0.16</pos>
+         <pos>0.725 0.13</pos>
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
-         <color>ffffff</color>
+         <color>${cgldetail}</color>
       </datetime>
-<!--	<image name="md_marquee">
-         <pos>0.830 0.80</pos>
-        <alignment>center</alignment>
-         <size>0.22 0</size>
-         <zIndex>99</zIndex>
-      </image> -->
 	   
 		<image name="system_logo" extra="true">
             <pos>0.685 0.020</pos>
@@ -348,7 +345,7 @@
          <pos>0.680 0.678</pos>
          <size>0.30 0.270</size>
          <fontSize>0.03</fontSize>
-         <color>A0A0B0</color>
+         <color>${cgdescription}</color>
 	   </text> 
 	   
    </customView>
@@ -369,16 +366,16 @@
          <pos>0.04 0.76</pos>
          <size>0.92 0.10</size>
          <alignment>center</alignment>
-         <glowColor>00000016</glowColor>
+         <glowColor>${cglglow}</glowColor>
          <glowSize>4</glowSize>
       </text>
       <text name="md_developer">
-         <color>808080ff</color>
+         <color>${cgldetail}</color>
          <pos>0.04 0.80</pos>
          <size>0.92 0.10</size>
          <alignment>center</alignment>
          <fontSize>0.030</fontSize>
-         <glowColor>00000016</glowColor>
+         <glowColor>${cglglow}</glowColor>
          <glowSize>3</glowSize>
       </text>
       <image name="md_marquee">
@@ -401,32 +398,36 @@
       </imagegrid>
       <gridtile name="default">
          <padding>64 16</padding>
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
+         <backgroundCenterColor>${cbgcenter}</backgroundCenterColor>
+         <backgroundEdgeColor>${cbgedge}</backgroundEdgeColor>
          <imageSizeMode>maxSize</imageSizeMode>
-         <imageColor>FFFFFFAA</imageColor>
+         <imageColor>${cgtimage}</imageColor>
          <reflexion>0.24 0.0</reflexion>
       </gridtile>
       <gridtile name="selected">
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
+         <backgroundCenterColor>${cbgcenterselect}</backgroundCenterColor>
+         <backgroundEdgeColor>${cbgedgeselect}</backgroundEdgeColor>		  
          <padding>64 16</padding>
       </gridtile>
       <text name="gridtile">
-         <color>80808080</color>
+         <color>${cgt}</color>
          <fontSize>0.016</fontSize>
          <size>1 0</size>
       </text>
       <text name="gridtile_selected">
-         <color>FFFFFF00</color>
+         <color>${cgtselect}</color>
          <fontSize>0.035</fontSize>
          <size>1 0</size>
       </text>
+	   
+	   
+	   
 	   	<rating name="md_rating">
          <pos>0.435 0.705</pos>
          <size>0.45 0.048</size>
-         <filledPath>./assets/stars/${themecolor}/filled.svg</filledPath>
-         <unfilledPath>./assets/stars/${themecolor}/empty.svg</unfilledPath>
+         <filledPath>./assets/gamelist_icons/rating_filled.svg</filledPath>
+         <unfilledPath>./assets/gamelist_icons/rating_unfilled.svg</unfilledPath>
+		 <color>${crating}</color>
 		 <zIndex>25</zIndex>
       </rating>
 	     
@@ -438,15 +439,6 @@
 
  
 <!-- gamelists - detailed carousel -->
-	
- 		<image name="md_image">
-         <color>303030FF</color>
-         <tile>true</tile>
-         <pos>0 0</pos>
-         <origin>0 0</origin>
-         <size>1 1</size>
-         <zIndex>1</zIndex>
-      </image>
 	
 		<image name="background" extra="true">
          <origin>0 0</origin>
@@ -476,6 +468,10 @@
          <showSnapshotDelay>true</showSnapshotDelay>
       </video>	
 		
+		<text name="md_developer">
+			<visible>false</visible>
+      </text>
+		
 		<helpsystem name="help">
          <pos>0.007 0.965</pos>   
       </helpsystem>
@@ -484,7 +480,6 @@
          <pos>0.880 0.715</pos>
           <maxSize>0.280 0.280</maxSize>
       </image>
-
 	  
       <text name="gridtile">
          <visible>false</visible>
@@ -493,7 +488,6 @@
       <gridtile name="selected">
          <size>0.230 0.259</size>
          <padding>5 5</padding>
-         <imageColor>FFFFFFFF</imageColor>
 		  <reflexion>0.24 0.0</reflexion>
       </gridtile>
 
@@ -502,11 +496,11 @@
       </text>
 	  
       <text name="md_description">
-         <pos>0.05 0.25</pos>
+         <pos>0.05 0.28</pos>
          <size>0.57 0.17</size>
          <fontSize>0.030</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
+         <color>${cgdescription}</color>
+         <glowColor>${cglglow}</glowColor>
          <glowSize>1</glowSize>
          <alignment>left</alignment>
       </text>
@@ -520,118 +514,44 @@
       </image>		
 		
 	   	<rating name="md_rating">
-         <pos>0.35 0.16</pos>
+         <pos>0.35 0.20</pos>
          <size>0.35 0.038</size>
-         <filledPath>./assets/stars/${themecolor}/filled.svg</filledPath>
-         <unfilledPath>./assets/stars/${themecolor}/empty.svg</unfilledPath>
+         <filledPath>./assets/gamelist_icons/rating_filled.svg</filledPath>
+         <unfilledPath>./assets/gamelist_icons/rating_unfilled.svg</unfilledPath>
+		 <color>${crating}</color>
       </rating>
 
-     <text name="md_lbl_releasedate">
-         <pos>0.35 0.09</pos>
-         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
-         <fontSize>0.024</fontSize>
-         <color>ffffff</color>
-      </text>
+			   <image name="release_date_logo" extra="true">
+			<pos>0.35 0.08</pos>
+			<maxSize>0.035</maxSize>
+			<path>./assets/gamelist_icons/game_info_releasedate.svg</path>
+		   	<color>${cglicons}</color>
+		</image>
+		
       <datetime name="md_releasedate">
-         <pos>0.35 0.12</pos>
+         <pos>0.38 0.08</pos>
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.024</fontSize>
-         <color>ffffff</color>
+         <color>${cgldetail}</color>
       </datetime>
+		
+			<image name="players_logo" extra="true">
+			<pos>0.35 0.14</pos>
+			<maxSize>0.035</maxSize>
+			<path>./assets/gamelist_icons/game_info_players.svg</path>
+		   	<color>${cglicons}</color>
+		</image>
+	         <text name="md_players">
+         <pos>0.38 0.14</pos>
+         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontSize>0.024</fontSize>
+         <size>0.20 0.024</size>
+         <color>${cgldetail}</color>
+      </text>
 
    </customView>   
 
  
-	
-<!-- gamelists - simple tiles -->
-<!--   
-   <customView name="Tiles" inherits="grid" displayName="${tilesViewName}">
-      
-	   <imagegrid name="gamegrid">
-         <autoLayout>3 2</autoLayout>
-         <autoLayoutSelectedZoom>1.02</autoLayoutSelectedZoom>
-         <imageSource>image</imageSource>
-         <margin>0.005 0.010</margin>
-         <padding>0.03 0.05 0.03 0.04</padding>
-		    <showVideoAtDelay>800</showVideoAtDelay>
-         <zIndex>11</zIndex>
-      </imagegrid>
-      
-	   <gridtile name="default">
-         <size>0.225 0.254</size>
-         <backgroundCenterColor>FFFFFF20</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF20</backgroundEdgeColor>
-         <padding>1 1</padding>
-         <imageSizeMode>minSize</imageSizeMode>
-         <imageColor>FFFFFFAA</imageColor>
-         <backgroundCornerSize>0 0</backgroundCornerSize>
-         <backgroundCornerSize>0.06</backgroundCornerSize>
-      </gridtile>
-      
-	   <gridtile name="selected">
-         <size>0.230 0.259</size>
-         <padding>5 5</padding>
-         <imageColor>FFFFFFFF</imageColor>
-         <backgroundCornerSize>0 0</backgroundCornerSize>
-         <backgroundCornerSize>0.06</backgroundCornerSize>
-      </gridtile>
-     
-	   <ninepatch name="gridtile.background:selected">
-         <animateColor>EFEF60B0</animateColor>
-         <animateColorTime>350</animateColorTime>
-      </ninepatch>
-     
-	   <image name="gridtile.image">
-         <roundCorners>0.06</roundCorners>
-      </image>
-
-      <text name="gridtile">
-         <color>D0D0D0D0</color>
-         <backgroundColor>00000000</backgroundColor>
-         <fontSize>0.028</fontSize>
-         <alignment>center</alignment>
-         <size>0 0.18</size>
-         <glowColor>00000008</glowColor>
-         <glowSize>3</glowSize>
-      </text>
-     
-	   <text name="gridtile_selected">
-         <color>FFFFFF</color>
-         <glowColor>${glowColor}</glowColor>
-         <glowSize>3</glowSize>
-      </text>
-     
-	   <image name="gridtile.favorite">
-         <path>:/star_filled.svg</path>
-         <pos>0.93 0.07</pos>
-         <maxSize>0.10 0.10</maxSize>
-         <origin>0.5 0.5</origin>
-         <horizontalAlignment>right</horizontalAlignment>
-         <color>FFFF0080</color>
-      </image>
-    
-	   <image name="gridtile.favorite:selected">
-         <color>FFFF00D0</color>
-      </image>
-	   
-	   <image name="gridtile.marquee">
-         <color>FFFFFFD0</color>
-         <pos>0.5 0.5</pos>
-         <origin>0.5 0.5</origin>
-         <size>0.50 0.50</size>
-      </image>
-      <image name="gridtile.marquee:selected">
-         <color>FFFFFFFF</color>
-         <size>0.65 0.65</size>
-      </image>
-      <image name="gridtile.marquee:videoplaying">
-         <color>FFFFFFA0</color>
-         <pos>0.5 0.17</pos>
-         <size>0.50 0.25</size>
-      </image>
-	   
-   </customView>
--->
 
 	
 		<!-- gamelists - fanart view 
@@ -721,9 +641,9 @@
       <rating name="md_rating">
          <pos>0.04 0.88</pos>
          <size>0.05 0.03</size>
-         <color>FFFFFF</color>
-         <unfilledColor>808080</unfilledColor>
-         <fontPath>./fonts/Homizio.ttf</fontPath>
+         <filledPath>./assets/gamelist_icons/rating_filled.svg</filledPath>
+         <unfilledPath>./assets/gamelist_icons/rating_unfilled.svg</unfilledPath>
+		 <color>${crating}</color>
       </rating>
 
       <image name="md_image">
@@ -832,9 +752,9 @@
       <rating name="md_rating">
          <pos>0.02 0.66</pos>
          <size>0.05 0.03</size>
-         <color>FFFFFF</color>
-         <unfilledColor>808080</unfilledColor>
-         <fontPath>./fonts/Homizio.ttf</fontPath>
+         <filledPath>./assets/gamelist_icons/rating_filled.svg</filledPath>
+         <unfilledPath>./assets/gamelist_icons/rating_unfilled.svg</unfilledPath>
+		 <color>${crating}</color>
       </rating>
 
       <image name="logo">

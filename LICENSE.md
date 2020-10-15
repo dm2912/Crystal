@@ -12,6 +12,8 @@ Arcade System logos from a collection by Arcade-4-Fun
 
 Console logos largely from Fundemental by g-rilla
 
+Gamelist icons adapted from CKAU-Book by CkauNui
+
 All logo's sourced under "no commercial use" licences
 
 Unless otherwise stated all other artwork has been created, or adapted by me and is strictly "no commercial use"

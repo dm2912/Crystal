@@ -7,28 +7,27 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="Ebene_1"
-   x="0px"
-   y="0px"
-   width="21.775px"
-   height="20.762px"
-   viewBox="0 0 21.775 20.762"
+   width="0.694444in"
+   height="0.694444in"
+   viewBox="0 0 50 50"
    version="1.1"
-   sodipodi:docname="filled.svg"
+   id="svg21"
+   sodipodi:docname="Sound.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
-     id="metadata9">
+     id="metadata27">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs7" />
+     id="defs25" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -40,17 +39,21 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="740"
-     id="namedview5"
+     id="namedview23"
      showgrid="false"
-     inkscape:zoom="54.392492"
-     inkscape:cx="2.2006392"
-     inkscape:cy="10.381"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="7.7437549"
+     inkscape:cx="33.333312"
+     inkscape:cy="33.333312"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Ebene_1" />
+     inkscape:current-layer="svg21" />
   <path
-     d="M8.71,2.076c-0.182,0-0.363,0.14-0.501,0.419L6.35,6.261c-0.276,0.56-1.008,1.091-1.624,1.18L0.572,8.045  C-0.046,8.135-0.185,8.564,0.262,9l3.007,2.931c0.446,0.437,0.726,1.295,0.62,1.909l-0.71,4.14  c-0.077,0.446,0.094,0.708,0.404,0.708c0.118,0,0.255-0.038,0.407-0.117l3.717-1.956c0.276-0.145,0.641-0.216,1.003-0.216  c0.364,0,0.729,0.072,1.004,0.216l3.718,1.956c0.149,0.079,0.289,0.117,0.406,0.117c0.312,0,0.481-0.262,0.405-0.708l-0.711-4.14  c-0.104-0.614,0.174-1.474,0.619-1.909L17.16,9c0.446-0.437,0.307-0.865-0.311-0.955l-4.154-0.604  c-0.617-0.089-1.349-0.62-1.624-1.18L9.213,2.495C9.074,2.216,8.893,2.076,8.71,2.076L8.71,2.076z"
-     style="fill:#009800;fill-opacity:1"
-     id="path2" />
+     id="Selection"
+     fill="none"
+     stroke="black"
+     stroke-width="1"
+     d="M 24.00,6.00            C 16.43,13.57 14.99,17.96 4.00,18.00              4.00,18.00 4.00,32.00 4.00,32.00              16.51,32.05 14.86,36.74 25.00,44.00              25.00,44.00 25.00,19.00 25.00,19.00              25.00,19.00 24.00,6.00 24.00,6.00 Z            M 29.00,6.00            C 29.80,15.56 40.79,13.90 40.79,25.00              40.79,36.10 29.80,34.44 29.00,44.00              49.91,40.72 49.36,18.52 39.90,10.39              36.63,7.58 33.13,6.65 29.00,6.00 Z            M 29.00,16.00            C 29.00,16.00 29.00,33.00 29.00,33.00              38.66,30.09 37.77,20.83 29.00,16.00 Z"
+     style="stroke:none;fill:#ffffff;fill-opacity:1" />
 </svg>

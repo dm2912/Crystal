@@ -6,17 +6,6 @@
    <formatVersion>7</formatVersion>
    <include>./config.xml</include>
 	<include>./gamelists.xml</include>
-
-
-
-   <variables>
-      <baseColor>8b0000</baseColor>
-      <gradientEndColor>6b2020</gradientEndColor>
-      <centerFadeColor>8b000050</centerFadeColor>
-      <bottomBarColor>8b0000c0</bottomBarColor>
-      <glowColor>00000016</glowColor>
-      <systemInfoColor>DDDDDDD8</systemInfoColor>
-   </variables>
    
 <!-- screen settings -->
 	
@@ -27,9 +16,9 @@
          <!--<horizontalAlignment>right</horizontalAlignment>-->
          <itemSpacing>0.003</itemSpacing>
          <imagePath>./assets/gamepad.svg</imagePath>
-         <color>FFFFFF80</color>
-         <activityColor>A0A0FFC0</activityColor>
-         <hotkeyColor>FFA0A0C0</hotkeyColor>
+         <color>${ccontroller}</color>
+         <activityColor>${cactivity}</activityColor>
+         <hotkeyColor>${chotkey}</hotkeyColor>
       </controllerActivity>
    </view>
 
@@ -39,37 +28,37 @@
       <menuText name="menufooter">
          <fontPath>./fonts/Homizio.ttf</fontPath>
          <fontSize>0.025</fontSize>
-         <color>c0e7ed</color>
+         <color>${cmenufooter}</color>
       </menuText>
       <menuText name="menutext">
          <fontPath>./fonts/OpenSans-Light.ttf</fontPath>
          <fontSize>0.035</fontSize>
-         <color>868686</color>
-         <separatorColor>191919</separatorColor>
-         <selectorColor>47a1f5</selectorColor>
-         <selectorColorEnd>126b81</selectorColorEnd>
-         <selectedColor>FFFFFF</selectedColor>
-         <selectorGradientType>horizontal</selectorGradientType>
+         <color>${cmenutext}</color>
+         <separatorColor>${cmenuseperator}</separatorColor>
+         <selectorColor>${cselector}</selectorColor>
+         <selectorColorEnd>${cselectorend}</selectorColorEnd>
+         <selectedColor>${cselected}</selectedColor>
+         <selectorGradientType>${cgradienttype}</selectorGradientType>
        </menuText>
       <menuTextSmall name="menutextsmall">
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.03</fontSize>
-         <color>23f2f0</color>
+         <color>${cmenusubtitle}</color>
       </menuTextSmall>
       <menuText name="menutitle">
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.04</fontSize>
-         <color>DFECFA</color>
+         <color>${cmenutitle}</color>
       </menuText>
       <menuBackground name="menubg">
-         <color>021323</color>
+         <color>${cmenubg}</color>
          <path>./assets/menu_filters/${cmenufilter}/back.png</path>
          <fadePath>./assets/menu_filters/${cmenufilter}/fade.png</fadePath>
       </menuBackground>
       <menuIcons name="menuicons">
          <iconKodi>./assets/menu_icons/${cmenuicons}/Kodi.png</iconKodi>
          <iconSystem>./assets/menu_icons/${cmenuicons}/System.png</iconSystem>
-         <iconUpdates>./assets/menu_icons/${cmenuicons}/Updates.png</iconUpdates>
+         <iconUpdates>./assets/menu_icons/Updates.svg</iconUpdates>
          <iconGames>./assets/menu_icons/${cmenuicons}/Games.png</iconGames>
          <iconControllers>./assets/menu_icons/${cmenuicons}/Controllers.png</iconControllers>
          <iconUI>./assets/menu_icons/${cmenuicons}/UI.png</iconUI>
@@ -87,7 +76,7 @@
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <pos>0.06 0.955</pos>
-         <textColor>FFFFFF</textColor>
+         <textColor>${chelptext}</textColor>
       </helpsystem>
    </view>
    

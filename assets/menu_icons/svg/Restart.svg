@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.694444in"
+   height="0.694444in"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg48"
+   sodipodi:docname="Restart.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata54">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs52" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     id="namedview50"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="7.7437549"
+     inkscape:cx="5.5690037"
+     inkscape:cy="33.333312"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg48" />
+  <path
+     id="Selection"
+     fill="none"
+     stroke="black"
+     stroke-width="1"
+     d="M 46.00,25.00            C 46.00,25.00 41.00,25.00 41.00,25.00              40.43,28.63 39.92,30.98 37.58,33.98              36.09,35.91 34.12,37.70 32.00,38.91              22.42,44.39 10.05,36.63 9.22,26.00              8.77,20.20 12.32,14.84 17.00,11.70              19.04,10.33 21.54,9.41 24.00,9.22              27.88,8.93 30.62,10.42 34.00,12.00              34.00,12.00 31.00,17.00 31.00,17.00              31.00,17.00 44.00,17.00 44.00,17.00              44.00,17.00 44.00,4.00 44.00,4.00              42.38,4.66 39.60,6.09 38.00,6.23              35.78,6.43 32.63,4.79 30.00,4.33              25.42,3.52 19.23,3.91 15.00,5.92              2.96,11.62 0.43,28.93 8.53,38.96              14.71,46.60 27.64,48.26 36.00,43.47              39.24,41.61 41.61,39.24 43.47,36.00              45.73,32.06 45.90,29.37 46.00,25.00 Z"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+</svg>

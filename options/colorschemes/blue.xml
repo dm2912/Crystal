@@ -44,7 +44,7 @@
 		
 <!-- controller activity -->
 
-    <ccontroller>e1e7ff</ccontroller> <!--## icons showing connected controllers ## -->
+    <ccontroller>126b81</ccontroller> <!--## icons showing connected controllers ## -->
     <cactivity>A0A0FFC0</cactivity>
     <chotkey>FFA0A0C0</chotkey>
 
@@ -70,8 +70,8 @@
 	<cgtbg>00000000</cgtbg>   <!-- tile background -->	
 	<cgtext>dfddda</cgtext> <!-- unselected text -->
 	<cgtextselect>FFFFFF</cgtextselect> <!-- selected text -->
-	<cgtimage>dfddda</cgtimage>  <!-- gridtile image color -->
-	<cgtimageselect>FFFFFF</cgtimageselect>  <!-- gridtile image color selected -->
+	<cgtimage>535353</cgtimage>  <!-- gridtile image color -->
+	<cgtimageselect>dfddda</cgtimageselect>  <!-- gridtile image color selected -->
 	
 <!-- grid -->
 	

@@ -8,9 +8,9 @@ Artwork for custom collections for most major games should be themed. Again, if 
 
 Dynamic Collections currently supported (theme name in brackets): 
 
-Game Series: Art of Fighting (artoffighting), Batman (batman), Capcom (capcom), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (Fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda)
+Game Series: Art of Fighting (aof), Batman (batman), Capcom (capcom), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda)
 
-Publishers: Irem (irem), Namco (namco), Konami (konami), Midway (midway), 
+Arcade Publishers: Irem (irem), Namco (namco), Konami (konami), Midway (midway), Atari (atari), Data East (dataeast), Kaneko (kaneko), Nintendo (nintendo), SEGA (sega), SNK (snk), Taito (taito), Toaplan (toaplan)
 
 Platforms: CPS1 (cps1), CPS2 (cps2), CPS3 (cps3),
 

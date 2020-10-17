@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
+<!--
+theme name:		Crystal
+author:			dm2912
+license:		creative commons CC-BY-NC-SA
+github:			https://github.com/dm2912
+-->
+
+
 <!-- default view -->
 
 <theme defaultView="detailed">

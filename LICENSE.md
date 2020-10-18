@@ -14,9 +14,11 @@ Console logos largely from Fundemental by g-rilla
 
 Gamelist icons adapted from CKAU-Book by CkauNui
 
-All logo's sourced under "no commercial use" licences
+All png logo's sourced under "no commercial use" licences
 
-Unless otherwise stated all other artwork has been created, or adapted by me and is strictly "no commercial use"
+Any additional artwork likely created, or adapted by me and is strictly "no commercial use"
+
+Majority of music from khinsider.com (Some from Alekfull's Solo theme)
 
 For use with EmulationStation (http://www.emulationstation.org/)
 

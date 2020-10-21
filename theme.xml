@@ -66,7 +66,7 @@ github:			https://github.com/dm2912
       <menuIcons name="menuicons">
          <iconKodi>./assets/menu_icons/${cmenuicons}/Kodi.png</iconKodi>
          <iconSystem>./assets/menu_icons/${cmenuicons}/System.png</iconSystem>
-         <iconUpdates>./assets/menu_icons/${cmenuicons}/Updates.svg</iconUpdates>
+         <iconUpdates>./assets/menu_icons/${cmenuicons}/Updates.png</iconUpdates>
          <iconGames>./assets/menu_icons/${cmenuicons}/Games.png</iconGames>
          <iconControllers>./assets/menu_icons/${cmenuicons}/Controllers.png</iconControllers>
          <iconUI>./assets/menu_icons/${cmenuicons}/UI.png</iconUI>

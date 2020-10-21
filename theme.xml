@@ -79,6 +79,7 @@ github:			https://github.com/dm2912
          <iconShutdown>./assets/menu_icons/${cmenuicons}/Shutdown.png</iconShutdown>
          <iconFastShutdown>./assets/menu_icons/${cmenuicons}/Fastshutdown.png</iconFastShutdown>
 		 <iconRetroachievements>./assets/menu_icons/${cmenuicons}/Contest.png</iconRetroachievements>
+		 <iconEmuelec>./assets/menu_icons/${cmenuicons}/Emuelec.png</iconEmuelec>
       </menuIcons>
       <helpsystem name="help">
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>

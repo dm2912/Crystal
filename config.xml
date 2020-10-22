@@ -9,9 +9,10 @@
 	<include lang="pt">./lang/portugues.xml</include>
 
     <include subset="colortheme" name="1b" displayName="${ctblue}">./options/colorschemes/blue.xml</include>
-<!--    <include subset="colortheme" name="2g" displayName="${ctgreen}">./options/colorschemes/green.xml</include>
+    <include subset="colortheme" name="2g" displayName="${ctgreen}">./options/colorschemes/green.xml</include>
     <include subset="colortheme" name="3r" displayName="${ctred}">./options/colorschemes/red.xml</include>
--->
+    <include subset="colortheme" name="4s" displayName="${ctblack}">./options/colorschemes/black.xml</include>
+
 	<include subset="systemview" name="horizontal detailed" displayName="${systemdetails}">./systemview/horizontal_details.xml</include>
 	<include subset="systemview" name="detailed view" displayName="${hordetail}">./systemview/details.xml</include>
 	<include subset="systemview" name="horizontal" displayName="${horizontal}">./systemview/horizontal.xml</include>

@@ -59,7 +59,7 @@
     <ctblue>Sapphire</ctblue>
 	<ctred>Ruby</ctred>
 	<ctgreen>Emerald</ctgreen>
-    
+   	<ctblack>Carbon</ctblack> 
 <!-- Submenús -->
 <subset.colortheme>Esquema de color del tema</subset.colortheme>
     <subset.systemview>Diseño de la página de inicio </subset.systemview>

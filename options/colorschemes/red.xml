@@ -23,23 +23,23 @@
 
 <!-- Menu colours - colours used by the main menus -->
 
-    <cmenufooter>c0e7ed</cmenufooter>	<!-- ## menu footer color ## -->
+    <cmenufooter>ffbcbd</cmenufooter>	<!-- ## menu footer color ## -->
     <cmenutext>868686</cmenutext>	<!-- ## menu text color ## -->
     <cmenuseperator>191919</cmenuseperator>	<!-- ## menu seperators ## -->
     <cselected>FFFFFF</cselected>	<!-- ## selected menu text ## -->
-    <cmenusubtitle>f84a4a</cmenusubtitle>	<!-- ## menu subtitle color ## -->
+    <cmenusubtitle>ffbcbd</cmenusubtitle>	<!-- ## menu subtitle color ## -->
     <cmenutitle>DFECFA</cmenutitle>	<!-- ## menu title color ## -->
     <cmenubg>4a1616</cmenubg>	<!-- ## menu background color ## -->
 
 <!-- Global stuff -->
 
     <chelptext>FFFFFF</chelptext> <!-- ## color of help menu text ## -->
-    <ctextglow>3b0000</ctextglow> <!-- ## default glow color on text - only need to change this if light/dark theme ## -->
+    <ctextglow>7f0b0d</ctextglow> <!-- ## default glow color on text - only need to change this if light/dark theme ## -->
 	
 <!-- Selector highlight on menus and gamelist -->
 	
-	<cselector>750000</cselector>  <!-- ## main gradient for all selector bars on menus and gamelist ## -->
-    <cselectorend>aa0000</cselectorend>   <!-- ## main gradient for all selector bars on menus and gamelist ## -->
+	<cselector>aa0000</cselector>  <!-- ## main gradient for all selector bars on menus and gamelist ## -->
+    <cselectorend>dd0000</cselectorend>   <!-- ## main gradient for all selector bars on menus and gamelist ## -->
 	<cgradienttype>horizontal</cgradienttype> <!-- horizontal or vertical -->
 		
 <!-- controller activity -->

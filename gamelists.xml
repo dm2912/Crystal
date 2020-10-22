@@ -439,7 +439,14 @@
 
  
 <!-- gamelists - detailed carousel -->
-
+	
+		<image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+			<zIndex>1</zIndex>
+         <path>./assets/filters/${themecolor}/bg-simple.svg</path>
+      </image>
 	
 	<customView name="Carousel Poster" inherits="Carousel" displayName="${carouselposterViewName}">
       <imagegrid name="gamegrid">

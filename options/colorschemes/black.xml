@@ -11,7 +11,7 @@
 
 <!-- main filter folder name -->
 
-	<themecolor>blue</themecolor> <!-- ## color scheme - these are the folder locations for filters, graphics etc ## -->
+	<themecolor>black</themecolor> <!-- ## color scheme - these are the folder locations for filters, graphics etc ## -->
 
 <!-- menu icons - the main menu icons, either light or dark -->
 
@@ -23,28 +23,28 @@
 
 <!-- Menu colours - colours used by the main menus -->
 
-    <cmenufooter>c0e7ed</cmenufooter>	<!-- ## menu footer color ## -->
+    <cmenufooter>a2a2a2</cmenufooter>	<!-- ## menu footer color ## -->
     <cmenutext>868686</cmenutext>	<!-- ## menu text color ## -->
     <cmenuseperator>191919</cmenuseperator>	<!-- ## menu seperators ## -->
     <cselected>FFFFFF</cselected>	<!-- ## selected menu text ## -->
-    <cmenusubtitle>23f2f0</cmenusubtitle>	<!-- ## menu subtitle color ## -->
-    <cmenutitle>DFECFA</cmenutitle>	<!-- ## menu title color ## -->
-    <cmenubg>021323</cmenubg>	<!-- ## menu background color ## -->
+    <cmenusubtitle>a2a2a2</cmenusubtitle>	<!-- ## menu subtitle color ## -->
+    <cmenutitle>d0d0d0</cmenutitle>	<!-- ## menu title color ## -->
+    <cmenubg>1d1d1d</cmenubg>	<!-- ## menu background color ## -->
 
 <!-- Global stuff -->
 
     <chelptext>FFFFFF</chelptext> <!-- ## color of help menu text ## -->
-    <ctextglow>00003a</ctextglow> <!-- ## default glow color on text - only need to change this if light/dark theme ## -->
+    <ctextglow>0f0f0f</ctextglow> <!-- ## default glow color on text - only need to change this if light/dark theme ## -->
 	
 <!-- Selector highlight on menus and gamelist -->
 	
-	<cselector>30508b</cselector>  <!-- ## main gradient for all selector bars on menus and gamelist ## -->
-    <cselectorend>126b81</cselectorend>   <!-- ## main gradient for all selector bars on menus and gamelist ## -->
+	<cselector>515151</cselector>  <!-- ## main gradient for all selector bars on menus and gamelist ## -->
+    <cselectorend>303030</cselectorend>   <!-- ## main gradient for all selector bars on menus and gamelist ## -->
 	<cgradienttype>horizontal</cgradienttype> <!-- horizontal or vertical -->
 		
 <!-- controller activity -->
 
-    <ccontroller>126b81</ccontroller> <!--## icons showing connected controllers ## -->
+    <ccontroller>303030</ccontroller> <!--## icons showing connected controllers ## -->
     <cactivity>A0A0FFC0</cactivity>
     <chotkey>FFA0A0C0</chotkey>
 
@@ -62,7 +62,7 @@
 	<cgldetail>FFFFFF</cgldetail>  <!-- ## text for genre, release date etc ## -->
 	<cgdescription>FFFFFF</cgdescription> <!-- ## game description ## -->
 	<cglglow>00000016</cglglow>  <!-- ## gamelist text glow colour ## -->
-	<crating>10b7dc</crating>  <!-- ## rating star color ## -->
+	<crating>b8b8b8</crating>  <!-- ## rating star color ## -->
 	
 <!-- grid and carousel view -->
 	
@@ -77,7 +77,7 @@
 	
 	<cgtbg>00000000</cgtbg> <!-- grid tile background color -->	
 	<cgtbgedge>00000000</cgtbgedge>   <!-- background edge color -->
-	<cgtbgedgeselect>10b7dc</cgtbgedgeselect>   <!-- ##	 background edge of selected item # -->
+	<cgtbgedgeselect>717171</cgtbgedgeselect>   <!-- ##	 background edge of selected item # -->
 	
 <!-- carousel view -->
 	

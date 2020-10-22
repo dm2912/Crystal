@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1280"
@@ -20,7 +21,29 @@
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="bg-systemdetailed.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6505">
+      <stop
+         style="stop-color:#d8a820;stop-opacity:1;"
+         offset="0"
+         id="stop6501" />
+      <stop
+         style="stop-color:#d8a820;stop-opacity:0;"
+         offset="1"
+         id="stop6503" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6505"
+       id="linearGradient6507"
+       x1="-1.3745904"
+       y1="201.54588"
+       x2="341.99359"
+       y2="201.54588"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49408705"
-     inkscape:cx="298.37287"
-     inkscape:cy="322.54204"
+     inkscape:zoom="0.34937231"
+     inkscape:cx="691.85423"
+     inkscape:cy="465.54485"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -61,7 +84,12 @@
     <path
        id="rect139"
        transform="matrix(0.26458333,0,0,0.26458333,0,106.50001)"
-       style="fill:#000000;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       style="fill:#c48800;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
        d="M 916.88281,-8.7421875 V 684.77148 H -5.1953125 v 42.42774 H 1292.5742 V 697.64258 684.77148 -8.7421875 Z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect139-2"
+       style="fill:url(#linearGradient6507);fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       d="M 242.59191,104.18697 V 287.67913 H -1.3745899 V 298.9048 H 341.99359 v -7.82019 -3.40548 -183.49216 z" />
   </g>
 </svg>

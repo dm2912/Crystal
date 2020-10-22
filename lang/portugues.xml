@@ -60,6 +60,7 @@
 	<ctred>Ruby</ctred>
 	<ctgreen>Emerald</ctgreen>
     <ctblack>Carbon</ctblack>
+    <ctgold>Gold</ctgold>
 <!-- Submenus -->
 <subset.colortheme>Esquema de cores do tema</subset.colortheme>
     <subset.systemview>Layout da página inicial </subset.systemview>

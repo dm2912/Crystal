@@ -17,11 +17,11 @@
    <text name="systemInfo">
          <pos>0.007 0.893</pos>
          <backgroundColor>00000000</backgroundColor>
-         <color>FFFFFF</color>
+         <color>${cinfotext}</color>
          <alignment>left</alignment>
          <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.050</fontSize>
-         <glowColor>00000016</glowColor>
+         <glowColor>${ctextglow}</glowColor>
          <glowSize>2</glowSize>
    </text>
 	  
@@ -29,7 +29,7 @@
          <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.025</fontSize>     
          <pos>0.007 0.965</pos>      
-         <textColor>FFFFFF</textColor>
+         <textColor>${chelptext}</textColor>
    </helpsystem>
 
 <image name="background" extra="true">

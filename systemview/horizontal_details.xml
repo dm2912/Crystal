@@ -16,14 +16,13 @@
     <logoAlignment>right</logoAlignment>
       <defaultTransition>instant</defaultTransition>	
     </carousel>
-    
-    <text name="systemInfo">
-         <pos>0.007 0.893</pos>
-   </text>
-	  
-   <helpsystem name="help"> 
+      
+   <helpsystem name="help">
+         <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
+         <fontSize>0.025</fontSize>     
          <pos>0.007 0.965</pos>      
-   </helpsystem>
+         <textColor>${chelptext}</textColor>
+   </helpsystem>  
 
 <text name="shortdescription" extra="true">
  <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
@@ -33,12 +32,12 @@
    <text name="systemInfo">
          <pos>0.007 0.893</pos>
          <backgroundColor>00000000</backgroundColor>
-         <color>FFFFFF</color>
+         <color>${cinfotext}</color>
          <alignment>left</alignment>
          <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.050</fontSize>
-         <glowColor>00000016</glowColor>
-         <glowSize>2</glowSize>
+         <glowColor>${ctextglow}</glowColor>
+         <glowSize>1</glowSize>
    </text>
 
 	<image name="console" extra="true">
@@ -53,10 +52,10 @@
 			<pos>.007 0.70</pos>
             <size>0.92 0</size>
 			<alignment>left</alignment>
-			<color>ffffff</color>
+			<color>${cdescriptiontext}</color>
 			<fontSize>0.038</fontSize>
-        <glowColor>000046</glowColor>
-         <glowSize>2</glowSize>
+        <glowColor>${ctextglow}</glowColor>
+         <glowSize>1</glowSize>
 		</text>
 
 <image name="background" extra="true">

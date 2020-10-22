@@ -39,13 +39,13 @@
          <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.025</fontSize>     
          <pos>0.007 0.965</pos>      
-         <textColor>FFFFFF</textColor>
+         <textColor>${chelptext}</textColor>
    </helpsystem>  
 
 <text name="shortdescription" extra="true">
  <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
 			<alignment>right</alignment>
-			<color>ffffff</color>
+			<color>${cshortdescriptiontext}</color>
 			<fontSize>0.0255</fontSize>			
 			<pos>0.445 0.05</pos>
             <size>0.52 0.0</size>
@@ -54,7 +54,7 @@
     <text name="systemInfo">
          <pos>0.495 0.25</pos>
          <backgroundColor>00000000</backgroundColor>
-         <color>FFFFFF</color>
+         <color>${cinfotext}</color>
           <size>0.47 0.047</size>
          <alignment>right</alignment>
          <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
@@ -67,7 +67,7 @@
 			<pos>0.742 0.31</pos>
             <size>0.225 0</size>
 			<alignment>right</alignment>
-			<color>ffffff</color>
+			<color>${cdescriptiontext}</color>
 			<fontSize>0.033</fontSize>
 		</text>
 

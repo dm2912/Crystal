@@ -19,7 +19,7 @@
    inkscape:export-xdpi="21.808081"
    inkscape:export-ydpi="21.808081"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="bg-system-left.svg">
+   sodipodi:docname="bg-rightpanel.svg">
   <defs
      id="defs2">
     <clipPath
@@ -134,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76425193"
-     inkscape:cx="661.18386"
-     inkscape:cy="-0.67934554"
+     inkscape:zoom="0.92325758"
+     inkscape:cx="604.84678"
+     inkscape:cy="133.20925"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -165,9 +165,16 @@
      id="layer1"
      transform="translate(0,-106.50001)">
     <path
-       style="fill:#550000;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       d="M -228.02148 -729.7207 L -228.02148 -61.328125 L 1082.6523 -61.328125 L 1082.6523 -729.7207 L -228.02148 -729.7207 z M -5.1953125 -8.7421875 L -5.1953125 684.77148 L -5.1953125 727.19922 L 218.18945 727.19922 L 1292.5742 727.19922 L 1292.5742 684.77148 L 218.18945 684.77148 L 218.18945 -8.7421875 L -5.1953125 -8.7421875 z "
+       style="fill:#000000;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       d="M 960.73633 -8.7441406 L 960.73633 684.77148 L -5.1953125 684.77148 L -5.1953125 727.19922 L 1292.5742 727.19922 L 1292.5742 684.77148 L 1292.5742 -8.7441406 L 960.73633 -8.7441406 z "
        transform="matrix(0.26458333,0,0,0.26458333,0,106.50001)"
        id="rect139" />
+    <rect
+       style="fill:#000000;fill-opacity:0.70588237;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       id="rect139-3"
+       width="256.37234"
+       height="183.49228"
+       x="-2.1775298"
+       y="104.18685" />
   </g>
 </svg>

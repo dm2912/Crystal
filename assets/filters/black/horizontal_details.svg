@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:ooo="http://xml.openoffice.org/svg/export"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -19,7 +17,7 @@
    inkscape:export-xdpi="21.808081"
    inkscape:export-ydpi="21.808081"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="bg-system-left.svg">
+   sodipodi:docname="horizontal_details.svg">
   <defs
      id="defs2">
     <clipPath
@@ -134,9 +132,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76425193"
-     inkscape:cx="661.18386"
-     inkscape:cy="-0.67934554"
+     inkscape:zoom="2.3021682"
+     inkscape:cx="251.57759"
+     inkscape:cy="919.06209"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -146,7 +144,8 @@
      inkscape:window-height="743"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -164,10 +163,32 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-106.50001)">
+    <rect
+       style="fill:#000000;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491203"
+       id="rect139"
+       width="343.36847"
+       height="62.99461"
+       x="-1.3746339"
+       y="235.32944" />
+    <rect
+       y="-179.65332"
+       x="-414.49451"
+       height="176.84566"
+       width="346.78275"
+       id="rect955"
+       style="fill:#000000;fill-opacity:0.70526315;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226" />
     <path
-       style="fill:#550000;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       d="M -228.02148 -729.7207 L -228.02148 -61.328125 L 1082.6523 -61.328125 L 1082.6523 -729.7207 L -228.02148 -729.7207 z M -5.1953125 -8.7421875 L -5.1953125 684.77148 L -5.1953125 727.19922 L 218.18945 727.19922 L 1292.5742 727.19922 L 1292.5742 684.77148 L 218.18945 684.77148 L 218.18945 -8.7421875 L -5.1953125 -8.7421875 z "
-       transform="matrix(0.26458333,0,0,0.26458333,0,106.50001)"
-       id="rect139" />
+       style="fill:#000000;fill-opacity:0.86274511;fill-rule:evenodd;stroke:none;stroke-width:0.27621531px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 345.82799,153.36482 C 343.3537,152.22968 72.419315,103.41867 72.419315,103.41867 l 274.027245,-1.13514 z"
+       id="path1141"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#000000;fill-opacity:0.90196078;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       id="rect139-3"
+       width="343.36847"
+       height="9.5941658"
+       x="-2.6622317"
+       y="334.37677" />
   </g>
 </svg>

@@ -134,16 +134,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9434749"
-     inkscape:cx="604.84678"
-     inkscape:cy="133.20925"
+     inkscape:zoom="0.76425195"
+     inkscape:cx="757.61701"
+     inkscape:cy="189.46606"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
      inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-height="743"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -165,12 +165,12 @@
      id="layer1"
      transform="translate(0,-106.50001)">
     <path
-       style="fill:#3c0000;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       style="fill:#550000;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
        d="M 960.73633 -8.7441406 L 960.73633 684.77148 L -5.1953125 684.77148 L -5.1953125 727.19922 L 1292.5742 727.19922 L 1292.5742 684.77148 L 1292.5742 -8.7441406 L 960.73633 -8.7441406 z "
        transform="matrix(0.26458333,0,0,0.26458333,0,106.50001)"
        id="rect139" />
     <rect
-       style="fill:#3c0000;fill-opacity:0.70588237;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       style="fill:#550000;fill-opacity:0.70588237;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
        id="rect139-3"
        width="256.37234"
        height="183.49228"

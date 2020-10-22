@@ -132,7 +132,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1509309"
+     inkscape:zoom="9.8561578"
      inkscape:cx="246.2231"
      inkscape:cy="228.90635"
      inkscape:document-units="px"
@@ -141,7 +141,7 @@
      units="px"
      inkscape:pagecheckerboard="true"
      inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-height="743"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -164,7 +164,7 @@
      id="layer1"
      transform="translate(0,-106.50001)">
     <rect
-       style="fill:#3c0000;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491203"
+       style="fill:#550000;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491203"
        id="rect139"
        width="343.36847"
        height="62.99461"
@@ -176,15 +176,15 @@
        height="176.84566"
        width="346.78275"
        id="rect955"
-       style="fill:#3c0000;fill-opacity:0.70526315;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226" />
+       style="fill:#550000;fill-opacity:0.70526315;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226" />
     <path
-       style="fill:#3c0000;fill-opacity:0.86274511;fill-rule:evenodd;stroke:none;stroke-width:0.27621531px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:0.86274511;fill-rule:evenodd;stroke:none;stroke-width:0.27621531px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 345.82799,153.36482 C 343.3537,152.22968 72.419315,103.41867 72.419315,103.41867 l 274.027245,-1.13514 z"
        id="path1141"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <rect
-       style="fill:#3c0000;fill-opacity:0.90196078;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       style="fill:#550000;fill-opacity:0.90196078;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
        id="rect139-3"
        width="343.36847"
        height="9.5941658"

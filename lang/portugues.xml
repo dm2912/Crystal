@@ -16,7 +16,7 @@
     <default>Padrão </default>
 <!-- Visualizações da biblioteca -->
     <basiclist>Lista Simples </basiclist>
-    <basicGridDetailsName>Grid / Detailed </basicGridDetailsName>
+    <SimpleGridName>Grid / Simples </SimpleGridName>
     <carouselViewName>Carrossel </carouselViewName>
     <carouselposterViewName>Carrossel / Detalhado </carouselposterViewName>
     <tilesViewName>Tiles </tilesViewName>

@@ -15,8 +15,8 @@
 	<default>Default</default>
 <!-- Library views -->		
 	<basiclist>Simple List</basiclist>
-    <basicGridDetailsName>Grid / Detailed</basicGridDetailsName>
-    <carouselViewName>Carousel</carouselViewName>
+    <SimpleGridName>Grid / Basic</SimpleGridName>
+    <carouselViewName>Carousel / Basic</carouselViewName>
     <carouselposterViewName>Carousel / Detailed</carouselposterViewName>	
 	 <tilesViewName>Tiles</tilesViewName>
     <tilesVideoViewName>Tiles with Video</tilesVideoViewName>

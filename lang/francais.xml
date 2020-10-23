@@ -16,7 +16,7 @@
     <default>Par défaut </default>
 <!-- Vues de la bibliothèque -->
     <basiclist>Liste simple </basiclist>
-    <basicGridDetailsName>Grille / détaillée </basicGridDetailsName>
+    <SimpleGridName>Grille / simple </SimpleGridName>
     <carouselViewName>Carousel </carouselViewName>
     <carouselposterViewName>Carrousel / détaillé </carouselposterViewName>
     <tilesViewName>Tuiles </tilesViewName>

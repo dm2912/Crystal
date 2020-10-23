@@ -1,4 +1,4 @@
-O**This theme is intended for EMUELEC and only contains graphics for systems supported by EmuElec**
+**This theme is intended for EMUELEC and only contains graphics for systems supported by EmuElec**
 
 ==============================
 

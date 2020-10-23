@@ -16,7 +16,7 @@
     <default>Predeterminado </default>
 <!-- Vistas de biblioteca -->
     <basiclist>Lista simple </basiclist>
-    <basicGridDetailsName>Cuadrícula / Detallado </basicGridDetailsName>
+    <SimpleGridName>Cuadrícula / simple </SimpleGridName>
     <carouselViewName>Carrusel </carouselViewName>
     <carouselposterViewName>Carrusel / Detallado </carouselposterViewName>
     <tilesViewName>Azulejos </tilesViewName>

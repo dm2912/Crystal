@@ -8,10 +8,10 @@
 	<include lang="fr">./lang/francais.xml</include> 
 	<include lang="pt">./lang/portugues.xml</include>
 
+    <include subset="colortheme" name="4c" displayName="${ctblack}">./options/colorschemes/black.xml</include>
     <include subset="colortheme" name="1b" displayName="${ctblue}">./options/colorschemes/blue.xml</include>
     <include subset="colortheme" name="2g" displayName="${ctgreen}">./options/colorschemes/green.xml</include>
     <include subset="colortheme" name="3r" displayName="${ctred}">./options/colorschemes/red.xml</include>
-    <include subset="colortheme" name="4c" displayName="${ctblack}">./options/colorschemes/black.xml</include>
 	<include subset="colortheme" name="5b" displayName="${ctgold}">./options/colorschemes/gold.xml</include>
 
 	<include subset="systemview" name="horizontal detailed" displayName="${systemdetails}">./systemview/horizontal_details.xml</include>
@@ -26,7 +26,6 @@
     
     <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./options/background/artflix.xml</include>
 	<include subset="colorset" name="Bella BG" displayName="${bellabg}">./options/background/bella.xml</include>
-	<include subset="colorset" name="System BG" displayName="${systembg}">./options/background/system.xml</include>
 	
 	<include subset="iconset" name="Default" displayName="${idefault}">./options/helpicons/xbox.xml</include>
 	<include subset="iconset" name="ARCADE" displayName="${iarcade}">./options/helpicons/arcade.xml</include>
@@ -38,9 +37,9 @@
     <include subset="slog" name="yes" displayName="${yes}">./options/syslogos/syslogo_yes.xml</include>
     <include subset="slog" name="no" displayName="${no}">./options/syslogos/syslogo_no.xml</include>
 
-    <include subset="thememusic" name="no" displayName="${no}">./options/sound/sound_off.xml</include>
     <include subset="thememusic" name="yes" displayName="${yes}">./options/sound/sound_on.xml</include>
- 
+    <include subset="thememusic" name="no" displayName="${no}">./options/sound/sound_off.xml</include>
+
     <include subset="vdelay" name="1" displayName="${delay1}">./options/videodelay/video_delay_1.xml</include>
     <include subset="vdelay" name="2" displayName="${delay2}">./options/videodelay/video_delay_2.xml</include>
     <include subset="vdelay" name="3" displayName="${delay3}">./options/videodelay/video_delay_3.xml</include>

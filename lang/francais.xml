@@ -16,7 +16,7 @@
     <default>Par défaut </default>
 <!-- Vues de la bibliothèque -->
     <basiclist>Liste simple </basiclist>
-    <SimpleGridName>Grille / simple </SimpleGridName>
+    <simplegridName>Grille / Simple </simplegridName>
     <carouselViewName>Carousel </carouselViewName>
     <carouselposterViewName>Carrousel / détaillé </carouselposterViewName>
     <tilesViewName>Tuiles </tilesViewName>
@@ -24,6 +24,7 @@
     <tilesVideoMarqueeViewName>Tuiles avec vidéo et logos </tilesVideoMarqueeViewName>
     <fanartViewName>Fanart (par défaut) </fanartViewName>
     <fanartvlViewName>Fanart (vidéo plein écran) </fanartvlViewName>
+		<carouselvideoName>Carousel / Vidéo</carouselvideoName>
 <!-- arrière-plans -->
     <defaultbg>SOLO (Léger) </defaultbg>
     <darkbg>SOLO (sombre) </darkbg>

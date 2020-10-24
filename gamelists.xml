@@ -19,15 +19,7 @@
          <pos>0 0</pos>
          <size>1 1</size>
       </image>
-      <image name="logo">
-         <pos>0.905 0.020</pos>
-          <maxSize>0.200 0.220</maxSize>
-	<path>./assets/logos/console/${system.theme}.png</path>
-      </image>  
-	    <image name="system_logo" extra="true">
-            <pos>0.685 0.020</pos>
-          <maxSize>0.180 0.100</maxSize>
-      </image>
+ 
       <textlist name="gamelist">
          <pos>0.0 0.15</pos>
         <alignment>center</alignment>
@@ -48,6 +40,17 @@
          <size>1 1</size>
          <path>./assets/filters/${themecolor}/bg-simple.svg</path>
       </image>
+	   
+	        <image name="logo">
+         <pos>0.905 0.020</pos>
+          <maxSize>0.200 0.220</maxSize>
+	<path>./assets/logos/console/${system.theme}.png</path>
+      </image>  
+	    <image name="system_logo" extra="true">
+            <pos>0.685 0.020</pos>
+          <maxSize>0.180 0.100</maxSize>
+      </image>
+	   
    </view>
 
 <!-- gamelists - detailed view -->
@@ -64,11 +67,7 @@
          <pos>0 0</pos>
          <size>1 1</size>
       </image>
-       <image name="logo">
-         <pos>0.905 0.020</pos>
-          <maxSize>0.200 0.220</maxSize>
-	<path>./assets/logos/console/${system.theme}.png</path> 
-      </image>
+
       <textlist name="gamelist">
          <pos>0.675 0.19</pos>
          <size>0.31 0.848</size>
@@ -201,6 +200,13 @@
              <pos>0.685 0.020</pos>
           <maxSize>0.180 0.100</maxSize>
       </image>
+	   
+	          <image name="logo">
+         <pos>0.905 0.020</pos>
+          <maxSize>0.200 0.220</maxSize>
+	<path>./assets/logos/console/${system.theme}.png</path> 
+      </image>
+	   
 	      </view>
 
 	<!-- gamelists - grid view that serves as template for all other grid views -->
@@ -317,26 +323,25 @@
          <size>0.30 0.270</size>
          <fontSize>0.03</fontSize>
          <color>${cgdescription}</color>
-	   </text> 	   
-		
-		<image name="system_logo" extra="true">
-            <pos>0.685 0.020</pos>
-          <maxSize>0.180 0.100</maxSize>
-      </image>   
+	   </text> 	     
 		
 	    <image name="logo">
          <pos>0.905 0.020</pos>
           <maxSize>0.200 0.220</maxSize>
 		<path>./assets/logos/console/${system.theme}.png</path> 
-			
-      </image>
-	   
+	      </image>
+	
+		<image name="system_logo" extra="true">
+            <pos>0.685 0.020</pos>
+          <maxSize>0.180 0.100</maxSize>
+      </image> 
+		
    </view>
 	
    
 <!-- gamelists - simplified grid view -->
 	
-      <customView name="Simple Grid" inherits="grid" displayName="${SimpleGridName}">
+      <customView name="Simple Grid" inherits="grid" displayName="${simplegridName}">
 	  
 		<rating name="md_rating">
          <pos>0.45 0.02</pos>
@@ -379,7 +384,7 @@
         <visible>false</visible>
 	   </text> 		  
 		  
-	         <image name="logo">
+	   <image name="logo">
          <pos>0.905 0.020</pos>
           <maxSize>0.200 0.220</maxSize>
       </image>
@@ -387,6 +392,7 @@
 		<image name="system_logo" extra="true">
             <pos>0.685 0.020</pos>
           <maxSize>0.180 0.100</maxSize>
+			<zindex>99</zindex>
       </image>  
 		  		  
    </customView>
@@ -462,15 +468,6 @@
         <visible>false</visible>
 	   </text>    
 	   
-	<image name="system_logo" extra="true">
-         <pos>0.025 0.810</pos>
-          <maxSize>0.200 0.110</maxSize>
-      </image>   
-	   
-	<image name="logo">
-       <pos>0.880 0.715</pos>
-      <maxSize>0.280 0.280</maxSize>
-      </image>
 	   	 
 	   <text name="md_name">
          <color>ffffffff</color>
@@ -496,6 +493,16 @@
          <size>0.20 0</size>
          <zIndex>36</zIndex>
       </image>      
+	   
+	   	<image name="logo">
+       <pos>0.880 0.715</pos>
+      <maxSize>0.280 0.280</maxSize>
+      </image>
+	   
+	   <image name="system_logo" extra="true">
+         <pos>0.025 0.810</pos>
+          <maxSize>0.200 0.110</maxSize>
+      </image>
    
    </customView>
 
@@ -597,7 +604,23 @@
 
    </customView>   
 
- 
+ <!-- gamelists - video carousel -->
+		
+	
+	<customView name="Video Carousel" inherits="Carousel" displayName="${carouselvideoName}">
+		
+		 <video name="md_video">
+		<visible>true</visible>
+         <pos>0 0</pos>
+         <minSize>1 1</minSize>
+         <origin>0 0</origin>
+       <delay>${delay}</delay>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+         <showSnapshotDelay>false</showSnapshotDelay>
+     </video>
+	 
+		
+	</customView>
 
 	
 		<!-- gamelists - fanart view 

@@ -16,7 +16,7 @@
     <default>Predeterminado </default>
 <!-- Vistas de biblioteca -->
     <basiclist>Lista simple </basiclist>
-    <SimpleGridName>Cuadrícula / simple </SimpleGridName>
+    <simplegridName>Cuadrícula / Simple </simplegridName>
     <carouselViewName>Carrusel </carouselViewName>
     <carouselposterViewName>Carrusel / Detallado </carouselposterViewName>
     <tilesViewName>Azulejos </tilesViewName>
@@ -24,6 +24,7 @@
     <tilesVideoMarqueeViewName>Azulejos con video y logotipos </tilesVideoMarqueeViewName>
     <fanartViewName>Fanart (predeterminado) </fanartViewName>
     <fanartvlViewName>Fanart (video en pantalla completa) </fanartvlViewName>
+		<carouselvideoName>Carrusel / Video</carouselvideoName>
 <!-- fondos -->
     <defaultbg>SOLO (ligero) </defaultbg>
     <darkbg>SOLO (oscuro) </darkbg>

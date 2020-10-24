@@ -15,14 +15,15 @@
 	<default>Default</default>
 <!-- Library views -->		
 	<basiclist>Simple List</basiclist>
-    <SimpleGridName>Grid / Basic</SimpleGridName>
-    <carouselViewName>Carousel / Basic</carouselViewName>
+    <simplegridName>Grid / Simple</simplegridName>
+    <carouselViewName>Carousel</carouselViewName>
     <carouselposterViewName>Carousel / Detailed</carouselposterViewName>	
 	 <tilesViewName>Tiles</tilesViewName>
     <tilesVideoViewName>Tiles with Video</tilesVideoViewName>
     <tilesVideoMarqueeViewName>Tiles with Video and Logos</tilesVideoMarqueeViewName>
     <fanartViewName>Fanart (Default)</fanartViewName>
 	<fanartvlViewName>Fanart (Full Screen Video)</fanartvlViewName>
+	<carouselvideoName>Carousel / Video</carouselvideoName>
 <!-- color schemes -->
     <ctblue>Sapphire</ctblue>
 	<ctred>Ruby</ctred>

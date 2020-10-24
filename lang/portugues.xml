@@ -16,7 +16,7 @@
     <default>Padrão </default>
 <!-- Visualizações da biblioteca -->
     <basiclist>Lista Simples </basiclist>
-    <SimpleGridName>Grid / Simples </SimpleGridName>
+    <simplegridName>Grid / Simples </simplegridName>
     <carouselViewName>Carrossel </carouselViewName>
     <carouselposterViewName>Carrossel / Detalhado </carouselposterViewName>
     <tilesViewName>Tiles </tilesViewName>
@@ -24,6 +24,7 @@
     <tilesVideoMarqueeViewName>Blocos com vídeo e logotipos </tilesVideoMarqueeViewName>
     <fanartViewName>Fanart (padrão) </fanartViewName>
     <fanartvlViewName>Fanart (vídeo em tela inteira) </fanartvlViewName>
+		<carouselvideoName>Carrossel / Video</carouselvideoName>
 <!-- planos de fundo -->
     <defaultbg>SOLO (leve) </defaultbg>
     <darkbg>SOLO (escuro) </darkbg>

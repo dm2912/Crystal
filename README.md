@@ -36,7 +36,7 @@ If you wish a system added that is not there, raise a git issue and I will add.
 
 THEME OPTIONS (All can be found under UI settings > Theme Configuration)
 
-Color Scheme: The theme will support multiple color schemes which you can change here.
+Color Scheme: The theme supports multiple color schemes which you can change here.
 
 Homepage Layout: A choice of 5 different homepage layouts
 

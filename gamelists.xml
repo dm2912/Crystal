@@ -615,7 +615,7 @@
          <minSize>1 1</minSize>
          <origin>0 0</origin>
        <delay>${delay}</delay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+         <showSnapshotNoVideo>false</showSnapshotNoVideo>
          <showSnapshotDelay>false</showSnapshotDelay>
      </video>
 	 

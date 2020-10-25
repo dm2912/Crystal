@@ -74,6 +74,8 @@
 	<subset.thememusic>Musique de fond du thème</subset.thememusic>
    <subset.vdelay>Retard vidéo sur la liste de jeux</subset.vdelay>
     <subset.slog>Logo système sur les listes de jeux</subset.slog>
+   <subset.colortheme>Jeu de couleurs du thème</subset.colortheme>
+    <subset.videoview>Vidéo sur les gamelists détaillés</subset.videoview>
 <!-- Descriptions du système -->
     <psx>La PlayStation (abrégée officieusement en PSX) est une console de jeu vidéo domestique développée et commercialisée par Sony Computer Entertainment. La console d'origine de la série a été la première console de tout type à expédier plus de 100 millions d'unités, ce qui a été fait en moins d'une décennie.</psx>
     <threedo>La 3DO est une console de jeu vidéo domestique conçue par Trip Hawkins, entrepreneur et fondateur d'Electronic Arts, la 3DO n'a pas été fabriquée par l'entreprise elle-même. Panasonic a produit les premiers modèles et d'autres versions du matériel ont été publiées par GoldStar et Sanyo.</threedo>
@@ -100,7 +102,7 @@
     <gbc>La Game Boy Color (en abrégé GBC) est une console de jeu portable fabriquée par Nintendo, sortie en 1998. Elle succède à la Game Boy et dispose d'un écran couleur, mais pas de rétroéclairage.</gbc>
     <genesis>La Genesis (Mega Drive en dehors des États-Unis) était la troisième console de Sega et le successeur du Master System. Le microprocesseur principal de la Genesis est un processeur Motorola 68000 16/32 bits cadencé à 7,6 MHz. La console offrait également une rétrocompatibilité avec le Master System.</genesis>
     <intellivision>L'Intellivision 'Intelligent Telivision' est une console de jeu vidéo domestique lancée par Mattel Electronics en 1979. Le développement de la console a commencé en 1977, la même année que l'introduction de son principal concurrent, l'Atari 2600.</intellivision>
-    <mame>Machines de divertissement à pièces. L'âge d'or est défini comme une période comprise entre la fin des années 1970 et se terminant au milieu des années 1980</mame>
+    <mame>MAME (à l'origine un acronyme de Multiple Arcade Machine Emulator) est un émulateur gratuit et open-source conçu pour recréer le matériel des systèmes de jeux d'arcade dans des logiciels sur des ordinateurs personnels modernes et d'autres plates-formes.</mame>
     <mastersystem>The Master System est une console de jeu vidéo de troisième génération qui a été lancée par Sega en 1985. Le Master System était un concurrent direct du Nintendo Entertainment System et était techniquement supérieur à la NES, qui était bien antérieure à sa sortie.</mastersystem>
     <megadrive>La Megadrive était la troisième console de Sega et le successeur du Master System. Le microprocesseur principal du Megadrive est un processeur Motorola 68000 16/32 bits cadencé à 7,6 MHz. La console offrait également une rétrocompatibilité avec le Master System.</megadrive>
     <msx>MSX est une architecture informatique domestique standardisée, annoncée par Microsoft et ASCII le 16 juin 1983. Avant le succès de la famille Nintendo, MSX était la plate-forme pour laquelle les grands studios de jeux japonais tels que Konami et Hudson Soft produisaient des jeux vidéo.</msx>
@@ -191,7 +193,14 @@
 <zelda>The Legend of Zelda est une franchise de jeux vidéo d'action-aventure de haute fantaisie créée par les concepteurs de jeux japonais Shigeru Miyamoto et Takashi Tezuka. Il est principalement développé et publié par Nintendo.</zelda>
 <irem>Irem Software Engineering est un développeur et éditeur japonais de consoles de jeux vidéo, et anciennement développeur et fabricant de jeux d'arcade. La société a son siège à Chiyoda, Tokyo.</irem>
 <metalgear>Metal Gear est une série de jeux vidéo d'action-aventure furtifs créés par Hideo Kojima et développés et publiés par Konami. Le premier jeu, Metal Gear, est sorti en 1987 pour les ordinateurs personnels MSX. Plusieurs suites ont été publiées pour plusieurs consoles, qui ont élargi l'intrigue du jeu original.</metalgear>
-
+		<atari>Atari, Inc., fondée à Sunnyvale, Californie en 1972 par Nolan Bushnell et Ted Dabney, était un pionnier des jeux d'arcade, des consoles de jeux vidéo et des ordinateurs personnels. Les produits de la société, tels que Pong et Atari 2600, ont contribué à définir l'industrie du divertissement électronique des années 1970 au milieu des années 1980.</atari>
+		<dataeast>Data East Corporation (デ ー タ イ ー ス ト 株式会社, Dēta Īsuto kabushiki gaisha), également abrégé en DECO, était une société japonaise de jeux vidéo et d'ingénierie électronique. La société a fonctionné de 1976 à 2003 et a publié 150 titres de jeux vidéo</dataeast>
+		<kaneko>Kaneko Co. Ltd. (カ ネ コ 株式会社), était un éditeur de jeux vidéo japonais fondé à Suginami, Tokyo, Japon par Hiroshi Kaneko. Il a publié un certain nombre de jeux à la fois sous sa marque et d'autres sociétés, telles que Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n et la série Gals Panic.</kaneko>
+		<nintendo>Nintendo a produit certaines des consoles les plus réussies de l'industrie du jeu vidéo, telles que la Game Boy, la Super Nintendo Entertainment System, la Nintendo DS, la Wii et la Nintendo Switch.</nintendo>
+		<sega>Sega est un développeur et éditeur de jeux vidéo multinationale japonaise dont le siège est à Shinagawa, Tokyo. Sega a produit plusieurs franchises de jeux vendues à plusieurs millions de dollars, notamment Sonic the Hedgehog, Total War et Yakuza, et est le producteur de jeux d'arcade le plus prolifique au monde.</sega>
+		<snk>SNK Corporation (株式会社 SNK, Kabushiki-gaisha Esu Enu Kē) est une société japonaise de matériel et de logiciels de jeux vidéo. SNK est connu pour sa création de la famille Neo Geo de consoles de jeux d'arcade, de maison et de poche en 1990.</snk>
+		<taito>Taito est une société japonaise spécialisée dans les jeux vidéo, les jouets, les armoires d'arcade et les centres de jeux, basée à Shinjuku, Tokyo. La société a été fondée par Michael Kogan en 1953 sous le nom de Taito Trading Company, important de la vodka, des distributeurs automatiques et des juke-box au Japon. Il commencerait la production de jeux vidéo en 1973.</taito>
+		<toaplan>Toaplan était un développeur de jeux vidéo japonais responsable de la création d'un large éventail de jeux de tir à défilement et d'autres jeux d'arcade. Leur premier jeu de tir, Tiger-Heli sur arcades, a été un succès et a contribué à faire de Toaplan l'un des principaux producteurs de jeux de tir tout au long des années 1980 et 1990.</toaplan>
 
 
 </variables>

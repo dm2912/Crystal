@@ -73,6 +73,8 @@
 	<subset.thememusic>Música de fundo do tema</subset.thememusic>
    <subset.vdelay>Atraso de vídeo no gamelist</subset.vdelay>
     <subset.slog>Logotipo do sistema em Gamelistas</subset.slog>
+   <subset.colortheme>Esquema de cores do tema</subset.colortheme>
+    <subset.videoview>Vídeos sobre gamelistas detalhados</subset.videoview>
 <!-- Descrições do sistema -->
     <psx>O PlayStation (não oficialmente abreviado como PSX) é um console de videogame doméstico desenvolvido e comercializado pela Sony Computer Entertainment. O console original da série foi o primeiro console de qualquer tipo a distribuir mais de 100 milhões de unidades, em menos de uma década.</psx>
     <threedo>O 3DO é um console de videogame caseiro idealizado pelo empresário e fundador da Electronic Arts Trip Hawkins, o 3DO não foi fabricado pela própria empresa. A Panasonic produziu os primeiros modelos e outras versões do hardware foram lançadas pela GoldStar e Sanyo.</threedo>
@@ -99,7 +101,7 @@
     <gbc>O Game Boy Color, (abreviado como GBC) é um videogame portátil fabricado pela Nintendo, que foi lançado em 1998. É o sucessor do Game Boy e possui uma tela colorida, mas sem luz de fundo.</gbc>
     <genesis>O Genesis (Mega Drive fora dos EUA) foi o terceiro console da Sega e o sucessor do Master System. O microprocessador principal do Genesis é um processador Motorola 68000 de 16/32 bits com clock de 7,6 MHz. O console também forneceu compatibilidade retroativa com o Master System.</genesis>
     <intellivision>O Intellivision 'Intelligent Telivision' é um console de videogame doméstico lançado pela Mattel Electronics em 1979. O desenvolvimento do console começou em 1977, mesmo ano da introdução de seu principal concorrente, o Atari 2600.</intellivision>
-    <mame>Máquinas de entretenimento operadas por moedas. A idade de ouro é definida como um período entre o final dos anos 1970 e terminando em meados dos anos 1980</mame>
+    <mame>MAME (originalmente uma sigla de Multiple Arcade Machine Emulator) é um emulador de código aberto gratuito projetado para recriar o hardware de sistemas de jogos de arcade em software em computadores pessoais modernos e outras plataformas.</mame>
     <mastersystem>O Master System é um console de videogame de terceira geração lançado pela Sega em 1985. O Master System era um competidor direto do Nintendo Entertainment System e era tecnicamente superior ao NES, que antecedeu seu lançamento significativamente.</mastersystem>
     <megadrive>O Megadrive foi o terceiro console da Sega e o sucessor do Master System. O microprocessador principal do Megadrive é um processador Motorola 68000 de 16/32 bits com clock de 7,6 MHz. O console também forneceu compatibilidade retroativa com o Master System.</megadrive>
     <msx>MSX é uma arquitetura padronizada de computador doméstico, anunciada pela Microsoft e ASCII em 16 de junho de 1983. Antes do sucesso do Family Computer da Nintendo, MSX era a plataforma para a qual grandes estúdios de jogos japoneses como Konami e Hudson Soft produziam videogames.</msx>
@@ -190,7 +192,14 @@
 <zelda>The Legend of Zelda é uma franquia de videogame de aventura e ação de alta fantasia criada pelos designers de jogos japoneses Shigeru Miyamoto e Takashi Tezuka. Foi desenvolvido e publicado principalmente pela Nintendo.</zelda>
 <irem>Irem Software Engineering é uma desenvolvedora e editora japonesa de console de videogame, e anteriormente também uma desenvolvedora e fabricante de jogos de arcade. A empresa tem sede em Chiyoda, Tóquio.</irem>
 <metalgear>Metal Gear é uma série de videogames furtivos de ação e aventura criados por Hideo Kojima e desenvolvidos e publicados pela Konami. O primeiro jogo, Metal Gear, foi lançado em 1987 para computadores domésticos MSX. Várias sequências foram lançadas para vários consoles, o que expandiu o enredo do jogo original.</metalgear>
-
+		<atari>A Atari, Inc. original, fundada em Sunnyvale, Califórnia em 1972 por Nolan Bushnell e Ted Dabney, foi pioneira em jogos de arcade, consoles de videogame domésticos e computadores domésticos. Os produtos da empresa, como Pong e Atari 2600, ajudaram a definir a indústria de entretenimento eletrônico dos anos 1970 até meados dos anos 1980.</atari>
+		<dataeast>Data East Corporation (デ ー タ イ ー ス ト 株式会社, Dēta Īsuto kabushiki gaisha), também abreviada como DECO, era uma empresa japonesa de videogame e engenharia eletrônica. A empresa operou de 1976 a 2003 e lançou 150 títulos de videogame</dataeast>
+		<kaneko>Kaneko Co. Ltd. (カ ネ コ 株式会社), era uma editora de videogames japonesa fundada em Suginami, Tóquio, Japão por Hiroshi Kaneko. Ela publicou uma série de jogos sob sua marca e outras empresas, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n e a série Gals Panic.</kaneko>
+		<nintendo>A Nintendo produziu alguns dos consoles de maior sucesso na indústria de videogames, como o Game Boy, o Super Nintendo Entertainment System, o Nintendo DS, o Wii e o Nintendo Switch.</nintendo>
+		<sega>Sega é uma desenvolvedora e editora multinacional japonesa de videogame com sede em Shinagawa, Tóquio. A Sega produziu várias franquias de jogos multimilionários, incluindo Sonic the Hedgehog, Total War e Yakuza, e é o produtor de jogos de arcade mais prolífico do mundo.</sega>
+		<snk>SNK Corporation (株式会社 SNK, Kabushiki-gaisha Esu Enu Kē) é uma empresa japonesa de hardware e software de videogame. A SNK é conhecida por sua criação da família Neo Geo de consoles de jogos eletrônicos, domésticos e portáteis em 1990.</snk>
+		<taito>A Taito é uma empresa japonesa especializada em videogames, brinquedos, gabinetes de fliperama e centros de jogos, com sede em Shinjuku, Tóquio. A empresa foi fundada por Michael Kogan em 1953 como Taito Trading Company, importando vodka, máquinas de venda automática e jukeboxes para o Japão. Ela começaria a produção de videogames em 1973.</taito>
+		<toaplan>Toaplan era um desenvolvedor de videogame japonês responsável pela criação de uma grande variedade de jogos de tiro e outros jogos de arcade. Seu primeiro jogo de tiro, Tiger-Heli nos fliperamas, foi um sucesso e ajudou a estabelecer a Toaplan como um produtor líder de jogos de tiro nas décadas de 1980 e 1990</toaplan>
 
 
 

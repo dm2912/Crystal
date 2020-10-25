@@ -70,6 +70,7 @@
     <subset.vdelay>Video delay on gamelist</subset.vdelay>
     <subset.slog>System Logo on Gamelists</subset.slog>
     <subset.colortheme>Theme Colour Scheme</subset.colortheme>
+    <subset.videoview>Video's on detailed gamelists</subset.videoview>
 <!-- System descriptions -->
     <psx>The PlayStation (unofficially abbreviated as PSX) is a home video game console developed and marketed by Sony Computer Entertainment.  The original console in the series was the first console of any type to ship over 100 million units, doing so in under a decade.</psx>
     <threedo>The 3DO is a home video game console conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not manufactured by the company itself. Panasonic produced the first models, and further renditions of the hardware were released by GoldStar and Sanyo. </threedo>
@@ -96,7 +97,7 @@
     <gbc>The Game Boy Color, (abbreviated as GBC) is a handheld game console manufactured by Nintendo, which was released in 1998.  It is the successor of the Game Boy and features a color screen, but no backlight.</gbc>
     <genesis>The Genesis (Mega Drive outside of the U.S.) was Sega's third console and the successor to the Master System. The main microprocessor of the Genesis is a 16/32-bit Motorola 68000 CPU clocked at 7.6 MHz. The console also provided backwards compatibility with the Master System.</genesis>
     <intellivision>The Intellivision 'Intelligent Telivision' is a home video game console released by Mattel Electronics in 1979. Development of the console began in 1977, the same year as the introduction of its main competitor, the Atari 2600.</intellivision>
-    <mame>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s</mame>
+    <mame>MAME (originally an acronym of Multiple Arcade Machine Emulator) is a free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.</mame>
     <mastersystem>The Master System is a third-generation video game console that was released by Sega in 1985. The Master System was a direct competitor to the Nintendo Entertainment System and was technically superior to the NES, which predated its release significantly.</mastersystem>
     <megadrive>The Megadrive was Sega's third console and the successor to the Master System. The main microprocessor of the Megadrive is a 16/32-bit Motorola 68000 CPU clocked at 7.6 MHz. The console also provided backwards compatibility with the Master System.</megadrive>
     <msx>MSX is a standardized home computer architecture, announced by Microsoft and ASCII on June 16, 1983.  Before the success of Nintendo's Family Computer, MSX was the platform for which major Japanese game studios such as Konami and Hudson Soft produced video games.</msx>
@@ -187,5 +188,17 @@
 	<zelda>The Legend of Zelda is a high fantasy action-adventure video game franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka. It is primarily developed and published by Nintendo.</zelda>
     <irem>Irem Software Engineering is a Japanese video game console developer and publisher, and formerly a developer and manufacturer of arcade games as well. The company has its headquarters in Chiyoda, Tokyo.</irem>
     <metalgear>Metal Gear is a series of stealth action-adventure video games created by Hideo Kojima and developed and published by Konami. The first game, Metal Gear, was released in 1987 for MSX home computers. Several sequels have been released for multiple consoles, which have expanded the plot of the original game.</metalgear>
-</variables>
+		<atari>The original Atari, Inc., founded in Sunnyvale, California in 1972 by Nolan Bushnell and Ted Dabney, was a pioneer in arcade games, home video game consoles, and home computers. The company's products, such as Pong and the Atari 2600, helped define the electronic entertainment industry from the 1970s to the mid-1980s.</atari>
+		<dataeast>Data East Corporation (データイースト株式会社, Dēta Īsuto kabushiki gaisha), also abbreviated as DECO, was a Japanese video game and electronic engineering company. The company was in operation from 1976 to 2003, and released 150 video game titles</dataeast>
+		<kaneko>Kaneko Co. Ltd. (カネコ株式会社), was a Japanese video game publisher founded in Suginami, Tokyo, Japan by Hiroshi Kaneko. It published a number of games both under its brand and other companies, such as Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n, and the Gals Panic series.</kaneko>
+		<nintendo>Nintendo has produced some of the most successful consoles in the video game industry, such as the Game Boy, the Super Nintendo Entertainment System, the Nintendo DS, the Wii, and the Nintendo Switch.</nintendo>
+		<sega>Sega is a Japanese multinational video game developer and publisher headquartered in Shinagawa, Tokyo. Sega has produced several multi-million-selling game franchises, including Sonic the Hedgehog, Total War, and Yakuza, and is the world's most prolific arcade game producer.</sega>
+		<snk>SNK Corporation (株式会社SNK, Kabushiki-gaisha Esu Enu Kē) is a Japanese video game hardware and software company. SNK is known for its creation of the Neo Geo family of arcade, home, and handheld game consoles in 1990.</snk>
+		<taito>Taito is a Japanese company that specializes in video games, toys, arcade cabinets and game centers, based out of Shinjuku, Tokyo. The company was founded by Michael Kogan in 1953 as the Taito Trading Company, importing vodka, vending machines and jukeboxes into Japan. It would begin production of video games in 1973.</taito>
+		<toaplan>Toaplan was a Japanese video game developer responsible for the creation of a wide array of scrolling shooters and other arcade games. Their first shoot 'em up game, Tiger-Heli on arcades, was a success and helped establish Toaplan as a leading producer of shooting games throughout the 1980s and 1990s</toaplan>
+	
+	
+	
+	
+	</variables>
 		</theme>

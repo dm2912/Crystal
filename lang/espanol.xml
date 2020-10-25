@@ -24,7 +24,7 @@
     <tilesVideoMarqueeViewName>Azulejos con video y logotipos </tilesVideoMarqueeViewName>
     <fanartViewName>Fanart (predeterminado) </fanartViewName>
     <fanartvlViewName>Fanart (video en pantalla completa) </fanartvlViewName>
-		<carouselvideoName>Carrusel / Video</carouselvideoName>
+	<carouselvideoName>Carrusel / Video</carouselvideoName>
 <!-- fondos -->
     <defaultbg>SOLO (ligero) </defaultbg>
     <darkbg>SOLO (oscuro) </darkbg>
@@ -71,8 +71,10 @@
     <subset.music>Música del sistema </subset.music>
     <subset.logoset>Estilo del logotipo del sistema </subset.logoset>	
 	<subset.thememusic>Música de fondo del tema</subset.thememusic>	
-   <subset.vdelay>Retraso de video en la lista de juegos</subset.vdelay>
+    <subset.vdelay>Retraso de video en la lista de juegos</subset.vdelay>
     <subset.slog>Logotipo del sistema en listas de juegos</subset.slog>
+    <subset.colortheme>Esquema de color del tema</subset.colortheme>
+    <subset.videoview>Videos sobre listas de juegos detalladas</subset.videoview>
 <!-- Descripciones del sistema -->
 	<psx>La PlayStation (abreviada extraoficialmente como PSX) es una consola de videojuegos doméstica desarrollada y comercializada por Sony Computer Entertainment. La consola original de la serie fue la primera consola de cualquier tipo en enviar más de 100 millones de unidades, en menos de una década.</psx>
    <threedo>La 3DO es una consola de videojuegos doméstica concebida por el empresario y fundador de Electronic Arts Trip Hawkins, la 3DO no fue fabricada por la propia empresa. Panasonic produjo los primeros modelos, y GoldStar y Sanyo lanzaron más versiones del hardware.</threedo>
@@ -99,7 +101,7 @@
    <gbc>Game Boy Color, (abreviado como GBC) es una consola de juegos portátil fabricada por Nintendo, que fue lanzada en 1998. Es la sucesora de Game Boy y cuenta con una pantalla a color, pero sin luz de fondo.</gbc>
    <genesis>La Genesis (Mega Drive fuera de los EE. UU.) fue la tercera consola de Sega y la sucesora del Master System. El microprocesador principal del Genesis es una CPU Motorola 68000 de 16/32 bits con una frecuencia de reloj de 7,6 MHz. La consola también proporcionó compatibilidad con versiones anteriores del Master System.</genesis>
    <intellivision>Intellivision 'Intelligent Telivision' es una consola de videojuegos para el hogar lanzada por Mattel Electronics en 1979. El desarrollo de la consola comenzó en 1977, el mismo año en que se introdujo su principal competidor, el Atari 2600.</intellivision>
-   <mame>Máquinas de entretenimiento que funcionan con monedas. La edad de oro se define como un período entre finales de la década de 1970 y que finaliza a mediados de la década de 1980</mame>
+   <mame>MAME (originalmente un acrónimo de Multiple Arcade Machine Emulator) es un emulador gratuito y de código abierto diseñado para recrear el hardware de los sistemas de juegos de arcade en software en computadoras personales modernas y otras plataformas.</mame>
    <mastersystem>El Master System es una consola de videojuegos de tercera generación que fue lanzada por Sega en 1985. El Master System era un competidor directo del Nintendo Entertainment System y era técnicamente superior a NES, que fue significativamente anterior a su lanzamiento.</mastersystem>
    <megadrive>El Megadrive fue la tercera consola de Sega y el sucesor del Master System. El microprocesador principal del Megadrive es una CPU Motorola 68000 de 16/32 bits con una frecuencia de reloj de 7,6 MHz. La consola también proporcionó compatibilidad con versiones anteriores del Master System.</megadrive>
    <msx>MSX es una arquitectura de computadora doméstica estandarizada, anunciada por Microsoft y ASCII el 16 de junio de 1983. Antes del éxito de Family Computer de Nintendo, MSX era la plataforma para la cual los principales estudios de juegos japoneses como Konami y Hudson Soft producían videojuegos.</msx>
@@ -190,7 +192,14 @@
 	<zelda>The Legend of Zelda es una franquicia de videojuegos de acción y aventuras de alta fantasía creada por los diseñadores de juegos japoneses Shigeru Miyamoto y Takashi Tezuka. Es principalmente desarrollado y publicado por Nintendo.</zelda>
 	<irem>Irem Software Engineering es un desarrollador y editor de consolas de videojuegos japonés, y anteriormente también fue desarrollador y fabricante de juegos de arcade. La empresa tiene su sede en Chiyoda, Tokio.</irem>
 <metalgear>Metal Gear es una serie de videojuegos sigilosos de acción y aventuras creados por Hideo Kojima y desarrollados y publicados por Konami. El primer juego, Metal Gear, fue lanzado en 1987 para ordenadores domésticos MSX. Se han lanzado varias secuelas para múltiples consolas, que han ampliado la trama del juego original.</metalgear>
-
+		<atari>La Atari, Inc. original, fundada en Sunnyvale, California en 1972 por Nolan Bushnell y Ted Dabney, fue pionera en los juegos de arcade, las consolas de videojuegos y las computadoras domésticas. Los productos de la compañía, como Pong y Atari 2600, ayudaron a definir la industria del entretenimiento electrónico desde la década de 1970 hasta mediados de la de 1980.</atari>
+		<dataeast>Data East Corporation (デ ー タ イ ー ス ト 株式会社, Dēta Īsuto kabushiki gaisha), también abreviado como DECO, era una empresa japonesa de videojuegos e ingeniería electrónica. La empresa estuvo en funcionamiento desde 1976 hasta 2003 y lanzó 150 títulos de videojuegos.</dataeast>
+		<kaneko>Kaneko Co. Ltd. (カ ネ コ 株式会社), fue un editor de videojuegos japonés fundado en Suginami, Tokio, Japón por Hiroshi Kaneko. Publicó una serie de juegos tanto con su marca como con otras compañías, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n y la serie Gals Panic.</kaneko>
+		<nintendo>Nintendo ha producido algunas de las consolas más exitosas en la industria de los videojuegos, como Game Boy, Super Nintendo Entertainment System, Nintendo DS, Wii y Nintendo Switch.</nintendo>
+		<sega>Sega es un desarrollador y editor de videojuegos multinacional japonés con sede en Shinagawa, Tokio. Sega ha producido varias franquicias de juegos con ventas multimillonarias, incluidas Sonic the Hedgehog, Total War y Yakuza, y es el productor de juegos de arcade más prolífico del mundo.</sega>
+		<snk>SNK Corporation (株式会社 SNK, Kabushiki-gaisha Esu Enu Kē) es una empresa japonesa de hardware y software de videojuegos. SNK es conocido por la creación de la familia Neo Geo de consolas de juegos portátiles, domésticas y recreativas en 1990.</snk>
+		<taito>Taito es una empresa japonesa que se especializa en videojuegos, juguetes, gabinetes de arcade y centros de juegos, con sede en Shinjuku, Tokio. La empresa fue fundada por Michael Kogan en 1953 como Taito Trading Company, que importaba vodka, máquinas expendedoras y máquinas de discos en Japón. Comenzaría la producción de videojuegos en 1973.</taito>
+		<toaplan>Toaplan fue un desarrollador de videojuegos japonés responsable de la creación de una amplia gama de tiradores de desplazamiento y otros juegos de arcade. Su primer juego de disparos, Tiger-Heli en las salas de juegos, fue un éxito y ayudó a establecer a Toaplan como un productor líder de juegos de disparos durante las décadas de 1980 y 1990.</toaplan>
 
 
 

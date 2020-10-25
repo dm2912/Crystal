@@ -18,7 +18,7 @@ All png logo's sourced under "no commercial use" licences
 
 Any additional artwork likely created, or adapted by me and is strictly "no commercial use"
 
-Majority of music from khinsider.com (Some from Alekfull's Solo theme)
+Majority of music from khinsider.com and then edited with Audacity
 
 For use with EmulationStation (http://www.emulationstation.org/)
 

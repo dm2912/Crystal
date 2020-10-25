@@ -627,10 +627,17 @@
 	
 	<customView name="Video Carousel" inherits="Carousel" displayName="${carouselvideoName}">
 		
+		
+			 <image name="md_image">
+		  <visible>false</visible>
+		</image>
+		
 		 <video name="md_video">
 		<visible>true</visible>
          <pos>0 0</pos>
+			 <size>1 1</size>
          <minSize>1 1</minSize>
+			 <maxSize>1 1</maxSize>
          <origin>0 0</origin>
        <delay>${delay}</delay>
          <showSnapshotNoVideo>false</showSnapshotNoVideo>

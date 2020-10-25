@@ -188,15 +188,24 @@
 		 <glowColor>${cglglow}</glowColor>
          <glowSize>1</glowSize>
       </text>
-      <video name="md_video">
+     
+      <image name="md_image">
+			  <pos>0.195 0.275</pos>
+         <maxSize>0.35 0.40</maxSize>
+		  <visible>true</visible>
+		</image>	    
+	   
+	   <video name="md_video">
          <pos>0.195 0.275</pos>
          <maxSize>0.35 0.40</maxSize>
         <delay>${delay}</delay>
 		  <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
          <zIndex>51</zIndex>
+		 <visible>${videooption}</visible>
       </video>
-		<image name="system_logo" extra="true">
+		
+	   <image name="system_logo" extra="true">
              <pos>0.685 0.020</pos>
           <maxSize>0.180 0.100</maxSize>
       </image>
@@ -284,24 +293,27 @@
          <color>${cgtextselect}</color>
          <glowColor>${glowColor}</glowColor>
          <glowSize>5</glowSize>
-			<visible>true</visible>
-      </text>   	 
-	   
-		<image name="md_image">
-         <visible>false</visible>
-      </image>	
+		<visible>true</visible>
+      </text> 
 		
-	<text name="md_name">
+		<text name="md_name">
 		  <visible>false</visible>
       </text>
+	   
+      <image name="md_image">
+         <pos>0.825 0.462</pos>
+         <maxSize>0.35 0.40</maxSize>
+		  <visible>true</visible>
+		</image>	
 	
 		<video name="md_video">
          <pos>0.825 0.462</pos>
-         <minSize>0.29 0.39</minSize>
+         <maxSize>0.35 0.40</maxSize>
          <origin>0.5 0.5</origin>
        <delay>${delay}</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
+		<visible>${videooption}</visible>
       </video>
 		
 	<image name="release_date_logo" extra="true">
@@ -537,6 +549,12 @@
 		  <reflexion>0.24 0.0</reflexion>
       </gridtile>	
 		
+		 <image name="md_image">
+          <pos>0.80 0.255</pos>
+         <maxSize>0.40 0.40</maxSize>
+		  <visible>true</visible>
+		</image>
+		
 		<video name="md_video">
          <pos>0.80 0.255</pos>
          <maxSize>0.40 0.40</maxSize>
@@ -544,7 +562,7 @@
         <delay>${delay}</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
-			<visible>true</visible>
+		<visible>${videooption}</visible>
       </video>	
 		
 		<image name="release_date_logo" extra="true">

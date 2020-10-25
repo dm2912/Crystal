@@ -52,6 +52,8 @@ Theme Background Music: this can toggle on or off independant of your global set
 
 Video Delay On Gamelist: Adjust how long it takes before the screenshot or image on gamelists turns to video (from no delay to 3 seconds) 
 
+Video on Detail View: Game video's can now be turned off completely on detailed vews
+
 
 ================================
 

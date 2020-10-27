@@ -58,7 +58,8 @@
     <delay1>1 second</delay1>
     <delay2>2 seconds</delay2>
     <delay3>3 seconds</delay3>
-    <delay0>no delay</delay0>	
+    <delay0>no delay</delay0>
+    <novideo>disable videos</novideo>	
 <!-- Submenus -->
     <subset.systemview>Homepage Layout</subset.systemview>
     <subset.colorset>Background Images</subset.colorset>

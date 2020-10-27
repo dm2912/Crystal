@@ -55,7 +55,8 @@
     <delay1>1 seconde</delay1>
     <delay2>2 seconde</delay2>
     <delay3>3 seconde</delay3>
-    <delay0>sans délais</delay0>	
+    <delay0>sans délais</delay0>
+    <novideo>disable videos</novideo>	
 <!-- color schemes -->
     <ctblue>Sapphire</ctblue>
 	<ctred>Ruby</ctred>

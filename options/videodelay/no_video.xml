@@ -2,6 +2,6 @@
 <theme>
 	<formatVersion>7</formatVersion>	
 <variables>
-	<videooption>true</videooption>
+	<delay>86400</delay>
 </variables>
 </theme>

@@ -187,13 +187,7 @@
          <fontSize>0.034</fontSize>
 		 <glowColor>${cglglow}</glowColor>
          <glowSize>1</glowSize>
-      </text>
-     
-      <image name="md_image">
-			  <pos>0.195 0.275</pos>
-         <maxSize>0.35 0.40</maxSize>
-		  <visible>true</visible>
-		</image>	    
+      </text>	    
 	   
 	   <video name="md_video">
          <pos>0.195 0.275</pos>
@@ -202,7 +196,7 @@
 		  <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
          <zIndex>51</zIndex>
-		 <visible>${videooption}</visible>
+		 <visible>true</visible>
       </video>
 		
 	   <image name="system_logo" extra="true">
@@ -298,13 +292,7 @@
 		
 		<text name="md_name">
 		  <visible>false</visible>
-      </text>
-	   
-      <image name="md_image">
-         <pos>0.825 0.462</pos>
-         <maxSize>0.35 0.40</maxSize>
-		  <visible>true</visible>
-		</image>	
+      </text>	
 	
 		<video name="md_video">
          <pos>0.825 0.462</pos>
@@ -313,7 +301,7 @@
        <delay>${delay}</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
-		<visible>${videooption}</visible>
+		<visible>true</visible>
       </video>
 		
 	<image name="release_date_logo" extra="true">
@@ -549,12 +537,6 @@
 		  <reflexion>0.24 0.0</reflexion>
       </gridtile>	
 		
-		 <image name="md_image">
-          <pos>0.80 0.255</pos>
-         <maxSize>0.40 0.40</maxSize>
-		  <visible>true</visible>
-		</image>
-		
 		<video name="md_video">
          <pos>0.80 0.255</pos>
          <maxSize>0.40 0.40</maxSize>
@@ -562,7 +544,7 @@
         <delay>${delay}</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
-		<visible>${videooption}</visible>
+		<visible>true</visible>
       </video>	
 		
 		<image name="release_date_logo" extra="true">

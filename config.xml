@@ -44,8 +44,6 @@
     <include subset="vdelay" name="2" displayName="${delay2}">./options/videodelay/video_delay_2.xml</include>
     <include subset="vdelay" name="3" displayName="${delay3}">./options/videodelay/video_delay_3.xml</include>
     <include subset="vdelay" name="0" displayName="${delay0}">./options/videodelay/video_delay_0.xml</include>
-
-    <include subset="videoview" name="yes" displayName="${yes}">./options/videos/videos_on.xml</include>
-    <include subset="videoview" name="no" displayName="${no}">./options/videos/videos_off.xml</include>
+    <include subset="vdelay" name="nv" displayName="${novideo}">./options/videodelay/no_video.xml</include>
 
 </theme>

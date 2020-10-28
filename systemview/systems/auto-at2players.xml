@@ -20,7 +20,7 @@
 <text>Game Collection</text>
   </text>
 		<text name="description" extra="true">
-			<text></text>
+			<text>${twoplayer}</text>
 		</text>
 		
 	</view>

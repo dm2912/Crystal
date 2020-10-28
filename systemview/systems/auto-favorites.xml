@@ -21,7 +21,7 @@
   </text>
 	
 		<text name="description" extra="true">
-			<text></text>
+			<text>${favorites}</text>
 		</text>
 		
 	</view>

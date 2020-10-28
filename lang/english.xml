@@ -197,9 +197,12 @@
 		<snk>SNK Corporation (株式会社SNK, Kabushiki-gaisha Esu Enu Kē) is a Japanese video game hardware and software company. SNK is known for its creation of the Neo Geo family of arcade, home, and handheld game consoles in 1990.</snk>
 		<taito>Taito is a Japanese company that specializes in video games, toys, arcade cabinets and game centers, based out of Shinjuku, Tokyo. The company was founded by Michael Kogan in 1953 as the Taito Trading Company, importing vodka, vending machines and jukeboxes into Japan. It would begin production of video games in 1973.</taito>
 		<toaplan>Toaplan was a Japanese video game developer responsible for the creation of a wide array of scrolling shooters and other arcade games. Their first shoot 'em up game, Tiger-Heli on arcades, was a success and helped establish Toaplan as a leading producer of shooting games throughout the 1980s and 1990s</toaplan>
-	
-	
-	
-	
-	</variables>
+		<twoplayer>“If Pac-Man had affected us as kids, we'd all be running around in dark rooms, munching pills and listening to repetitive electronic music.” ― Marcus Brigstocke</twoplayer>
+		<fourplayer>“There's a difference between playing and playing games. The former is an act of joy, the latter — an act.” ― Vera Nazarian</fourplayer>
+		<setupscripts>“A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play.” ― James P. Carse</setupscripts>
+		<favorites>“People said that video games are bad because they made you numb to death. The real problem with games is that the player is supposed to try everything. If there was a cave, you go in. If there was a mysterious stranger, you talk to him. But in games you have a million lives, in life, only one” ― Holly Black</favorites>
+		<notplayed>“A delayed game is eventually good, a bad game is bad forever.” ― Shigeru Miyamoto</notplayed>
+		<lastplayed>“The worst thing a kid can say about homework is that it is too hard. The worst thing a kid can say about a game is it's too easy.” ― Henry Jenkins</lastplayed>
+		<allgames>“We do not stop playing because we grow old, we grow old because we stop playing!” ― Benjamin Franklin</allgames>	
+		</variables>
 		</theme>

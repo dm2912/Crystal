@@ -31,7 +31,7 @@
 		 <selectorGradientType>${cgradienttype}</selectorGradientType>
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.035</fontSize>
-         <scrollSound>./assets/sounds/default/scroll.ogg</scrollSound>
+         <scrollSound>./assets/sounds/scroll.mp3</scrollSound>
          <lineSpacing>2.075</lineSpacing>
       </textlist>
       <image name="background" extra="true">

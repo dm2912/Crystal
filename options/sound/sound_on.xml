@@ -3,7 +3,7 @@
     <formatVersion>4</formatVersion>
 	<view name="system">		
       <sound name="bgsound">
-         <path>./assets/sounds/default/${system.theme}.ogg</path>
+         <!--<path>./assets/sounds/default/${system.theme}.ogg</path>-->
          <path>./assets/sounds/default/${system.theme}.mp3</path>
       </sound>
     </view>

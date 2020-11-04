@@ -24,7 +24,8 @@
     <tilesVideoMarqueeViewName>Blocos com vídeo e logotipos </tilesVideoMarqueeViewName>
     <fanartViewName>Fanart (padrão) </fanartViewName>
     <fanartvlViewName>Fanart (vídeo em tela inteira) </fanartvlViewName>
-		<carouselvideoName>Carrossel / Video</carouselvideoName>
+	<carouselvideoName>Carrossel / Video</carouselvideoName>
+	<smallscreengamelist>Small Screen Layout</smallscreengamelist>
 <!-- planos de fundo -->
     <defaultbg>SOLO (leve) </defaultbg>
     <darkbg>SOLO (escuro) </darkbg>

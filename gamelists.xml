@@ -70,7 +70,7 @@
 
       <textlist name="gamelist">
          <pos>0.675 0.19</pos>
-         <size>0.31 0.848</size>
+         <size>0.315 0.848</size>
          <primaryColor>${cgamelisttext}</primaryColor>
          <selectedColor>${cselectedtext}</selectedColor>
 		 <selectorColor>${cselector}</selectorColor>
@@ -294,17 +294,6 @@
 		<text name="md_name">
 		  <visible>false</visible>
       </text>	
-	
-		<video name="md_video">
-         <pos>0.825 0.462</pos>
-		 <size>0.30 0.38</size>
-		 <!--  <maxSize>0.35 0.40</maxSize> -->
-         <origin>0.5 0.5</origin>
-       <delay>${delay}</delay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>true</showSnapshotDelay>
-		<visible>true</visible>
-      </video>
 		
 	<image name="release_date_logo" extra="true">
 			<pos>0.685 0.13</pos>
@@ -325,7 +314,18 @@
          <size>0.30 0.270</size>
          <fontSize>0.03</fontSize>
          <color>${cgdescription}</color>
-	   </text> 	     
+	   </text> 	
+		
+		<video name="md_video">
+         <pos>0.825 0.462</pos>
+		 <size>0.30 0.38</size>
+		 <!--  <maxSize>0.35 0.40</maxSize> -->
+         <origin>0.5 0.5</origin>
+       <delay>${delay}</delay>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+         <showSnapshotDelay>true</showSnapshotDelay>
+		<visible>true</visible>
+      </video>
 		
 	    <image name="logo">
          <pos>0.905 0.020</pos>
@@ -398,6 +398,109 @@
       </image>  
 		  		  
    </customView>
+	
+	
+<!-- gamelists - small screen grid -->
+	
+      <customView name="Small Screen" inherits="grid" displayName="${smallscreengamelist}">
+         
+	  <rating name="md_rating">
+	<visible>false</visible>
+      </rating>
+		
+	 <image name="art" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <zIndex>2</zIndex>
+      </image>			
+		  
+   <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/filters/${themecolor}/bg-detailed.svg</path>
+      </image>	
+		  
+		<text name="md_description">
+         <pos>0.680 0.03</pos>
+         <size>0.30 0.890</size>
+         <fontSize>0.05</fontSize>
+         <color>${cgdescription}</color>
+		<zindex>99</zindex>
+	   </text>
+		  
+			
+		<imagegrid name="gamegrid">
+         <pos>0.05 0.05</pos>
+         <size>0.51 0.850</size>
+         <autoLayoutSelectedZoom>1.08</autoLayoutSelectedZoom>
+         <autoLayout>1 1</autoLayout>
+		 <margin>0.005 0.005</margin>
+         <padding>0.03 0.03 0.03 0.03</padding>
+         <scrollSound>./assets/sounds/default/scroll.ogg</scrollSound>
+         <animateSelection>false</animateSelection>
+		<maxlength>.5</maxlength>
+      </imagegrid>	
+				
+     <gridtile name="default">
+         <backgroundColor>${cgtbg}</backgroundColor>
+         <backgroundCornerSize>9 9</backgroundCornerSize>
+         <selectionMode>image</selectionMode>
+         <padding>5 5</padding>
+         <imageColor>${cgtimage}</imageColor>
+      </gridtile>
+
+		<gridtile name="selected">
+         <backgroundCenterColor>${ccenterfade}</backgroundCenterColor>
+         <backgroundEdgeColor>${cgtbgedgeselect}</backgroundEdgeColor>
+         <imageColor>${cgtimageselect}</imageColor>
+      </gridtile>
+
+		<text name="gridtile">
+	 <visible>false</visible>
+      </text>
+
+		<text name="gridtile_selected">
+	 <visible>false</visible>
+      </text> 
+		
+		<text name="md_name">
+		  <visible>false</visible>
+      </text>	
+	
+			<image name="release_date_logo" extra="true">
+<visible>false</visible>
+		</image>
+	   
+      <datetime name="md_releasedate">
+<visible>false</visible>
+      </datetime>
+	   
+	     
+		
+	    <image name="logo">
+ <visible>false</visible>
+	      </image>
+	
+		<image name="system_logo" extra="true">
+ <visible>false</visible>
+      </image> 
+		 
+		 <video name="md_video">
+		<visible>true</visible>
+		<pos>0.0 0.0</pos>
+         <size>0.66 0.955</size>
+         <minSize>1 1</minSize>
+         <origin>0 0</origin>
+       <delay>${delay}</delay>
+         <showSnapshotNoVideo>false</showSnapshotNoVideo>
+         <showSnapshotDelay>false</showSnapshotDelay>
+		 <zindex>-11</zindex>
+		  </video>
+		
+   </customView>	
+
 	
 	
 <!-- gamelists - basic carousel -->

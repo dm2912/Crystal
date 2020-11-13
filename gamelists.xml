@@ -78,7 +78,7 @@
 		 <selectorGradientType>${cgradienttype}</selectorGradientType>
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.029</fontSize>
-         <scrollSound>./assets/sounds/default/scroll.ogg</scrollSound>
+         <scrollSound>./assets/sounds/scroll.mp3</scrollSound>
          <alignment>left</alignment>
          <lineSpacing>2.275</lineSpacing>
       </textlist>
@@ -256,7 +256,7 @@
          <autoLayout>3 2</autoLayout>
 		 <margin>0.005 0.005</margin>
          <padding>0.03 0.03 0.03 0.03</padding>
-         <scrollSound>./assets/sounds/default/scroll.ogg</scrollSound>
+         <scrollSound>./assets/sounds/scroll.mp3</scrollSound>
          <animateSelection>false</animateSelection>
 		<maxlength>.5</maxlength>
       </imagegrid>	
@@ -361,7 +361,7 @@
          <padding>0.03 0.03 0.03 0.03</padding>
          <autoLayout>5 2</autoLayout>
          <autoLayoutSelectedZoom>1.12</autoLayoutSelectedZoom>
-		  <scrollSound>./assets/sounds/default/scroll.ogg</scrollSound>
+		  <scrollSound>./assets/sounds/scroll.mp3</scrollSound>
          <animateSelection>false</animateSelection>
       </imagegrid>
 		  
@@ -438,7 +438,7 @@
          <autoLayout>1 1</autoLayout>
 		 <margin>0.005 0.005</margin>
          <padding>0.03 0.03 0.03 0.03</padding>
-         <scrollSound>./assets/sounds/default/scroll.ogg</scrollSound>
+         <scrollSound>./assets/sounds/scroll.mp3</scrollSound>
          <animateSelection>false</animateSelection>
 		<maxlength>.5</maxlength>
       </imagegrid>	
@@ -527,7 +527,7 @@
          <margin>0.005 0.010</margin>
          <centerSelection>true</centerSelection>
          <scrollLoop>true</scrollLoop>
-	<scrollSound>./assets/sounds/default/scroll.ogg</scrollSound>
+	<scrollSound>./assets/sounds/scroll.mp3</scrollSound>
       </imagegrid>
 	      
 	       <gridtile name="default">

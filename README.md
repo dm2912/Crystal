@@ -21,7 +21,9 @@ Arcade Publishers & Platforms: Atari, Capcom, CPS1, CPS2, CPS3, Daphne, Data Eas
 
 As well as 2 player, 4 player, never played, favourites etc etc
 
-To Do list: Acclaim, Alpha Denshi, Atlus, Banpresto, Cinematronics, Eighting/Raizing, Exidy Inc., Gaelco, Gottleib, Evoga, Strata, Incredible Technologies, Human Amusement, Falcon, Afega, Apple Industries, Unico, Tecmo and logos for Kaneko and Toaplan need redoing.  
+To Do list: Acclaim, Alpha Denshi, Atlus, Cinematronics, Eighting/Raizing, Exidy, Incredible Technologies, Gaelco, Gottleib, Tecmo, Semicom, Mitchell, Seibu Kahatsu, Playchoice, Visco, Nichibutsu, IGS, Video System Co, Technos, Psikyo, Sammy, NMK, Banpresto, Sega ST-V, 
+
+
 
 To create a dynamic collection:
 

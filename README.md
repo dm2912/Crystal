@@ -4,17 +4,24 @@
 
 Artwork for custom collections for most major games should be themed. If something is missing, raise an issue and will add them.
 
+Dynamic Collections
+===================
+
 Dynamic Collections currently supported for the following (theme name in brackets): 
 
-Game Series: Art of Fighting (aof), Batman (batman), Capcom (capcom), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda)
+Game Series: Art of Fighting (aof), Batman (batman), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda)
 
-The various publisher themes will work from dynamic collections and also automatic collections:
+Automatic Collections (Arcade)
+==============================
 
-Arcade Publishers: Irem (irem), Namco (namco), Konami (konami), Midway (midway), Atari (atari), Data East (dataeast), Kaneko (kaneko), Nintendo (nintendo), SEGA (sega), SNK (snk), Taito (taito), Toaplan (toaplan)
+The various publisher themes will work from automatic collections:
 
-Platforms: CPS1 (cps1), CPS2 (cps2), CPS3 (cps3),
+Arcade Publishers & Platforms: Atari, Capcom, CPS1, CPS2, CPS3, Daphne, Data East, Irem, Kaneko, Konami, Midway, Namco, Neo-Geo, Nintendo, SEGA, SNK, Taito, Toaplan
 
-Genres: Arcade (arcade), more to come... 
+
+As well as 2 player, 4 player, never played, favourites etc etc
+
+To Do list: Acclaim, Alpha Denshi, Atlus, Banpresto, Cinematronics, Eighting/Raizing, Exidy Inc., Gaelco, Gottleib, Evoga, Strata, Incredible Technologies, Human Amusement, Falcon, Afega, Apple Industries, Unico, Tecmo 
 
 To create a dynamic collection:
 

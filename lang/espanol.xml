@@ -25,7 +25,7 @@
     <fanartViewName>Fanart (predeterminado) </fanartViewName>
     <fanartvlViewName>Fanart (video en pantalla completa) </fanartvlViewName>
 	<carouselvideoName>Carrusel / Video</carouselvideoName>
-		<smallscreengamelist>Small Screen Layout</smallscreengamelist>
+		<smallscreengamelist>Small Screen</smallscreengamelist>
 <!-- fondos -->
     <defaultbg>SOLO (ligero) </defaultbg>
     <darkbg>SOLO (oscuro) </darkbg>

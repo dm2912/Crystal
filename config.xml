@@ -28,7 +28,7 @@
     <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./options/background/artflix.xml</include>
 	<include subset="colorset" name="Bella BG" displayName="${bellabg}">./options/background/bella.xml</include>
 	
-	<include subset="iconset" name="Default" displayName="${idefault}">./options/helpicons/xbox.xml</include>
+	<include subset="iconset" name="Default" displayName="${idefault}">./options/helpicons/snes.xml</include>
 	<include subset="iconset" name="ARCADE" displayName="${iarcade}">./options/helpicons/arcade.xml</include>
     <include subset="iconset" name="SNES" displayName="${isnes}">./options/helpicons/snes.xml</include>
     <include subset="iconset" name="Playstation" displayName="${ipsx}">./options/helpicons/psx.xml</include>

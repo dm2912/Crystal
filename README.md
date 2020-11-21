@@ -4,14 +4,14 @@
 
 Artwork for custom collections for most major games should be themed. If something is missing, raise an issue and will add them.
 
-Dynamic Collections
+DYNAMIC COLLECTIONS
 ===================
 
 Dynamic Collections currently supported for the following (theme name in brackets): 
 
 Game Series: Art of Fighting (aof), Batman (batman), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda), Quake (quake)
 
-Automatic Collections (Arcade)
+AUTOMATIC COLLECTIONS (Arcade)
 ==============================
 
 The various publisher themes will work from automatic collections:
@@ -35,15 +35,19 @@ To create a dynamic collection:
 
 Additionally you can specify platforms, genre's and other filters. I plan to add custom themes for major studios such as EA, Sega, Eidos, Codemasters etc
 
-==============================
 
-Adding additional systems / collections. 
+ADDING ADDITIONAL SYSTEMS/COLLECTIONS. 
+======================================
 
 If you wish a system added that is not there, raise a git issue and I will add.
 
-===============================
+HELP ICONS
+==========
 
-THEME OPTIONS (All can be found under UI settings > Theme Configuration)
+The default icon set uses A (east), B (south), X (North), Y (West). If you are using an xbox style controller then there are two reversed icon sets available (Crystal and Xbox) which flip the buttons around. 
+
+OTHER THEME OPTIONS (All can be found under UI settings > Theme Configuration)
+===================
 
 Color Scheme: The theme supports multiple color schemes which you can change here.
 

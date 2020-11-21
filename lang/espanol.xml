@@ -44,8 +44,10 @@
     <isnes>Super Nintendo </isnes>
     <ipsx>Playstation </ipsx>
     <ixbox>X-Box </ixbox>
-    <ixbox2>X-Box inversa </ixbox2>
-    <idefault>Iconos estándar </idefault>
+    <ixbox2>X-Box (Inversa) </ixbox2>
+	<isnes2>Super Nintendo II</isnes2>
+	<idefault>Crystal</idefault>
+	<idefaultrev>Crystal (Inversa)</idefaultrev>
 <!-- Diseños del sistema -->
     <horizontal>Menú horizontal </horizontal>
     <rhc>Carrusel del lado derecho </rhc>

@@ -47,8 +47,10 @@
 	<isnes>Super Nintendo</isnes>
 	<ipsx>Playstation</ipsx>
 	<ixbox>X-Box</ixbox>
-	<ixbox2>X-Box Reverse</ixbox2>
-	<idefault>Standard icons</idefault>
+	<ixbox2>X-Box (Reverse)</ixbox2>
+	<isnes2>Super Nintendo II</isnes2>
+	<idefault>Crystal</idefault>
+	<idefaultrev>Crystal (Reverse)</idefaultrev>
 <!-- System layouts -->		
 	<horizontal>Horizontal Menu</horizontal>
     <hordetail>Detailed II</hordetail>

@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.996875"
-     inkscape:cx="82.999535"
-     inkscape:cy="85.231694"
+     inkscape:zoom="3.2075928"
+     inkscape:cx="78.978286"
+     inkscape:cy="85.451478"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,13 +64,14 @@
        ry="19.138601" />
     <g
        aria-label="A"
-       transform="matrix(1.2246394,0,0,1.2246394,57.010905,217.52812)"
+       transform="matrix(1.0950422,0,0,1.0950422,53.383139,224.9274)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot817">
       <path
          d="m -33.810547,48.554687 h 6.347656 l -3.164062,-8.769531 z m 7.675781,-10.664062 q 0,0 6.230469,17.265625 0.507813,1.40625 -0.371094,2.617187 -0.878906,1.230469 -2.34375,1.230469 h -0.429687 q -0.9375,0 -1.738281,-0.585937 -0.800782,-0.566407 -0.957032,-1.425782 l -1.015625,-4.84375 h -7.402343 l -0.9375,4.785157 q -0.175782,0.9375 -0.996094,1.503906 -0.839844,0.566406 -1.953125,0.566406 h -0.429688 q -1.464843,0 -2.324218,-1.230469 -0.859375,-1.210937 -0.390625,-2.617187 l 5.917968,-17.1875 q 0.507813,-1.484375 1.757813,-2.363281 1.25,-0.878907 2.539062,-0.878907 h 0.546875 q 1.269532,0 2.519532,0.878907 1.269531,0.878906 1.777343,2.285156 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;fill:#ffffff"
-         id="path825" />
+         id="path825"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

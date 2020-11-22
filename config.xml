@@ -30,6 +30,8 @@
 	
 	<include subset="iconset" name="Crystal" displayName="${idefault}">./options/helpicons/crystal.xml</include>
 	<include subset="iconset" name="Crystal Reverse" displayName="${idefaultrev}">./options/helpicons/crystal-rev.xml</include>
+	<include subset="iconset" name="Crystal 2" displayName="Crystal II">./options/helpicons/crystal2.xml</include>
+	<include subset="iconset" name="Crystal 2 Reverse" displayName="Crystal II (Reverse)">./options/helpicons/crystal2-rev.xml</include>
     <include subset="iconset" name="SNES" displayName="${isnes}">./options/helpicons/snes.xml</include>
     <include subset="iconset" name="SNES II" displayName="${isnes2}">./options/helpicons/snesalt.xml</include>
     <include subset="iconset" name="Xbox" displayName="${ixbox}">./options/helpicons/xbox.xml</include>

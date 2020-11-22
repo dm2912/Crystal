@@ -13,7 +13,7 @@
 			<iconY>./assets/helpicons/crystal/y.svg</iconY>
 			<iconL>./assets/helpicons/crystal/l.svg</iconL>
 			<iconR>./assets/helpicons/crystal/r.svg</iconR>
-            <iconLR>./assets/helpicons/crystal/lr.svg</iconLR>
+            <iconLr>./assets/helpicons/crystal/lr.svg</iconLr>
 			<iconStart>./assets/helpicons/crystal/start.svg</iconStart>
 			<iconSelect>./assets/helpicons/crystal/select.svg</iconSelect>
 		</helpsystem>		

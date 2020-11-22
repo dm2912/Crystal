@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6037964"
-     inkscape:cx="228.69272"
-     inkscape:cy="101.82025"
+     inkscape:zoom="2.996875"
+     inkscape:cx="161.22374"
+     inkscape:cy="76.828609"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +39,18 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="20.835592,34.519987"
+       orientation="0,1"
+       id="guide1147"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="17.833854,8.4754955"
+       orientation="0,1"
+       id="guide1149"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -48,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,11 +75,25 @@
        cy="268.79251"
        rx="19.226885"
        ry="19.138601" />
-    <path
-       style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.0229044;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 124.41211 23.373047 C 123.99328 23.381607 123.57073 23.401549 123.14648 23.431641 L 27.638672 30.207031 C 14.062654 31.169966 3.1328125 42.901594 3.1328125 56.511719 L 3.1328125 91.693359 C 3.1328125 105.30348 14.062654 115.48442 27.638672 114.52148 L 123.14648 107.74805 C 136.7225 106.78511 147.65234 95.051531 147.65234 81.441406 L 147.65234 46.261719 C 147.65234 33.07691 137.3958 23.107675 124.41211 23.373047 z M 62.570312 31.662109 L 62.761719 31.662109 C 66.008567 31.662109 68.601339 32.470051 70.541016 34.083984 C 72.480689 35.697893 73.428886 37.686183 73.386719 40.050781 L 72.3125 88.919922 L 99.509766 87.849609 C 101.49161 87.736979 103.21947 88.374922 104.69531 89.763672 C 106.17115 91.114853 106.88787 92.67149 106.8457 94.435547 L 106.8457 94.548828 C 106.8457 97.026006 106.15127 98.920712 104.75977 100.23438 C 103.32609 101.51049 101.57594 102.15039 99.509766 102.15039 L 63.140625 102.15039 C 60.694948 102.15039 58.607748 101.39974 56.878906 99.898438 C 55.192232 98.397108 54.347656 96.538669 54.347656 94.324219 L 54.347656 40.050781 C 54.347656 37.798788 55.255184 35.846764 57.068359 34.195312 C 58.881535 32.506317 60.71497 31.662109 62.570312 31.662109 z "
-       transform="matrix(0.26458333,0,0,0.26458333,0,257.31248)"
-       id="rect932" />
+    <rect
+       style="opacity:0.98000004;fill:#837d7d;fill-opacity:0.58039216;stroke:#ffffff;stroke-width:1.59556067;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect932"
+       width="38.33334"
+       height="22.308495"
+       x="0.83102232"
+       y="265.82321"
+       ry="6.5000219"
+       transform="matrix(0.99749398,-0.07075135,0,1,0,0)" />
+    <g
+       aria-label="L"
+       transform="matrix(0.72798043,0,0,0.64798092,44.805728,245.00192)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot817-0">
+      <path
+         d="m -38.517578,34.472656 q 1.503906,0 2.402344,0.839844 0.898437,0.839844 0.878906,2.070312 l -0.332031,16.953125 8.398437,-0.371093 q 0.917969,-0.05859 1.601563,0.664062 0.683593,0.703125 0.664062,1.621094 v 0.03906 q 0,1.289063 -0.644531,1.972657 -0.664063,0.664062 -1.621094,0.664062 h -11.230469 q -1.132812,0 -1.933593,-0.78125 -0.78125,-0.78125 -0.78125,-1.933594 V 37.382812 q 0,-1.171875 0.839843,-2.03125 0.839844,-0.878906 1.699219,-0.878906 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;fill:#ffffff"
+         id="path1266" />
+    </g>
     <rect
        style="opacity:0.98000004;fill:#837d7d;fill-opacity:0.58039216;stroke:#ffffff;stroke-width:1.59556067;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect932-0"

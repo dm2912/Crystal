@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5982769"
-     inkscape:cx="15.70232"
-     inkscape:cy="86.783064"
+     inkscape:zoom="2.7809682"
+     inkscape:cx="15.39591"
+     inkscape:cy="62.452905"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,10 +80,10 @@
        d="m -27.494185,270.32044 -23.475996,-5.38657 16.4029,-17.63752 z"
        inkscape:transform-center-x="0.022549378"
        inkscape:transform-center-y="-3.456974"
-       transform="rotate(-12.737006,55.090171,5.6316062)" />
+       transform="rotate(-12.737006,66.943056,6.9545227)" />
     <g
        aria-label="SELECT"
-       transform="matrix(0.31409058,0,0,0.30498963,14.469826,274.26654)"
+       transform="matrix(0.31409058,0,0,0.30498963,14.469826,276.91239)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot817-0">
       <path

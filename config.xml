@@ -31,6 +31,7 @@
 	<include subset="iconset" name="Crystal" displayName="${idefault}">./options/helpicons/crystal.xml</include>
 	<include subset="iconset" name="Crystal Reverse" displayName="${idefaultrev}">./options/helpicons/crystal-rev.xml</include>
 	<include subset="iconset" name="Crystal X" displayName="Crystal X-Box">./options/helpicons/crystalx.xml</include>
+	<include subset="iconset" name="Crystal F" displayName="Crystal Famicom">./options/helpicons/crystalf.xml</include>
 	<include subset="iconset" name="Crystal S" displayName="Crystal SNES">./options/helpicons/crystals.xml</include>
 	<include subset="iconset" name="Crystal PSX" displayName="Crystal PSX">./options/helpicons/crystalpsx.xml</include>
 	<include subset="iconset" name="Crystal dream" displayName="Crystal Dreamcast">./options/helpicons/crystaldream.xml</include>

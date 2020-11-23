@@ -14,6 +14,8 @@ Console logos largely from Fundemental by g-rilla
 
 Gamelist icons adapted from CKAU-Book by CkauNui
 
+Help Icons are my own work. Attributation and non-commercial use only
+
 All png logo's sourced under "no commercial use" licences
 
 Any additional artwork likely created, or adapted by me and is strictly "no commercial use"

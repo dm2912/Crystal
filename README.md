@@ -9,7 +9,7 @@ DYNAMIC COLLECTIONS
 
 Dynamic Collections currently supported for the following (theme name in brackets): 
 
-Game Series: Art of Fighting (aof), Batman (batman), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda), Quake (quake), Retroachievements (cheevos)
+Game Series: Art of Fighting (aof), Batman (batman), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda), Quake (quake), Retroachievements (cheevos), Tekken (tekken)
 
 I have a set of premade xcc collection files here> https://github.com/dm2912/Crystal-Collections simply copy/extract those files to .config/emulationstation/collections
 

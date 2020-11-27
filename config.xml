@@ -26,8 +26,8 @@
     <include subset="logoset" name="Controllers" displayName="${conlog}">./options/logosets/controllers.xml</include>
     
     <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./options/background/artflix.xml</include>
-	<include subset="colorset" name="Bella BG" displayName="${bellabg}">./options/background/bella.xml</include>
-	
+<!--	<include subset="colorset" name="Bella BG" displayName="${bellabg}">./options/background/bella.xml</include> -->
+	 
 	<include subset="iconset" name="Crystal" displayName="${idefault}">./options/helpicons/crystal.xml</include>
 	<include subset="iconset" name="Crystal Reverse" displayName="${idefaultrev}">./options/helpicons/crystal-rev.xml</include>
 	<include subset="iconset" name="Crystal X" displayName="Crystal X-Box">./options/helpicons/crystalx.xml</include>

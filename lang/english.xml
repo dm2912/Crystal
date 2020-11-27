@@ -24,7 +24,7 @@
     <fanartViewName>Fanart (Default)</fanartViewName>
 	<fanartvlViewName>Fanart (Full Screen Video)</fanartvlViewName>
 	<carouselvideoName>Carousel / Video</carouselvideoName>
-		<smallscreengamelist>Small Screen</smallscreengamelist>
+	<smallscreengamelist>Small Screen</smallscreengamelist>
 <!-- color schemes -->
     <ctblue>Sapphire</ctblue>
 	<ctred>Ruby</ctred>
@@ -43,12 +43,6 @@
 	<conlog>Controllers</conlog>
     <textlog>Text Logo's</textlog>
 <!-- Help Icons -->
-	<iarcade>Arcade</iarcade>
-	<isnes>Super Nintendo</isnes>
-	<ipsx>Playstation</ipsx>
-	<ixbox>X-Box</ixbox>
-	<ixbox2>X-Box (Reverse)</ixbox2>
-	<isnes2>Super Nintendo II</isnes2>
 	<idefault>Crystal</idefault>
 	<idefaultrev>Crystal (Reverse)</idefaultrev>
 <!-- System layouts -->		
@@ -192,24 +186,25 @@
 	<zelda>The Legend of Zelda is a high fantasy action-adventure video game franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka. It is primarily developed and published by Nintendo.</zelda>
     <irem>Irem Software Engineering is a Japanese video game console developer and publisher, and formerly a developer and manufacturer of arcade games as well. The company has its headquarters in Chiyoda, Tokyo.</irem>
     <metalgear>Metal Gear is a series of stealth action-adventure video games created by Hideo Kojima and developed and published by Konami. The first game, Metal Gear, was released in 1987 for MSX home computers. Several sequels have been released for multiple consoles, which have expanded the plot of the original game.</metalgear>
-		<atari>The original Atari, Inc., founded in Sunnyvale, California in 1972 by Nolan Bushnell and Ted Dabney, was a pioneer in arcade games, home video game consoles, and home computers. The company's products, such as Pong and the Atari 2600, helped define the electronic entertainment industry from the 1970s to the mid-1980s.</atari>
-		<dataeast>Data East Corporation (データイースト株式会社, Dēta Īsuto kabushiki gaisha), also abbreviated as DECO, was a Japanese video game and electronic engineering company. The company was in operation from 1976 to 2003, and released 150 video game titles</dataeast>
-		<kaneko>Kaneko Co. Ltd. (カネコ株式会社), was a Japanese video game publisher founded in Suginami, Tokyo, Japan by Hiroshi Kaneko. It published a number of games both under its brand and other companies, such as Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n, and the Gals Panic series.</kaneko>
-		<nintendo>Nintendo has produced some of the most successful consoles in the video game industry, such as the Game Boy, the Super Nintendo Entertainment System, the Nintendo DS, the Wii, and the Nintendo Switch.</nintendo>
-		<sega>Sega is a Japanese multinational video game developer and publisher headquartered in Shinagawa, Tokyo. Sega has produced several multi-million-selling game franchises, including Sonic the Hedgehog, Total War, and Yakuza, and is the world's most prolific arcade game producer.</sega>
-		<snk>SNK Corporation (株式会社SNK, Kabushiki-gaisha Esu Enu Kē) is a Japanese video game hardware and software company. SNK is known for its creation of the Neo Geo family of arcade, home, and handheld game consoles in 1990.</snk>
-		<taito>Taito is a Japanese company that specializes in video games, toys, arcade cabinets and game centers, based out of Shinjuku, Tokyo. The company was founded by Michael Kogan in 1953 as the Taito Trading Company, importing vodka, vending machines and jukeboxes into Japan. It would begin production of video games in 1973.</taito>
-		<toaplan>Toaplan was a Japanese video game developer responsible for the creation of a wide array of scrolling shooters and other arcade games. Their first shoot 'em up game, Tiger-Heli on arcades, was a success and helped establish Toaplan as a leading producer of shooting games throughout the 1980s and 1990s</toaplan>
-		<twoplayer>“If Pac-Man had affected us as kids, we'd all be running around in dark rooms, munching pills and listening to repetitive electronic music.” ― Marcus Brigstocke</twoplayer>
-		<fourplayer>“There's a difference between playing and playing games. The former is an act of joy, the latter — an act.” ― Vera Nazarian</fourplayer>
-		<setupscripts>“A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play.” ― James P. Carse</setupscripts>
-		<favorites>“People said that video games are bad because they made you numb to death. The real problem with games is that the player is supposed to try everything. If there was a cave, you go in. If there was a mysterious stranger, you talk to him. But in games you have a million lives, in life, only one” ― Holly Black</favorites>
-		<notplayed>“A delayed game is eventually good, a bad game is bad forever.” ― Shigeru Miyamoto</notplayed>
-		<lastplayed>“The worst thing a kid can say about homework is that it is too hard. The worst thing a kid can say about a game is it's too easy.” ― Henry Jenkins</lastplayed>
-		<allgames>“We do not stop playing because we grow old, we grow old because we stop playing!” ― Benjamin Franklin</allgames>	
+	<atari>The original Atari, Inc., founded in Sunnyvale, California in 1972 by Nolan Bushnell and Ted Dabney, was a pioneer in arcade games, home video game consoles, and home computers. The company's products, such as Pong and the Atari 2600, helped define the electronic entertainment industry from the 1970s to the mid-1980s.</atari>
+	<dataeast>Data East Corporation (データイースト株式会社, Dēta Īsuto kabushiki gaisha), also abbreviated as DECO, was a Japanese video game and electronic engineering company. The company was in operation from 1976 to 2003, and released 150 video game titles</dataeast>
+	<kaneko>Kaneko Co. Ltd. (カネコ株式会社), was a Japanese video game publisher founded in Suginami, Tokyo, Japan by Hiroshi Kaneko. It published a number of games both under its brand and other companies, such as Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n, and the Gals Panic series.</kaneko>
+	<nintendo>Nintendo has produced some of the most successful consoles in the video game industry, such as the Game Boy, the Super Nintendo Entertainment System, the Nintendo DS, the Wii, and the Nintendo Switch.</nintendo>
+	<sega>Sega is a Japanese multinational video game developer and publisher headquartered in Shinagawa, Tokyo. Sega has produced several multi-million-selling game franchises, including Sonic the Hedgehog, Total War, and Yakuza, and is the world's most prolific arcade game producer.</sega>
+	<snk>SNK Corporation (株式会社SNK, Kabushiki-gaisha Esu Enu Kē) is a Japanese video game hardware and software company. SNK is known for its creation of the Neo Geo family of arcade, home, and handheld game consoles in 1990.</snk>
+	<taito>Taito is a Japanese company that specializes in video games, toys, arcade cabinets and game centers, based out of Shinjuku, Tokyo. The company was founded by Michael Kogan in 1953 as the Taito Trading Company, importing vodka, vending machines and jukeboxes into Japan. It would begin production of video games in 1973.</taito>
+	<toaplan>Toaplan was a Japanese video game developer responsible for the creation of a wide array of scrolling shooters and other arcade games. Their first shoot 'em up game, Tiger-Heli on arcades, was a success and helped establish Toaplan as a leading producer of shooting games throughout the 1980s and 1990s</toaplan>
+	<twoplayer>“If Pac-Man had affected us as kids, we'd all be running around in dark rooms, munching pills and listening to repetitive electronic music.” ― Marcus Brigstocke</twoplayer>
+	<fourplayer>“There's a difference between playing and playing games. The former is an act of joy, the latter — an act.” ― Vera Nazarian</fourplayer>
+	<setupscripts>“A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play.” ― James P. Carse</setupscripts>
+	<favorites>“People said that video games are bad because they made you numb to death. The real problem with games is that the player is supposed to try everything. If there was a cave, you go in. If there was a mysterious stranger, you talk to him. But in games you have a million lives, in life, only one” ― Holly Black</favorites>
+	<notplayed>“A delayed game is eventually good, a bad game is bad forever.” ― Shigeru Miyamoto</notplayed>
+	<lastplayed>“The worst thing a kid can say about homework is that it is too hard. The worst thing a kid can say about a game is it's too easy.” ― Henry Jenkins</lastplayed>
+	<allgames>“We do not stop playing because we grow old, we grow old because we stop playing!” ― Benjamin Franklin</allgames>	
 	<quake>Quake is a series of first-person shooter video games, developed by id Software and, as of 2010, published by Bethesda Softworks. The series is composed of the eponymous game from 1996 and its nonlinear, standalone sequels which vary in setting and plot.</quake>	
-<cheevos>Retroachievements.org is a service that provides a trophy/achievement unlocking mechanism similar to modern consoles, for retro games. Supported systems include Sega Megadrive, Super Nintendo, Nintendo 64, Playstation and Neo-Geo.</cheevos>
+	<cheevos>Retroachievements.org is a service that provides a trophy/achievement unlocking mechanism similar to modern consoles, for retro games. Supported systems include Sega Megadrive, Super Nintendo, Nintendo 64, Playstation and Neo-Geo.</cheevos>
 <!-- pending translation -->
-<tekken>Tekken is a Japanese media franchise centered on a series of fighting video and arcade games developed and published by Bandai Namco Entertainment. The main games in the series follow the events of the King of Iron Fist Tournament, where players control a plethora of characters to win the tournament and gain control of the company.</tekken>
+	<tekken>Tekken is a Japanese media franchise centered on a series of fighting video and arcade games developed and published by Bandai Namco Entertainment. The main games in the series follow the events of the King of Iron Fist Tournament, where players control a plethora of characters to win the tournament and gain control of the company.</tekken>
+    <atlus>Atlus is a Japanese video game developer, publisher, and distribution company based in Tokyo. A subsidiary of Sega, the company is known for its Megami Tensei, Persona, Etrian Odyssey, and Trauma Center series, among others. Its corporate mascot is Jack Frost, a snowman-like character from their Shin Megami Tensei series.</atlus>
 	</variables>
 		</theme>

@@ -1,31 +1,14 @@
 **This theme is intended for EMUELEC and only contains graphics for systems supported by EmuElec**
+==================================================================================================
 
-==============================
-
-Artwork for custom collections for most major games should be themed. If something is missing, raise an issue and will add them.
-
-DYNAMIC COLLECTIONS
-===================
-
-Dynamic Collections currently supported for the following (theme name in brackets): 
-
-Game Series: Art of Fighting (aof), Batman (batman), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda), Quake (quake), Retroachievements (cheevos), Tekken (tekken)
-
-I have a set of premade xcc collection files here> https://github.com/dm2912/Crystal-Collections simply copy/extract those files to .config/emulationstation/collections
-
-AUTOMATIC COLLECTIONS (Arcade)
-==============================
-
-The various publisher themes will work from automatic collections:
-
-Arcade Publishers & Platforms: Atari, Capcom, CPS1, CPS2, CPS3, Daphne, Data East, Irem, Kaneko, Konami, Midway, Namco, Neo-Geo, Nintendo, SEGA, SNK, Taito, Toaplan
+THIS THEME IS NOT TO BE INCLUDED IN ANY COMMERCIAL RELEASES
+===========================================================
 
 
-As well as 2 player, 4 player, never played, favourites etc etc
+Crystal: 
 
-To Do list: Acclaim, Alpha Denshi, Atlus, Cinematronics, Eighting/Raizing, Exidy, Incredible Technologies, Gaelco, Gottleib, Tecmo, Semicom, Mitchell, Seibu Kahatsu, Playchoice, Visco, Nichibutsu, IGS, Video System Co, Technos, Psikyo, Sammy, NMK, Banpresto, Sega ST-V, 
-
-
+DYNAMIC COLLECTION THEMING
+==========================
 
 To create a dynamic collection:
 
@@ -35,7 +18,31 @@ To create a dynamic collection:
 
 + Then, in the filters, in "find games" put the search phrase for instance "mario" to include all games that have mario in the title. 
 
-Additionally you can specify platforms, genre's and other filters. I plan to add custom themes for major studios such as EA, Sega, Eidos, Codemasters etc
+Additionally you can specify platforms, genre's and other filters.
+
+Theming is currently available for the following dynamic collections (theme name in brackets): 
+
+Game Series: Art of Fighting (aof), Batman (batman), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda), Quake (quake), Retroachievements (cheevos), Tekken (tekken)
+
+Game Publishers: Atlus (Atlus), 
+
+NOTE: WITH THE GAME PUBLISHERS THE FIRST LETTER IS CAPITALISED SO THAT EMULATION STATION CAN DIFFERENTIATE IT BETWEEN ARCADE COLLECTIONS
+
+
+I have a set of premade xcc collection files here> https://github.com/dm2912/Crystal-Collections simply copy/extract those files to .config/emulationstation/collections and they will all appear in your "custom collections"
+
+
+
+AUTOMATIC COLLECTIONS (Arcade)
+==============================
+
+The various publisher themes will work from automatic collections:
+
+Arcade Publishers & Platforms: Atari, Capcom, CPS1, CPS2, CPS3, Daphne, Data East, Irem, Kaneko, Konami, Midway, Namco, Neo-Geo, Nintendo, SEGA, SNK, Taito, Toaplan
+
+As well as 2 player, 4 player, never played, favourites etc etc
+
+To Do list: Acclaim, Alpha Denshi, Atlus, Cinematronics, Eighting/Raizing, Exidy, Incredible Technologies, Gaelco, Gottleib, Tecmo, Semicom, Mitchell, Seibu Kahatsu, Playchoice, Visco, Nichibutsu, IGS, Video System Co, Technos, Psikyo, Sammy, NMK, Banpresto, Sega ST-V, 
 
 
 ADDING ADDITIONAL SYSTEMS/COLLECTIONS. 
@@ -43,13 +50,9 @@ ADDING ADDITIONAL SYSTEMS/COLLECTIONS.
 
 If you wish a system added that is not there, raise a git issue and I will add.
 
-HELP ICONS
-==========
 
-The default icon set uses A (east), B (south), X (North), Y (West). If you are using an xbox style controller then there are two reversed icon sets available (Crystal and Xbox) which flip the buttons around. 
-
-OTHER THEME OPTIONS (All can be found under UI settings > Theme Configuration)
-===================
+THEME OPTIONS (All can be found under UI settings > Theme Configuration)
+=============
 
 Color Scheme: The theme supports multiple color schemes which you can change here.
 
@@ -59,7 +62,7 @@ System Logo Style: A choice of logo styles for the homepage and gamelists, colou
 
 Background Images: A choice of two wallpaper sets
 
-Help Icons: Multiple options for help icons
+Help Icons: The default icon set uses A (east), B (south), X (North), Y (West). If you are using an xbox style controller then you can switch to Crystal (Reverse). Alternatively there are icon sets for each major platform that reflect their button colours and position. 
 
 System Logo on Gamelists: Can be toggled off if you have overlap between gamelist and icons on very small screen devices
 

@@ -32,20 +32,12 @@
     <bellabg>Bella </bellabg>
     <systembg>Console </systembg>
     <artflixbg>Artflix </artflixbg>
-    
 <!-- Estilos de logotipo -->
-
     <whitelog>Logotipo branco </whitelog>
     <colorlog>Logotipo colorido </colorlog>
     <conlog>Controladores </conlog>
     <textlog>Logotipo do texto </textlog>
 <!-- Ícones de ajuda -->
-		    <iarcade>Arcade </iarcade>
-    <isnes>Super Nintendo </isnes>
-    <ipsx>Playstation </ipsx>
-    <ixbox>X-Box </ixbox>
-    <ixbox2>X-Box (Reverso)</ixbox2>
-	<isnes2>Super Nintendo II</isnes2>
 	<idefault>Crystal</idefault>
 	<idefaultrev>Crystal (Reverso)</idefaultrev>
 <!-- Layouts do sistema -->
@@ -53,7 +45,7 @@
     <rhc>Carrossel do lado direito </rhc>
     <lhc>Carrossel do lado esquerdo </lhc>
     <systemdetails>Detalhados </systemdetails>
-   <hordetail>Detalhados II</hordetail>
+   	<hordetail>Detalhados II</hordetail>
 <!-- atraso de vídeo -->
     <delay1>1 segundo</delay1>
     <delay2>2 segundos</delay2>
@@ -67,7 +59,7 @@
     <ctblack>Carbon</ctblack>
     <ctgold>Gold</ctgold>
 <!-- Submenus -->
-<subset.colortheme>Esquema de cores do tema</subset.colortheme>
+	<subset.colortheme>Esquema de cores do tema</subset.colortheme>
     <subset.systemview>Layout da página inicial </subset.systemview>
     <subset.colorset>Imagens de fundo </subset.colorset>
     <subset.iconset>Ícones de ajuda </subset.iconset>
@@ -75,9 +67,9 @@
     <subset.music>Música do sistema </subset.music>
     <subset.logoset>Estilo do logotipo do sistema </subset.logoset>
 	<subset.thememusic>Música de fundo do tema</subset.thememusic>
-   <subset.vdelay>Atraso de vídeo no gamelist</subset.vdelay>
+   	<subset.vdelay>Atraso de vídeo no gamelist</subset.vdelay>
     <subset.slog>Logotipo do sistema em Gamelistas</subset.slog>
-   <subset.colortheme>Esquema de cores do tema</subset.colortheme>
+   	<subset.colortheme>Esquema de cores do tema</subset.colortheme>
     <subset.videoview>Vídeos sobre gamelistas detalhados</subset.videoview>
 <!-- Descrições do sistema -->
     <psx>O PlayStation (não oficialmente abreviado como PSX) é um console de videogame doméstico desenvolvido e comercializado pela Sony Computer Entertainment. O console original da série foi o primeiro console de qualquer tipo a distribuir mais de 100 milhões de unidades, em menos de uma década.</psx>
@@ -144,74 +136,74 @@
     <x68000>O X68000 é uma série de computadores japoneses de 32 bits criados pela Sharp. Foi o primeiro sistema doméstico a oferecer gráficos com verdadeira qualidade de arcade, também servindo como máquina de desenvolvimento para o sistema de arcade Capcom CPS.</x68000>
     <zx81>O ZX81 é um computador doméstico produzido pela Sinclair Research e fabricado em Dundee, Escócia, pela Timex Corporation. Foi lançado no Reino Unido em março de 1981 como o sucessor do ZX80 de Sinclair e projetado para ser uma introdução de baixo custo à computação doméstica para o público em geral.</zx81>
     <spectrum>O ZX Spectrum é um computador pessoal doméstico de 8 bits lançado no Reino Unido em 1982 pela Sinclair Research. Referido durante o desenvolvimento como ZX81 Color e ZX82, foi lançado como ZX Spectrum por Sinclair para destacar a tela colorida da máquina</spectrum>
-<coleco>O ColecoVision é o console de videogame doméstico de segunda geração da Coleco Industries, lançado em agosto de 1982.</coleco>
-<cps1>O Capcom Play System 1 é uma placa de sistema de arcade desenvolvida pela Capcom que executava software de jogo armazenado em cartuchos ROM removíveis. Mais de duas dezenas de títulos de arcade foram lançados para o CPS-1, antes que a Capcom transferisse o desenvolvimento do jogo para seu sucessor, o CP System II.</cps1>
-<cps2>O CPS-2 é uma placa de sistema de arcade que a Capcom usou pela primeira vez em 1993 para Super Street Fighter II. Foi o sucessor do anterior hardware de arcade CP System e Capcom Power System Changer e foi sucedido pelo hardware CP System III em 1996</cps2>
-<cps3>O CPS-3 é uma placa de sistema de arcade que foi usada pela primeira vez pela Capcom em 1996 com o jogo de arcade Red Earth. Foi o segundo sucessor do hardware de arcade CP System, após o CP System II. Seria a última placa de sistema proprietária que a Capcom produziria.</cps3>
-<uzebox>O Uzebox é um console de jogo de código aberto retro-minimalista de 8 bits. É baseado em um microcontrolador AVR de 8 bits de uso geral fabricado pela Atmel.</uzebox>
-<amigacd32>O Amiga CD32 é um console de videogame doméstico de 32 bits desenvolvido pela Commodore e lançado na Europa, Austrália, Canadá e Brasil. Ele foi anunciado pela primeira vez no Museu da Ciência em Londres em 16 de julho de 1993 e lançado em setembro do mesmo ano.</amigacd32>
-<atari800>A família Atari de 8 bits é uma série de computadores domésticos de 8 bits introduzidos pela Atari, Inc. em 1979 como Atari 400 e Atari 800 e fabricados até 1992. Todas as máquinas da família são tecnicamente semelhantes e diferentes principalmente em embalagens.</atari800>
-<daphne>Daphne é um emulador de jogo de arcade para Windows, Linux e Mac OS X, desenvolvido por Matt Ownby. Ele roda jogos para vários sistemas baseados em LaserDisc, incluindo a maioria dos jogos de hardware Sega LaserDisc.</daphne>
-<fbneo>Final Burn Neo é um emulador para jogos de arcade e consoles selecionados. É baseado nos emuladores FinalBurn e versões antigas do MAME.</fbneo>
-<gc>O GameCube é a entrada da Nintendo na sexta geração de consoles de videogame e é o sucessor do console anterior, o Nintendo 64. O GameCube competia com o PlayStation 2 da Sony e o Xbox da Microsoft.</gc>
-<mplayer></mplayer>
-<msx2>MSX é uma arquitetura de computador doméstico padronizada, anunciada pela Microsoft e ASCII em 16 de junho de 1983. Foi inicialmente concebido pela Microsoft como um produto para o setor oriental e comercializado em conjunto por Kazuhiko Nishi, então vice-presidente da Microsoft e diretor da ASCII Corporation.</msx2>
-<pc></pc>
-<pce-cd>TurboGrafx-16, totalmente intitulado como TurboGrafx-16 Entertainment SuperSystem e conhecido no Japão como PC Engine, é um console de videogame desenvolvido pela Hudson Soft e NEC, lançado no Japão em 30 de outubro de 1987 e no Norte América em 29 de agosto de 1989.</pce-cd>
-<pokemini>O Pokémon Mini é um console de jogo portátil que foi projetado e fabricado pela Nintendo e tem como tema a franquia de mídia Pokémon. É o menor sistema de jogo com cartuchos intercambiáveis já produzido pela Nintendo.</pokemini>
-<pspminis>PSP Minis são jogos digitais de 100 MB ou menores lançados junto com o PSPgo. No total, 290 jogos do Mini foram lançados.</pspminis>
-<sc-3000>O SC-3000 é o primeiro e único computador a ser projetado e fabricado pela Sega. Foi lançado pela primeira vez em julho de 1983 no Japão e serve como computador doméstico equivalente ao console de videogame SG-1000 baseado em cartucho.</sc-3000>
-<snesmsu1>O MSU-1 é um chip de cartucho adicional que permite muitos aprimoramentos para jogos SNES, incluindo, mas não se limitando a, vídeo full-motion e som com qualidade de CD, adicionando até 4 GB de armazenamento para conteúdo extra.</snesmsu1>
-<wii>O Wii é um console de videogame caseiro lançado pela Nintendo em 2006. Como um console de sétima geração, o Wii competia com o Xbox 360 da Microsoft e o PlayStation 3. da Sony. A Nintendo afirmou que seu console visa um público mais amplo do que os outros dois .</wii>
+	<coleco>O ColecoVision é o console de videogame doméstico de segunda geração da Coleco Industries, lançado em agosto de 1982.</coleco>
+	<cps1>O Capcom Play System 1 é uma placa de sistema de arcade desenvolvida pela Capcom que executava software de jogo armazenado em cartuchos ROM removíveis. Mais de duas dezenas de títulos de arcade foram lançados para o CPS-1, antes que a Capcom transferisse o desenvolvimento do jogo para seu sucessor, o CP System II.</cps1>
+	<cps2>O CPS-2 é uma placa de sistema de arcade que a Capcom usou pela primeira vez em 1993 para Super Street Fighter II. Foi o sucessor do anterior hardware de arcade CP System e Capcom Power System Changer e foi sucedido pelo hardware CP System III em 1996</cps2>
+	<cps3>O CPS-3 é uma placa de sistema de arcade que foi usada pela primeira vez pela Capcom em 1996 com o jogo de arcade Red Earth. Foi o segundo sucessor do hardware de arcade CP System, após o CP System II. Seria a última placa de sistema proprietária que a Capcom produziria.</cps3>
+	<uzebox>O Uzebox é um console de jogo de código aberto retro-minimalista de 8 bits. É baseado em um microcontrolador AVR de 8 bits de uso geral fabricado pela Atmel.</uzebox>
+	<amigacd32>O Amiga CD32 é um console de videogame doméstico de 32 bits desenvolvido pela Commodore e lançado na Europa, Austrália, Canadá e Brasil. Ele foi anunciado pela primeira vez no Museu da Ciência em Londres em 16 de julho de 1993 e lançado em setembro do mesmo ano.</amigacd32>
+	<atari800>A família Atari de 8 bits é uma série de computadores domésticos de 8 bits introduzidos pela Atari, Inc. em 1979 como Atari 400 e Atari 800 e fabricados até 1992. Todas as máquinas da família são tecnicamente semelhantes e diferentes principalmente em embalagens.</atari800>
+	<daphne>Daphne é um emulador de jogo de arcade para Windows, Linux e Mac OS X, desenvolvido por Matt Ownby. Ele roda jogos para vários sistemas baseados em LaserDisc, incluindo a maioria dos jogos de hardware Sega LaserDisc.</daphne>
+	<fbneo>Final Burn Neo é um emulador para jogos de arcade e consoles selecionados. É baseado nos emuladores FinalBurn e versões antigas do MAME.</fbneo>
+	<gc>O GameCube é a entrada da Nintendo na sexta geração de consoles de videogame e é o sucessor do console anterior, o Nintendo 64. O GameCube competia com o PlayStation 2 da Sony e o Xbox da Microsoft.</gc>
+	<mplayer></mplayer>
+	<msx2>MSX é uma arquitetura de computador doméstico padronizada, anunciada pela Microsoft e ASCII em 16 de junho de 1983. Foi inicialmente concebido pela Microsoft como um produto para o setor oriental e comercializado em conjunto por Kazuhiko Nishi, então vice-presidente da Microsoft e diretor da ASCII Corporation.</msx2>
+	<pc></pc>
+	<pce-cd>TurboGrafx-16, totalmente intitulado como TurboGrafx-16 Entertainment SuperSystem e conhecido no Japão como PC Engine, é um console de videogame desenvolvido pela Hudson Soft e NEC, lançado no Japão em 30 de outubro de 1987 e no Norte América em 29 de agosto de 1989.</pce-cd>
+	<pokemini>O Pokémon Mini é um console de jogo portátil que foi projetado e fabricado pela Nintendo e tem como tema a franquia de mídia Pokémon. É o menor sistema de jogo com cartuchos intercambiáveis já produzido pela Nintendo.</pokemini>
+	<pspminis>PSP Minis são jogos digitais de 100 MB ou menores lançados junto com o PSPgo. No total, 290 jogos do Mini foram lançados.</pspminis>
+	<sc-3000>O SC-3000 é o primeiro e único computador a ser projetado e fabricado pela Sega. Foi lançado pela primeira vez em julho de 1983 no Japão e serve como computador doméstico equivalente ao console de videogame SG-1000 baseado em cartucho.</sc-3000>
+	<snesmsu1>O MSU-1 é um chip de cartucho adicional que permite muitos aprimoramentos para jogos SNES, incluindo, mas não se limitando a, vídeo full-motion e som com qualidade de CD, adicionando até 4 GB de armazenamento para conteúdo extra.</snesmsu1>
+	<wii>O Wii é um console de videogame caseiro lançado pela Nintendo em 2006. Como um console de sétima geração, o Wii competia com o Xbox 360 da Microsoft e o PlayStation 3. da Sony. A Nintendo afirmou que seu console visa um público mais amplo do que os outros dois .</wii>
     <pico8>O Pico-8 (estilizado como PICO-8) é uma máquina virtual e motor de jogo criado pela Lexaloffle Games. Ele é projetado para imitar um console de videogame de fantasia, emulando as severas limitações de hardware dos consoles de videogame na década de 1980.</pico8>
 <!-- coleções -->
-<artoffighting>Art of Fighting é uma trilogia de videogame de luta lançada para a plataforma Neo Geo no início dos anos 1990. Foi a segunda franquia de jogos de luta criada pela SNK, após a série Fatal Fury e se passa no mesmo universo fictício de uma prequela da série Fatal Fury.</artoffighting>
-<batman>Batman apareceu em mais de 50 videogames, abrangendo computadores, telefones celulares e sistemas de console desde os anos 1980,</batman>
-<capcom>Capcom é uma desenvolvedora e editora japonesa de videogames. Ela criou uma série de franquias de jogos que vendem vários milhões, incluindo Street Fighter, Mega Man, Darkstalkers, Resident Evil e Ghosts 'n Goblins.</capcom>
-<crashbandicoot>Crash Bandicoot é uma franquia de videogames de plataforma. Originalmente desenvolvida pela Naughty Dog como um exclusivo para o console PlayStation da Sony, a série já viu inúmeras parcelas criadas por vários desenvolvedores e publicadas em várias plataformas. A franquia atualmente pertence e é publicada pela Activision Blizzard.</crashbandicoot>
-<dbz>A série de videogames Dragon Ball é baseada na série de mangá e anime de mesmo nome criada por Akira Toriyama. A série segue as aventuras de Goku enquanto ele treina artes marciais e explora o mundo em busca das sete esferas que realizam desejos, conhecidas como Dragon Balls. Os jogos são de vários gêneros, principalmente RPG, plataforma e jogos de luta, embora os últimos tenham se tornado os mais proeminentes.</dbz>
-<donkeykong>Donkey Kong é uma série de videogames com as aventuras de um gorila chamado Donkey Kong, concebida por Shigeru Miyamoto em 1981. A franquia consiste principalmente em dois gêneros de jogos, mas também inclui títulos spin-off adicionais de vários gêneros. </donkeykong>
-<cavestory>Cave Story é um jogo de aventura em plataforma Metroidvania de 2004 para Microsoft Windows. Foi desenvolvido ao longo de cinco anos pelo desenvolvedor japonês Daisuke "Pixel" Amaya em seu tempo livre. Cave Story apresenta mecânica de plataforma 2D e é uma reminiscência dos jogos que Amaya jogou em sua juventude, como Metroid e Castlevania</cavestory>
-<castlevania>Castlevania é uma série de videogames de terror gótico de ação e aventura sobre caçadores de vampiros criada e desenvolvida pela Konami. Foi lançado em várias plataformas, desde sistemas antigos a consoles modernos, bem como dispositivos portáteis, como telefones celulares.</castlevania>
-<doom>Doom é uma franquia de videogame que teve seu primeiro lançamento em 1993. A série se concentra nas façanhas de um fuzileiro naval espacial sem nome operando sob os auspícios da Union Aerospace Corporation (UAC), que luta contra hordas de demônios e mortos-vivos.</doom>
-<doubledragon>Double Dragon é um videogame de beat 'em up de 1987 desenvolvido pela Technōs Japan e distribuído na América do Norte e na Europa pela Taito. O jogo é um sucessor espiritual e tecnológico do anterior beat 'em up da Technos, Nekketsu Kōha Kunio-kun (lançado fora do Japão pela Taito como Renegade)</doubledragon>
-<fatalfury>Fatal Fury é uma série de jogos de luta desenvolvida pela SNK para o sistema Neo Geo. Fatal Fury e sua série irmã, Art of Fighting, se passam no mesmo universo ficcional. Art of Fighting aconteceu vários anos antes do primeiro Fatal Fury.</fatalfury>
-<finalfantasy>Final Fantasy é uma série de antologia de fantasia japonesa. A franquia gira em torno de uma série de jogos de RPG de fantasia e ciência. O primeiro jogo da série foi lançado em 1987, com 15 outras entradas principais sendo lançadas desde então.</finalfantasy>
-<finalfight>Final Fight é uma série de videogames beat 'em up da Capcom, que começou com o lançamento de Final Fight em 1989. Ambientado na fictícia Metro City,</finalfight>
-<gta>Grand Theft Auto é uma série de ação e aventura lançada pela primeira vez no playstation em 1997. A maioria dos jogos da série se passa em locais fictícios modelados em cidades, geralmente Liberty City como New York City, Vice City como Miami ou o Estado de San Andreas como os estados da Califórnia e Nevada,</gta>
-<kof>The King of Fighters é uma série de jogos de luta da SNK que começou com o lançamento de The King of Fighters '94 em 1994. A série foi desenvolvida originalmente para o hardware de arcade Neo Geo MVS da SNK.</kof>
-<konami>Konami é uma editora de videogames cujos principais títulos incluem a série de ação Castlevania, a série de survival horror Silent Hill, a série de shooter de ação Contra, a série de aventura de plataforma Ganbare Goemon, a série de ação furtiva Metal Gear.</konami>
-<mario>Mario é um personagem fictício da franquia de videogame Mario, de propriedade da Nintendo e criado pelo designer de videogame japonês Shigeru Miyamoto. Atuando como mascote da empresa, além de ser o protagonista homônimo da série, Mario já apareceu em mais de 200 videogames desde sua criação.</mario>
-<megaman>Mega Man, conhecido como Rockman no Japão, é uma franquia de videogame de ficção científica criada pela Capcom, estrelando uma série de personagens de robôs, cada um conhecido pelo apelido de "Mega Man". Mega Man, lançado para o Nintendo Entertainment System em 1987, foi o primeiro de uma série que se expandiu para mais de 50 jogos em vários sistemas.</megaman>
-<metalslug>Metal Slug é uma série de jogos de corrida e tiro originalmente criados pela Nazca Corporation antes de se fundir com a SNK em 1996 após a conclusão do primeiro jogo da série. Os jogos derivados incluem um jogo de tiro em terceira pessoa para comemorar o 10º aniversário da série e um jogo de defesa para a plataforma móvel.</metalslug>
-<metroid>Metroid é uma franquia de jogos de ação de ficção científica criada pela Nintendo. Metroid segue o caçador de recompensas Samus Aran, que protege a galáxia dos Piratas Espaciais e suas tentativas de controlar o poder das criaturas parasitas Metroid.</metroid>
-<midway>Midway era uma desenvolvedora e editora americana de videogames. As franquias da Midway incluíam Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n e NFL Blitz. Midway foldou em 2009</midway>
-<mortalkombat>Mortal Kombat é uma série de jogos lançados pela primeira vez em 1992. O jogo original gerou muitas sequências e spin-offs consistindo em vários jogos de ação e aventura, bem como uma série de quadrinhos e um jogo de cartas</mortalkombat>
-<namco>Namco era uma desenvolvedora e editora japonesa de jogos de arcade e videogames para consoles domésticos, originalmente com sede em Ōta, Tóquio. Em 2005, após 50 anos, eles se fundiram com a Bandai.</namco>
-<residentevil>Resident Evil é uma série de jogos criados pela Capcom. A franquia começou com o jogo Resident Evil, lançado em 1996 para o PlayStation, e é creditado por definir o gênero de terror de sobrevivência e devolver zumbis à cultura popular.</residentevil>
-<silenthill>Silent Hill é uma franquia de mídia de terror centrada em uma série de videogames de terror de sobrevivência, criados por Keiichiro Toyama, desenvolvidos e publicados pela Konami.</silenthill>
-<sonic>Sonic é uma franquia criada e de propriedade da Sega. A franquia segue Sonic, um ouriço azul antropomórfico que luta contra o malvado Doutor Eggman, um cientista louco.</sonic>
-<streetfighter>Street Fighter é uma franquia desenvolvida e publicada pela Capcom. O primeiro jogo da série foi lançado em 1987, seguido por cinco outros jogos da série principal, vários spin-offs e crossovers e várias aparições em várias outras mídias.</streetfighter>
-<tombraider>Tomb Raider é uma franquia de mídia que fez sua estreia em 1996. Desde o lançamento do Tomb Raider original, a série se desenvolveu em uma franquia com o mesmo nome, e Lara se tornou um grande ícone da indústria de videogames .</tombraider>
-<zelda>The Legend of Zelda é uma franquia de videogame de aventura e ação de alta fantasia criada pelos designers de jogos japoneses Shigeru Miyamoto e Takashi Tezuka. Foi desenvolvido e publicado principalmente pela Nintendo.</zelda>
-<irem>Irem Software Engineering é uma desenvolvedora e editora japonesa de console de videogame, e anteriormente também uma desenvolvedora e fabricante de jogos de arcade. A empresa tem sede em Chiyoda, Tóquio.</irem>
-<metalgear>Metal Gear é uma série de videogames furtivos de ação e aventura criados por Hideo Kojima e desenvolvidos e publicados pela Konami. O primeiro jogo, Metal Gear, foi lançado em 1987 para computadores domésticos MSX. Várias sequências foram lançadas para vários consoles, o que expandiu o enredo do jogo original.</metalgear>
-		<atari>A Atari, Inc. original, fundada em Sunnyvale, Califórnia em 1972 por Nolan Bushnell e Ted Dabney, foi pioneira em jogos de arcade, consoles de videogame domésticos e computadores domésticos. Os produtos da empresa, como Pong e Atari 2600, ajudaram a definir a indústria de entretenimento eletrônico dos anos 1970 até meados dos anos 1980.</atari>
-		<dataeast>Data East Corporation (デ ー タ イ ー ス ト 株式会社, Dēta Īsuto kabushiki gaisha), também abreviada como DECO, era uma empresa japonesa de videogame e engenharia eletrônica. A empresa operou de 1976 a 2003 e lançou 150 títulos de videogame</dataeast>
-		<kaneko>Kaneko Co. Ltd. (カ ネ コ 株式会社), era uma editora de videogames japonesa fundada em Suginami, Tóquio, Japão por Hiroshi Kaneko. Ela publicou uma série de jogos sob sua marca e outras empresas, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n e a série Gals Panic.</kaneko>
-		<nintendo>A Nintendo produziu alguns dos consoles de maior sucesso na indústria de videogames, como o Game Boy, o Super Nintendo Entertainment System, o Nintendo DS, o Wii e o Nintendo Switch.</nintendo>
-		<sega>Sega é uma desenvolvedora e editora multinacional japonesa de videogame com sede em Shinagawa, Tóquio. A Sega produziu várias franquias de jogos multimilionários, incluindo Sonic the Hedgehog, Total War e Yakuza, e é o produtor de jogos de arcade mais prolífico do mundo.</sega>
-		<snk>SNK Corporation (株式会社 SNK, Kabushiki-gaisha Esu Enu Kē) é uma empresa japonesa de hardware e software de videogame. A SNK é conhecida por sua criação da família Neo Geo de consoles de jogos eletrônicos, domésticos e portáteis em 1990.</snk>
-		<taito>A Taito é uma empresa japonesa especializada em videogames, brinquedos, gabinetes de fliperama e centros de jogos, com sede em Shinjuku, Tóquio. A empresa foi fundada por Michael Kogan em 1953 como Taito Trading Company, importando vodka, máquinas de venda automática e jukeboxes para o Japão. Ela começaria a produção de videogames em 1973.</taito>
-		<toaplan>Toaplan era um desenvolvedor de videogame japonês responsável pela criação de uma grande variedade de jogos de tiro e outros jogos de arcade. Seu primeiro jogo de tiro, Tiger-Heli nos fliperamas, foi um sucesso e ajudou a estabelecer a Toaplan como um produtor líder de jogos de tiro nas décadas de 1980 e 1990</toaplan>
-		<twoplayer>“Se o Pac-Man nos tivesse afetado quando crianças, estaríamos todos correndo em quartos escuros, mastigando comprimidos e ouvindo música eletrônica repetitiva.” - Marcus Brigstocke</twoplayer>
-		<fourplayer>“Há uma diferença entre jogar e jogar. O primeiro é um ato de alegria, o último - um ato. ” - Vera Nazarian</fourplayer>
-		<setupscripts>“Um jogo finito é jogado com o propósito de ganhar, um jogo infinito com o propósito de continuar o jogo.” - James P. Carse</setupscripts>
-		<favorites>“As pessoas diziam que os videogames são ruins porque deixam você entorpecido até a morte. O verdadeiro problema dos jogos é que o jogador deve tentar de tudo. Se houvesse uma caverna, você entra. Se houver um estranho misterioso, você fala com ele. Mas nos jogos você tem um milhão de vidas, na vida, apenas uma ”- Holly Black</favorites>
-		<notplayed>“Um jogo atrasado acaba sendo bom, um jogo ruim é ruim para sempre.” - Shigeru Miyamoto</notplayed>
-		<lastplayed>“A pior coisa que uma criança pode dizer sobre o dever de casa é que é muito difícil. A pior coisa que uma criança pode dizer sobre um jogo é que é muito fácil. ” - Henry Jenkins</lastplayed>
-		<allgames>“Não paramos de jogar porque envelhecemos, envelhecemos porque paramos de jogar!” - Benjamin Franklin</allgames>
+	<artoffighting>Art of Fighting é uma trilogia de videogame de luta lançada para a plataforma Neo Geo no início dos anos 1990. Foi a segunda franquia de jogos de luta criada pela SNK, após a série Fatal Fury e se passa no mesmo universo fictício de uma prequela da série Fatal Fury.</artoffighting>
+	<batman>Batman apareceu em mais de 50 videogames, abrangendo computadores, telefones celulares e sistemas de console desde os anos 1980,</batman>
+	<capcom>Capcom é uma desenvolvedora e editora japonesa de videogames. Ela criou uma série de franquias de jogos que vendem vários milhões, incluindo Street Fighter, Mega Man, Darkstalkers, Resident Evil e Ghosts 'n Goblins.</capcom>
+	<crashbandicoot>Crash Bandicoot é uma franquia de videogames de plataforma. Originalmente desenvolvida pela Naughty Dog como um exclusivo para o console PlayStation da Sony, a série já viu inúmeras parcelas criadas por vários desenvolvedores e publicadas em várias plataformas. A franquia atualmente pertence e é publicada pela Activision Blizzard.</crashbandicoot>
+	<dbz>A série de videogames Dragon Ball é baseada na série de mangá e anime de mesmo nome criada por Akira Toriyama. A série segue as aventuras de Goku enquanto ele treina artes marciais e explora o mundo em busca das sete esferas que realizam desejos, conhecidas como Dragon Balls. Os jogos são de vários gêneros, principalmente RPG, plataforma e jogos de luta, embora os últimos tenham se tornado os mais proeminentes.</dbz>
+	<donkeykong>Donkey Kong é uma série de videogames com as aventuras de um gorila chamado Donkey Kong, concebida por Shigeru Miyamoto em 1981. A franquia consiste principalmente em dois gêneros de jogos, mas também inclui títulos spin-off adicionais de vários gêneros. </donkeykong>
+	<cavestory>Cave Story é um jogo de aventura em plataforma Metroidvania de 2004 para Microsoft Windows. Foi desenvolvido ao longo de cinco anos pelo desenvolvedor japonês Daisuke "Pixel" Amaya em seu tempo livre. Cave Story apresenta mecânica de plataforma 2D e é uma reminiscência dos jogos que Amaya jogou em sua juventude, como Metroid e Castlevania</cavestory>
+	<castlevania>Castlevania é uma série de videogames de terror gótico de ação e aventura sobre caçadores de vampiros criada e desenvolvida pela Konami. Foi lançado em várias plataformas, desde sistemas antigos a consoles modernos, bem como dispositivos portáteis, como telefones celulares.</castlevania>
+	<doom>Doom é uma franquia de videogame que teve seu primeiro lançamento em 1993. A série se concentra nas façanhas de um fuzileiro naval espacial sem nome operando sob os auspícios da Union Aerospace Corporation (UAC), que luta contra hordas de demônios e mortos-vivos.</doom>
+	<doubledragon>Double Dragon é um videogame de beat 'em up de 1987 desenvolvido pela Technōs Japan e distribuído na América do Norte e na Europa pela Taito. O jogo é um sucessor espiritual e tecnológico do anterior beat 'em up da Technos, Nekketsu Kōha Kunio-kun (lançado fora do Japão pela Taito como Renegade)</doubledragon>
+	<fatalfury>Fatal Fury é uma série de jogos de luta desenvolvida pela SNK para o sistema Neo Geo. Fatal Fury e sua série irmã, Art of Fighting, se passam no mesmo universo ficcional. Art of Fighting aconteceu vários anos antes do primeiro Fatal Fury.</fatalfury>
+	<finalfantasy>Final Fantasy é uma série de antologia de fantasia japonesa. A franquia gira em torno de uma série de jogos de RPG de fantasia e ciência. O primeiro jogo da série foi lançado em 1987, com 15 outras entradas principais sendo lançadas desde então.</finalfantasy>
+	<finalfight>Final Fight é uma série de videogames beat 'em up da Capcom, que começou com o lançamento de Final Fight em 1989. Ambientado na fictícia Metro City,</finalfight>
+	<gta>Grand Theft Auto é uma série de ação e aventura lançada pela primeira vez no playstation em 1997. A maioria dos jogos da série se passa em locais fictícios modelados em cidades, geralmente Liberty City como New York City, Vice City como Miami ou o Estado de San Andreas como os estados da Califórnia e Nevada,</gta>
+	<kof>The King of Fighters é uma série de jogos de luta da SNK que começou com o lançamento de The King of Fighters '94 em 1994. A série foi desenvolvida originalmente para o hardware de arcade Neo Geo MVS da SNK.</kof>
+	<konami>Konami é uma editora de videogames cujos principais títulos incluem a série de ação Castlevania, a série de survival horror Silent Hill, a série de shooter de ação Contra, a série de aventura de plataforma Ganbare Goemon, a série de ação furtiva Metal Gear.</konami>
+	<mario>Mario é um personagem fictício da franquia de videogame Mario, de propriedade da Nintendo e criado pelo designer de videogame japonês Shigeru Miyamoto. Atuando como mascote da empresa, além de ser o protagonista homônimo da série, Mario já apareceu em mais de 200 videogames desde sua criação.</mario>
+	<megaman>Mega Man, conhecido como Rockman no Japão, é uma franquia de videogame de ficção científica criada pela Capcom, estrelando uma série de personagens de robôs, cada um conhecido pelo apelido de "Mega Man". Mega Man, lançado para o Nintendo Entertainment System em 1987, foi o primeiro de uma série que se expandiu para mais de 50 jogos em vários sistemas.</megaman>
+	<metalslug>Metal Slug é uma série de jogos de corrida e tiro originalmente criados pela Nazca Corporation antes de se fundir com a SNK em 1996 após a conclusão do primeiro jogo da série. Os jogos derivados incluem um jogo de tiro em terceira pessoa para comemorar o 10º aniversário da série e um jogo de defesa para a plataforma móvel.</metalslug>
+	<metroid>Metroid é uma franquia de jogos de ação de ficção científica criada pela Nintendo. Metroid segue o caçador de recompensas Samus Aran, que protege a galáxia dos Piratas Espaciais e suas tentativas de controlar o poder das criaturas parasitas Metroid.</metroid>
+	<midway>Midway era uma desenvolvedora e editora americana de videogames. As franquias da Midway incluíam Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n e NFL Blitz. Midway foldou em 2009</midway>
+	<mortalkombat>Mortal Kombat é uma série de jogos lançados pela primeira vez em 1992. O jogo original gerou muitas sequências e spin-offs consistindo em vários jogos de ação e aventura, bem como uma série de quadrinhos e um jogo de cartas</mortalkombat>
+	<namco>Namco era uma desenvolvedora e editora japonesa de jogos de arcade e videogames para consoles domésticos, originalmente com sede em Ōta, Tóquio. Em 2005, após 50 anos, eles se fundiram com a Bandai.</namco>
+	<residentevil>Resident Evil é uma série de jogos criados pela Capcom. A franquia começou com o jogo Resident Evil, lançado em 1996 para o PlayStation, e é creditado por definir o gênero de terror de sobrevivência e devolver zumbis à cultura popular.</residentevil>
+	<silenthill>Silent Hill é uma franquia de mídia de terror centrada em uma série de videogames de terror de sobrevivência, criados por Keiichiro Toyama, desenvolvidos e publicados pela Konami.</silenthill>
+	<sonic>Sonic é uma franquia criada e de propriedade da Sega. A franquia segue Sonic, um ouriço azul antropomórfico que luta contra o malvado Doutor Eggman, um cientista louco.</sonic>
+	<streetfighter>Street Fighter é uma franquia desenvolvida e publicada pela Capcom. O primeiro jogo da série foi lançado em 1987, seguido por cinco outros jogos da série principal, vários spin-offs e crossovers e várias aparições em várias outras mídias.</streetfighter>
+	<tombraider>Tomb Raider é uma franquia de mídia que fez sua estreia em 1996. Desde o lançamento do Tomb Raider original, a série se desenvolveu em uma franquia com o mesmo nome, e Lara se tornou um grande ícone da indústria de videogames .</tombraider>
+	<zelda>The Legend of Zelda é uma franquia de videogame de aventura e ação de alta fantasia criada pelos designers de jogos japoneses Shigeru Miyamoto e Takashi Tezuka. Foi desenvolvido e publicado principalmente pela Nintendo.</zelda>
+	<irem>Irem Software Engineering é uma desenvolvedora e editora japonesa de console de videogame, e anteriormente também uma desenvolvedora e fabricante de jogos de arcade. A empresa tem sede em Chiyoda, Tóquio.</irem>
+	<metalgear>Metal Gear é uma série de videogames furtivos de ação e aventura criados por Hideo Kojima e desenvolvidos e publicados pela Konami. O primeiro jogo, Metal Gear, foi lançado em 1987 para computadores domésticos MSX. Várias sequências foram lançadas para vários consoles, o que expandiu o enredo do jogo original.</metalgear>
+	<atari>A Atari, Inc. original, fundada em Sunnyvale, Califórnia em 1972 por Nolan Bushnell e Ted Dabney, foi pioneira em jogos de arcade, consoles de videogame domésticos e computadores domésticos. Os produtos da empresa, como Pong e Atari 2600, ajudaram a definir a indústria de entretenimento eletrônico dos anos 1970 até meados dos anos 1980.</atari>
+	<dataeast>Data East Corporation (デ ー タ イ ー ス ト 株式会社, Dēta Īsuto kabushiki gaisha), também abreviada como DECO, era uma empresa japonesa de videogame e engenharia eletrônica. A empresa operou de 1976 a 2003 e lançou 150 títulos de videogame</dataeast>
+	<kaneko>Kaneko Co. Ltd. (カ ネ コ 株式会社), era uma editora de videogames japonesa fundada em Suginami, Tóquio, Japão por Hiroshi Kaneko. Ela publicou uma série de jogos sob sua marca e outras empresas, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n e a série Gals Panic.</kaneko>
+	<nintendo>A Nintendo produziu alguns dos consoles de maior sucesso na indústria de videogames, como o Game Boy, o Super Nintendo Entertainment System, o Nintendo DS, o Wii e o Nintendo Switch.</nintendo>
+	<sega>Sega é uma desenvolvedora e editora multinacional japonesa de videogame com sede em Shinagawa, Tóquio. A Sega produziu várias franquias de jogos multimilionários, incluindo Sonic the Hedgehog, Total War e Yakuza, e é o produtor de jogos de arcade mais prolífico do mundo.</sega>
+	<snk>SNK Corporation (株式会社 SNK, Kabushiki-gaisha Esu Enu Kē) é uma empresa japonesa de hardware e software de videogame. A SNK é conhecida por sua criação da família Neo Geo de consoles de jogos eletrônicos, domésticos e portáteis em 1990.</snk>
+	<taito>A Taito é uma empresa japonesa especializada em videogames, brinquedos, gabinetes de fliperama e centros de jogos, com sede em Shinjuku, Tóquio. A empresa foi fundada por Michael Kogan em 1953 como Taito Trading Company, importando vodka, máquinas de venda automática e jukeboxes para o Japão. Ela começaria a produção de videogames em 1973.</taito>
+	<toaplan>Toaplan era um desenvolvedor de videogame japonês responsável pela criação de uma grande variedade de jogos de tiro e outros jogos de arcade. Seu primeiro jogo de tiro, Tiger-Heli nos fliperamas, foi um sucesso e ajudou a estabelecer a Toaplan como um produtor líder de jogos de tiro nas décadas de 1980 e 1990</toaplan>
+	<twoplayer>“Se o Pac-Man nos tivesse afetado quando crianças, estaríamos todos correndo em quartos escuros, mastigando comprimidos e ouvindo música eletrônica repetitiva.” - Marcus Brigstocke</twoplayer>
+	<fourplayer>“Há uma diferença entre jogar e jogar. O primeiro é um ato de alegria, o último - um ato. ” - Vera Nazarian</fourplayer>
+	<setupscripts>“Um jogo finito é jogado com o propósito de ganhar, um jogo infinito com o propósito de continuar o jogo.” - James P. Carse</setupscripts>
+	<favorites>“As pessoas diziam que os videogames são ruins porque deixam você entorpecido até a morte. O verdadeiro problema dos jogos é que o jogador deve tentar de tudo. Se houvesse uma caverna, você entra. Se houver um estranho misterioso, você fala com ele. Mas nos jogos você tem um milhão de vidas, na vida, apenas uma ”- Holly Black</favorites>
+	<notplayed>“Um jogo atrasado acaba sendo bom, um jogo ruim é ruim para sempre.” - Shigeru Miyamoto</notplayed>
+	<lastplayed>“A pior coisa que uma criança pode dizer sobre o dever de casa é que é muito difícil. A pior coisa que uma criança pode dizer sobre um jogo é que é muito fácil. ” - Henry Jenkins</lastplayed>
+	<allgames>“Não paramos de jogar porque envelhecemos, envelhecemos porque paramos de jogar!” - Benjamin Franklin</allgames>
 	<quake>Quake é uma série de videogames de tiro em primeira pessoa, desenvolvidos pela id Software e, a partir de 2010, publicados pela Bethesda Softworks. A série é composta pelo jogo homônimo de 1996 e suas sequências não lineares independentes, que variam em cenário e enredo.</quake>
-<cheevos>Retroachievements.org é um serviço que fornece um mecanismo de desbloqueio de troféu / conquista semelhante aos consoles modernos, para jogos retro. Os sistemas suportados incluem Sega Megadrive, Super Nintendo, Nintendo 64, Playstation e Neo-Geo.</cheevos>
+	<cheevos>Retroachievements.org é um serviço que fornece um mecanismo de desbloqueio de troféu / conquista semelhante aos consoles modernos, para jogos retro. Os sistemas suportados incluem Sega Megadrive, Super Nintendo, Nintendo 64, Playstation e Neo-Geo.</cheevos>
 </variables>	
 </theme>

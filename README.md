@@ -24,9 +24,9 @@ Theming is currently available for the following dynamic collections (theme name
 
 Game Series: Art of Fighting (aof), Batman (batman), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda), Quake (quake), Retroachievements (cheevos), Tekken (tekken)
 
-Game Publishers: Atlus (Atlus), Activision (Activision)
+Game Publishers/Developers: Atlus (Atlus), Activision (Activision), Atari (Atari), Capcom (Capcom), Data East (Dataeast), Irem (Irem), Kaneko (Kaneko), Konami (Konami), Midway (Midway), Namco (Namco), Nintendo (Nintendo), Sega (Sega), SNK (Snk), Taito (Taito), Toaplan (Toaplan)
 
-To Do List: Acclaim, Atari, Codemasters, EA Sports, Eidos Interactive, Electronic Arts, GT Interactive, Infogrames, Lucasarts, Oddworld Inhabitants, Paradigm, Psygnosis, Rockstar, Ultimate, Ubisoft, 
+To Do List: Acclaim, Codemasters, EA Sports, Eidos Interactive, Electronic Arts, GT Interactive, Infogrames, Lucasarts, Oddworld Inhabitants, Paradigm, Psygnosis, Rockstar, Ultimate, Ubisoft, 
 
 NOTE: WITH THE GAME PUBLISHERS THE FIRST LETTER IS CAPITALISED SO THAT EMULATION STATION CAN DIFFERENTIATE IT BETWEEN ARCADE COLLECTIONS
 
@@ -39,7 +39,7 @@ AUTOMATIC COLLECTIONS (Arcade)
 
 The various publisher themes will work from automatic collections:
 
-Arcade Publishers & Platforms: Atari, Atlus, Capcom, CPS1, CPS2, CPS3, Daphne, Data East, Irem, Kaneko, Konami, Midway, Namco, Neo-Geo, Nintendo, SEGA, SNK, Taito, Toaplan
+Arcade Publishers & Platforms: Activision, Atari, Atlus, Capcom, CPS1, CPS2, CPS3, Daphne, Data East, Irem, Kaneko, Konami, Midway, Namco, Neo-Geo, Nintendo, SEGA, SNK, Taito, Toaplan, 
 
 As well as 2 player, 4 player, never played, favourites etc etc
 

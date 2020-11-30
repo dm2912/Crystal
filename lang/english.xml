@@ -25,6 +25,7 @@
 	<fanartvlViewName>Fanart (Full Screen Video)</fanartvlViewName>
 	<carouselvideoName>Carousel / Video</carouselvideoName>
 	<smallscreengamelist>Small Screen</smallscreengamelist>
+	<smallscreengamelistnh>Small Screen (No Help)</smallscreengamelistnh>
 <!-- color schemes -->
     <ctblue>Sapphire</ctblue>
 	<ctred>Ruby</ctred>

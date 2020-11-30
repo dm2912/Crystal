@@ -33,8 +33,8 @@
 
 <!-- Global stuff -->
 
-    <chelptext>a55005</chelptext> <!-- ## color of help menu text ## -->
-    <ctextglow>ffb813</ctextglow> <!-- ## default glow color on text - only need to change this if light/dark theme ## -->
+    <chelptext>ffffff</chelptext> <!-- ## color of help menu text ## -->
+    <ctextglow>9e7030</ctextglow> <!-- ## default glow color on text - only need to change this if light/dark theme ## -->
 	
 <!-- Selector highlight on menus and gamelist -->
 	

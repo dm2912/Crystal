@@ -25,7 +25,8 @@
     <fanartViewName>Fanart (par défaut) </fanartViewName>
     <fanartvlViewName>Fanart (vidéo plein écran) </fanartvlViewName>
 	<carouselvideoName>Carousel / Vidéo</carouselvideoName>
-	<smallscreengamelist>Small Screen</smallscreengamelist>
+	<smallscreengamelist>Petit Ecran</smallscreengamelist>
+	<smallscreengamelistnh>Petit Ecran (pas d'aide)</smallscreengamelistnh>
 <!-- arrière-plans -->
     <defaultbg>SOLO (Léger) </defaultbg>
     <darkbg>SOLO (sombre) </darkbg>

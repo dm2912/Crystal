@@ -1,0 +1,47 @@
+<!-- Horizontal icon menu -->
+
+<theme>
+  <formatVersion>4</formatVersion>
+    <include>./common.xml</include>
+  <feature supported="carousel">
+  <view name="system">
+    <carousel name="systemcarousel">
+     <type>horizontal</type>
+     <pos>0.0 0.0</pos>
+      <size>1 1</size>
+      <color>ffffff00</color>
+      <logoScale>1.60</logoScale>
+      <logoSize>0.25 .75</logoSize>
+      <maxLogoCount>1</maxLogoCount>
+    <logoAlignment>center</logoAlignment>
+    </carousel>
+    
+    <text name="systemInfo">
+         <pos>0.03 0.47</pos>
+    <size>.20 0</size>
+    <alignment>center</alignment>
+   </text>
+	  
+   <helpsystem name="help"> 
+        <fontSize>0.00000000000001</fontSize>
+   	   <pos>1.5 1.5</pos>   
+   </helpsystem>
+
+<image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/filters/${themecolor}/bg-classic-nh.svg</path>
+   </image>
+
+	<image name="console" extra="true">
+		<path>./../assets/logos/console/${system.theme}.png</path>
+        <pos>0.73 0.300</pos>
+         <maxSize>0.35 0.40</maxSize>
+        <alignment>right</alignment>
+      </image> 
+   
+
+	  </view>
+  </feature>  
+</theme>

@@ -24,7 +24,7 @@
 	  
    <helpsystem name="help"> 
         <fontSize>0.0375</fontSize>
-   	   <pos>0.007 0.953</pos>   
+   	   <pos>0.007 0.950</pos>   
    </helpsystem>
 
 <image name="background" extra="true">

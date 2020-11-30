@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="349.78143"
-   height="146.31033"
-   viewBox="0 0 92.546333 38.711277"
+   width="500"
+   height="200"
+   viewBox="0 0 500 200"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -482,16 +482,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3685316"
-     inkscape:cx="420.87601"
-     inkscape:cy="17.986749"
+     inkscape:zoom="1.2675345"
+     inkscape:cx="405.8371"
+     inkscape:cy="57.452739"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
      inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-height="743"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -514,7 +514,7 @@
      transform="translate(-18.906398,-246.09131)">
     <g
        id="g2974"
-       transform="matrix(0.07928546,0,0,0.07928546,15.239588,243.91119)">
+       transform="matrix(0.33781863,0,0,0.33781863,67.186481,251.00307)">
       <g
          transform="matrix(0.93417378,0,0,0.89137394,46.25007,27.499818)"
          id="g10">

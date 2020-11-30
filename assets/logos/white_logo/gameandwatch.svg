@@ -10,8 +10,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="473.95337"
-   height="68.432465"
+   width="500"
+   height="200"
+   viewBox="0 0 500 200"
    id="svg2"
    sodipodi:docname="gameandwatch.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
@@ -37,13 +38,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-height="743"
      id="namedview18"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="0.82695184"
-     inkscape:cx="-119.67611"
-     inkscape:cy="-77.078879"
+     inkscape:zoom="1.251716"
+     inkscape:cx="160.14841"
+     inkscape:cy="98.248795"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -52,7 +53,7 @@
      id="defs4" />
   <g
      id="g67"
-     transform="matrix(1.6813229,0,0,2.025247,-293.62554,-14.480233)"
+     transform="matrix(1.6796827,0,0,2.0232712,-282.67329,49.132379)"
      style="fill:#ffffff">
     <path
        d="m 199.62304,18.6258 c -2.0075,-2.84625 -5.31875,-4.7025 -9.065,-4.7025 -6.13125,0 -11.09625,4.9675 -11.09625,11.095 0,6.12625 4.965,11.09375 11.09625,11.09375 4.4475,0 8.285,-2.62125 10.05625,-6.40125 h -9.79375 v -5.045 h 15.64125 c 0.005,0.11875 0.009,0.235 0.009,0.3525 0,1.63125 -0.24375,3.20875 -0.70125,4.6925 -2.0012,6.49875 -8.0537,11.22875 -15.2112,11.22875 -8.79125,0 -15.91875,-7.13125 -15.91875,-15.92125 0,-8.7925 7.1275,-15.9175 15.91875,-15.9175 6.515,0 12.1125,3.91875 14.57625,9.525 h -5.51125 z"
@@ -107,7 +108,7 @@
   </g>
   <path
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#ffffff;stroke-width:2.53563666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path2915"
-     d="m -250.75263,-73.354096 v 101.58347 c 0,0 0,7.513517 8.45035,7.513517 8.24538,0 124.14228,0 124.14228,0 0,0 7.53627,0 7.53627,-7.513517 0,-8.115941 0,-101.58347 0,-101.58347 0,0 0,-8.46161 -7.53627,-8.46161 -7.5328,0 -124.14228,0 -124.14228,0 0,0 -8.45035,0 -8.45035,8.46161 z" />
+     d="m 2.06672,57.614501 v 81.811749 c 0,0 0,6.05112 29.982902,6.05112 29.255642,0 440.472378,0 440.472378,0 0,0 26.73964,0 26.73964,-6.05112 0,-6.53629 0,-81.811749 0,-81.811749 0,0 0,-6.814682 -26.73964,-6.814682 -26.72731,0 -440.472378,0 -440.472378,0 0,0 -29.982902,0 -29.982902,6.814682 z" />
 </svg>

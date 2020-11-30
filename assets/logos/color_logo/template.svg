@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="471.71942"
-   height="196.14099"
-   viewBox="0 0 124.80909 51.895639"
+   width="500"
+   height="200"
+   viewBox="0 0 500 200"
    version="1.1"
    id="svg8"
    sodipodi:docname="template.svg"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6506226"
-     inkscape:cx="251.79377"
-     inkscape:cy="66.88926"
+     inkscape:zoom="0.883341"
+     inkscape:cx="179.5655"
+     inkscape:cy="75.575491"
      inkscape:document-units="mm"
      inkscape:current-layer="g462"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,7 +66,7 @@
              xml:space="preserve"
              id="flowRoot66"
              style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006400;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="matrix(1.0498291,-0.13679909,0.14955139,0.9042658,-32.866048,263.9947)"><flowRegion
+             transform="matrix(4.2102029,-0.54861493,0.59975637,3.6264402,-119.17836,332.7303)"><flowRegion
                id="flowRegion68"
                style="fill:#006400"><rect
                  id="rect70"
@@ -80,7 +80,7 @@
              xml:space="preserve"
              id="flowRoot66-4"
              style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006400;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="matrix(0.37142605,-0.0272481,0.02711946,0.34046301,82.394924,279.5254)"><flowRegion
+             transform="matrix(1.4895558,-0.10927496,0.10875906,1.3653826,343.06075,395.01415)"><flowRegion
                id="flowRegion68-0"
                style="fill:#006400"><rect
                  id="rect70-9"

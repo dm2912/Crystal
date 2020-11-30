@@ -9,9 +9,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   viewBox="0 0 494.81559 100.28197"
-   height="100.28197"
-   width="494.81558"
+   viewBox="0 0 500 200"
+   width="500"
+   height="200"
    sodipodi:docname="sfc.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <sodipodi:namedview
@@ -24,13 +24,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-height="743"
      id="namedview32"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="0.87544833"
-     inkscape:cx="372.5416"
-     inkscape:cy="32.541041"
+     inkscape:zoom="1.3251228"
+     inkscape:cx="388.48797"
+     inkscape:cy="10.212958"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -50,7 +50,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(515.91867,0,0,536.51196,185.40343,-162.74499)"
+     transform="matrix(515.91867,0,0,536.51196,186.15808,-119.73011)"
      id="g3512">
     <path
        inkscape:connector-curvature="0"
@@ -74,7 +74,7 @@
        id="path3330" />
   </g>
   <g
-     transform="matrix(0.61991234,0,0,0.57221929,0.05479811,-518.29471)"
+     transform="matrix(0.61991234,0,0,0.57221929,0.80944517,-475.27983)"
      id="layer1"
      style="fill:#ffffff">
     <path

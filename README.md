@@ -42,7 +42,7 @@ Arcade Publishers & Platforms: Activision, Atari, Atlus, Capcom, CPS1, CPS2, CPS
 
 As well as 2 player, 4 player, never played, favourites etc etc
 
-To Do list: Acclaim, Alpha Denshi, Cinematronics, Eighting/Raizing, Exidy, Incredible Technologies, Gaelco, Gottleib, Tecmo, Semicom, Mitchell, Seibu Kahatsu, Playchoice, Visco, Nichibutsu, IGS, Video System Co, Technos, Psikyo, Sammy, NMK, Banpresto, Sega ST-V, 
+To Do list: Acclaim, Alpha Denshi, Cave, Cinematronics, Eighting/Raizing, Exidy, Incredible Technologies, Gaelco, Gottleib, Tecmo, Semicom, Mitchell, Seibu Kahatsu, Playchoice, Visco, Nichibutsu, IGS, Video System Co, Technos, Psikyo, Sammy, NMK, Banpresto, Sega ST-V, 
 
 
 ADDING ADDITIONAL SYSTEMS/COLLECTIONS. 

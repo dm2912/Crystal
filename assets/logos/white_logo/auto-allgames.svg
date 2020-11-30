@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="490.78372"
-   height="179.82555"
-   viewBox="0 0 129.85319 47.578844"
+   width="500"
+   height="200"
+   viewBox="0 0 500 200"
    version="1.1"
    id="svg8"
    sodipodi:docname="auto-allgames.svg"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.533364"
-     inkscape:cx="236.42919"
-     inkscape:cy="68.304527"
+     inkscape:zoom="4.0477117"
+     inkscape:cx="215.79093"
+     inkscape:cy="96.028583"
      inkscape:document-units="mm"
      inkscape:current-layer="g610"
      showgrid="false"
@@ -54,13 +54,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(2.0376708,-237.73958)">
+     transform="translate(2.0376708,-237.69342)">
     <g
        id="g465">
       <g
          id="g610">
         <g
-           transform="translate(-2.7770413,-7.5716345)"
+           transform="matrix(3.8427182,0,0,3.8427182,-3.980286,-695.22182)"
            id="g772-0"
            style="fill:#ffffff">
           <g

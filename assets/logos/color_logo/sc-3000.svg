@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="475.83102"
-   height="98.300735"
-   viewBox="0 0 125.89695 26.008737"
+   width="500"
+   height="200"
+   viewBox="0 0 500 200"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -34,16 +34,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6748048"
-     inkscape:cx="248.74265"
-     inkscape:cy="84.965243"
+     inkscape:zoom="1.2675345"
+     inkscape:cx="289.00519"
+     inkscape:cy="73.021024"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
      inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-height="743"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -66,7 +66,7 @@
      transform="translate(-1.4894181,-258.59255)">
     <g
        id="g821"
-       transform="matrix(0.21850168,0,0,0.21850168,-1.5770728,253.92274)"
+       transform="matrix(0.84013686,0,0,0.84013686,-2.4118785,278.50597)"
        style="stroke:#f2f2f2;stroke-width:1.9176054;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <g
          id="text955"

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="495.07889"
-   height="168.97685"
-   viewBox="0 0 130.98962 44.70846"
+   width="500"
+   height="200"
+   viewBox="0 0 500 200"
    version="1.1"
    id="svg8"
    sodipodi:docname="auto-favorites.svg"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1671664"
-     inkscape:cx="146.35173"
-     inkscape:cy="57.521404"
+     inkscape:zoom="1.2492328"
+     inkscape:cx="132.38067"
+     inkscape:cy="9.7709512"
      inkscape:document-units="mm"
      inkscape:current-layer="g465"
      showgrid="false"
@@ -58,7 +58,7 @@
     <g
        id="g465">
       <g
-         transform="translate(-1.6091889,-1.547053)"
+         transform="matrix(3.804997,0,0,3.804997,-1.1284885,-687.29453)"
          id="g610-9"
          style="fill:#d40000">
         <g

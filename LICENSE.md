@@ -6,7 +6,7 @@ Original codebase forked from theme 'SOLO' 09-15-2020 by AlecFull
 
 Additional background artwork from 'Bello-Cobalto' and 'Artflix' by AlekFull
 
-White system logos mostly adapted from Retrofix by 20GotoTen
+System Logo's drawn in Inkscape on Linux. Attribution and non-commercial use only
 
 Arcade System logos from a collection by Arcade-4-Fun
 
@@ -18,9 +18,9 @@ Help Icons are my own work. Attributation and non-commercial use only
 
 All png logo's sourced under "no commercial use" licences
 
-Any additional artwork likely created, or adapted by me and is strictly "no commercial use"
+Any additional artwork likely created, or adapted by me attribution and non-commercial use only
 
-Majority of music from khinsider.com and then edited with Audacity
+Majority of music from khinsider.com and then edited with Audacity on Linux
 
 For use with EmulationStation (http://www.emulationstation.org/)
 

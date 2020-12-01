@@ -147,7 +147,8 @@
        y1="201.54588"
        x2="341.9936"
        y2="201.54588"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.1685679,0,-17.562558)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -156,9 +157,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.31631532"
-     inkscape:cx="-1332.088"
-     inkscape:cy="656.47731"
+     inkscape:zoom="0.16927812"
+     inkscape:cx="-1177.4858"
+     inkscape:cy="444.06585"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -190,18 +191,18 @@
        style="fill:#c48800;fill-opacity:0.94117647;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
        id="rect139-3"
        width="246.27853"
-       height="183.49228"
+       height="214.42319"
        x="-24.561836"
        y="104.18684" />
     <path
-       style="fill:#c48800;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 837.98438 -8.7421875 L 837.98438 684.77148 L -13.933594 684.77148 L -13.933594 727.19922 L 837.98438 727.19922 L 1292.5742 727.19922 L 1292.5742 684.77148 L 1292.5742 -8.7421875 L 837.98438 -8.7421875 z "
-       transform="matrix(0.26458333,0,0,0.26458333,0,106.50001)"
-       id="rect839" />
+       style="fill:#c48800;fill-opacity:0.8627451;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 221.7167,104.187 V 318.61004 H -3.6865967 V 331.728 H 221.7167 341.99359 V 318.61004 104.187 Z"
+       id="rect839"
+       inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        style="fill:url(#linearGradient8205);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 221.7167,104.18697 V 287.67913 H -3.6865883 V 298.9048 H 221.7167 341.9936 V 287.67913 104.18697 Z"
+       d="M 221.7167,104.18699 V 318.61004 H -3.6865883 V 331.728 H 221.7167 341.9936 V 318.61004 104.18699 Z"
        id="rect839-2" />
   </g>
 </svg>

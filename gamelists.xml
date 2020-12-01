@@ -4,10 +4,21 @@
 
 <theme defaultView="grid">
    <formatVersion>7</formatVersion>
+	  
     
 <!-- gamelists - basic view - simple list with plain background -->
 	
    <view name="basic">
+	   
+	    <image name="bottom" extra="true">
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <size>1 1</size>
+      <path>./assets/filters/${themecolor}/bg-bottombar.svg</path>
+      <color>000000</color>
+      <zIndex>99</zIndex>
+    </image>
+	   
      <helpsystem name="help">
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.025</fontSize>
@@ -56,6 +67,16 @@
 <!-- gamelists - detailed view -->
    
    <view name="detailed">
+	   
+	    <image name="bottom" extra="true">
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <size>1 1</size>
+      <path>./assets/filters/${themecolor}/bg-bottombar.svg</path>
+      <color>000000</color>
+      <zIndex>99</zIndex>
+    </image>
+	   
       <helpsystem name="help">
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.025</fontSize>
@@ -219,6 +240,15 @@
    
 	<view name="grid">
          
+		 <image name="bottom" extra="true">
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <size>1 1</size>
+      <path>./assets/filters/${themecolor}/bg-bottombar.svg</path>
+      <color>000000</color>
+      <zIndex>99</zIndex>
+    </image>
+		
 	   <helpsystem name="help">
          <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.025</fontSize>
@@ -251,11 +281,11 @@
 		
 	<imagegrid name="gamegrid">
          <pos>0.00 0.05</pos>
-         <size>0.66 0.900</size>
+         <size>0.66 0.950</size>
          <autoLayoutSelectedZoom>1.08</autoLayoutSelectedZoom>
          <autoLayout>3 2</autoLayout>
-		 <margin>0.005 0.005</margin>
-         <padding>0.03 0.03 0.03 0.03</padding>
+		 <margin>0.025 0.025</margin>
+         <padding>0.03 0.03 0.08 0.08</padding>
          <scrollSound>./assets/sounds/scroll.mp3</scrollSound>
          <animateSelection>false</animateSelection>
 		<maxlength>.5</maxlength>
@@ -356,10 +386,10 @@
 
 	<imagegrid name="gamegrid">
          <pos>0.025 0.16</pos>
-         <size>0.950 0.790</size>
-         <margin>0.005 0.005</margin>
+         <size>0.950 0.780</size>
+         <margin>0.025 0.025</margin>
          <padding>0.03 0.03 0.03 0.03</padding>
-         <autoLayout>5 2</autoLayout>
+         <autoLayout>4 2</autoLayout>
          <autoLayoutSelectedZoom>1.12</autoLayoutSelectedZoom>
 		  <scrollSound>./assets/sounds/scroll.mp3</scrollSound>
          <animateSelection>false</animateSelection>

@@ -7,7 +7,6 @@ license:		creative commons CC-BY-NC-SA
 github:			https://github.com/dm2912
 -->
 
-
 <!-- default view -->
 
 <theme defaultView="detailed">
@@ -91,25 +90,22 @@ github:			https://github.com/dm2912
    </view>
    
 	
-<!-- tinyscreen 
+<!-- tinyscreen -->
  
    <include tinyScreen="true">./gpicase.xml</include>
    <view name="system" ifHelpPrompts="false">
       <image name="BottomBar" extra="true">
          <visible>false</visible>
       </image>
-      <image name="BottomBar-shadow" extra="true">
-         <visible>false</visible>
-      </image>
    </view>
-   <view name="basic, detailed, grid" ifHelpPrompts="false">
+
+	<view name="basic, detailed, grid" ifHelpPrompts="false">
       <image name="bottom" extra="true">
          <visible>false</visible>
       </image>
-      <image name="bottom-shadow" extra="true">
-         <pos>0 0.96</pos>
-      </image>
    </view>
+	
+	<!--
    <view name="detailed" ifHelpPrompts="false">
       <textlist name="gamelist">
          <size>0.489 0.804</size>

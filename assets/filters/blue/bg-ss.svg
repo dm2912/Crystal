@@ -134,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.354225"
-     inkscape:cx="421.2933"
-     inkscape:cy="13.868656"
+     inkscape:zoom="0.51245582"
+     inkscape:cx="119.29225"
+     inkscape:cy="1204.3799"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -165,15 +165,15 @@
      id="layer1"
      transform="translate(0,-106.50001)">
     <rect
-       style="fill:#100f29;fill-opacity:0.70588237;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       style="fill:#100f29;fill-opacity:0.70588235;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
        id="rect139-3"
        width="224.34448"
-       height="183.49228"
+       height="196.9162"
        x="-2.6277812"
        y="101.01183" />
     <path
-       style="fill:#100f29;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 221.71671,-1.0640823 V 284.50409 h -350.79436 v 17.47048 H 221.71671 408.9032 V 284.50409 -1.0640823 Z"
+       style="fill:#100f29;fill-opacity:0.8627451;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 221.71671,-1.0640823 V 301.04642 h -350.79436 v 18.48251 H 221.71671 408.9032 V 301.04642 -1.0640823 Z"
        id="rect839"
        inkscape:connector-curvature="0" />
   </g>

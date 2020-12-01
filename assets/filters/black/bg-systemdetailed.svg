@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49408705"
-     inkscape:cx="298.37287"
-     inkscape:cy="322.54204"
+     inkscape:zoom="0.52882755"
+     inkscape:cx="45.661072"
+     inkscape:cy="-31.714243"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,8 +60,8 @@
      transform="translate(0,-106.50001)">
     <path
        id="rect139"
-       transform="matrix(0.26458333,0,0,0.26458333,0,106.50001)"
-       style="fill:#000000;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       d="M 916.88281,-8.7421875 V 684.77148 H -5.1953125 v 42.42774 H 1292.5742 V 697.64258 684.77148 -8.7421875 Z" />
+       style="fill:#000000;fill-opacity:0.8627451;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       d="M 242.59191,104.18697 V 300.409 H -1.3745931 v 12.00446 H 341.99359 V 304.05073 300.409 104.18697 Z"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

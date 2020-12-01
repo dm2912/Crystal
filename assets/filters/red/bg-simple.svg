@@ -134,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59107094"
-     inkscape:cx="493.05185"
-     inkscape:cy="354.41031"
+     inkscape:zoom="0.2236687"
+     inkscape:cx="-128.43416"
+     inkscape:cy="104.76908"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -165,17 +165,10 @@
      id="layer1"
      transform="translate(0,-106.50001)">
     <rect
-       style="fill:#550000;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       id="rect139"
-       width="343.36847"
-       height="11.225929"
-       x="-1.3746339"
-       y="287.67911" />
-    <rect
-       style="fill:#550000;fill-opacity:0.70588237;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       style="fill:#550000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
        id="rect139-3"
        width="343.36847"
-       height="183.49228"
+       height="197.68738"
        x="-1.3746339"
        y="104.18683" />
   </g>

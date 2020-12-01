@@ -147,7 +147,8 @@
        y1="201.54564"
        x2="341.99359"
        y2="201.54564"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0960265,1.8415766e-8,-10.004656)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -156,9 +157,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0576551"
-     inkscape:cx="275.45546"
-     inkscape:cy="458.3884"
+     inkscape:zoom="0.28300537"
+     inkscape:cx="-441.65973"
+     inkscape:cy="390.49116"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -187,21 +188,21 @@
      id="layer1"
      transform="translate(0,-106.50001)">
     <path
-       style="fill:#c48800;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       d="M 960.73633 -8.7441406 L 960.73633 684.77148 L -5.1953125 684.77148 L -5.1953125 727.19922 L 1292.5742 727.19922 L 1292.5742 684.77148 L 1292.5742 -8.7441406 L 960.73633 -8.7441406 z "
-       transform="matrix(0.26458333,0,0,0.26458333,0,106.50001)"
-       id="rect139" />
+       style="fill:#c48800;fill-opacity:0.8627451;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       d="M 254.19482,104.18646 V 305.29928 H -1.3745931 v 12.30363 H 341.99359 V 305.29928 104.18646 Z"
+       id="rect139"
+       inkscape:connector-curvature="0" />
     <rect
        style="fill:#c48800;fill-opacity:0.94117647;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
        id="rect139-3"
        width="256.37234"
-       height="183.49228"
+       height="201.1124"
        x="-2.1775298"
-       y="104.18685" />
+       y="104.18689" />
     <path
        inkscape:connector-curvature="0"
        style="fill:url(#linearGradient7639);fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       d="M 254.19482,104.18646 V 287.67913 H -1.3745926 v 11.22568 H 341.99359 V 287.67913 104.18646 Z"
+       d="M 254.19482,104.18646 V 305.29928 H -1.3745926 v 12.30364 H 341.99359 V 305.29928 104.18646 Z"
        id="rect139-1" />
   </g>
 </svg>

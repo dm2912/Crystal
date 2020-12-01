@@ -24,7 +24,7 @@
 	  
    <helpsystem name="help"> 
         <fontSize>0.0375</fontSize>
-   	   <pos>0.007 0.950</pos>   
+   	   <pos>0.007 0.956</pos>   
          <glowColor>fdfdfd</glowColor>
          <glowSize>3</glowSize>
    </helpsystem>
@@ -33,7 +33,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./assets/filters/${themecolor}/bg-classic-nh.svg</path>
+         <path>./assets/filters/${themecolor}/bg-classic.svg</path>
    </image>
 
 	<image name="console" extra="true">

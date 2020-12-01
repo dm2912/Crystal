@@ -147,16 +147,6 @@
        y2="247.71103"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(2.4708135,-45.254838)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient861"
-       id="linearGradient865"
-       x1="-4.4070873"
-       y1="336.80294"
-       x2="338.96138"
-       y2="336.80294"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(2.4708134,-45.254838)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -165,9 +155,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7056817"
-     inkscape:cx="681.42173"
-     inkscape:cy="104.06043"
+     inkscape:zoom="0.37764997"
+     inkscape:cx="818.56531"
+     inkscape:cy="70.33841"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -204,25 +194,11 @@
        x="-2.1772249"
        y="170.95889" />
     <rect
-       style="fill:#c48600;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       id="rect139-3"
-       width="343.36847"
-       height="13.301258"
-       x="-1.9362735"
-       y="284.89746" />
-    <rect
        style="fill:url(#linearGradient863);fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491203"
        id="rect139-36"
        width="343.36847"
        height="62.994606"
        x="-2.1772249"
        y="170.95889" />
-    <rect
-       style="fill:url(#linearGradient865);fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       id="rect139-3-7"
-       width="343.36847"
-       height="13.301258"
-       x="-1.9362735"
-       y="284.89746" />
   </g>
 </svg>

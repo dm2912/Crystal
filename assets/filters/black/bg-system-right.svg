@@ -134,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.34937231"
+     inkscape:zoom="0.7478751"
      inkscape:cx="629.71298"
-     inkscape:cy="391.43327"
+     inkscape:cy="230.97867"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -166,8 +166,8 @@
      transform="translate(0,-106.50001)">
     <path
        id="rect139"
-       transform="matrix(0.26458333,0,0,0.26458333,0,106.50001)"
-       style="fill:#000000;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       d="M 1050.9883,-8.7421875 V 684.77148 H -5.1953125 v 42.42774 H 1050.9883 1292.5742 V 684.77148 -8.7421875 Z" />
+       style="fill:#000000;fill-opacity:0.8627451;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       d="M 278.07398,104.18697 V 301.0145 H -1.3745931 v 12.04151 H 278.07398 341.99359 V 301.0145 104.18697 Z"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

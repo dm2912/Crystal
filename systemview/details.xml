@@ -3,6 +3,7 @@
 <theme>
   <formatVersion>4</formatVersion>
     <include>./systems/${system.theme}.xml</include>  
+ <include>./common.xml</include>
   <feature supported="carousel">
   <view name="system">
     <carousel name="systemcarousel">

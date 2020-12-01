@@ -134,8 +134,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16678437"
-     inkscape:cx="-518.56721"
+     inkscape:zoom="0.35702279"
+     inkscape:cx="627.08055"
      inkscape:cy="-157.71097"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -143,7 +143,7 @@
      units="px"
      inkscape:pagecheckerboard="true"
      inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-height="743"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -165,17 +165,10 @@
      id="layer1"
      transform="translate(0,-106.50001)">
     <rect
-       style="fill:#100f2a;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       id="rect139"
-       width="343.36847"
-       height="11.225929"
-       x="-1.3746339"
-       y="287.67911" />
-    <rect
-       style="fill:#100f2a;fill-opacity:0.70588237;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
+       style="fill:#100f2a;fill-opacity:0.70588235;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
        id="rect139-3"
        width="343.36847"
-       height="183.49228"
+       height="194.60852"
        x="-1.3746339"
        y="104.18683" />
   </g>

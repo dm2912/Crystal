@@ -142,15 +142,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1065"
-       id="linearGradient1067"
-       x1="-1.3746313"
-       y1="293.29207"
-       x2="341.99384"
-       y2="293.29207"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1065"
        id="linearGradient1073"
        x1="-6.9446265"
        y1="128.47172"
@@ -166,9 +157,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59688383"
-     inkscape:cx="734.58471"
-     inkscape:cy="293.22981"
+     inkscape:zoom="0.22586837"
+     inkscape:cx="223.71398"
+     inkscape:cy="66.357942"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -196,26 +187,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-106.50001)">
-    <rect
-       style="fill:#c48800;fill-opacity:0.86274511;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       id="rect139"
-       width="343.36847"
-       height="11.225929"
-       x="-1.3746339"
-       y="287.67911" />
     <path
        style="fill:#c48800;fill-opacity:0.86274511;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M -6.2432694,153.97238 C -3.9729896,152.83724 244.62265,104.02623 244.62265,104.02623 L -6.8108393,102.89109 Z"
        id="path1141"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
-    <rect
-       style="fill:url(#linearGradient1067);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16491226"
-       id="rect139-36"
-       width="343.36847"
-       height="11.225929"
-       x="-1.3746308"
-       y="287.67911" />
     <path
        style="fill:url(#linearGradient1073);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M -6.2432694,153.97238 C -3.9729894,152.83724 244.62266,104.02623 244.62266,104.02623 L -6.8108394,102.89109 Z"

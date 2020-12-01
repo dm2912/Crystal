@@ -60,9 +60,10 @@ github:			https://github.com/dm2912
       </menuText>
       <menuBackground name="menubg">
          <color>${cmenubg}</color>
-         <path>./assets/menu_filters/${cmenufilter}/back.png</path>
+	<path>./assets/menu_filters/${cmenufilter}/back.png</path>
          <fadePath>./assets/menu_filters/${cmenufilter}/fade.png</fadePath>
-      </menuBackground>
+     </menuBackground>
+
       <menuIcons name="menuicons">
          <iconKodi>./assets/menu_icons/${cmenuicons}/Kodi.png</iconKodi>
          <iconSystem>./assets/menu_icons/${cmenuicons}/System.png</iconSystem>
@@ -90,7 +91,7 @@ github:			https://github.com/dm2912
    </view>
    
 	
-<!-- tinyscreen -->
+<!-- tinyscreen 
  
    <include tinyScreen="true">./gpicase.xml</include>
    <view name="system" ifHelpPrompts="false">
@@ -122,7 +123,7 @@ github:			https://github.com/dm2912
          <pos>0.025 0.16</pos>
          <size>0.950 0.84</size>
       </imagegrid>
-   </view>
+   </view> -->
 	
 	
 </theme>

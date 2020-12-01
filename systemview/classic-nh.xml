@@ -22,9 +22,16 @@
     <alignment>center</alignment>
    </text>
 	  
+<image name="helpbar" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/filters/${themecolor}/bg-bottombar.svg</path>
+   </image>
+
    <helpsystem name="help"> 
-        <fontSize>0.00000000000001</fontSize>
-   	   <pos>1.5 1.5</pos>   
+        <fontSize>0.0</fontSize>
+   	   <pos>0 0</pos>   
    </helpsystem>
 
 <image name="background" extra="true">

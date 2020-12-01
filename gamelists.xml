@@ -516,23 +516,21 @@
 		
 	
 	<customView name="Detailed Carousel" inherits="Carousel" displayName="${carouselposterViewName}">
-    
-			<rating name="md_rating">
+		
+ <imagegrid name="gamegrid">
+         <pos>0 0.26</pos>
+         <size>1 .8</size>
+         <autoLayoutSelectedZoom>1.2</autoLayoutSelectedZoom>
+	 <padding>0 0.15 0 0</padding>
+         <margin>0 0</margin>
+      </imagegrid>
+		
+				<rating name="md_rating">
          <pos>0.35 0.20</pos>
          <size>0.35 0.038</size>
       </rating>
-		
-		<imagegrid name="gamegrid">
-         <autoLayout>5 1</autoLayout>
-         <autoLayoutSelectedZoom>1.25</autoLayoutSelectedZoom>
-         <pos>0 0.40</pos>
-         <size>0.1 0.30</size>
-         <scrollDirection>horizontal</scrollDirection>
-		 <size>1.0 0.774</size>
-         <centerSelection>true</centerSelection>
-      </imagegrid>
-		
-	      <text name="gridtile">
+       
+		<text name="gridtile">
          <visible>false</visible>
       </text>
 
@@ -545,7 +543,6 @@
 		<video name="md_video">
          <pos>0.80 0.255</pos>
          <size>0.30 0.38</size>
-		 <!--  <maxSize>0.35 0.40</maxSize> -->
          <origin>0.5 0.5</origin>
         <delay>${delay}</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>

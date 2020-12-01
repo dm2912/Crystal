@@ -10,13 +10,12 @@
 	
    <view name="basic">
 	   
-	    <image name="bottom" extra="true">
+		 <image name="bottom" extra="true">
       <pos>0 0</pos>
       <origin>0 0</origin>
       <size>1 1</size>
       <path>./assets/filters/${themecolor}/bg-bottombar.svg</path>
-      <color>000000</color>
-      <zIndex>99</zIndex>
+      <zIndex>20</zIndex>
     </image>
 	   
      <helpsystem name="help">
@@ -68,13 +67,12 @@
    
    <view name="detailed">
 	   
-	    <image name="bottom" extra="true">
+		 <image name="bottom" extra="true">
       <pos>0 0</pos>
       <origin>0 0</origin>
       <size>1 1</size>
       <path>./assets/filters/${themecolor}/bg-bottombar.svg</path>
-      <color>000000</color>
-      <zIndex>99</zIndex>
+      <zIndex>20</zIndex>
     </image>
 	   
       <helpsystem name="help">
@@ -91,7 +89,7 @@
 
       <textlist name="gamelist">
          <pos>0.675 0.19</pos>
-         <size>0.315 0.848</size>
+         <size>0.315 0.810</size>
          <primaryColor>${cgamelisttext}</primaryColor>
          <selectedColor>${cselectedtext}</selectedColor>
 		 <selectorColor>${cselector}</selectorColor>
@@ -240,13 +238,12 @@
    
 	<view name="grid">
          
-		 <image name="bottom" extra="true">
+	<image name="bottom" extra="true">
       <pos>0 0</pos>
       <origin>0 0</origin>
       <size>1 1</size>
       <path>./assets/filters/${themecolor}/bg-bottombar.svg</path>
-      <color>000000</color>
-      <zIndex>99</zIndex>
+      <zIndex>20</zIndex>
     </image>
 		
 	   <helpsystem name="help">
@@ -341,7 +338,7 @@
 	   
 	  <text name="md_description">
          <pos>0.680 0.678</pos>
-         <size>0.30 0.270</size>
+         <size>0.30 0.250</size>
          <fontSize>0.03</fontSize>
          <color>${cgdescription}</color>
 	   </text> 	
@@ -417,13 +414,13 @@
 	   </text> 		  
 		  
 	   <image name="logo">
-         <pos>0.905 0.020</pos>
-          <maxSize>0.200 0.220</maxSize>
+         <pos>0.885 0.020</pos>
+          <maxSize>0.280 0.280</maxSize>
       </image>
 		   
 		<image name="system_logo" extra="true">
-            <pos>0.685 0.020</pos>
-          <maxSize>0.180 0.100</maxSize>
+            <pos>0.055 0.020</pos>
+          <maxSize>0.28 0.160</maxSize>
 			<zindex>99</zindex>
       </image>  
 		  		  
@@ -535,13 +532,14 @@
       </image>
 	   
 	   <image name="system_logo" extra="true">
-         <pos>0.025 0.810</pos>
-          <maxSize>0.200 0.110</maxSize>
+         <pos>0.025 0.800</pos>
+          <maxSize>0.28 0.160</maxSize>
+		   <zindex>101</zindex>
       </image>
    
    </customView>
 
- 
+
 <!-- gamelists - detailed carousel -->
 		
 	
@@ -596,7 +594,7 @@
 		 <text name="md_description">
          <pos>0.05 0.28</pos>
          <size>0.57 0.17</size>
-         <fontSize>0.030</fontSize>
+         <fontSize>0.038</fontSize>
          <color>${cgdescription}</color>
          <glowColor>${cglglow}</glowColor>
          <glowSize>1</glowSize>
@@ -675,7 +673,7 @@
          
 		  
 	<image name="background" extra="true">
-         <path>./assets/filters/${themecolor}/bg-ss.svg</path>
+         <path>./assets/filters/${themecolor}/bg-detailed.svg</path>
       </image>	
 		  
 	  <rating name="md_rating">
@@ -690,20 +688,20 @@
       </image>				
 		  
 		<text name="md_description">
-         <pos>0.680 0.03</pos>
-         <size>0.30 0.890</size>
+         <pos>0.680 0.05</pos>
+         <size>0.30 0.60</size>
          <fontSize>0.05</fontSize>
          <color>${cgdescription}</color>
 		<zindex>99</zindex>
 	   </text>
 		  		
 		<imagegrid name="gamegrid">
-         <pos>0.05 0.05</pos>
-         <size>0.51 0.850</size>
-         <autoLayoutSelectedZoom>1.08</autoLayoutSelectedZoom>
+         <pos>0.05 0.10</pos>
+         <size>0.51 0.835</size>
+         <autoLayoutSelectedZoom>1.00</autoLayoutSelectedZoom>
          <autoLayout>1 1</autoLayout>
-		 <margin>0.005 0.005</margin>
-         <padding>0.03 0.03 0.03 0.03</padding>
+		 <margin>0.015 0.015</margin>
+         <padding>0.0 0.0 0.0 0.0</padding>
          <scrollSound>./assets/sounds/scroll.mp3</scrollSound>
          <animateSelection>false</animateSelection>
 		<maxlength>.5</maxlength>
@@ -725,23 +723,83 @@
 
 		<text name="gridtile">
 	 <visible>false</visible>
+			<fontSize>0.040</fontSize>
       </text>
 
 		<text name="gridtile_selected">
-	 <visible>false</visible>
+	 <visible>true</visible>
+			<fontSize>0.040</fontSize>
       </text> 
 		
 		<text name="md_name">
 		  <visible>false</visible>
       </text>	
-	
-			<image name="release_date_logo" extra="true">
-<visible>false</visible>
+		  
+		   <image name="release_date_logo" extra="true">
+			<pos>0.68 0.68</pos>
+			<maxSize>0.035</maxSize>
+			<path>./assets/gamelist_icons/game_info_releasedate.svg</path>
+		   	<color>${cglicons}</color>
 		</image>
-	   
+		  
       <datetime name="md_releasedate">
-<visible>false</visible>
+         <pos>0.72 0.68</pos>
+         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontSize>0.034</fontSize>
+         <color>${cgldetail}</color>
       </datetime>
+	
+ <rating name="md_rating">
+         <pos>0.68 0.950</pos>
+         <size>0.35 0.038</size>
+         <filledPath>./assets/gamelist_icons/rating_filled.svg</filledPath>
+         <unfilledPath>./assets/gamelist_icons/rating_unfilled.svg</unfilledPath>
+		 <color>${crating}</color>
+      </rating>
+
+	  
+	   
+	   <image name="developer_logo" extra="true">
+			<pos>0.68 0.75</pos>
+			<maxSize>0.035</maxSize>
+			<path>./assets/gamelist_icons/game_info_developer.svg</path>
+		   	<color>${cglicons}</color>
+		</image>
+      <text name="md_developer">
+         <pos>0.72 0.76</pos>
+         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontSize>0.034</fontSize>
+         <size>0.20 0.024</size>
+         <color>${cgldetail}</color>
+      </text>
+	  
+	   	   <image name="genre_logo" extra="true">
+			<pos>0.68 0.820</pos>
+			<maxSize>0.035</maxSize>
+			<path>./assets/gamelist_icons/game_info_genre.svg</path>
+		   	<color>${cglicons}</color>
+		</image>
+	         <text name="md_genre">
+         <pos>0.72 0.83</pos>
+         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontSize>0.034</fontSize>
+         <size>0.20 0.024</size>
+         <color>${cgldetail}</color>
+      </text>
+	   	   
+      <image name="gametime_logo" extra="true">
+			<pos>0.68 0.89</pos>
+			<maxSize>0.035</maxSize>
+			<path>./assets/gamelist_icons/game_info_gametime2.svg</path>
+		   	<color>${cglicons}</color>
+		</image>
+      <text name="md_gametime">
+         <pos>0.72 0.90</pos>
+         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontSize>0.034</fontSize>
+         <size>0.20 0.024</size>
+         <color>${cgldetail}</color>
+      </text>
 	 	     
 		
 	    <image name="logo">

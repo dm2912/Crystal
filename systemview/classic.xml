@@ -17,14 +17,18 @@
     </carousel>
     
     <text name="systemInfo">
-         <pos>0.03 0.47</pos>
-    <size>.20 0</size>
-    <alignment>center</alignment>
+         <pos>0.05 0.888</pos>
+         <backgroundColor>00000000</backgroundColor>
+         <color>${cinfotext}</color>
+          <size>0.47 0</size>
+         <alignment>left</alignment>
+         <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
+         <fontSize>0.060</fontSize>
    </text>
 	  
    <helpsystem name="help"> 
         <fontSize>0.0375</fontSize>
-   	   <pos>0.007 0.956</pos>   
+   	   <pos>0.055 0.956</pos>   
          <glowColor>fdfdfd</glowColor>
          <glowSize>3</glowSize>
    </helpsystem>

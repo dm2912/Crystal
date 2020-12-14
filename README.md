@@ -22,15 +22,15 @@ Additionally you can specify platforms, genre's and other filters.
 
 Theming is currently available for the following dynamic collections (theme name in brackets): 
 
-Game Series: Art of Fighting (aof), Batman (batman), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda), Quake (quake), Retroachievements (cheevos), Tekken (tekken), The Simpsons (simpsons), Teenage Mutant Ninja Turtles (tmnt)
+Game Series: Art of Fighting (aof), Batman (batman), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda), Quake (quake), Retroachievements (cheevos), Tekken (tekken), The Simpsons (simpsons), Teenage Mutant Ninja Turtles (tmnt), battletoads (battletoads), pokemon (pokemon), lego (lego)
 
 Game Publishers/Developers: Atlus (Atlus), Activision (Activision), Atari (Atari), Capcom (Capcom), Data East (Dataeast), Irem (Irem), Kaneko (Kaneko), Konami (Konami), Midway (Midway), Namco (Namco), Nintendo (Nintendo), Sega (Sega), SNK (Snk), Taito (Taito), Toaplan (Toaplan), Acclaim (Acclaim), Codemasters (Codemasters), EA Sports(Easports), Eidos Interactive (Eidos), Electronic Arts (Ea), GT Interactive (Gt), Infogrames (Infogrames), Lucasarts (Lucasarts), Ocean (Ocean), Rockstar (Rockstar), Ultimate (Ultimate)
+
+Genres: All main genre's supported by screenscraper.fr (no sub-genres)
 
 NOTE: WITH THE GAME PUBLISHERS THE FIRST LETTER IS CAPITALISED SO THAT EMULATION STATION CAN DIFFERENTIATE IT FROM ARCADE COLLECTIONS
 
 I have a set of premade xcc collection files here> https://github.com/dm2912/Crystal-Collections simply copy/extract those files to .config/emulationstation/collections and they will all appear in your "custom collections"
-
-To do list: Collections for genre's, fighting, first person shooters, sports etc etc
 
 
 AUTOMATIC COLLECTIONS (Arcade)
@@ -78,9 +78,6 @@ Video on Detail View: Game video's can now be turned off completely on detailed 
 Still to do:
 
 + Translations need doing for all non-english languages
-
-+ various other custom collections (fighting, racing etc etc)
-
 
 --------------------------------------------------------------
 |.......I M P O R T A N T.......|

@@ -4,9 +4,11 @@ Acknowledgements:
 
 Original codebase forked from theme 'SOLO' 09-15-2020 by AlecFull
 
-Additional background artwork from 'Bello-Cobalto' and 'Artflix' by AlekFull
+Background artwork from 'Bello-Cobalto' and 'Artflix' by AlekFull or sourced under non-commercial licences
 
 System Logo's drawn in Inkscape on Linux. Attribution and non-commercial use only
+
+Genre Logo's drawn in in Inkscape on Linux using icons from screenscraper.fr. Attribution and non-commercial use only
 
 Arcade System logos from a collection by Arcade-4-Fun
 
@@ -16,11 +18,11 @@ Gamelist icons adapted from CKAU-Book by CkauNui
 
 Help Icons are my own work. Attributation and non-commercial use only
 
-All png logo's sourced under "no commercial use" licences
+All png character images sourced under "no commercial use" licences
 
 Any additional artwork likely created, or adapted by me attribution and non-commercial use only
 
-Majority of music from khinsider.com and then edited with Audacity on Linux
+Majority of music from khinsider.com and then edited with Audacity on Linux. Attributation and non-commercial use only
 
 For use with EmulationStation (http://www.emulationstation.org/)
 

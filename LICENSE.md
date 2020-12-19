@@ -8,6 +8,8 @@ Background artwork from 'Bello-Cobalto' and 'Artflix' by AlekFull or sourced und
 
 System Logo's drawn in Inkscape on Linux. Attribution and non-commercial use only
 
+Panel images magically created using ImageMagick in a bash script from svg and wallpapers. Attribution and non-commercial use only
+
 Genre Logo's drawn in in Inkscape on Linux using icons from screenscraper.fr. Attribution and non-commercial use only
 
 Arcade System logos from a collection by Arcade-4-Fun

@@ -317,7 +317,8 @@
          <glowColor>${glowColor}</glowColor>
          <glowSize>5</glowSize>
 		<visible>true</visible>
-      </text> 
+      </text>
+
 		
 		<text name="md_name">
 		  <visible>false</visible>
@@ -366,6 +367,18 @@
           <maxSize>0.180 0.100</maxSize>
       </image> 
 		
+		<image name="gridtile.favorite">
+         <path>./assets/favorites.svg</path>
+         <pos>0.0 0</pos>
+			<maxSize>0.25 0.25</maxSize>
+			<origin>0 0</origin>
+         <color>7e7e7e</color>
+      </image>
+		
+      <image name="gridtile.favorite:selected">
+         <path>./assets/favorites.svg</path>
+         <color>${cgtbgedgeselect}</color>
+      </image>
    </view>
 	
    
@@ -787,14 +800,6 @@
       <text name="gridtile_selected">
  <visible>false</visible>
       </text>
-	  
-      <image name="gridtile.favorite">
- <visible>true</visible>
-      </image>
-	  
-      <image name="gridtile.favorite:selected">
- <visible>true</visible>
-      </image>
 	  
 			<image name="release_date_logo" extra="true">
 		<visible>false</visible>

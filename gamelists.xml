@@ -318,7 +318,6 @@
          <glowSize>5</glowSize>
 		<visible>true</visible>
       </text>
-
 		
 		<text name="md_name">
 		  <visible>false</visible>

@@ -74,7 +74,7 @@ Video on Detail View: Game video's can now be turned off completely on detailed 
 PANEL VIEW
 -----------
 
-Flix view provides a netflix style interface for both system pages and gamelists. The system pages DO support video, but you must provide the videos.
+Panel view provides a netflix style interface for both system pages and gamelists. The system pages DO support video, but you must provide the videos.
 
 Simply drop videos in mp4 format into /roms/video and they will be picked up by the theme as long as they use the correct filenames so psx.mp3, nes.mp4, etc etc
 

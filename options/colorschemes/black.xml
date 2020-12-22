@@ -77,7 +77,7 @@
 	
 	<cgtbg>00000000</cgtbg> <!-- grid tile background color -->	
 	<cgtbgedge>00000000</cgtbgedge>   <!-- background edge color -->
-	<cgtbgedgeselect>717171</cgtbgedgeselect>   <!-- ##	 background edge of selected item # -->
+	<cgtbgedgeselect>ffffff</cgtbgedgeselect>   <!-- ##	 background edge of selected item # -->
 	
 <!-- carousel view -->
 	

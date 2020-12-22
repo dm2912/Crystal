@@ -73,11 +73,14 @@ Video Delay On Gamelist: Adjust how long it takes before the screenshot or image
 Video on Detail View: Game video's can now be turned off completely on detailed vews
 
 
+'FLIX VIEW
 ================================
 
-Still to do:
+Flix view provides a netflix style interface for both system pages and gamelists. The system pages DO support video, but you must provide the videos.
 
-+ Translations need doing for all non-english languages
+Simply drop videos in mp4 format into /roms/video and they will be picked up by the theme as long as they use the correct filenames so psx.mp3, nes.mp4, etc etc
+
+
 
 --------------------------------------------------------------
 |.......I M P O R T A N T.......|

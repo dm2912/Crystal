@@ -2,7 +2,7 @@
 
 <!-- gamelists -->
 
-<theme defaultView="grid">
+<theme defaultView="tile">
    <formatVersion>7</formatVersion>
 	  
     
@@ -660,11 +660,153 @@
          <showSnapshotNoVideo>false</showSnapshotNoVideo>
          <showSnapshotDelay>false</showSnapshotDelay>
      </video>
-	 
-		
+	
 	</customView>
 	
-	<!-- gamelists - small screen  -->
+	
+	<!-- gamelists - netflix style -->
+
+  <customView name="tile" inherits="grid" displayName="Panel">
+	  
+	 <image name="bottom" extra="true">
+		 <visible>false</visible>
+    </image>
+   
+    <image name="md_image">
+	     <origin>0 0</origin>
+         <pos>.3 0</pos>
+         <size>.70 .7</size>
+         <zIndex>4</zIndex>
+      </image>
+	  
+	  		<video name="md_video">
+		<origin>0 0</origin>
+         <pos>0.3 0.0</pos>
+		 <size>0.70 0.68</size>
+       <delay>${delay}</delay>
+         <showSnapshotNoVideo>false</showSnapshotNoVideo>
+		<visible>true</visible>
+			<zIndex>5</zIndex>
+      </video>
+	  
+	<image name="background" extra="true">
+         <path>./assets/filters/black/bg-flix.svg</path>
+		<zindex>6</zindex>
+      </image>	
+	  
+	<!-- 
+	<image name="md_marquee">
+		<pos>0.175 0.145</pos>
+         <maxSize>0.20 0.18</maxSize>
+        <alignment>left</alignment>
+     	 </image>
+-->
+	  
+	 <image name="system_logo" extra="true">
+       <pos>0.025 0.190</pos>
+      <maxSize>0.10 0.10</maxSize>
+		 <zIndex>95</zIndex>
+      </image>
+	  
+ 	   <text name="md_name">
+         <color>${cgtbgedgeselect}</color>
+         <pos>0.025 0.05</pos>
+		 <fontSize>0.09</fontSize>
+         <size>0.92 0.15</size>
+         <alignment>left</alignment>
+         <glowColor>${cglglow}</glowColor>
+         <glowSize>4</glowSize>
+		 <visible>true</visible>
+      </text>
+	
+	  
+	       <text name="md_description">
+         <color>${cgdescription}</color>
+        <pos>.025 0.28</pos>
+       <size>0.48 0.38</size>
+       <fontPath>./../fonts/OpenSans-Semi-Bold.ttf</fontPath>
+         <fontSize>0.038</fontSize>
+			   <alignment>left</alignment>
+		 <glowColor>${cglglow}</glowColor>
+         <glowSize>1</glowSize>
+      </text>
+
+	  
+	   <imagegrid name="gamegrid">
+		<pos>.0 0.7</pos>
+         <size>1 .3</size>
+         <autoLayout>5 1</autoLayout>
+         <autoLayoutSelectedZoom>1.15</autoLayoutSelectedZoom>
+         <imageSource>image</imageSource>
+		    <scrollDirection>horizontal</scrollDirection>
+      </imagegrid>
+	  
+      <gridtile name="default">
+         <backgroundCenterColor>FFFFFF20</backgroundCenterColor>
+         <backgroundEdgeColor>FFFFFF20</backgroundEdgeColor>
+         <imageColor>FFFFFFAA</imageColor>
+         <backgroundCornerSize>0 0</backgroundCornerSize>
+         <backgroundCornerSize>0.0</backgroundCornerSize>
+      </gridtile>
+	  
+	   
+      <gridtile name="selected">
+         <size>0.230 0.259</size>
+         <padding>5 5</padding>
+         <imageColor>FFFFFFFF</imageColor>
+         <backgroundCornerSize>0 0</backgroundCornerSize>
+         <backgroundCornerSize>0.0</backgroundCornerSize>
+      </gridtile>
+ 
+    
+	  <image name="gridtile.image">
+		  <roundCorners>0.00</roundCorners>
+      </image>
+		  
+       <image name="gridtile.marquee">
+         <pos>0.5 0.5</pos>
+         <origin>0.5 0.5</origin>
+         <size>0.85 0.85</size>
+      </image>
+	  
+	  
+      <image name="gridtile.marquee:selected">
+         <size>0.85 0.85</size>
+      </image>
+	  
+	  <rating name="md_rating">
+ <visible>false</visible>
+      </rating>
+	  
+	  
+    <text name="gridtile">
+  <visible>false</visible>
+      </text>
+	  
+      <text name="gridtile_selected">
+ <visible>false</visible>
+      </text>
+	  
+      <image name="gridtile.favorite">
+ <visible>true</visible>
+      </image>
+	  
+      <image name="gridtile.favorite:selected">
+ <visible>true</visible>
+      </image>
+	  
+			<image name="release_date_logo" extra="true">
+		<visible>false</visible>
+		</image>
+	   
+      
+	  <datetime name="md_releasedate">
+      <visible>false</visible>
+      </datetime>
+	  
+   </customView>
+	
+		<!-- gamelists - small screen  -->
 	
       <customView name="Small Screen" inherits="detailed" displayName="${smallscreengamelist}">
 		
@@ -680,7 +822,7 @@
  <textlist name="gamelist">
          <pos>0.675 0.19</pos>
          <size>0.305 0.77</size>
-         <fontSize>0.026</fontSize>
+         <fontSize>0.036</fontSize>
          <lineSpacing>2.0</lineSpacing>
       </textlist>
 		
@@ -702,10 +844,7 @@
       <datetime name="md_releasedate">
         <visible>false</visible>
       </datetime>
-	
  
-
-	 
 	   <image name="developer_logo" extra="true">
 			<visible>false</visible>
 		</image>
@@ -792,233 +931,6 @@
          <pos>0.25 0.87</pos>
 			  <size>0.05</size>
       </rating>
-		
-   </customView>	
-
-
-	
-		<!-- gamelists - fanart view 
- 
-   <customView name="Fanart" inherits="grid" tinyScreen="false" displayName="${fanartViewName}">
-      <text name="md_name">
-         <color>ffffffff</color>
-         <pos>0.025 0.16</pos>
-         <size>0.92 0.10</size>
-         <alignment>left</alignment>
-         <glowColor>00000016</glowColor>
-         <glowSize>4</glowSize>
-         <fontPath>./fonts/Homizio.ttf</fontPath>
-         <zIndex>0</zIndex>
-      </text>
-
-      <imagegrid name="gamegrid">
-         <pos>0.72 0</pos>
-         <size>0.3 1</size>
-         <scrollDirection>vertical</scrollDirection>
-         <autoLayout>1 7</autoLayout>
-         <autoLayoutSelectedZoom>1.30</autoLayoutSelectedZoom>
-         <margin>0.005 0.010</margin>
-         <centerSelection>true</centerSelection>
-         <scrollLoop>true</scrollLoop>
-	  <imageSource>marquee</imageSource>
-
-      </imagegrid>
-      <gridtile name="default">
-         <padding>64 16</padding>
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <imageSizeMode>maxSize</imageSizeMode>
-         <imageColor>FFFFFFAA</imageColor>
-         <reflexion>0.11 0.0</reflexion>
-      </gridtile>
-      <gridtile name="selected">
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <padding>64 16</padding>
-      </gridtile>
-      <text name="gridtile">
-         <color>80808080</color>
-         <fontSize>0.016</fontSize>
-         <size>1 0</size>
-      </text>
-      <text name="gridtile_selected">
-         <color>FFFFFF00</color>
-         <fontSize>0.035</fontSize>
-         <size>1 0</size>
-      </text>
-      <image name="art2" extra="true">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <zIndex>6</zIndex>
-      </image>
-      <text name="md_description">
-         <pos>0.025 0.36</pos>
-         <size>0.32 0.22</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>left</alignment>
-      </text>
-     <video name="md_video">
-         <pos>0.025 0.62</pos>
-         <minSize>0.30 0.30</minSize>
-         <origin>0 0</origin>
-       <delay>${delay}</delay>
-         <showSnapshotNoVideo>false</showSnapshotNoVideo>
-         <showSnapshotDelay>false</showSnapshotDelay>
-         <zIndex>6</zIndex>
-      </video>
-
-      <image name="logo">
-         <zIndex>0</zIndex>
-      </image>
-
-      <image name="md_marquee">
-         <pos>0.155 0.16</pos>
-         <size>0.25 0</size>
-         <zIndex>36</zIndex>
-      </image>
-
-      <rating name="md_rating">
-         <pos>0.04 0.88</pos>
-         <size>0.05 0.03</size>
-         <filledPath>./assets/gamelist_icons/rating_filled.svg</filledPath>
-         <unfilledPath>./assets/gamelist_icons/rating_unfilled.svg</unfilledPath>
-		 <color>${crating}</color>
-      </rating>
-
-      <image name="md_image">
-	     <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <zIndex>4</zIndex>
-      </image>
-
-      <text name="md_publisher">
-         <color>ffffff00</color>
-         <fontPath>./fonts/Homizio.ttf</fontPath>
-         <pos>0.42 0.63</pos>
-      </text>
-   </customView>
-
--->
-	
-<!-- gamelists - fanart with fullscreen video
-
-   <customView name="Fanart (Full Video + Logo)" inherits="grid" tinyScreen="false" displayName="${fanartvlViewName}">
-      <text name="md_name">
-         <color>ffffffff</color>
-         <pos>0.025 0.16</pos>
-         <size>0.92 0.10</size>
-         <alignment>left</alignment>
-         <glowColor>00000016</glowColor>
-         <glowSize>4</glowSize>
-         <fontPath>./fonts/Homizio.ttf</fontPath>
-         <zIndex>0</zIndex>
-      </text>
-      <text name="md_developer">
-         <pos>0.12 0.65</pos>
-         <size>0.42 0.05</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>left</alignment>
-      </text>
-      <imagegrid name="gamegrid">
-         <pos>0.72 0</pos>
-         <size>0.3 1</size>
-         <scrollDirection>vertical</scrollDirection>
-         <autoLayout>1 7</autoLayout>
-         <autoLayoutSelectedZoom>1.30</autoLayoutSelectedZoom>
-         <margin>0.005 0.010</margin>
-         <centerSelection>true</centerSelection>
-         <scrollLoop>true</scrollLoop>
-	  <imageSource>marquee</imageSource>
-      </imagegrid>
-      <gridtile name="default">
-         <padding>64 16</padding>
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <imageSizeMode>maxSize</imageSizeMode>
-         <imageColor>FFFFFFAA</imageColor>
-         <reflexion>0.11 0.0</reflexion>
-      </gridtile>
-      <gridtile name="selected">
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <padding>64 16</padding>
-      </gridtile>
-      <text name="gridtile">
-         <color>80808080</color>
-         <fontSize>0.016</fontSize>
-         <size>1 0</size>
-      </text>
-      <text name="gridtile_selected">
-         <color>FFFFFF00</color>
-         <fontSize>0.035</fontSize>
-         <size>1 0</size>
-      </text>
-      <image name="art2" extra="true">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <zIndex>6</zIndex>
-      </image>
-      <text name="md_description">
-         <pos>0.025 0.36</pos>
-         <size>0.32 0.29</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>left</alignment>
-      </text>
-     <video name="md_video">
-         <pos>0 0</pos>
-         <minSize>1 1</minSize>
-         <origin>0 0</origin>
-       <delay>${delay}</delay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>true</showSnapshotDelay>
-         <zIndex>5</zIndex>
-      </video>
-
-      <image name="md_marquee">
-         <pos>0.155 0.16</pos>
-         <size>0.25 0</size>
-         <zIndex>36</zIndex>
-      </image>
-
-      <rating name="md_rating">
-         <pos>0.02 0.66</pos>
-         <size>0.05 0.03</size>
-         <filledPath>./assets/gamelist_icons/rating_filled.svg</filledPath>
-         <unfilledPath>./assets/gamelist_icons/rating_unfilled.svg</unfilledPath>
-		 <color>${crating}</color>
-      </rating>
-
-      <image name="logo">
-         <zIndex>0</zIndex>
-      </image>
-
-      <image name="md_image">
-	     <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <zIndex>4</zIndex>
-      </image>
-
-      <text name="md_publisher">
-         <color>ffffff00</color>
-         <fontPath>./fonts/Homizio.ttf</fontPath>
-         <pos>0.42 0.63</pos>
-      </text>
-   </customView>
-
- -->
-	
+ </customView>	
 	
 </theme>

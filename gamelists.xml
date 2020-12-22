@@ -673,10 +673,7 @@
     </image>
    
     <image name="md_image">
-	     <origin>0 0</origin>
-         <pos>.3 0</pos>
-         <size>.70 .7</size>
-         <zIndex>4</zIndex>
+		<visible>false</visible>
       </image>
 	  
 	  		<video name="md_video">
@@ -706,6 +703,10 @@
        <pos>0.025 0.190</pos>
       <maxSize>0.10 0.10</maxSize>
 		 <zIndex>95</zIndex>
+      </image>
+	  
+	  <image name="logo">
+		  <visible>false</visible>
       </image>
 	  
  	   <text name="md_name">

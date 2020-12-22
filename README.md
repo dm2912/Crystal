@@ -1,14 +1,13 @@
 **This theme is intended for EMUELEC and only contains graphics for systems supported by EmuElec**
-==================================================================================================
 
 THIS THEME IS NOT TO BE INCLUDED IN ANY COMMERCIAL RELEASES
-===========================================================
+-----------------------------------------------------------
 
 
 Crystal: 
 
 DYNAMIC COLLECTION THEMING
-==========================
+---------------------------
 
 To create a dynamic collection:
 
@@ -34,7 +33,7 @@ I have a set of premade xcc collection files here> https://github.com/dm2912/Cry
 
 
 AUTOMATIC COLLECTIONS (Arcade)
-==============================
+------------------------------
 
 The various publisher themes will work from automatic collections:
 
@@ -46,13 +45,13 @@ To Do list: Acclaim, Alpha Denshi, Cave, Cinematronics, Eighting/Raizing, Exidy,
 
 
 ADDING ADDITIONAL SYSTEMS/COLLECTIONS. 
-======================================
+--------------------------------------
 
 If you wish a system added that is not there, raise a git issue and I will add.
 
 
 THEME OPTIONS (All can be found under UI settings > Theme Configuration)
-=============
+-------------
 
 Color Scheme: The theme supports multiple color schemes which you can change here.
 
@@ -72,9 +71,8 @@ Video Delay On Gamelist: Adjust how long it takes before the screenshot or image
 
 Video on Detail View: Game video's can now be turned off completely on detailed vews
 
-
-'FLIX VIEW
-================================
+PANEL VIEW
+-----------
 
 Flix view provides a netflix style interface for both system pages and gamelists. The system pages DO support video, but you must provide the videos.
 

@@ -8,6 +8,22 @@
 	<include lang="fr">./lang/francais.xml</include> 
 	<include lang="pt">./lang/portugues.xml</include>
 
+    <include subset="thememusic" name="yes" displayName="${yes}">./options/sound/sound_on.xml</include>
+    <include subset="thememusic" name="no" displayName="${no}">./options/sound/sound_off.xml</include>
+
+    <include subset="sysvdelay" name="1" displayName="${delay3}">./options/sysvideodelay/video_delay_3.xml</include>
+    <include subset="sysvdelay" name="2" displayName="${delay5}">./options/sysvideodelay/video_delay_5.xml</include>
+    <include subset="sysvdelay" name="3" displayName="${delay10}">./options/sysvideodelay/video_delay_10.xml</include>
+    <include subset="sysvdelay" name="20" displayName="${delay20}">./options/sysvideodelay/video_delay_20.xml</include>
+    <include subset="sysvdelay" name="0" displayName="${delay0}">./options/sysvideodelay/video_delay_0.xml</include>   
+    <include subset="sysvdelay" name="nv" displayName="${novideo}">./options/sysvideodelay/no_video.xml</include>
+
+   <include subset="vdelay" name="1" displayName="${delay1}">./options/videodelay/video_delay_1.xml</include>
+    <include subset="vdelay" name="2" displayName="${delay2}">./options/videodelay/video_delay_2.xml</include>
+    <include subset="vdelay" name="3" displayName="${delay3}">./options/videodelay/video_delay_3.xml</include>
+    <include subset="vdelay" name="0" displayName="${delay0}">./options/videodelay/video_delay_0.xml</include>
+    <include subset="vdelay" name="nv" displayName="${novideo}">./options/videodelay/no_video.xml</include>
+
     <include subset="colortheme" name="4c" displayName="${ctblack}">./options/colorschemes/black.xml</include>
     <include subset="colortheme" name="1b" displayName="${ctblue}">./options/colorschemes/blue.xml</include>
     <include subset="colortheme" name="2g" displayName="${ctgreen}">./options/colorschemes/green.xml</include>
@@ -19,28 +35,26 @@
     <include subset="logoset" name="Controllers" displayName="${conlog}">./options/logosets/controllers.xml</include>
     <include subset="logoset" name="panel" displayName="panel">./options/logosets/panel.xml</include>
 
-   <include subset="systemview" name="panel" displayName="Panel">./systemview/panel.xml</include>
-	<include subset="systemview" name="horizontal detailed" displayName="${systemdetails}">./systemview/horizontal_details.xml</include>
-	<include subset="systemview" name="detailed view" displayName="${hordetail}">./systemview/details.xml</include>
-	<include subset="systemview" name="horizontal" displayName="${horizontal}">./systemview/horizontal.xml</include>
-	<include subset="systemview" name="carousel left" displayName="${lhc}">./systemview/carousel-left.xml</include>
-	<include subset="systemview" name="carousel right" displayName="${rhc}">./systemview/carousel-right.xml</include>
-    <include subset="systemview" name="classic" displayName="${smallscreengamelist}">./systemview/classic.xml</include>
- <!--   <include subset="systemview" name="classic no help" displayName="${smallscreengamelistnh}">./systemview/classic-nh.xml</include> -->
-
- 
-    
-    <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./options/background/artflix.xml</include>
-<!--	<include subset="colorset" name="Bella BG" displayName="${bellabg}">./options/background/bella.xml</include> -->
-	 
-	<include subset="iconset" name="Crystal" displayName="${idefault}">./options/helpicons/crystal.xml</include>
+    <include subset="iconset" name="Crystal" displayName="${idefault}">./options/helpicons/crystal.xml</include>
 	<include subset="iconset" name="Crystal Reverse" displayName="${idefaultrev}">./options/helpicons/crystal-rev.xml</include>
 	<include subset="iconset" name="Crystal X" displayName="Crystal X-Box">./options/helpicons/crystalx.xml</include>
 	<include subset="iconset" name="Crystal F" displayName="Crystal Famicom">./options/helpicons/crystalf.xml</include>
 	<include subset="iconset" name="Crystal S" displayName="Crystal SNES">./options/helpicons/crystals.xml</include>
 	<include subset="iconset" name="Crystal PSX" displayName="Crystal PSX">./options/helpicons/crystalpsx.xml</include>
 	<include subset="iconset" name="Crystal dream" displayName="Crystal Dreamcast">./options/helpicons/crystaldream.xml</include>
-	<include subset="iconset" name="Crystal saturn" displayName="Crystal Saturn">./options/helpicons/crystalsaturn.xml</include>
+	<include subset="iconset" name="Crystal saturn" displayName="Crystal Saturn">./options/helpicons/crystalsaturn.xml</include>   
+
+    <include subset="systemview" name="panel" displayName="Panel">./systemview/panel.xml</include>
+	<include subset="systemview" name="horizontal detailed" displayName="${systemdetails}">./systemview/horizontal_details.xml</include>
+	<include subset="systemview" name="detailed view" displayName="${hordetail}">./systemview/details.xml</include>
+	<include subset="systemview" name="horizontal" displayName="${horizontal}">./systemview/horizontal.xml</include>
+	<include subset="systemview" name="carousel left" displayName="${lhc}">./systemview/carousel-left.xml</include>
+	<include subset="systemview" name="carousel right" displayName="${rhc}">./systemview/carousel-right.xml</include>
+    <include subset="systemview" name="classic" displayName="${smallscreengamelist}">./systemview/classic.xml</include>
+ 
+    <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./options/background/artflix.xml</include>
+	 
+	
 
 <!--	<include subset="iconset" name="Crystal 2" displayName="Crystal II">./options/helpicons/crystal2.xml</include>
 	<include subset="iconset" name="Crystal 2 Reverse" displayName="Crystal II (Reverse)">./options/helpicons/crystal2-rev.xml</include>
@@ -49,18 +63,15 @@
     <include subset="iconset" name="Xbox" displayName="${ixbox}">./options/helpicons/xbox.xml</include>
     <include subset="iconset" name="Xbox Reverse" displayName="${ixbox2}">./options/helpicons/xbox-rev.xml</include>
 	<include subset="iconset" name="Arcade" displayName="${iarcade}">./options/helpicons/arcade.xml</include>
-    <include subset="iconset" name="Playstation" displayName="${ipsx}">./options/helpicons/psx.xml</include> -->
+    <include subset="iconset" name="Playstation" displayName="${ipsx}">./options/helpicons/psx.xml</include> 
 
     <include subset="slog" name="yes" displayName="${yes}">./options/syslogos/syslogo_yes.xml</include>
-    <include subset="slog" name="no" displayName="${no}">./options/syslogos/syslogo_no.xml</include>
+    <include subset="slog" name="no" displayName="${no}">./options/syslogos/syslogo_no.xml</include>-->
 
-    <include subset="thememusic" name="yes" displayName="${yes}">./options/sound/sound_on.xml</include>
-    <include subset="thememusic" name="no" displayName="${no}">./options/sound/sound_off.xml</include>
 
-    <include subset="vdelay" name="1" displayName="${delay1}">./options/videodelay/video_delay_1.xml</include>
-    <include subset="vdelay" name="2" displayName="${delay2}">./options/videodelay/video_delay_2.xml</include>
-    <include subset="vdelay" name="3" displayName="${delay3}">./options/videodelay/video_delay_3.xml</include>
-    <include subset="vdelay" name="0" displayName="${delay0}">./options/videodelay/video_delay_0.xml</include>
-    <include subset="vdelay" name="nv" displayName="${novideo}">./options/videodelay/no_video.xml</include>
+
+ 
+  
+
 
 </theme>

@@ -41,7 +41,7 @@
 <origin>0 0</origin>
          <pos>0.3 0.0</pos>
 		 <size>0.70 0.68</size>
-       <delay>3</delay>
+       <delay>${svdelay}</delay>
          <showSnapshotNoVideo>false</showSnapshotNoVideo>
 		<visible>true</visible>
 		<zIndex>3</zIndex>

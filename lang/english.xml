@@ -56,6 +56,9 @@
     <delay1>1 second</delay1>
     <delay2>2 seconds</delay2>
     <delay3>3 seconds</delay3>
+    <delay5>5 seconds</delay5>
+    <delay10>10 seconds</delay10>
+    <delay20>20 seconds</delay20>
     <delay0>no delay</delay0>
     <novideo>disable videos</novideo>	
 <!-- Submenus -->
@@ -69,7 +72,8 @@
     <subset.vdelay>Video delay on gamelist</subset.vdelay>
     <subset.slog>System Logo on Gamelists</subset.slog>
     <subset.colortheme>Theme Colour Scheme</subset.colortheme>
-    <subset.videoview>Video's on detailed gamelists</subset.videoview>
+    <subset.videoview>Gamelist Video Delay</subset.videoview>
+    <subset.sysvdelay>System view Video Delay</subset.sysvdelay>
 <!-- System descriptions -->
     <psx>The PlayStation (unofficially abbreviated as PSX) is a home video game console developed and marketed by Sony Computer Entertainment.  The original console in the series was the first console of any type to ship over 100 million units, doing so in under a decade.</psx>
     <threedo>The 3DO is a home video game console conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not manufactured by the company itself. Panasonic produced the first models, and further renditions of the hardware were released by GoldStar and Sanyo. </threedo>

@@ -51,6 +51,9 @@
     <delay1>1 segundo</delay1>
     <delay2>2 segundos</delay2>
     <delay3>3 segundos</delay3>
+    <delay5>5 segundos</delay5>
+    <delay10>10 segundos</delay10>
+    <delay20>20 segundos</delay20>
     <delay0>sem demora</delay0>	
     <novideo>disable videos</novideo>	
 <!-- color schemes -->
@@ -71,7 +74,8 @@
    	<subset.vdelay>Atraso de vídeo no gamelist</subset.vdelay>
     <subset.slog>Logotipo do sistema em Gamelistas</subset.slog>
    	<subset.colortheme>Esquema de cores do tema</subset.colortheme>
-    <subset.videoview>Vídeos sobre gamelistas detalhados</subset.videoview>
+    <subset.videoview>Atraso de vídeo Gamelist</subset.videoview>
+    <subset.sysvdelay>Atraso de vídeo da visualização do sistema</subset.sysvdelay>
 <!-- Descrições do sistema -->
     <psx>O PlayStation (não oficialmente abreviado como PSX) é um console de videogame doméstico desenvolvido e comercializado pela Sony Computer Entertainment. O console original da série foi o primeiro console de qualquer tipo a distribuir mais de 100 milhões de unidades, em menos de uma década.</psx>
     <threedo>O 3DO é um console de videogame caseiro idealizado pelo empresário e fundador da Electronic Arts Trip Hawkins, o 3DO não foi fabricado pela própria empresa. A Panasonic produziu os primeiros modelos e outras versões do hardware foram lançadas pela GoldStar e Sanyo.</threedo>

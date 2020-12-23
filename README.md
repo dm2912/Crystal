@@ -79,6 +79,8 @@ Panel view provides a netflix style interface for both system pages and gamelist
 
 Simply drop videos in mp4 format into /roms/video and they will be picked up by the theme as long as they use the correct filenames so psx.mp3, nes.mp4, etc etc
 
+You can also specify a video as default.mp4 which will play if system view is not present
+
 
 
 --------------------------------------------------------------

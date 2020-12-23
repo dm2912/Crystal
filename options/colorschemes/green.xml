@@ -23,13 +23,14 @@
 
 <!-- Menu colours - colours used by the main menus -->
 
-    <cmenufooter>7fe77d</cmenufooter>	<!-- ## menu footer color ## -->
+     <cmenufooter>a2a2a2</cmenufooter>	<!-- ## menu footer color ## -->
     <cmenutext>868686</cmenutext>	<!-- ## menu text color ## -->
     <cmenuseperator>191919</cmenuseperator>	<!-- ## menu seperators ## -->
     <cselected>FFFFFF</cselected>	<!-- ## selected menu text ## -->
-    <cmenusubtitle>8CFF8A</cmenusubtitle>	<!-- ## menu subtitle color ## -->
-    <cmenutitle>DFECFA</cmenutitle>	<!-- ## menu title color ## -->
-    <cmenubg>0C360C</cmenubg>	<!-- ## menu background color ## -->
+    <cmenusubtitle>a2a2a2</cmenusubtitle>	<!-- ## menu subtitle color ## -->
+    <cmenutitle>d0d0d0</cmenutitle>	<!-- ## menu title color ## -->
+    <cmenubg>1d1d1d</cmenubg>	<!-- ## menu background color ## -->
+
 
 <!-- Global stuff -->
 

@@ -7,6 +7,16 @@ THIS THEME IS NOT TO BE INCLUDED IN ANY COMMERCIAL RELEASES
 
 Crystal: 
 
+PANEL VIEW
+-----------
+
+Panel view provides a netflix style interface for both system pages and gamelists. The system pages DO support video, but you must provide the videos.
+
+Simply drop videos in mp4 format into /roms/video and they will be picked up by the theme as long as they use the correct filenames so psx.mp3, nes.mp4, etc etc
+
+You can also specify a video as default.mp4 which will play if system view is not present. This is saved in /themes/Crystal/assets/
+
+
 DYNAMIC COLLECTION THEMING
 ---------------------------
 
@@ -72,14 +82,6 @@ Video Delay On Gamelist: Adjust how long it takes before the screenshot or image
 
 Video on Detail View: Game video's can now be turned off completely on detailed vews
 
-PANEL VIEW
------------
-
-Panel view provides a netflix style interface for both system pages and gamelists. The system pages DO support video, but you must provide the videos.
-
-Simply drop videos in mp4 format into /roms/video and they will be picked up by the theme as long as they use the correct filenames so psx.mp3, nes.mp4, etc etc
-
-You can also specify a video as default.mp4 which will play if system view is not present
 
 
 

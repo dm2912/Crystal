@@ -24,10 +24,10 @@
     <include subset="vdelay" name="0" displayName="${delay0}">./options/videodelay/video_delay_0.xml</include>
     <include subset="vdelay" name="nv" displayName="${novideo}">./options/videodelay/no_video.xml</include>
 
+    <include subset="colortheme" name="3r" displayName="${ctred}">./options/colorschemes/red.xml</include>
     <include subset="colortheme" name="4c" displayName="${ctblack}">./options/colorschemes/black.xml</include>
     <include subset="colortheme" name="1b" displayName="${ctblue}">./options/colorschemes/blue.xml</include>
     <include subset="colortheme" name="2g" displayName="${ctgreen}">./options/colorschemes/green.xml</include>
-    <include subset="colortheme" name="3r" displayName="${ctred}">./options/colorschemes/red.xml</include>
 	<include subset="colortheme" name="5b" displayName="${ctgold}">./options/colorschemes/gold.xml</include>
 
     <include subset="logoset" name="Color" displayName="${colorlog}">./options/logosets/color.xml</include>

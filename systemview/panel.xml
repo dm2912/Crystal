@@ -37,10 +37,9 @@
    </helpsystem>
 	  
 	  <video name="md_video" extra="true">
-        <path>~/roms/video/default.mp4</path> 
+        <path>./assets/default.mp4</path> 
 		<path>~/roms/video/${system.theme}.mp4</path> 
-
-<origin>0 0</origin>
+        <origin>0 0</origin>
          <pos>0.3 0.0</pos>
 		 <size>0.70 0.68</size>
        <delay>${svdelay}</delay>

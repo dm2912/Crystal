@@ -11,12 +11,12 @@
     <include subset="thememusic" name="yes" displayName="${yes}">./options/sound/sound_on.xml</include>
     <include subset="thememusic" name="no" displayName="${no}">./options/sound/sound_off.xml</include>
 
-    <include subset="sysvdelay" name="1" displayName="${delay3}">./options/sysvideodelay/video_delay_3.xml</include>
-    <include subset="sysvdelay" name="2" displayName="${delay5}">./options/sysvideodelay/video_delay_5.xml</include>
-    <include subset="sysvdelay" name="3" displayName="${delay10}">./options/sysvideodelay/video_delay_10.xml</include>
-    <include subset="sysvdelay" name="20" displayName="${delay20}">./options/sysvideodelay/video_delay_20.xml</include>
-    <include subset="sysvdelay" name="0" displayName="${delay0}">./options/sysvideodelay/video_delay_0.xml</include>   
-    <include subset="sysvdelay" name="nv" displayName="${novideo}">./options/sysvideodelay/no_video.xml</include>
+    <include subset="sysvdelay" name="d3" displayName="${delay3}">./options/sysvideodelay/video_delay_3.xml</include>
+    <include subset="sysvdelay" name="d5" displayName="${delay5}">./options/sysvideodelay/video_delay_5.xml</include>
+    <include subset="sysvdelay" name="d10" displayName="${delay10}">./options/sysvideodelay/video_delay_10.xml</include>
+    <include subset="sysvdelay" name="d20" displayName="${delay20}">./options/sysvideodelay/video_delay_20.xml</include>
+    <include subset="sysvdelay" name="d0" displayName="${delay0}">./options/sysvideodelay/video_delay_0.xml</include>   
+    <include subset="sysvdelay" name="dnv" displayName="${novideo}">./options/sysvideodelay/no_video.xml</include>
 
    <include subset="vdelay" name="1" displayName="${delay1}">./options/videodelay/video_delay_1.xml</include>
     <include subset="vdelay" name="2" displayName="${delay2}">./options/videodelay/video_delay_2.xml</include>

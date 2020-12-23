@@ -55,7 +55,7 @@
     <delay10>10 seconde</delay10>
     <delay20>20 seconde</delay20>
     <delay0>sans délais</delay0>
-    <novideo>disable videos</novideo>	
+    <novideo>désactiver les vidéos</novideo>	
 <!-- color schemes -->
     <ctblue>Sapphire</ctblue>
 	<ctred>Ruby</ctred>

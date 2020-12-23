@@ -1,9 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <theme>
 	<formatVersion>7</formatVersion>
-	
-	<variables>
-		
+	<variables>	
 	<langue>es</langue>
 		
 <!-- Global -->
@@ -51,9 +49,9 @@
     <delay1>1 segundo</delay1>
     <delay2>2 segundos</delay2>
     <delay3>3 segundos</delay3>
-    <delay5>3 segundos</delay5>
-    <delay10>3 segundos</delay10>
-    <delay20>3 segundos</delay20>
+    <delay5>5 segundos</delay5>
+    <delay10>10 segundos</delay10>
+    <delay20>20 segundos</delay20>
     <delay0>sin demora</delay0>	
     <novideo>deshabilitar videos</novideo>	
 <!-- color schemes -->

@@ -74,7 +74,7 @@
          <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.070</fontSize>
          <glowColor>${ctextglow}</glowColor>
-         <glowSize>1</glowSize>
+         <glowSize>0</glowSize>
    </text>
 
 	<image name="console" extra="true">
@@ -92,7 +92,7 @@
 			<color>${cdescriptiontext}</color>
 			<fontSize>0.038</fontSize>
         <glowColor>${ctextglow}</glowColor>
-         <glowSize>1</glowSize>
+         <glowSize>0</glowSize>
 		</text>
 
 	  </view>

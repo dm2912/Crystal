@@ -62,7 +62,7 @@ ADDING ADDITIONAL SYSTEMS/COLLECTIONS.
 
 If you wish a system added that is not there, raise a git issue and I will add.
 
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-gamelist.png.png?raw=true)
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-gamelist.png?raw=true)
 
 THEME OPTIONS (All can be found under UI settings > Theme Configuration)
 -------------

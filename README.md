@@ -16,6 +16,8 @@ Simply drop videos in mp4 format into /roms/video and they will be picked up by 
 
 You can also specify a video as default.mp4 which will play if system view is not present. This is saved in /themes/Crystal/assets/
 
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-system.png?raw=true)
+
 
 DYNAMIC COLLECTION THEMING
 ---------------------------
@@ -60,6 +62,7 @@ ADDING ADDITIONAL SYSTEMS/COLLECTIONS.
 
 If you wish a system added that is not there, raise a git issue and I will add.
 
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-gamelist.png.png?raw=true)
 
 THEME OPTIONS (All can be found under UI settings > Theme Configuration)
 -------------

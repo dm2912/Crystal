@@ -4,8 +4,11 @@
   <formatVersion>4</formatVersion>
     <include>./systems/${system.theme}.xml</include>  
  <include>./common.xml</include>
+
   <feature supported="carousel">
+
   <view name="system">
+
     <carousel name="systemcarousel">
      <type>horizontal</type>
      <pos>0.35 0.0</pos>
@@ -20,13 +23,15 @@
     </carousel>
 
 	<image name="logo">
-		<path>./../assets/logos/controllers/right/${system.theme}.png</path>
+		<path>./../assets/logos/color_logo/${system.theme}.svg</path>
 	</image>
 
-	<image name="logo" extra="true">
+	<image name="system" extra="true">
         <pos>0.760 0.11</pos>
+    <path>./../assets/logos/color_logo/${system.theme}.svg</path>
          <maxSize>0.21 0.130</maxSize>
         <alignment>right</alignment>
+    <visible>true</visible>
       </image>
 
 	<image name="controller" extra="true">
@@ -43,7 +48,7 @@
          <textColor>${chelptext}</textColor>
    </helpsystem>  
 
-<text name="shortdescription" extra="true">
+    <text name="shortdescription" extra="true">
  <fontPath>./../fonts/OpenSans-Bold.ttf</fontPath>
 			<alignment>right</alignment>
 			<color>${cshortdescriptiontext}</color>

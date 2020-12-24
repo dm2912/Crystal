@@ -10,7 +10,7 @@ Detailed 1
 Detailed 2
 ![alt text](https://github.com/dm2912/Crystal/blob/master/screens/detail-2-system.png?raw=true)
 
-Carousel (Either left or right carousel)
+Carousel (either left or right carousel)
 ![alt text](https://github.com/dm2912/Crystal/blob/master/screens/carousel-system.png?raw=true)
 
 Classic/Small Screen
@@ -23,7 +23,7 @@ GAMELIST VIEWS
 Panel
 ![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-gamelist.png?raw=true)
 
-Grid
+Detailed Grid (as well as basic grid)
 ![alt text](https://github.com/dm2912/Crystal/blob/master/screens/grid-gamelist.png?raw=true)
 
 Detailed List (as well as simple list)

@@ -2,34 +2,34 @@ SYSTEM VIEWS
 -----------
 
 Panel
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-system.png?raw=true)
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-system.jpg?raw=true)
 
 Detailed 1
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/detail-system.png?raw=true)
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/detail-system.jpg?raw=true)
 
 Detailed 2
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/detail-2-system.png?raw=true)
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/detail-2-system.jpg?raw=true)
 
 Carousel (either left or right carousel)
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/carousel-system.png?raw=true)
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/carousel-system.jpg?raw=true)
 
 Classic/Small Screen
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/classic-system.png?raw=true)
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/classic-system.jpg?raw=true)
 
 
 GAMELIST VIEWS
 --------------
 
 Panel
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-gamelist.png?raw=true)
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-gamelist.jpg?raw=true)
 
 Detailed Grid (as well as basic grid)
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/grid-gamelist.png?raw=true)
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/grid-gamelist.jpg?raw=true)
 
 Detailed List (as well as simple list)
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/detail-gamelist.png?raw=true)
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/detail-gamelist.jpg?raw=true)
 
 Detailed Carousel (as well as basic carousel and video carousel)
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/carousel-gamelist.png?raw=true)
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/carousel-gamelist.jpg?raw=true)
 
 

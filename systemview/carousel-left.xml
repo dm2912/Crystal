@@ -7,13 +7,13 @@
 <view name="system">
       <carousel name="systemcarousel">
 			<type>vertical</type>
-			<pos>0.007 0</pos>
-			<size>0.17 1</size>
+			<pos>0.00 0</pos>
+			<size>0.16 1</size>
 			<logoScale>1.2</logoScale>
-			<logoSize>0.10 0.10</logoSize>
+			<logoSize>0.11 0.11</logoSize>
 			<color>00000000</color>
 			<origin>0 0</origin>
-			<logoAlignment>left</logoAlignment>
+			<logoAlignment>center</logoAlignment>
 			<maxLogoCount>7</maxLogoCount>
 			<zIndex>29</zIndex>
 		</carousel>
@@ -27,7 +27,7 @@
    </text>
 	
 	 <helpsystem name="help">   
-         <pos>0.616 0.965</pos>      
+         <pos>0.007 0.965</pos>      
    </helpsystem> 
 
 <image name="background" extra="true">

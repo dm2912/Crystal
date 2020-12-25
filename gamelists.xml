@@ -371,7 +371,7 @@
          <pos>0.0 0</pos>
 			<maxSize>0.25 0.25</maxSize>
 			<origin>0 0</origin>
-         <color>313131</color>
+         <color>7e7e7e</color>
       </image>
 		
       <image name="gridtile.favorite:selected">

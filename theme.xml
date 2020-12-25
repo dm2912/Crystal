@@ -106,20 +106,6 @@ github:			https://github.com/dm2912
    </view>
 	
 	
-	<view name="detailed" ifHelpPrompts="false">
-   	
-		<text name="md_description">
-         <size>0.575 0.450</size>
-		</text>
-   </view>
-	
-	<view name="grid" ifHelpPrompts="false">
-	 <text name="md_description">
-           <pos>0.675 0.19</pos>
-         <size>0.305 0.76</size>
-	   </text> 	
-	</view>
-
 
 	
 	<!--

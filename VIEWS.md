@@ -1,3 +1,9 @@
+THEME OPTIONS
+-------------
+
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/theme-options.jpg?raw=true)
+
+
 SYSTEM VIEWS
 -----------
 

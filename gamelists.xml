@@ -371,7 +371,7 @@
          <pos>0.0 0</pos>
 			<maxSize>0.25 0.25</maxSize>
 			<origin>0 0</origin>
-         <color>7e7e7e</color>
+         <color>282828</color>
       </image>
 		
       <image name="gridtile.favorite:selected">
@@ -484,6 +484,7 @@
          <backgroundEdgeColor>${cbgedgeselect}</backgroundEdgeColor>		  
          <padding>64 16</padding>
       </gridtile>
+	   
       
 	   <text name="gridtile">
          <color>${cgt}</color>

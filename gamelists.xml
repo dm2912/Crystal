@@ -725,7 +725,8 @@
  	   <text name="md_name">
          <color>${cgtbgedgeselect}</color>
          <pos>0.025 0.05</pos>
-		 <fontSize>0.09</fontSize>
+    <fontPath>./fonts/BebasNeue-Regular.ttf</fontPath>
+		 <fontSize>0.10</fontSize>
          <size>0.92 0.15</size>
          <alignment>left</alignment>
          <glowColor>${cglglow}</glowColor>

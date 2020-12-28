@@ -378,6 +378,27 @@
          <path>./assets/favorites.svg</path>
          <color>${cgtbgedgeselect}</color>
       </image>
+		
+   <image name="gridtile.favorite:selected">
+         <path>./assets/favorites.svg</path>
+         <color>${cgtbgedgeselect}</color>
+      </image>
+		
+		      <image name="gridtile.cheevos">
+         <path>./assets/cheevos.svg</path>
+         <pos>0 1</pos>
+        <maxSize>0.25 0.25</maxSize>
+        <origin>0 1</origin>
+         <color>282828</color>
+      </image>
+        
+      <image name="gridtile.cheevos:selected">
+         <path>./assets/cheevos.svg</path>
+         <color>${cgtbgedgeselect}</color>
+      </image>
+
+		
+		
    </view>
 	
    
@@ -521,7 +542,7 @@
          <size>0.92 0.10</size>
          <alignment>center</alignment>
          <glowColor>${cglglow}</glowColor>
-         <glowSize>4</glowSize>
+         <glowSize>1</glowSize>
 		 <visible>true</visible>
       </text>
       <text name="md_developer">
@@ -531,7 +552,7 @@
          <alignment>center</alignment>
          <fontSize>0.030</fontSize>
          <glowColor>${cglglow}</glowColor>
-         <glowSize>3</glowSize>
+         <glowSize>1</glowSize>
       </text>
       <image name="md_marquee">
          <pos>0.500 0.12</pos>
@@ -631,6 +652,7 @@
          <size>0.20 0.175</size>
          <zIndex>99</zIndex>
 		  <alignment>left</alignment>
+	  <zIndex>99</zIndex>
       </image>		
 		
 	 <image name="players_logo" extra="true">
@@ -672,7 +694,12 @@
        <delay>${delay}</delay>
          <showSnapshotNoVideo>false</showSnapshotNoVideo>
          <showSnapshotDelay>false</showSnapshotDelay>
+			 <zIndex>55</zIndex>
      </video>
+		
+		 <image name="md_marquee">
+	  <zIndex>99</zIndex>
+      </image>	
 	
 	</customView>
 	
@@ -722,18 +749,34 @@
 		  <visible>false</visible>
       </image>
 	  
+	  <image name="trophy" extra="true">
+      <path>./assets/trophy_outline.svg</path>
+      <pos>0.020 0.091</pos>
+       <maxSize>0.076 0.076</maxSize>
+        <origin>0 0</origin>
+      <color>${cgtbgedgeselect}</color>
+    </image>
+
+     <image name="md_cheevos">
+      <path>./assets/trophy.svg</path>
+      <pos>0.020 0.091</pos>
+      <maxSize>0.076 0.076</maxSize>
+ 	<origin>0 0</origin>
+      <color>${cgtbgedgeselect}</color>
+      <zIndex>150</zIndex>
+    </image>
+	  
  	   <text name="md_name">
          <color>${cgtbgedgeselect}</color>
-         <pos>0.025 0.05</pos>
-    <fontPath>./fonts/BebasNeue-Regular.ttf</fontPath>
+         <pos>0.070 0.05</pos>
+        <fontPath>./fonts/BebasNeue-Regular.ttf</fontPath>
 		 <fontSize>0.10</fontSize>
          <size>0.92 0.15</size>
          <alignment>left</alignment>
          <glowColor>${cglglow}</glowColor>
-         <glowSize>4</glowSize>
+         <glowSize>1</glowSize>
 		 <visible>true</visible>
       </text>
-	
 	  
 	       <text name="md_description">
          <color>${cgdescription}</color>
@@ -810,6 +853,14 @@
 	  <datetime name="md_releasedate">
       <visible>false</visible>
       </datetime>
+	  
+	<image name="gridtile.cheevos">
+		<path>./assets/empty.png</path>
+      </image>
+        
+      <image name="gridtile.cheevos:selected">
+        <path>./assets/empty.png</path>
+      </image>
 	  
    </customView>
 	

@@ -14,7 +14,7 @@
       </image>	
  
 		<image name="logo">
-		<path>./assets/panels/${system.theme}.jpg</path>
+		<path>./assets/panels/16-9/${system.theme}.jpg</path>
 	    </image>
 
    <carousel name="systemcarousel">

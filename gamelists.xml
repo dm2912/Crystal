@@ -566,7 +566,7 @@
       <maxSize>0.280 0.280</maxSize>
       </image>
 	   
-	   <image name="system_logo" extra="true">
+	   <image name="system_logo" extra="true">marg
          <pos>0.025 0.800</pos>
           <maxSize>0.28 0.160</maxSize>
 		   <zindex>101</zindex>
@@ -864,131 +864,114 @@
 	  
    </customView>
 	
-		<!-- gamelists - small screen  -->
-	
-      <customView name="Small Screen" inherits="detailed" displayName="${smallscreengamelist}">
-		
-		  <helpsystem name="help">
-   	   <pos>0.007 0.953</pos>   
-      </helpsystem>
-         
-		  
-	<image name="background" extra="true">
-         <path>./assets/filters/${themecolor}/bg-detailed.svg</path>
-      </image>	
-		  
- <textlist name="gamelist">
-         <pos>0.675 0.19</pos>
-         <size>0.305 0.77</size>
-         <fontSize>0.036</fontSize>
-         <lineSpacing>2.0</lineSpacing>
-      </textlist>
-		
-	 <image name="art" extra="true">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <zIndex>2</zIndex>
-      </image>				
-		  
-		<text name="md_description">
-        <visible>false</visible>
-	   </text>
-		  		
-		   <image name="release_date_logo" extra="true">
-			<visible>false</visible>
-		</image>
-		  
-      <datetime name="md_releasedate">
-        <visible>false</visible>
-      </datetime>
- 
-	   <image name="developer_logo" extra="true">
-			<visible>false</visible>
-		</image>
-		  
-      <text name="md_developer">
-        <visible>false</visible>
-      </text>
+<!-- gamelists - small panel -->
+
+  <customView name="smallscreentile" inherits="grid" displayName="Small Panel">
 	  
-	   	   <image name="genre_logo" extra="true">
-			<visible>false</visible>
-		</image>
-		  
-	         <text name="md_genre">
-        <visible>false</visible>
-      </text>
-	   	   
-      <image name="gametime_logo" extra="true">
-			<visible>false</visible>
-		</image>
-		  
-      <text name="md_gametime">
+	 <image name="bottom" extra="true">
+    </image>
+   
+    <image name="md_image">
+		 <visible>false</visible>
+      </image>
+	  
+	   <video name="md_video">
+		<visible>false</visible>
+	  </video>
+	  
+	<image name="background" extra="true">
+		<visible>false</visible>
+		<zindex>6</zindex>
+      </image>	
+	 
+	 <image name="system_logo" extra="true">
+		 <visible>false</visible>
+      </image>
+	  
+	  <image name="logo">
+		  <visible>false</visible>
+      </image>
+	  
+ 	   <text name="md_name">
          <visible>false</visible>
       </text>
-		 
-	   	   <image name="publisher_logo" extra="true">
-			<visible>false</visible>
-		</image>
-		  
-	        <text name="md_publisher">
-        <visible>false</visible>
+	  
+	       <text name="md_description">
+	 <visible>false</visible>
       </text>
 	  
-	   	   <image name="genre_logo" extra="true">
-			<visible>false</visible>
-		</image>
-		  
-	         <text name="md_genre">
-       <visible>false</visible>
-      </text>
+	   <imagegrid name="gamegrid">
+		<pos>0.1 0.1</pos>
+         <size>.8 .8</size>
+         <autoLayout>1 0</autoLayout>
+         <autoLayoutSelectedZoom>1</autoLayoutSelectedZoom>
+         <imageSource>image</imageSource>
+		    <scrollDirection>horizontal</scrollDirection>
+		    <margin>.1 .1 .1 .1</margin>
+         <padding>0.03 0.03 0.08 0.08</padding>
+		   <showVideoAtDelay>${pandelay}</showVideoAtDelay>
+      </imagegrid>
+	  
+      <gridtile name="default">
+ <visible>false</visible>
+      </gridtile>
+	  
 	   
-	<image name="players_logo" extra="true">
+      <gridtile name="selected">
+ <visible>false</visible>
+      </gridtile>
+ 
+    
+	  <image name="gridtile.image">
+		  <roundCorners>0.00</roundCorners>
+      </image>
+		  
+       <image name="gridtile.marquee">
+         <pos>0.5 0.5</pos>
+         <origin>0.5 0.5</origin>
+         <size>0.85 0.85</size>
+      </image>
+	  
+	  
+      <image name="gridtile.marquee:selected">
+         <size>0.85 0.85</size>
+      </image>
+	  
+	  <image name="gridtile.marquee:videoplaying">
+         <color>FFFFFFA0</color>
+         <pos>0.5 0.17</pos>
+         <size>0.50 0.25</size>
+      </image>
+	  
+	  <rating name="md_rating">
+ <visible>false</visible>
+      </rating>
+	  
+	  
+    <text name="gridtile">
+  <visible>false</visible>
+      </text>
+	  
+      <text name="gridtile_selected">
+ <visible>false</visible>
+      </text>
+	  
+			<image name="release_date_logo" extra="true">
 		<visible>false</visible>
 		</image>
-		  
-	         <text name="md_players">
-        <visible>false</visible>
-      </text>
-	 	     
-		
-	    <image name="logo">
- <visible>false</visible>
-	      </image>
-	
-	 <image name="system_logo" extra="true">
-             <pos>0.685 0.020</pos>
-          <maxSize>0.30 0.150</maxSize>
+	   
+      
+	  <datetime name="md_releasedate">
+      <visible>false</visible>
+      </datetime>
+	  
+	<image name="gridtile.cheevos">
       </image>
-		 
-		 <video name="md_video">
-		<visible>true</visible>
-		<pos>0.0 0.0</pos>
-         <size>0.655 0.6</size>
-         <minSize>1 1</minSize>
-         <origin>0 0</origin>
-       <delay>${delay}</delay>
-         <showSnapshotNoVideo>false</showSnapshotNoVideo>
-         <showSnapshotDelay>false</showSnapshotDelay>
-		 <zindex>-11</zindex>
-		  </video>
-		  
-	  <image name="md_thumbnail">
-      <pos>0.35 0.30</pos>
-		  <maxSize>.6 .5</maxSize>
-      <zIndex>10</zIndex>
-    </image>
-		  
-		  <image name="md_marquee">
-         <pos>0.35 0.745</pos>
-         <size>0.35 0</size>
-         <zIndex>36</zIndex>
+        
+      <image name="gridtile.cheevos:selected">
       </image>
-		  
-		  <rating name="md_rating">
-         <pos>0.25 0.87</pos>
-			  <size>0.05</size>
-      </rating>
- </customView>	
+	  
+   </customView>
+
 	
 </theme>

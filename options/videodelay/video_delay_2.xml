@@ -3,5 +3,6 @@
 	<formatVersion>7</formatVersion>	
 <variables>
 	<delay>2</delay>
+<pandelay>2000</pandelay>
 </variables>
 </theme>

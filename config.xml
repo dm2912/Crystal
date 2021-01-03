@@ -51,7 +51,7 @@
 	<include subset="systemview" name="carousel left" displayName="${lhc}">./systemview/carousel-left.xml</include>
 	<include subset="systemview" name="carousel right" displayName="${rhc}">./systemview/carousel-right.xml</include>
     <include subset="systemview" name="panel169" displayName="Small Panel (16:9)">./systemview/panel169.xml</include>
-   <include subset="systemview" name="panel43" displayName="Small Panel (4:3)">./systemview/panel43.xml</include>
+   <include subset="systemview" name="panel32" displayName="Small Panel (3:2)">./systemview/panel32.xml</include>
  
     <include subset="colorset" name="Artflix BG" displayName="${artflixbg}">./options/background/artflix.xml</include>
 	 

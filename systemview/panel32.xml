@@ -8,7 +8,7 @@
   <view name="system">
 
         <image name="logo">
-		<path>./assets/panels/4-3/${system.theme}.jpg</path>
+		<path>./assets/panels/3-2/${system.theme}.jpg</path>
 	    </image>
 
     <carousel name="systemcarousel">

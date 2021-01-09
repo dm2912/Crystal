@@ -228,5 +228,8 @@
     <pokemon>Pokémon is a series of video games  published by Nintendo and The Pokémon Company. Created by Satoshi Tajiri, the first games, Pocket Monsters Red and Green, released in 1996 in Japan for the Game Boy, and the main series of role-playing video games (RPGs), referred as the "core series" by their developers, have continued on each generation of Nintendo's handhelds.</pokemon>
     <lego>Since 1995, 85 commercial video games based on Lego, the construction system produced by The Lego Group, have been released. Genres have included adventure games, board games and racing games. </lego>
 <!-- pending translation -->
+    <tic80>TIC-80 is a fantasy computer for making, playing and sharing tiny games. Games are restricted to 240x136 pixels display, 16 color palette, 256 8x8 color sprites, 4 channel sound and etc.</tic80>
+    <samsho>Samurai Shodown, known in Japan as Samurai Spirits, is a fighting game series by SNK. Set in 18th-century Japan, the games also include foreign-born characters and fictional monsters.</samsho>
+    <solarus>Solarus is a Lightweight, free and open-source game engine for Action-RPGs. Built in C++, it runs games made in Lua.</solarus>
 	</variables>
 		</theme>

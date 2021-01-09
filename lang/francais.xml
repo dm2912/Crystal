@@ -229,6 +229,9 @@
     <battletoads>Battletoads est une franchise de jeux vidéo de Rare qui a commencé avec le jeu de beat 'em up original Battletoads en 1991. Mettant en vedette trois crapauds anthropomorphes nommés d'après des problèmes de peau, Rash, Zitz et Pimple, la série a été créée pour rivaliser avec les Teenage Mutant Ninja Turtles série de jeux.</battletoads>
     <pokemon>Pokémon est une série de jeux vidéo édités par Nintendo et The Pokémon Company. Créés par Satoshi Tajiri, les premiers jeux, Pocket Monsters Red and Green, sortis en 1996 au Japon pour la Game Boy, et la série principale de jeux vidéo de rôle (RPG), qualifiée de "core series" par leurs développeurs, ont continué sur chaque génération d'ordinateurs de poche de Nintendo.</pokemon>
     <lego>Depuis 1995, 85 jeux vidéo commerciaux basés sur Lego, le système de construction produit par The Lego Group, ont été lancés. Les genres incluent des jeux d'aventure, des jeux de société et des jeux de course.</lego>
+    <tic80>TIC-80 est un ordinateur fantastique pour créer, jouer et partager de petits jeux. Les jeux sont limités à un écran de 240x136 pixels, une palette de 16 couleurs, 256 sprites de couleurs 8x8, un son à 4 canaux, etc.</tic80>
+    <samsho>Samurai Shodown, connu au Japon sous le nom de Samurai Spirits, est une série de jeux de combat de SNK. Se déroulant au Japon du XVIIIe siècle, les jeux incluent également des personnages nés à l'étranger et des monstres fictifs.</samsho>
+    <solarus>Solarus est un moteur de jeu léger, gratuit et open source pour les Action-RPG. Construit en C ++, il exécute des jeux créés en Lua.</solarus>
 	</variables>
 	
 </theme>

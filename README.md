@@ -16,9 +16,7 @@ Simply drop videos in mp4 format into /roms/video and they will be picked up by 
 
 You can also specify a video as default.mp4 which will play if system view is not present. This is saved in /themes/Crystal/assets/
 
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-system.png?raw=true)
-Panel view (system pages)
-
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-system.jpg?raw=true)
 
 DYNAMIC COLLECTION THEMING
 ---------------------------
@@ -35,7 +33,7 @@ Additionally you can specify platforms, genre's and other filters.
 
 Theming is currently available for the following dynamic collections (theme name in brackets): 
 
-Game Series: Art of Fighting (aof), Batman (batman), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda), Quake (quake), Retroachievements (cheevos), Tekken (tekken), The Simpsons (simpsons), Teenage Mutant Ninja Turtles (tmnt), battletoads (battletoads), pokemon (pokemon), lego (lego)
+Game Series: Art of Fighting (aof), Batman (batman), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda), Quake (quake), Retroachievements (cheevos), Tekken (tekken), The Simpsons (simpsons), Teenage Mutant Ninja Turtles (tmnt), battletoads (battletoads), pokemon (pokemon), lego (lego). samurai shodown (samuraishodown)
 
 Game Publishers/Developers: Atlus (Atlus), Activision (Activision), Atari (Atari), Capcom (Capcom), Data East (Dataeast), Irem (Irem), Kaneko (Kaneko), Konami (Konami), Midway (Midway), Namco (Namco), Nintendo (Nintendo), Sega (Sega), SNK (Snk), Taito (Taito), Toaplan (Toaplan), Acclaim (Acclaim), Codemasters (Codemasters), EA Sports(Easports), Eidos Interactive (Eidos), Electronic Arts (Ea), GT Interactive (Gt), Infogrames (Infogrames), Lucasarts (Lucasarts), Ocean (Ocean), Rockstar (Rockstar), Ultimate (Ultimate)
 
@@ -63,8 +61,7 @@ ADDING ADDITIONAL SYSTEMS/COLLECTIONS.
 
 If you wish a system added that is not there, raise a git issue and I will add.
 
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-gamelist.png?raw=true)
-Panel View (game pages)
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-gamelist.jpg?raw=true)
 
 THEME OPTIONS (All can be found under UI settings > Theme Configuration)
 -------------
@@ -87,9 +84,7 @@ Video Delay On Gamelist: Adjust how long it takes before the screenshot or image
 
 Video on Detail View: Game video's can now be turned off completely on detailed vews
 
-
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/detail-system.png?raw=true)
-Detailed view (system)
+![alt text](https://github.com/dm2912/Crystal/blob/master/screens/detail-system.jpg?raw=true)
 
 --------------------------------------------------------------
 |.......I M P O R T A N T.......|

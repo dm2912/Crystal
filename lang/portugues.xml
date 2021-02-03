@@ -63,17 +63,16 @@
     <ctblack>Carbon</ctblack>
     <ctgold>Gold</ctgold>
 <!-- Submenus -->
-	<subset.colortheme>Esquema de cores do tema</subset.colortheme>
-    <subset.systemview>Layout da página inicial </subset.systemview>
-    <subset.colorset>Imagens de fundo </subset.colorset>
-    <subset.iconset>Ícones de ajuda </subset.iconset>
+    <subset.SystemView>Layout da página inicial </subset.SystemView>
+    <subset.BackgroundArt>Imagens de fundo </subset.BackgroundArt>
+    <subset.IconSet>Ícones de ajuda </subset.IconSet>
     <subset.shader>Theme Shaders </subset.shader>
     <subset.music>Música do sistema </subset.music>
-    <subset.logoset>Estilo do logotipo do sistema </subset.logoset>
+    <subset.LogoSet>Estilo do logotipo do sistema </subset.LogoSet>
 	<subset.thememusic>Música de fundo do tema</subset.thememusic>
    	<subset.vdelay>Atraso de vídeo no gamelist</subset.vdelay>
     <subset.slog>Logotipo do sistema em Gamelistas</subset.slog>
-   	<subset.colortheme>Esquema de cores do tema</subset.colortheme>
+   	<subset.ColorSet>Esquema de cores do tema</subset.ColorSet>
     <subset.videoview>Atraso de vídeo Gamelist</subset.videoview>
     <subset.sysvdelay>Atraso de vídeo da visualização do sistema</subset.sysvdelay>
 <!-- Descrições do sistema -->

@@ -9,10 +9,68 @@ github:			https://github.com/dm2912
 
 <!-- default view -->
 
-<theme defaultView="detailed">
-   <formatVersion>7</formatVersion>
-   <include>./config.xml</include>
+    <theme defaultView="detailed">
+   <formatVersion>4</formatVersion>
 	<include>./gamelists.xml</include>
+
+<!-- main configs -->
+
+    <include>./lang/english.xml</include>
+	<include lang="es">./lang/espanol.xml</include>
+	<include lang="es_MX">./lang/espanol.xml</include>
+	<include lang="eu">./lang/english.xml</include>
+	<include lang="fr">./lang/francais.xml</include> 
+	<include lang="pt">./lang/portugues.xml</include>
+
+    <include subset="thememusic" name="yes" displayName="${yes}">./options/sound/sound_on.xml</include>
+    <include subset="thememusic" name="no" displayName="${no}">./options/sound/sound_off.xml</include>
+
+    <include subset="sysvdelay" name="d3" displayName="${delay3}">./options/sysvideodelay/video_delay_3.xml</include>
+    <include subset="sysvdelay" name="d5" displayName="${delay5}">./options/sysvideodelay/video_delay_5.xml</include>
+    <include subset="sysvdelay" name="d10" displayName="${delay10}">./options/sysvideodelay/video_delay_10.xml</include>
+    <include subset="sysvdelay" name="d20" displayName="${delay20}">./options/sysvideodelay/video_delay_20.xml</include>
+    <include subset="sysvdelay" name="d0" displayName="${delay0}">./options/sysvideodelay/video_delay_0.xml</include>   
+    <include subset="sysvdelay" name="dnv" displayName="${novideo}">./options/sysvideodelay/no_video.xml</include>
+
+    <include subset="vdelay" name="1" displayName="${delay1}">./options/videodelay/video_delay_1.xml</include>
+    <include subset="vdelay" name="2" displayName="${delay2}">./options/videodelay/video_delay_2.xml</include>
+    <include subset="vdelay" name="3" displayName="${delay3}">./options/videodelay/video_delay_3.xml</include>
+    <include subset="vdelay" name="0" displayName="${delay0}">./options/videodelay/video_delay_0.xml</include>
+    <include subset="vdelay" name="nv" displayName="${novideo}">./options/videodelay/no_video.xml</include>
+
+    <include subset="ColorSet" name="3r" displayName="${ctred}">./options/colorschemes/red.xml</include>
+    <include subset="ColorSet" name="4c" displayName="${ctblack}">./options/colorschemes/black.xml</include>
+    <include subset="ColorSet" name="1b" displayName="${ctblue}">./options/colorschemes/blue.xml</include>
+    <include subset="ColorSet" name="2g" displayName="${ctgreen}">./options/colorschemes/green.xml</include>
+	<include subset="ColorSet" name="5b" displayName="${ctgold}">./options/colorschemes/gold.xml</include>
+
+    <include subset="LogoSet" name="Color" displayName="${colorlog}">./options/logosets/color.xml</include>
+    <include subset="LogoSet" name="White" displayName="${whitelog}">./options/logosets/white.xml</include>
+    <include subset="LogoSet" name="Controllers" displayName="${conlog}">./options/logosets/controllers.xml</include>
+    <include subset="LogoSet" name="panel" displayName="panel">./options/logosets/panel.xml</include>
+
+    <include subset="IconSet" name="Crystal" displayName="${idefault}">./options/helpicons/crystal.xml</include>
+	<include subset="IconSet" name="Crystal Reverse" displayName="${idefaultrev}">./options/helpicons/crystal-rev.xml</include>
+	<include subset="IconSet" name="Crystal X" displayName="Crystal X-Box">./options/helpicons/crystalx.xml</include>
+	<include subset="IconSet" name="Crystal F" displayName="Crystal Famicom">./options/helpicons/crystalf.xml</include>
+	<include subset="IconSet" name="Crystal S" displayName="Crystal SNES">./options/helpicons/crystals.xml</include>
+	<include subset="IconSet" name="Crystal PSX" displayName="Crystal PSX">./options/helpicons/crystalpsx.xml</include>
+	<include subset="IconSet" name="Crystal dream" displayName="Crystal Dreamcast">./options/helpicons/crystaldream.xml</include>
+	<include subset="IconSet" name="Crystal saturn" displayName="Crystal Saturn">./options/helpicons/crystalsaturn.xml</include>   
+
+    <include subset="systemview" name="panel" displayName="${panel}">./systemviews/panel.xml</include>
+	<include subset="systemview" name="horizontal detailed" displayName="${systemdetails}">./systemviews/horizontal_details.xml</include>
+	<include subset="systemview" name="detailed view" displayName="${hordetail}">./systemviews/details.xml</include>
+	<include subset="systemview" name="horizontal" displayName="${horizontal}">./systemviews/horizontal.xml</include>
+	<include subset="systemview" name="carousel left" displayName="${lhc}">./systemviews/carousel-left.xml</include>
+	<include subset="systemview" name="carousel right" displayName="${rhc}">./systemviews/carousel-right.xml</include>
+    <include subset="systemview" name="panel169" displayName="${small169}">./systemviews/panel169.xml</include>
+    <include subset="systemview" name="panel32" displayName="${small32}">./systemviews/panel32.xml</include>
+ 
+    <include subset="BackgroundArt" name="Artflix BG" displayName="${artflixbg}">./options/background/artflix.xml</include>
+	 
+    <include subset="slog" name="yes" displayName="${yes}">./options/syslogos/syslogo_yes.xml</include>
+    <include subset="slog" name="no" displayName="${no}">./options/syslogos/syslogo_no.xml</include>
    
 <!-- screen settings -->
 	
@@ -92,7 +150,7 @@ github:			https://github.com/dm2912
 	
 <!-- tinyscreen -->
  
-   <include tinyScreen="true">./gpicase.xml</include>
+   <include tinyScreen="true">./systemviews/tinyscreen.xml</include>
    <view name="system" ifHelpPrompts="false">
       <image name="BottomBar" extra="true">
          <visible>false</visible>

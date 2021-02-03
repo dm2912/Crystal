@@ -18,7 +18,7 @@
     <simplegridName>Grid / Simple</simplegridName>
     <carouselViewName>Carousel</carouselViewName>
     <carouselposterViewName>Carousel / Detailed</carouselposterViewName>	
-	 <tilesViewName>Tiles</tilesViewName>
+	<tilesViewName>Tiles</tilesViewName>
     <tilesVideoViewName>Tiles with Video</tilesVideoViewName>
     <tilesVideoMarqueeViewName>Tiles with Video and Logos</tilesVideoMarqueeViewName>
     <fanartViewName>Fanart (Default)</fanartViewName>
@@ -47,11 +47,11 @@
 	<idefault>Crystal</idefault>
 	<idefaultrev>Crystal (Reverse)</idefaultrev>
 <!-- System layouts -->		
-	<horizontal>Horizontal Menu</horizontal>
-    <hordetail>Detailed II</hordetail>
+	<horizontal>Basic Horizontal Menu</horizontal>
+    <hordetail>Detailed (Horizonta)</hordetail>
 	<rhc>Right Side Carousel</rhc>
     <lhc>Left Side Carousel</lhc>
-	<systemdetails>Detailed</systemdetails>
+	<systemdetails>Detailed (Vertical)</systemdetails>
 <!-- Video delay -->
     <delay1>1 second</delay1>
     <delay2>2 seconds</delay2>

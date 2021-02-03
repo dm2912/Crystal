@@ -45,8 +45,8 @@
     <horizontal>Menu horizontal </horizontal>
     <rhc>Carrousel du côté droit </rhc>
     <lhc>Carrousel latéral gauche </lhc>
-    <systemdetails>Détaillé </systemdetails>
-   	<hordetail>Détaillé II</hordetail>
+    <systemdetails>Détaillé vertical </systemdetails>
+   	<hordetail>Détaillé horizontal</hordetail>
 <!-- retard vidéo -->
     <delay1>1 seconde</delay1>
     <delay2>2 seconde</delay2>

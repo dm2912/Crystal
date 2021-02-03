@@ -61,16 +61,17 @@
    	<ctblack>Carbon</ctblack> 
     <ctgold>Gold</ctgold>
 <!-- Submenús -->
+	<subset.colortheme>Esquema de color del tema</subset.colortheme>
     <subset.systemview>Diseño de la página de inicio </subset.systemview>
-    <subset.BackgroundArt>Imágenes de fondo </subset.BackgroundArt>
-    <subset.IconSet>Iconos de ayuda</subset.IconSet>
+    <subset.colorset>Imágenes de fondo </subset.colorset>
+    <subset.iconset>Iconos de ayuda</subset.iconset>
     <subset.shader>Sombreadores de temas </subset.shader>
     <subset.music>Música del sistema </subset.music>
-    <subset.LogoSet>Estilo del logotipo del sistema </subset.LogoSet>	
+    <subset.logoset>Estilo del logotipo del sistema </subset.logoset>	
 	<subset.thememusic>Música de fondo del tema</subset.thememusic>	
     <subset.vdelay>Retraso de video en la lista de juegos</subset.vdelay>
     <subset.slog>Logotipo del sistema en listas de juegos</subset.slog>
-    <subset.ColorSet>Esquema de color del tema</subset.ColorSet>
+    <subset.colortheme>Esquema de color del tema</subset.colortheme>
     <subset.videoview>Retraso de video de la lista de juegos</subset.videoview>
     <subset.sysvdelay>Vista del sistema Retraso de video</subset.sysvdelay>
 <!-- Descripciones del sistema -->
@@ -229,9 +230,5 @@
     <tic80>TIC-80 es una computadora de fantasía para crear, jugar y compartir pequeños juegos. Los juegos están restringidos a pantallas de 240x136 píxeles, paleta de 16 colores, 256 sprites de colores de 8x8, sonido de 4 canales, etc.</tic80>
     <samsho>Samurai Shodown, conocido en Japón como Samurai Spirits, es una serie de juegos de lucha de SNK. Ambientado en el Japón del siglo XVIII, los juegos también incluyen personajes extranjeros y monstruos de ficción.</samsho>
     <solarus>Solarus es un motor de juego ligero, gratuito y de código abierto para juegos de rol de acción. Construido en C ++, ejecuta juegos creados en Lua.</solarus>
-<!-- pending translation -->
-    <subset.panel>Panel</subset.panel>
-<subset.small169>Small Panel (16:9)</subset.small169>
-<subset.small32>Small Panel (3:2)</subset.small32>
 	</variables>
 </theme>

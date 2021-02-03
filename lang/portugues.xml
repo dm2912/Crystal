@@ -63,16 +63,17 @@
     <ctblack>Carbon</ctblack>
     <ctgold>Gold</ctgold>
 <!-- Submenus -->
+	<subset.colortheme>Esquema de cores do tema</subset.colortheme>
     <subset.systemview>Layout da página inicial </subset.systemview>
-    <subset.BackgroundArt>Imagens de fundo </subset.BackgroundArt>
-    <subset.IconSet>Ícones de ajuda </subset.IconSet>
+    <subset.colorset>Imagens de fundo </subset.colorset>
+    <subset.iconset>Ícones de ajuda </subset.iconset>
     <subset.shader>Theme Shaders </subset.shader>
     <subset.music>Música do sistema </subset.music>
-    <subset.LogoSet>Estilo do logotipo do sistema </subset.LogoSet>
+    <subset.logoset>Estilo do logotipo do sistema </subset.logoset>
 	<subset.thememusic>Música de fundo do tema</subset.thememusic>
    	<subset.vdelay>Atraso de vídeo no gamelist</subset.vdelay>
     <subset.slog>Logotipo do sistema em Gamelistas</subset.slog>
-   	<subset.ColorSet>Esquema de cores do tema</subset.ColorSet>
+   	<subset.colortheme>Esquema de cores do tema</subset.colortheme>
     <subset.videoview>Atraso de vídeo Gamelist</subset.videoview>
     <subset.sysvdelay>Atraso de vídeo da visualização do sistema</subset.sysvdelay>
 <!-- Descrições do sistema -->
@@ -231,9 +232,5 @@
     <tic80>TIC-80 é um computador de fantasia para fazer, jogar e compartilhar jogos minúsculos. Os jogos são restritos a exibição de 240x136 pixels, paleta de 16 cores, 256 sprites de cores 8x8, som de 4 canais e etc.</tic80>
     <samsho>Samurai Shodown, conhecido no Japão como Samurai Spirits, é uma série de jogos de luta da SNK. Passados no Japão do século 18, os jogos também incluem personagens estrangeiros e monstros fictícios.</samsho>
     <solarus>Solarus é um motor de jogo leve, gratuito e de código aberto para RPGs de ação. Construído em C ++, ele roda jogos feitos em Lua.</solarus>
-<!-- pending translation -->
-    <subset.panel>Panel</subset.panel>
-<subset.small169>Small Panel (16:9)</subset.small169>
-<subset.small32>Small Panel (3:2)</subset.small32>
 	</variables>	
 </theme>

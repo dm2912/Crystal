@@ -44,27 +44,18 @@
 	<include subset="IconSet" name="Crystal dream" displayName="Crystal Dreamcast">./options/helpicons/crystaldream.xml</include>
 	<include subset="IconSet" name="Crystal saturn" displayName="Crystal Saturn">./options/helpicons/crystalsaturn.xml</include>   
 
-    <include subset="SystemView" name="panel" displayName="Panel">./systemview/panel.xml</include>
-	<include subset="SystemView" name="horizontal detailed" displayName="${systemdetails}">./systemview/horizontal_details.xml</include>
-	<include subset="SystemView" name="detailed view" displayName="${hordetail}">./systemview/details.xml</include>
-	<include subset="SystemView" name="horizontal" displayName="${horizontal}">./systemview/horizontal.xml</include>
-	<include subset="SystemView" name="carousel left" displayName="${lhc}">./systemview/carousel-left.xml</include>
-	<include subset="SystemView" name="carousel right" displayName="${rhc}">./systemview/carousel-right.xml</include>
-    <include subset="SystemView" name="panel169" displayName="Small Panel (16:9)">./systemview/panel169.xml</include>
-   <include subset="SystemView" name="panel32" displayName="Small Panel (3:2)">./systemview/panel32.xml</include>
+    <include subset="systemview" name="panel" displayName="${panel}">./systemview/panel.xml</include>
+	<include subset="systemview" name="horizontal detailed" displayName="${systemdetails}">./systemview/horizontal_details.xml</include>
+	<include subset="systemview" name="detailed view" displayName="${hordetail}">./systemview/details.xml</include>
+	<include subset="systemview" name="horizontal" displayName="${horizontal}">./systemview/horizontal.xml</include>
+	<include subset="systemview" name="carousel left" displayName="${lhc}">./systemview/carousel-left.xml</include>
+	<include subset="systemview" name="carousel right" displayName="${rhc}">./systemview/carousel-right.xml</include>
+    <include subset="systemview" name="panel169" displayName="${small169}">./systemview/panel169.xml</include>
+    <include subset="systemview" name="panel32" displayName="${small32}">./systemview/panel32.xml</include>
  
     <include subset="BackgroundArt" name="Artflix BG" displayName="${artflixbg}">./options/background/artflix.xml</include>
 	 
 	
-
-<!--	<include subset="IconSet" name="Crystal 2" displayName="Crystal II">./options/helpicons/crystal2.xml</include>
-	<include subset="IconSet" name="Crystal 2 Reverse" displayName="Crystal II (Reverse)">./options/helpicons/crystal2-rev.xml</include>
-    <include subset="IconSet" name="SNES" displayName="${isnes}">./options/helpicons/snes.xml</include>
-    <include subset="IconSet" name="SNES II" displayName="${isnes2}">./options/helpicons/snesalt.xml</include>
-    <include subset="IconSet" name="Xbox" displayName="${ixbox}">./options/helpicons/xbox.xml</include>
-    <include subset="IconSet" name="Xbox Reverse" displayName="${ixbox2}">./options/helpicons/xbox-rev.xml</include>
-	<include subset="IconSet" name="Arcade" displayName="${iarcade}">./options/helpicons/arcade.xml</include>
-    <include subset="IconSet" name="Playstation" displayName="${ipsx}">./options/helpicons/psx.xml</include> -->
 
     <include subset="slog" name="yes" displayName="${yes}">./options/syslogos/syslogo_yes.xml</include>
     <include subset="slog" name="no" displayName="${no}">./options/syslogos/syslogo_no.xml</include>

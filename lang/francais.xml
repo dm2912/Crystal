@@ -63,7 +63,7 @@
    	<ctblack>Carbon</ctblack>
     <ctgold>Gold</ctgold>
 <!-- Sous-menus -->
-    <subset.SystemView>Présentation de la page d'accueil </subset.SystemView>
+    <subset.systemview>Présentation de la page d'accueil </subset.systemview>
     <subset.BackgroundArt>Images d'arrière-plan </subset.BackgroundArt>
     <subset.IconSet>Icônes d'aide </subset.IconSet>
     <subset.shader>Shaders de thème </subset.shader>
@@ -231,6 +231,10 @@
     <tic80>TIC-80 est un ordinateur fantastique pour créer, jouer et partager de petits jeux. Les jeux sont limités à un écran de 240x136 pixels, une palette de 16 couleurs, 256 sprites de couleurs 8x8, un son à 4 canaux, etc.</tic80>
     <samsho>Samurai Shodown, connu au Japon sous le nom de Samurai Spirits, est une série de jeux de combat de SNK. Se déroulant au Japon du XVIIIe siècle, les jeux incluent également des personnages nés à l'étranger et des monstres fictifs.</samsho>
     <solarus>Solarus est un moteur de jeu léger, gratuit et open source pour les Action-RPG. Construit en C ++, il exécute des jeux créés en Lua.</solarus>
+<!-- pending translation -->
+    <subset.panel>Panel</subset.panel>
+<subset.small169>Small Panel (16:9)</subset.small169>
+<subset.small32>Small Panel (3:2)</subset.small32>
 	</variables>
 	
 </theme>

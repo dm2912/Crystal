@@ -114,11 +114,11 @@ github:			https://github.com/dm2912
     <include subset="vdelay" name="0" displayName="${delay0}">./options/videodelay/video_delay_0.xml</include>
     <include subset="vdelay" name="nv" displayName="${novideo}">./options/videodelay/no_video.xml</include>
 
-    <include subset="colortheme" name="Ruby" displayName="${ctred}">./options/colorschemes/red.xml</include>
-    <include subset="colortheme" name="Carbon" displayName="${ctblack}">./options/colorschemes/black.xml</include>
-    <include subset="colortheme" name="Sapphire" displayName="${ctblue}">./options/colorschemes/blue.xml</include>
-    <include subset="colortheme" name="Emerald" displayName="${ctgreen}">./options/colorschemes/green.xml</include>
-	<include subset="colortheme" name="Gold" displayName="${ctgold}">./options/colorschemes/gold.xml</include>
+    <include subset="colorset" name="Ruby" displayName="${ctred}">./options/colorschemes/red.xml</include>
+    <include subset="colorset" name="Carbon" displayName="${ctblack}">./options/colorschemes/black.xml</include>
+    <include subset="colorset" name="Sapphire" displayName="${ctblue}">./options/colorschemes/blue.xml</include>
+    <include subset="colorset" name="Emerald" displayName="${ctgreen}">./options/colorschemes/green.xml</include>
+	<include subset="colorset" name="Gold" displayName="${ctgold}">./options/colorschemes/gold.xml</include>
 
     <include subset="logoset" name="Color Logos" displayName="${colorlog}">./options/logosets/color.xml</include>
     <include subset="logoset" name="White Logos" displayName="${whitelog}">./options/logosets/white.xml</include>
@@ -145,7 +145,7 @@ github:			https://github.com/dm2912
     <include subset="systemview" name="small panel 16:9" displayName="Small Panel (16:9)">./systemview/panel169.xml</include>
 	<include subset="systemview" name="small panel 3:2" displayName="Small Panel (3:2)">./systemview/panel32.xml</include>
  
-    <include subset="colorset" name="artflix" displayName="${artflixbg}">./options/background/artflix.xml</include>
+    <include subset="bgset" name="artflix" displayName="${artflixbg}">./options/background/artflix.xml</include>
 	 
     <include subset="slog" name="yes" displayName="${yes}">./options/syslogos/syslogo_yes.xml</include>
     <include subset="slog" name="no" displayName="${no}">./options/syslogos/syslogo_no.xml</include>

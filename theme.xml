@@ -90,9 +90,12 @@ github:			https://github.com/dm2912
    </view>
    
 	
-<!-- tinyscreen -->
+<!-- tinyscreen 
  
-   <include tinyScreen="true">./gpicase.xml</include>
+   <include tinyScreen="true">./gpicase.xml</include> -->
+
+<!-- help bar -->
+
    <view name="system" ifHelpPrompts="false">
       <image name="BottomBar" extra="true">
          <visible>false</visible>

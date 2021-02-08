@@ -5,31 +5,17 @@ THIS THEME IS NOT TO BE INCLUDED IN ANY COMMERCIAL RELEASES
 
 <a href="https://www.buymeacoffee.com/e0lSjnd" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-Crystal: 
+Questions? https://github.com/dm2912/Crystal/wiki
 
 PANEL VIEW
 -----------
 
 Panel view provides a netflix style interface for both system pages and gamelists. The system pages DO support video, but you must provide the videos.
 
-Simply drop videos in mp4 format into /roms/video and they will be picked up by the theme as long as they use the correct filenames so psx.mp3, nes.mp4, etc etc
-
-You can also specify a video as default.mp4 which will play if system view is not present. This is saved in /themes/Crystal/assets/
-
 ![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-system.jpg?raw=true)
 
-DYNAMIC COLLECTION THEMING
----------------------------
-
-To create a dynamic collection:
-
-+ Go into settings > Game collection settings and select "Create new Dynamic collection"
-
-+ Name the collection in line with one of the theme names (in brackets) above
-
-+ Then, in the filters, in "find games" put the search phrase for instance "mario" to include all games that have mario in the title. 
-
-Additionally you can specify platforms, genre's and other filters.
+COLLECTIONS
+-----------
 
 Theming is currently available for the following dynamic collections (theme name in brackets): 
 
@@ -39,27 +25,11 @@ Game Publishers/Developers: Atlus (Atlus), Activision (Activision), Atari (Atari
 
 Genres: All main genre's supported by screenscraper.fr (no sub-genres)
 
-NOTE: WITH THE GAME PUBLISHERS THE FIRST LETTER IS CAPITALISED SO THAT EMULATION STATION CAN DIFFERENTIATE IT FROM ARCADE COLLECTIONS
-
-I have a set of premade xcc collection files here> https://github.com/dm2912/Crystal-Collections simply copy/extract those files to .config/emulationstation/collections and they will all appear in your "custom collections"
-
-
-AUTOMATIC COLLECTIONS (Arcade)
-------------------------------
-
 The various publisher themes will work from automatic collections:
 
 Arcade Publishers & Platforms: Activision, Atari, Atlus, Capcom, CPS1, CPS2, CPS3, Daphne, Data East, Irem, Kaneko, Konami, Midway, Namco, Neo-Geo, Nintendo, SEGA, SNK, Taito, Toaplan, 
 
 As well as 2 player, 4 player, never played, favourites etc etc
-
-To Do list: Acclaim, Alpha Denshi, Cave, Cinematronics, Eighting/Raizing, Exidy, Incredible Technologies, Gaelco, Gottleib, Tecmo, Semicom, Mitchell, Seibu Kahatsu, Playchoice, Visco, Nichibutsu, IGS, Video System Co, Technos, Psikyo, Sammy, NMK, Banpresto, Sega ST-V, 
-
-
-ADDING ADDITIONAL SYSTEMS/COLLECTIONS. 
---------------------------------------
-
-If you wish a system added that is not there, raise a git issue and I will add.
 
 ![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-gamelist.jpg?raw=true)
 
@@ -95,5 +65,4 @@ Video on Detail View: Game video's can now be turned off completely on detailed 
 + See licence file for sources, credits and licence. 
 
 ![alt text](https://github.com/dm2912/Crystal/blob/master/screens/grid-gamelist.png?raw=true)
-Grid view (Gamelist)
 

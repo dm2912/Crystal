@@ -54,15 +54,11 @@ Video Delay On Gamelist: Adjust how long it takes before the screenshot or image
 
 Video on Detail View: Game video's can now be turned off completely on detailed vews
 
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/detail-system.jpg?raw=true)
-
 --------------------------------------------------------------
 |.......I M P O R T A N T.......|
 --------------------------------------------------------------
 
 * This theme is NOT TO BE USED COMMERCIALLY!!!!!!!
-* Compatability is designed for Emuelec. Only systems supported by Emuelec are being themed. 
-+ See licence file for sources, credits and licence. 
-
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/grid-gamelist.png?raw=true)
+* Compatability is designed for Emuelec. Only systems supported by Emuelec are being themed 
++ See licence file for sources, credits and licence
 

@@ -5,12 +5,14 @@ THIS THEME IS NOT TO BE INCLUDED IN ANY COMMERCIAL RELEASES
 
 <a href="https://www.buymeacoffee.com/e0lSjnd" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-Questions? https://github.com/dm2912/Crystal/wiki
+Questions? https://github.com/dm2912/Crystal/wiki/FAQ
+
+Screenshots https://github.com/dm2912/Crystal/wiki/Screenshots
 
 PANEL VIEW
 -----------
 
-Panel view provides a netflix style interface for both system pages and gamelists. The system pages DO support video, but you must provide the videos.
+Panel view provides a netflix style interface for both system pages and gamelists. The system pages DO support video, but you must provide the videos (See the wiki).
 
 ![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-system.jpg?raw=true)
 

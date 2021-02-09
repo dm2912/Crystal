@@ -1,6 +1,5 @@
 **This theme is intended for EMUELEC and only contains graphics for systems supported by EmuElec**
 
-
 THIS THEME IS NOT TO BE INCLUDED IN ANY COMMERCIAL RELEASES
 -----------------------------------------------------------
 

@@ -230,5 +230,6 @@
     <samsho>Samurai Shodown, conocido en Japón como Samurai Spirits, es una serie de juegos de lucha de SNK. Ambientado en el Japón del siglo XVIII, los juegos también incluyen personajes extranjeros y monstruos de ficción.</samsho>
     <solarus>Solarus es un motor de juego ligero, gratuito y de código abierto para juegos de rol de acción. Construido en C ++, ejecuta juegos creados en Lua.</solarus>
 <ddr>Dance Dance Revolution (también conocido como Dancing Stage en los primeros juegos europeos), es una serie de videojuegos musicales producida por Konami. Introducido en Japón en 1998, los jugadores se paran en una "plataforma de baile" y golpean flechas de colores al ritmo de las señales musicales y visuales.</ddr>
+<tux>SuperTux, SuperTux Kart y SuperTux Party son juegos de código abierto inspirados en los juegos de Super Mario. Desarrollados desde mediados de los 90, cuentan con una amplia gama de mascotas de código abierto como Tux, Mozilla Thunderbird y Pidgin.</tux>
 	</variables>
 </theme>

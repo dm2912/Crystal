@@ -232,5 +232,6 @@
     <samsho>Samurai Shodown, known in Japan as Samurai Spirits, is a fighting game series by SNK. Set in 18th-century Japan, the games also include foreign-born characters and fictional monsters.</samsho>
     <solarus>Solarus is a Lightweight, free and open-source game engine for Action-RPGs. Built in C++, it runs games made in Lua.</solarus>
     <ddr>Dance Dance Revolution (also known as Dancing Stage in earlier European games), is a poineering series of music video game series produced by Konami. Introduced in Japan in 1998 players stand on a "dance platform" and hit colored arrows in time to musical and visual cues.</ddr>
+    <tux>SuperTux, SuperTux Kart, and SuperTux Party are open source games inspired by the Super Mario games. Developed since the mid 90's they feature a wide range of open source mascots such as Tux, Mozilla Thunderbird, and Pidgin.</tux>
 	</variables>
 		</theme>

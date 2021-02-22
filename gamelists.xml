@@ -749,7 +749,7 @@
 		  <visible>false</visible>
       </image>
 	  
-	  <image name="trophy" extra="true">
+<!--	  <image name="trophy" extra="true">
       <path>./assets/trophy_outline.svg</path>
       <pos>0.020 0.091</pos>
        <maxSize>0.076 0.076</maxSize>
@@ -764,11 +764,11 @@
  	<origin>0 0</origin>
       <color>${cgtbgedgeselect}</color>
       <zIndex>150</zIndex>
-    </image>
+    </image>-->
 	  
  	   <text name="md_name">
          <color>${cgtbgedgeselect}</color>
-         <pos>0.070 0.05</pos>
+         <pos>0.028 0.05</pos>
         <fontPath>./fonts/BebasNeue-Regular.ttf</fontPath>
 		 <fontSize>0.10</fontSize>
          <size>0.92 0.15</size>
@@ -855,11 +855,9 @@
       </datetime>
 	  
 	<image name="gridtile.cheevos">
-		<path>./assets/empty.png</path>
       </image>
         
       <image name="gridtile.cheevos:selected">
-        <path>./assets/empty.png</path>
       </image>
 	  
    </customView>

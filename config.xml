@@ -4,17 +4,17 @@
 	<include lang="es">./lang/es.xml</include>
 	<include lang="es_MX">./lang/es.xml</include>
 	<include lang="eu">./lang/en.xml</include>
-	<include lang="fr">./lang/fr.xml</include> 
+	<include lang="fr">./lang/fr.xml</include>
 	<include lang="pt">./lang/pt.xml</include>
 	<include lang="pt_BR">./lang/pt.xml</include>
 	<include lang="ru">./lang/ru.xml</include>
 	<include lang="ko">./lang/ko.xml</include>
-	<include lang="zh">./lang/zh_min.xml</include>
+	<include lang="zh">./lang/zh.xml</include>
 	<include lang="jp">./lang/jp_min.xml</include>
-<!--	
+<!--
 	<include lang="de">./lang/de.xml</include>
 -->
-	
+
 	<include subset="ratio" name="default" displayName="${default}">./options/display/169.xml</include>
 	<include subset="ratio" name="169" displayName="16:9 (1080p)">./options/display/169.xml</include>
 	<include subset="ratio" name="169p480" displayName="16:9 (480p)">./options/display/169p480.xml</include>
@@ -69,9 +69,9 @@
 	<include subset="systemview" name="carousel left" displayName="${lhc}">./${ratset}/carousel-left.xml</include>
 	<include subset="systemview" name="carousel right" displayName="${rhc}">./${ratset}/carousel-right.xml</include>
 
- 
+
     <include subset="bgset" name="crystal" displayName="${default}">./options/background/crystal.xml</include>
-	 
+
     <include subset="slog" name="yes" displayName="${yes}">./options/syslogos/syslogo_yes.xml</include>
     <include subset="slog" name="no" displayName="${no}">./options/syslogos/syslogo_no.xml</include>
 

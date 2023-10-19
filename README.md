@@ -14,7 +14,7 @@ Panel view provides a netflix style interface for both system pages and gamelist
 
 ![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-system.jpg?raw=true)
 
-Crystal also has multiple other views for both system and gamelist including traditional tiled, carousel and detailed views
+Crystal also has multiple other views for both system and gamelist including traditional tiled, carousel and detailed views.
 
 ## 16:9 / 4:3
 

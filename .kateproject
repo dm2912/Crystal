@@ -1,0 +1,4 @@
+ {
+  "name": "Crystal for EMUelec"
+, "files": [ {  "directory": "./", "filters": ["*.php", "*.css","*.js", "*.png", "*.jpg", "*.svg", "*.xml", "*.css", "*.md", "*.ttf", "*.ogg", "*.wav", "*.mp3"], "recursive": 1 } ]
+}

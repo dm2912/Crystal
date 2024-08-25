@@ -295,5 +295,7 @@
 	<pgm2>The IGS PolyGame Master 2 is an arcade system released by IGS in 2007, succeeding the IGS PolyGame Master. It features few video games, the most notable of which being the game Knights of Valour 3 from the Knights of Valour series. </pgm2>
 	<megaduck>The Mega Duck WG-108 (also known as Cougar Boy) is a handheld game console that was developed and manufactured by Hong Kong-based Welback Holdings through its Timlex International division, and released in 1993.</megaduck>
 	<fmtmarty>The FM Towns Marty is a fifth generation 16 bit video game console, based on the FM Towns computer system that Fujitsu had released in 1989. The Marty was backwards compatible with older FM Towns games.</fmtmarty>
+	<apple2>The Apple 2 released in 1977 was a home computer designed by Steve Wozniak. It had an 8-bit processor capable of two resolutions of colour graphics alongside low fidelity audio. Later versions had a 16 bit processor.</apple2>
+	<vircon32>As the name implies, Vircon32 is a 32-bit virtual console: it is meant as a standard that could be implemented either in software or hardware. It has the goal of being as simple as possible, but still having enough features to support full, elaborate games.%% </vircon32>
 </variables>
 		</theme>

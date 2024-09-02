@@ -7,7 +7,7 @@
 	<include lang="fr">./lang/fr.xml</include>
 	<include lang="pt">./lang/pt.xml</include>
 	<include lang="pt_BR">./lang/pt.xml</include>
-	<include lang="ru">./lang/ru.xml</include>
+<!--	<include lang="ru">./lang/ru.xml</include> -->
 	<include lang="ko">./lang/ko.xml</include>
 	<include lang="zh">./lang/zh.xml</include>
 	<include lang="jp">./lang/jp_min.xml</include>

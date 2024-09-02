@@ -273,7 +273,26 @@
 	<panel>패널</panel>
 	<smallpanel>작은 패널</smallpanel>
 	<panelbox>박스아트 패널</panelbox>
-<!-- pending translation -->
 	<ecwolf>ECWolf는 Wolf4SDL 코드 베이스를 기반으로 하는 Wolfenstein 3D, Spear of Destiny 및 Super 3D Noah 's Ark의 고급 소스 포트입니다.</ecwolf>
+	<outrun>Outrun은 1986 년 9 월 Sega가 출시 한 아케이드 레이싱 비디오 게임입니다. 선구적인 하드웨어 및 그래픽, 비선형 게임 플레이 및 가와구치 히로시가 작곡 한 음악이 포함 된 선택 가능한 사운드 트랙으로 유명합니다. 목표는 교통을 피하고 5 개 목적지 중 하나에 도달하는 것입니다.</outrun>
+	<gx4000>GX4000은 Amstrad에서 제조 한 비디오 게임 콘솔입니다. 게임 콘솔 시장에 진출하려는 것은 회사의 단기적인 시도였습니다. 콘솔은 1990 년 유럽에서 출시되었으며 당시 인기있는 CPC 기술을 기반으로 업그레이드 된 디자인이었습니다.</gx4000>
+	<dukenukem>Duke Nukem은 주인공 Duke Nukem의 이름을 딴 비디오 게임 시리즈입니다. 회사 Apogee Software Ltd가 만든 메인 시리즈의 첫 두 게임은 2D 플랫 포머였으며, 이후 게임은 1 인칭 및 3 인칭 슈팅 게임이 혼합되었습니다.</dukenukem>
+	<supervision>영국의 QuickShot Supervision으로도 알려진 Watara Supervision은 1992 년 Nintendo의 Game Boy의 컷 가격 경쟁자로 소개 된 흑백 핸드 헬드 게임 콘솔입니다. 게이머들 사이에서 인기를 얻지 못한 콘솔은 취소되었습니다.</supervision>
+	<freej2me>FreeJ2ME는 오래된 휴대 전화 게임에 중점을 둔 간단한 J2ME (Java Platform Micro Edition) 에뮬레이터입니다. Libretro 및 Retroarch를 사용하여 Windows, 데스크탑 Linux 및 Raspberry Pi 3에서 실행되도록 설계되었습니다.</freej2me>
+	<megadrivemsu>MSU-MD는 Mega Everdrive Pro 카트리지 용 카트리지 애드온 칩으로 풀 모션 비디오 및 CD 품질의 사운드를 포함하여 Megadrive 게임을 크게 향상시킵니다. 하드웨어 및 에뮬레이터와 호환됩니다.</megadrivemsu>
+	<gmloader>GameMaker (원래 Animo 이상 2011 년까지 Game Maker)는 1999 년 Mark Overmars가 제작하고 2007 년부터 YoYo Games가 개발 한 일련의 크로스 플랫폼 게임 엔진입니다.</gmloader>
+	<karaoke>가라오케는 사람들이 마이크를 사용하여 녹음 된 음악에 맞춰 노래하는 클럽과 바에서 일반적으로 제공되는 대화 형 엔터테인먼트 유형입니다. 음악은 잘 알려진 인기있는 노래의 악기 버전입니다. 가사는 일반적으로 동영상 화면에 움직이는 기호와 함께 표시됩니다.</karaoke>
+	<sgb>Super Game Boy는 Game Boy 카트리지를 Super Nintendo Entertainment System 콘솔에서 재생할 수있는 주변 장치입니다. 1994 년 6 월에 출시 된이 제품은 미국에서 $59.99, 영국에서 £49.99에 판매되었습니다.</sgb>
+	<eighting>8ing으로 양식화 된 Eighting Co., Ltd.는 일본 비디오 게임 개발자이자 퍼블리셔입니다. 이전에는 Raizing으로 알려졌습니다. 그것은 총격전과 라이센스 싸움 게임으로 유명합니다.</eighting>
+	<psikyo>Psikyo는 일본의 비디오 게임 개발자이자 출판사로서 총격전과 옷을 벗는 마작 게임으로 유명합니다. Psikyo는 주로 아케이드 게임 개발자였으며 일부 게임을 홈 콘솔로 포팅했습니다.</psikyo>
+	<cave>CAVE Interactive Co., Ltd.는 파산 후 Toaplan의 전 직원이 1994 년에 설립 한 일본 비디오 게임 회사입니다. 1995 년부터 2013 년까지 CAVE는 일본 시장에서 가장 많은 촬영 개발자 중 하나였습니다.</cave>
+	<cdi>CD-i 형식은 1980 년대 후반에 발표되었으며 1991 년에 출시 된 형식과 호환되는 최초의 기계입니다. Phillips CD-i의 주요 판매 포인트는 게임 머신 그 이상이며 멀티미디어 요구에 사용될 수 있다는 것입니다. CD-i는 상업적 실패였으며 1998 년에 중단되었습니다.</cdi>
+	<sharpx1>Sharp X1 또는 CZ-800C라고도하는 X1은 1982 년부터 1988 년까지 Sharp Corporation에서 출시 한 일련의 가정용 컴퓨터입니다. [1] Zilog Z80 CPU를 기반으로합니다. X1의 RGB 디스플레이 모니터에는 TV 튜너가 있었고 컴퓨터 화면은 TV에 겹쳐 질 수 있습니다.</sharpx1>
+	<pgm>PGM (PolyGame Master)은 1997 년 대만 회사 IGS가 출시 한 아케이드 시스템 보드입니다. PGM은 대만의 SNK Neo Geo MVS 시스템과 경쟁하기 위해 개발되었습니다. 2007 년 PGM2, 2012 년 PGM3에 의해 성공했습니다.</pgm>
+	<pgm2>IGS PolyGame Master 2는 2007 년 IGS가 출시 한 아케이드 시스템으로 IGS PolyGame Master에 이어 진행됩니다. Knights of Valour 시리즈의 Knights of Valour 3 게임 중 가장 주목할만한 비디오 게임이 거의 없습니다.</pgm2>
+	<megaduck>Mega Duck WG-108 (Cougar Boy라고도 함)은 Timlex International 사업부를 통해 홍콩 기반 Welback Holdings가 개발하고 제조 한 핸드 헬드 게임 콘솔로 1993 년에 출시되었습니다.</megaduck>
+	<fmtmarty>FM Towns Marty는 Fujitsu가 1989 년에 출시 한 FM Towns 컴퓨터 시스템을 기반으로하는 5 세대 16 비트 비디오 게임 콘솔입니다. Marty는 이전 FM Towns 게임과 호환되었습니다.</fmtmarty>
+	<apple2>1977 년에 출시 된 Apple 2는 Steve Wozniak이 디자인 한 가정용 컴퓨터였습니다. 저 충실도 오디오와 함께 두 가지 해상도의 컬러 그래픽을 사용할 수있는 8 비트 프로세서가있었습니다. 이후 버전에는 16 비트 프로세서가있었습니다.</apple2>
+	<vircon32>이름에서 알 수 있듯이 Vircon32는 32 비트 가상 콘솔입니다. 소프트웨어 또는 하드웨어에서 구현할 수있는 표준을 의미합니다. 가능한 한 단순하지만 완벽하고 정교한 게임을 지원하기에 충분한 기능을 가지고 있다는 목표가 있습니다.</vircon32>
     </variables>
 </theme>

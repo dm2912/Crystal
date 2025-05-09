@@ -275,7 +275,7 @@
 	<ecwolf>ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah's Ark based off of the Wolf4SDL code base.</ecwolf>
 
 
-<!-- PENDING TRANSLATION -->
+
 
 	<outrun>Outrun is an arcade racing video game released by Sega in September 1986. It is known for its pioneering hardware and graphics, nonlinear gameplay, and a selectable soundtrack with music composed by Hiroshi Kawaguchi. The goal is to avoid traffic and reach one of five destinations.</outrun>
 	<gx4000>The GX4000 is a video game console that was manufactured by Amstrad. It was the company's short-lived attempt to enter the games console market. The console was released in Europe in 1990 and was an upgraded design based on the then still-popular CPC technology.</gx4000>
@@ -297,6 +297,9 @@
 	<fmtmarty>The FM Towns Marty is a fifth generation 16 bit video game console, based on the FM Towns computer system that Fujitsu had released in 1989. The Marty was backwards compatible with older FM Towns games.</fmtmarty>
 	<apple2>The Apple 2 released in 1977 was a home computer designed by Steve Wozniak. It had an 8-bit processor capable of two resolutions of colour graphics alongside low fidelity audio. Later versions had a 16 bit processor.</apple2>
 	<vircon32>As the name implies, Vircon32 is a 32-bit virtual console: it is meant as a standard that could be implemented either in software or hardware. It has the goal of being as simple as possible, but still having enough features to support full, elaborate games.</vircon32>
-	<ikemen>Ikemen (short for Itsumademo Kanseishinai Eienni Mikansei ENgine) is a free and open-source fighting game engine designed to be compatible with M.U.G.E.N content, while also expanding on its feature set to allow for more flexible customization.</ikemen>
+flexible customization.</ikemen>
+<!-- PENDING TRANSLATION -->
+	<ikemen>Ikemen (short for Itsumademo Kanseishinai Eienni Mikansei ENgine) is a free and open-source fighting game engine designed to be compatible with M.U.G.E.N content, while also expanding on its feature set to allow for more
+	<bk>The Electronika BK is a series of 16-bit PDP-11-compatible home computers developed under the Electronika brand by NPO Scientific Center, then the leading microcomputer design team in the Soviet Union.</bk>
 </variables>
 		</theme>

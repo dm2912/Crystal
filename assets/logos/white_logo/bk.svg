@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="500"
+   height="200"
+   viewBox="0 0 500 200"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="bkw.svg"
+   style="fill:none"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="bk.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="836"
+     id="namedview29"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="1.3618982"
+     inkscape:cx="19.82527"
+     inkscape:cy="15.05252"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg27"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs25">
+    <rect
+       x="17.705641"
+       y="0"
+       width="467.50007"
+       height="125.14128"
+       id="rect1162" />
+    <radialGradient
+       id="paint0_radial"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(23.001688,0,0,22.992478,81.274995,125.78034)">
+      <stop
+         offset="0.5225"
+         stop-color="#FFE41B"
+         id="stop18" />
+      <stop
+         offset="0.8933"
+         stop-color="#716A13"
+         id="stop20" />
+      <stop
+         offset="1"
+         stop-color="#49482E"
+         id="stop22" />
+    </radialGradient>
+    <rect
+       x="17.705641"
+       y="0"
+       width="467.50006"
+       height="125.14128"
+       id="rect1162-3" />
+  </defs>
+  <g
+     aria-label="Электроника"
+     transform="matrix(2.052865,0,0,2.052865,-266.20335,5.3749957)"
+     id="text1160"
+     style="font-weight:bold;font-size:37.3333px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Bold';text-align:center;text-anchor:middle;white-space:pre;shape-inside:url(#rect1162);fill:#ffffff;stroke-width:7.93701">
+    <path
+       d="m 140.57511,8.199993 v 5.973328 h 3.36 v -2.239998 h 5.97333 v 17.919985 h -5.97333 v -2.613331 h -3.36 v 7.093327 h 14.55999 l 1.68,-1.679998 V 9.8799916 l -1.68,-1.6799986 z m 0.74667,14.186655 h 6.75732 v -3.733331 h -6.75732 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1539" />
+    <path
+       d="m 159.98845,34.333304 4.77866,-16.986652 1.94133,8.399993 -1.68,8.586659 z m 17.35998,0 -5.22666,-18.666651 h -5.97333 l 4.48,18.666651 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1541" />
+    <path
+       d="m 190.97512,15.666653 v 8.959993 h -2.61333 v 3.359997 h 5.78666 l 1.68,-1.679999 v -8.959992 l -1.68,-1.679999 z m -10.82666,16.202653 2.42666,2.463998 h 13.06666 v -3.359997 h -9.33332 v -12.31999 h 2.79999 v -2.986664 h -6.53333 l -2.42666,2.426665 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1543" />
+    <path
+       d="m 218.04176,34.333304 -5.6,-10.079991 4.10667,-8.58666 h -5.22667 l -3.17333,6.906661 v 4.666663 l 3.73333,7.093327 z m -17.91999,0 h 6.16 V 15.666653 h -6.16 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1545" />
+    <path
+       d="m 218.78846,15.666653 v 3.359997 h 4.48 v 15.306654 h 6.15999 V 19.02665 h 4.48 v -3.359997 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1547" />
+    <path
+       d="m 244.73509,30.599974 v 2.986664 h 7.27999 l 1.68,-1.679999 V 17.346652 l -1.68,-1.679999 h -7.27999 v 2.986664 h 3.36 v 11.946657 z m -7.83999,11.19999 h 6.15999 V 15.666653 h -6.15999 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1549" />
+    <path
+       d="m 267.13506,34.333304 v -3.359997 h -2.79999 V 15.666653 h -4.48 l -1.68,1.679999 v 15.306654 l 1.68,1.679998 z m -0.93333,-18.666651 v 3.359997 h 2.8 v 15.306654 h 4.48 l 1.67999,-1.679998 V 17.346652 l -1.67999,-1.679999 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1551" />
+    <path
+       d="m 285.80174,15.666653 h -6.15999 v 18.666651 h 6.15999 z m 5.6,0 v 7.093328 h -3.73333 v 2.986664 h 3.73333 v 8.586659 h 6.15999 V 15.666653 Z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1553" />
+    <path
+       d="m 302.04174,34.333304 h 6.16 V 15.666653 h -6.16 z m 19.22665,-18.666651 h -6.15999 v 18.666651 h 6.15999 z M 310.0684,32.466639 h 0.18667 l 2.98666,-7.46666 v -6.719995 h -0.18667 l -2.98666,7.466661 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1555" />
+    <path
+       d="m 343.66837,34.333304 -5.59999,-10.079991 4.10666,-8.58666 h -5.22666 l -3.17333,6.906661 v 4.666663 l 3.73333,7.093327 z m -17.91998,0 h 6.15999 V 15.666653 h -6.15999 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1557" />
+    <path
+       d="m 347.40174,34.333304 -1.68,-1.679998 v -8.399993 l 1.68,-1.679999 h 6.90666 v 2.799998 h -3.36 v 5.599995 h 3.36 v 3.359997 z m 14.93332,0 V 17.346652 l -1.68,-1.679999 h -13.06665 v 2.613331 h 8.58666 v 16.05332 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1559" />
+  </g>
+  <g
+     aria-label="Elektronica BK"
+     transform="matrix(1.3333168,0,0,1.3333168,-24.276602,116.52523)"
+     id="text1160-6"
+     style="font-weight:bold;font-size:37.3333px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Bold';text-align:center;white-space:pre;shape-inside:url(#rect1162-3);display:inline;fill:#ffffff;stroke-width:7.93701">
+    <path
+       d="m 144.77514,8.199993 h -15.67999 v 26.133311 h 15.67999 v -6.159995 h -3.17333 v 2.053332 h -5.6 V 12.306656 h 5.6 v 1.679999 h 3.17333 z m -6.72,13.813322 h 5.6 V 19.02665 h -5.6 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1562" />
+    <path
+       d="m 148.88184,8.199993 v 26.133311 h 9.33332 V 30.78664 h -3.17333 V 8.199993 Z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1564" />
+    <path
+       d="m 172.02848,15.666653 v 8.959993 h -2.61333 v 3.359997 h 5.78666 l 1.68,-1.679999 v -8.959992 l -1.68,-1.679999 z m -10.82666,16.202653 2.42667,2.463998 h 13.06665 v -3.359997 h -9.33332 v -12.31999 h 2.8 v -2.986664 h -6.53333 l -2.42667,2.426665 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1566" />
+    <path
+       d="m 192.93513,34.333304 -3.73334,-7.46666 v -5.039996 l 3.17334,-6.159995 h 5.22666 l -4.10667,7.839994 5.6,10.826657 z m -11.75999,0 h 6.15999 V 8.199993 h -6.15999 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1568" />
+    <path
+       d="m 202.82848,34.333304 h 8.95999 v -3.73333 h -2.8 V 18.653317 h 2.42667 v -2.986664 h -2.42667 v -7.46666 h -6.15999 v 7.46666 h -2.24 v 2.986664 h 2.24 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1570" />
+    <path
+       d="m 223.54844,17.533318 v 2.613332 h 4.85333 v -4.479997 h -2.98667 z m -8.02666,16.799986 h 6.15999 V 15.666653 h -6.15999 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1572" />
+    <path
+       d="m 239.97512,34.333304 v -3.359997 h -2.8 V 15.666653 h -4.48 l -1.68,1.679999 v 15.306654 l 1.68,1.679998 z m -0.93334,-18.666651 v 3.359997 h 2.8 v 15.306654 h 4.48 l 1.68,-1.679998 V 17.346652 l -1.68,-1.679999 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1574" />
+    <path
+       d="m 264.2418,34.333304 h 5.78666 V 17.346652 l -1.68,-1.679999 h -6.16 l -1.67999,1.679999 v 2.053331 h 3.73333 z m -11.75999,0 h 6.15999 V 15.666653 h -6.15999 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1576" />
+    <path
+       d="m 280.66845,34.333304 h -6.15999 V 15.666653 h 6.15999 z m -6.15999,-21.279982 h 6.15999 V 8.199993 h -6.15999 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1578" />
+    <path
+       d="m 298.02843,34.333304 v -3.359997 h -6.72 v -12.31999 h 6.16 v -2.986664 h -10.63999 l -1.68,1.679999 v 15.306654 l 1.68,1.679998 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1580" />
+    <path
+       d="m 302.88175,34.333304 -1.68,-1.679998 v -8.399993 l 1.68,-1.679999 h 6.90666 v 2.799998 h -3.36 v 5.599995 h 3.36 v 3.359997 z m 14.93332,0 V 17.346652 l -1.68,-1.679999 h -13.06666 v 2.613331 h 8.58666 v 16.05332 z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1582" />
+    <path
+       d="m 348.05499,20.14665 2.05333,-2.053332 V 9.8799916 L 348.39099,8.199993 h -8.54933 v 4.106663 h 3.73333 v 5.973328 h -3.73333 v 3.733331 h 3.73333 v 8.213326 h -3.73333 v 4.106663 h 10.63999 V 22.013315 Z M 330.88167,8.199993 v 26.133311 h 6.90666 V 8.199993 Z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1584" />
+    <path
+       d="m 369.52168,20.333316 4.85333,-12.133323 h -6.34666 l -3.54667,9.893325 v 6.906661 l 4.10667,9.333325 h 7.83999 z M 355.70836,8.199993 v 26.133311 h 6.90666 V 8.199993 Z"
+       style="font-family:'USSR STENCIL';-inkscape-font-specification:'USSR STENCIL Bold';fill:#ffffff"
+       id="path1586" />
+  </g>
+  <path
+     id="rect1386"
+     style="fill:#ffffff;stroke-width:7.93701"
+     d="M 22.378372,101.5242 H 477.62163 v 7.9565 H 22.378372 Z" />
+</svg>

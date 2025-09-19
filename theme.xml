@@ -89,8 +89,8 @@ github:			https://github.com/dm2912
          <iconShutdown>./assets/menu_icons/${cmenuicons}/Shutdown.png</iconShutdown>
          <iconAutoShutdown>./assets/menu_icons/${cmenuicons}/AutoShutdown.png</iconAutoShutdown>
          <iconFastShutdown>./assets/menu_icons/${cmenuicons}/Fastshutdown.png</iconFastShutdown>
-		 <iconRetroachievements>./assets/menu_icons/${cmenuicons}/Contest.png</iconRetroachievements>
-		 <iconEmuelec>./assets/menu_icons/${cmenuicons}/Emuelec.png</iconEmuelec>
+         <iconRetroachievements>./assets/menu_icons/${cmenuicons}/Contest.png</iconRetroachievements>
+         <iconEmuelec>./assets/menu_icons/${cmenuicons}/Emuelec.png</iconEmuelec>
       </menuIcons>
       <helpsystem name="help">
          <fontPath>./fonts/${font3s}</fontPath>

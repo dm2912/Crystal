@@ -35,11 +35,11 @@
 
 
 <!-- Global --> 	
-	<yes>Yes</yes>
-	<no>No</no>
+	<yes>Так</yes>
+	<no>Ні</no>
     <none>None</none>
     <sysmusic>On</sysmusic>
-    <nomusic>Random</nomusic>
+    <nomusic>Рандом</nomusic>
     <silence>Without Background Music</silence>	
 	<default>Default</default>
 <!-- Library views -->		

@@ -11,7 +11,8 @@
 	<include lang="ko">./lang/ko.xml</include>
 	<include lang="zh">./lang/zh.xml</include>
 	<include lang="jp">./lang/jp_min.xml</include>
- <include lang="uk_UA">./lang/uk.xml</include>
+ <include lang="uk_UA">./lang/
+uk.xml</include>
 <!--
 	<include lang="de">./lang/de.xml</include>
 -->

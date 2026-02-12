@@ -11,8 +11,7 @@
 	<include lang="ko">./lang/ko.xml</include>
 	<include lang="zh">./lang/zh.xml</include>
 	<include lang="jp">./lang/jp_min.xml</include>
-<include lang="uk_UA">./lang/
-uk.xml</include>
+	<include lang="uk_UA">./lang/uk.xml</include>
 <!--
 	<include lang="de">./lang/de.xml</include>
 -->
@@ -78,3 +77,4 @@ uk.xml</include>
     <include subset="slog" name="no" displayName="${no}">./options/syslogos/syslogo_no.xml</include>
 
 </theme>
+

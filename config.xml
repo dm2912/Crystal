@@ -7,14 +7,10 @@
 	<include lang="fr">./lang/fr.xml</include>
 	<include lang="pt">./lang/pt.xml</include>
 	<include lang="pt_BR">./lang/pt.xml</include>
-<!--	<include lang="ru">./lang/ru.xml</include> -->
 	<include lang="ko">./lang/ko.xml</include>
 	<include lang="zh">./lang/zh.xml</include>
 	<include lang="jp">./lang/jp_min.xml</include>
 	<include lang="uk_UA">./lang/uk.xml</include>
-<!--
-	<include lang="de">./lang/de.xml</include>
--->
 
 	<include subset="ratio" name="default" displayName="${default}">./options/display/169.xml</include>
 	<include subset="ratio" name="169" displayName="16:9 (1080p)">./options/display/169.xml</include>
